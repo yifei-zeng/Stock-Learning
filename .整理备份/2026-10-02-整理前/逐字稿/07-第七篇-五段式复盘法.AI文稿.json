@@ -1,0 +1,3625 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "code": 0,
+    "model_result": {
+      "result_type": 2,
+      "summary": "通过五段式复盘模板系统提升交易能力，涵盖市场数据客观分析、短线情绪与资金流向判断、情景推演归因优化及21天打卡习惯养成，强调高效21分钟内完成复盘、修正规则并强化风险控制，最终将看盘转化为可积累的决策工具，助力持续能力进化。",
+      "outline": [
+        {
+          "title": "五段式复盘提升交易能力",
+          "part_outline": [
+            {
+              "timestamp": 26,
+              "content": "复盘需五段式模板，区分日周复盘并制定可执行规则"
+            },
+            {
+              "timestamp": 49,
+              "content": "无效复盘因仅记录结果，未深入归因与策略修正"
+            },
+            {
+              "timestamp": 98,
+              "content": "有效复盘需记录归因、优化规则并形成可复制的21天打卡习惯"
+            }
+          ],
+          "timestamp": 1
+        },
+        {
+          "title": "五段式复盘提升交易计划",
+          "part_outline": [
+            {
+              "timestamp": 652,
+              "content": "复盘需先客观记录市场事实，避免主观判断与回溯偏差"
+            },
+            {
+              "timestamp": 724,
+              "content": "短线情绪分析需结合涨停/炸板率、主线延续性与资金流向判断"
+            },
+            {
+              "timestamp": 836,
+              "content": "情景推演规划明日操作策略，明确触发条件、仓位及风险应对方案"
+            }
+          ],
+          "timestamp": 600
+        },
+        {
+          "title": "五段式复盘修正交易规则",
+          "part_outline": [
+            {
+              "timestamp": 1224,
+              "content": " 复盘需修正规则并验证判断以实现有效进化"
+            },
+            {
+              "timestamp": 1242,
+              "content": " 21天打卡表养成复盘习惯并形成内容输出"
+            },
+            {
+              "timestamp": 1274,
+              "content": " 系统化学习三张表解析公司基本面与持仓策略"
+            }
+          ],
+          "timestamp": 1200
+        }
+      ],
+      "subtitle": [
+        {
+          "title": "",
+          "part_subtitle": [
+            {
+              "start_timestamp": 0,
+              "end_timestamp": 3,
+              "content": "各位有朋友总是在问说怎么让自己吃到肉"
+            },
+            {
+              "start_timestamp": 3,
+              "end_timestamp": 4,
+              "content": "那总是说哎我没吃到肉"
+            },
+            {
+              "start_timestamp": 4,
+              "end_timestamp": 5,
+              "content": "因为什么原因"
+            },
+            {
+              "start_timestamp": 5,
+              "end_timestamp": 7,
+              "content": "这张图呢就给你们放一边去啊"
+            },
+            {
+              "start_timestamp": 7,
+              "end_timestamp": 9,
+              "content": "这是一个资金的这个状态图"
+            },
+            {
+              "start_timestamp": 9,
+              "end_timestamp": 13,
+              "content": "那么其实复盘需要我正常来说五段式的模板"
+            },
+            {
+              "start_timestamp": 13,
+              "end_timestamp": 15,
+              "content": "那么怎么去做一个复盘"
+            },
+            {
+              "start_timestamp": 15,
+              "end_timestamp": 16,
+              "content": "从哪开始"
+            },
+            {
+              "start_timestamp": 16,
+              "end_timestamp": 18,
+              "content": "各位跟着我的节奏往下去走"
+            },
+            {
+              "start_timestamp": 18,
+              "end_timestamp": 21,
+              "content": "首先第一个我们先去确定先做一次记录"
+            },
+            {
+              "start_timestamp": 21,
+              "end_timestamp": 24,
+              "content": "同时五段式的预付款模板"
+            },
+            {
+              "start_timestamp": 24,
+              "end_timestamp": 26,
+              "content": "三类的错误的归因分类"
+            },
+            {
+              "start_timestamp": 26,
+              "end_timestamp": 27,
+              "content": "四部的周返流程"
+            },
+            {
+              "start_timestamp": 27,
+              "end_timestamp": 29,
+              "content": "以及21天打卡表"
+            },
+            {
+              "start_timestamp": 29,
+              "end_timestamp": 31,
+              "content": "你现在所有做的复盘都不叫复盘"
+            },
+            {
+              "start_timestamp": 31,
+              "end_timestamp": 32,
+              "content": "叫记账"
+            },
+            {
+              "start_timestamp": 32,
+              "end_timestamp": 34,
+              "content": "说实话看你们的复盘"
+            },
+            {
+              "start_timestamp": 34,
+              "end_timestamp": 36,
+              "content": "我真的是有时候想想吐槽"
+            },
+            {
+              "start_timestamp": 36,
+              "end_timestamp": 39,
+              "content": "把每天的看盘变成一件能够积累的事情"
+            },
+            {
+              "start_timestamp": 40,
+              "end_timestamp": 40,
+              "content": "不喊单"
+            },
+            {
+              "start_timestamp": 40,
+              "end_timestamp": 42,
+              "content": "只给方法和模板"
+            },
+            {
+              "start_timestamp": 42,
+              "end_timestamp": 44,
+              "content": "跟着我的节奏向下去走"
+            },
+            {
+              "start_timestamp": 44,
+              "end_timestamp": 48,
+              "content": "那么复盘把你过去的复盘全盘推倒"
+            },
+            {
+              "start_timestamp": 48,
+              "end_timestamp": 49,
+              "content": "重新再来"
+            },
+            {
+              "start_timestamp": 49,
+              "end_timestamp": 51,
+              "content": "为什么无效的复盘总是绝大多数人"
+            },
+            {
+              "start_timestamp": 51,
+              "end_timestamp": 53,
+              "content": "你的复盘就一直是无效的"
+            },
+            {
+              "start_timestamp": 53,
+              "end_timestamp": 53,
+              "content": "为什么"
+            },
+            {
+              "start_timestamp": 53,
+              "end_timestamp": 55,
+              "content": "到底是什么问题"
+            },
+            {
+              "start_timestamp": 55,
+              "end_timestamp": 57,
+              "content": "英语复盘永远只停留在第一层"
+            },
+            {
+              "start_timestamp": 57,
+              "end_timestamp": 59,
+              "content": "没有任何的实质性的效果意义"
+            },
+            {
+              "start_timestamp": 59,
+              "end_timestamp": 60,
+              "content": "也没有"
+            },
+            {
+              "start_timestamp": 60,
+              "end_timestamp": 63,
+              "content": "那么五段式的复盘会从指数情绪"
+            },
+            {
+              "start_timestamp": 63,
+              "end_timestamp": 65,
+              "content": "资金计划以及未来推演"
+            },
+            {
+              "start_timestamp": 65,
+              "end_timestamp": 67,
+              "content": "它可能如果向上怎么走"
+            },
+            {
+              "start_timestamp": 67,
+              "end_timestamp": 69,
+              "content": "如果向下应该会怎么样啊"
+            },
+            {
+              "start_timestamp": 69,
+              "end_timestamp": 72,
+              "content": "当中的反馈应该是如何错误的归类"
+            },
+            {
+              "start_timestamp": 72,
+              "end_timestamp": 74,
+              "content": "无论总归类哪一种错误"
+            },
+            {
+              "start_timestamp": 74,
+              "end_timestamp": 76,
+              "content": "我应该怎么去反省自己"
+            },
+            {
+              "start_timestamp": 76,
+              "end_timestamp": 78,
+              "content": "而周复盘怎么去做"
+            },
+            {
+              "start_timestamp": 78,
+              "end_timestamp": 81,
+              "content": "日复盘管的是当天周复盘管的是整体方向"
+            },
+            {
+              "start_timestamp": 81,
+              "end_timestamp": 83,
+              "content": "最后是落地和验收"
+            },
+            {
+              "start_timestamp": 83,
+              "end_timestamp": 87,
+              "content": "把你的日志模板以及说三个验证的标准做成"
+            },
+            {
+              "start_timestamp": 87,
+              "end_timestamp": 88,
+              "content": "可以去带走的"
+            },
+            {
+              "start_timestamp": 88,
+              "end_timestamp": 91,
+              "content": "能够去复制的内容"
+            },
+            {
+              "start_timestamp": 91,
+              "end_timestamp": 94,
+              "content": "那么首先第一个三种复盘玩家"
+            },
+            {
+              "start_timestamp": 94,
+              "end_timestamp": 95,
+              "content": "你是哪一种"
+            },
+            {
+              "start_timestamp": 95,
+              "end_timestamp": 96,
+              "content": "第一不复盘啊"
+            },
+            {
+              "start_timestamp": 96,
+              "end_timestamp": 98,
+              "content": "绝大多数的人不复盘"
+            },
+            {
+              "start_timestamp": 98,
+              "end_timestamp": 99,
+              "content": "就包括到现在为止"
+            },
+            {
+              "start_timestamp": 99,
+              "end_timestamp": 102,
+              "content": "绝大多数看逻辑哥直播的兄弟还是不复盘"
+            },
+            {
+              "start_timestamp": 102,
+              "end_timestamp": 104,
+              "content": "那么另外一种是记账派"
+            },
+            {
+              "start_timestamp": 104,
+              "end_timestamp": 105,
+              "content": "只记下盈亏和记下买卖点"
+            },
+            {
+              "start_timestamp": 105,
+              "end_timestamp": 106,
+              "content": "然后就没有然后了"
+            },
+            {
+              "start_timestamp": 106,
+              "end_timestamp": 109,
+              "content": "第三种绝大多数基本上都不会去做的动作"
+            },
+            {
+              "start_timestamp": 109,
+              "end_timestamp": 111,
+              "content": "就是记录每一次的归因"
+            },
+            {
+              "start_timestamp": 111,
+              "end_timestamp": 112,
+              "content": "改掉规则"
+            },
+            {
+              "start_timestamp": 112,
+              "end_timestamp": 115,
+              "content": "每一次的亏损都变成一条硬性规则"
+            },
+            {
+              "start_timestamp": 115,
+              "end_timestamp": 119,
+              "content": "这个比例大概是整个A股全市场到现在为止"
+            },
+            {
+              "start_timestamp": 119,
+              "end_timestamp": 123,
+              "content": "我们看到的交易者当中5%左右的比例"
+            },
+            {
+              "start_timestamp": 123,
+              "end_timestamp": 124,
+              "content": "这已经比较高了"
+            },
+            {
+              "start_timestamp": 124,
+              "end_timestamp": 126,
+              "content": "区别不在于是谁更努力"
+            },
+            {
+              "start_timestamp": 126,
+              "end_timestamp": 129,
+              "content": "而在于前两种人每次收盘之后"
+            },
+            {
+              "start_timestamp": 129,
+              "end_timestamp": 130,
+              "content": "明天还是一张白纸"
+            },
+            {
+              "start_timestamp": 130,
+              "end_timestamp": 134,
+              "content": "你不知道你还是在等待着你的意见领袖告诉你"
+            },
+            {
+              "start_timestamp": 134,
+              "end_timestamp": 135,
+              "content": "明天涨什么"
+            },
+            {
+              "start_timestamp": 135,
+              "end_timestamp": 136,
+              "content": "明天买什么"
+            },
+            {
+              "start_timestamp": 136,
+              "end_timestamp": 138,
+              "content": "明天卖什么"
+            },
+            {
+              "start_timestamp": 138,
+              "end_timestamp": 140,
+              "content": "第三种人是每次上班之后"
+            },
+            {
+              "start_timestamp": 140,
+              "end_timestamp": 142,
+              "content": "都会去多一条写死的规则"
+            },
+            {
+              "start_timestamp": 142,
+              "end_timestamp": 144,
+              "content": "就像我们去看每天盘前的时候"
+            },
+            {
+              "start_timestamp": 144,
+              "end_timestamp": 145,
+              "content": "我会去想哎"
+            },
+            {
+              "start_timestamp": 145,
+              "end_timestamp": 148,
+              "content": "如果神股我要给自己预判怎么去做"
+            },
+            {
+              "start_timestamp": 148,
+              "end_timestamp": 151,
+              "content": "如果悲观之际我应该怎么办"
+            },
+            {
+              "start_timestamp": 151,
+              "end_timestamp": 153,
+              "content": "这是很简单的一件事情"
+            },
+            {
+              "start_timestamp": 153,
+              "end_timestamp": 155,
+              "content": "我的行情的展望应该怎么做哎"
+            },
+            {
+              "start_timestamp": 155,
+              "end_timestamp": 156,
+              "content": "我的反馈应该怎么看哎"
+            },
+            {
+              "start_timestamp": 156,
+              "end_timestamp": 159,
+              "content": "资源股这些整体性的反馈对吧"
+            },
+            {
+              "start_timestamp": 159,
+              "end_timestamp": 162,
+              "content": "如果说传媒巨蛋封死华瓷"
+            },
+            {
+              "start_timestamp": 162,
+              "end_timestamp": 166,
+              "content": "秒板新主线的这个基本确认强度上基本OK"
+            },
+            {
+              "start_timestamp": 166,
+              "end_timestamp": 168,
+              "content": "然后我的创新药这条逻辑上"
+            },
+            {
+              "start_timestamp": 168,
+              "end_timestamp": 171,
+              "content": "有没有有没有催化MCC涨价链"
+            },
+            {
+              "start_timestamp": 171,
+              "end_timestamp": 173,
+              "content": "华慈是最有力的400接力项"
+            },
+            {
+              "start_timestamp": 173,
+              "end_timestamp": 177,
+              "content": "现在是22026年的9月21号"
+            },
+            {
+              "start_timestamp": 177,
+              "end_timestamp": 180,
+              "content": "传媒重组新新华的复牌确定性最高"
+            },
+            {
+              "start_timestamp": 180,
+              "end_timestamp": 182,
+              "content": "会带动其这个传媒线"
+            },
+            {
+              "start_timestamp": 186,
+              "end_timestamp": 188,
+              "content": "会远强于强度"
+            },
+            {
+              "start_timestamp": 188,
+              "end_timestamp": 190,
+              "content": "同时规避掉它的高位补跌"
+            },
+            {
+              "start_timestamp": 190,
+              "end_timestamp": 192,
+              "content": "然后你的开盘竞价"
+            },
+            {
+              "start_timestamp": 192,
+              "end_timestamp": 193,
+              "content": "我的强度上怎么去唉"
+            },
+            {
+              "start_timestamp": 193,
+              "end_timestamp": 195,
+              "content": "比方说神股对吧"
+            },
+            {
+              "start_timestamp": 195,
+              "end_timestamp": 196,
+              "content": "他已经暂停相关了"
+            },
+            {
+              "start_timestamp": 196,
+              "end_timestamp": 199,
+              "content": "那我低开之后是不是要等待"
+            },
+            {
+              "start_timestamp": 199,
+              "end_timestamp": 200,
+              "content": "要看他的反馈"
+            },
+            {
+              "start_timestamp": 200,
+              "end_timestamp": 201,
+              "content": "要不要直接割"
+            },
+            {
+              "start_timestamp": 201,
+              "end_timestamp": 203,
+              "content": "这是你每次交易之前都必须做的事情"
+            },
+            {
+              "start_timestamp": 203,
+              "end_timestamp": 206,
+              "content": "就我的我的这个猜想啊"
+            },
+            {
+              "start_timestamp": 206,
+              "end_timestamp": 209,
+              "content": "我的这个包括说未来的兑现点"
+            },
+            {
+              "start_timestamp": 209,
+              "end_timestamp": 211,
+              "content": "我怎么去做"
+            },
+            {
+              "start_timestamp": 211,
+              "end_timestamp": 213,
+              "content": "那么复盘为什么会无效"
+            },
+            {
+              "start_timestamp": 213,
+              "end_timestamp": 216,
+              "content": "很多朋友你的复盘无效的点不在于你不够努力"
+            },
+            {
+              "start_timestamp": 216,
+              "end_timestamp": 218,
+              "content": "是你只做了记录"
+            },
+            {
+              "start_timestamp": 218,
+              "end_timestamp": 219,
+              "content": "发生了什么"
+            },
+            {
+              "start_timestamp": 219,
+              "end_timestamp": 221,
+              "content": "今天市场是什么"
+            },
+            {
+              "start_timestamp": 221,
+              "end_timestamp": 223,
+              "content": "那这种内容你还需要自己去记录吗"
+            },
+            {
+              "start_timestamp": 223,
+              "end_timestamp": 224,
+              "content": "互联网上多了去"
+            },
+            {
+              "start_timestamp": 224,
+              "end_timestamp": 227,
+              "content": "全都是第二层归"
+            },
+            {
+              "start_timestamp": 227,
+              "end_timestamp": 229,
+              "content": "因为什么会这样"
+            },
+            {
+              "start_timestamp": 229,
+              "end_timestamp": 230,
+              "content": "他今天的行情为什么这么走"
+            },
+            {
+              "start_timestamp": 230,
+              "end_timestamp": 232,
+              "content": "它的催化原因是什么"
+            },
+            {
+              "start_timestamp": 232,
+              "end_timestamp": 233,
+              "content": "逻辑点在哪"
+            },
+            {
+              "start_timestamp": 233,
+              "end_timestamp": 234,
+              "content": "好规则上"
+            },
+            {
+              "start_timestamp": 234,
+              "end_timestamp": 235,
+              "content": "我今天做错了什么"
+            },
+            {
+              "start_timestamp": 235,
+              "end_timestamp": 237,
+              "content": "我明天下一次应该怎么改"
+            },
+            {
+              "start_timestamp": 237,
+              "end_timestamp": 239,
+              "content": "绝大多数的人"
+            },
+            {
+              "start_timestamp": 239,
+              "end_timestamp": 242,
+              "content": "你的复盘就只停留在今天涨了什么"
+            },
+            {
+              "start_timestamp": 242,
+              "end_timestamp": 243,
+              "content": "跌了什么没有了"
+            },
+            {
+              "start_timestamp": 243,
+              "end_timestamp": 245,
+              "content": "今天唉几个涨停"
+            },
+            {
+              "start_timestamp": 245,
+              "end_timestamp": 246,
+              "content": "涨停板在哪"
+            },
+            {
+              "start_timestamp": 246,
+              "end_timestamp": 249,
+              "content": "这是你们最大的问题"
+            },
+            {
+              "start_timestamp": 249,
+              "end_timestamp": 250,
+              "content": "这是你的无效点"
+            },
+            {
+              "start_timestamp": 250,
+              "end_timestamp": 252,
+              "content": "那么复盘你停在第几层"
+            },
+            {
+              "start_timestamp": 252,
+              "end_timestamp": 254,
+              "content": "第一层"
+            },
+            {
+              "start_timestamp": 255,
+              "end_timestamp": 257,
+              "content": "用规则啊"
+            },
+            {
+              "start_timestamp": 257,
+              "end_timestamp": 259,
+              "content": "就是我们说天花板这帮人用在规则上"
+            },
+            {
+              "start_timestamp": 259,
+              "end_timestamp": 263,
+              "content": "把每一次的归因变成一条可执行的策略"
+            },
+            {
+              "start_timestamp": 263,
+              "end_timestamp": 265,
+              "content": "可执行的规则"
+            },
+            {
+              "start_timestamp": 265,
+              "end_timestamp": 266,
+              "content": "下次遇到了这样的问题"
+            },
+            {
+              "start_timestamp": 266,
+              "end_timestamp": 269,
+              "content": "我还会不会去做怎么交易"
+            },
+            {
+              "start_timestamp": 269,
+              "end_timestamp": 272,
+              "content": "归因是这笔赚和亏到底是能力"
+            },
+            {
+              "start_timestamp": 272,
+              "end_timestamp": 274,
+              "content": "是运气还是我的纪律问题"
+            },
+            {
+              "start_timestamp": 274,
+              "end_timestamp": 276,
+              "content": "到底是哎我提前树立的好"
+            },
+            {
+              "start_timestamp": 276,
+              "end_timestamp": 278,
+              "content": "还是我操作上牛逼"
+            },
+            {
+              "start_timestamp": 278,
+              "end_timestamp": 279,
+              "content": "归因错了"
+            },
+            {
+              "start_timestamp": 279,
+              "end_timestamp": 281,
+              "content": "改的方向就错了"
+            },
+            {
+              "start_timestamp": 281,
+              "end_timestamp": 284,
+              "content": "绝大多数的人只做了这个"
+            },
+            {
+              "start_timestamp": 284,
+              "end_timestamp": 285,
+              "content": "今天指数涨了什么"
+            },
+            {
+              "start_timestamp": 285,
+              "end_timestamp": 286,
+              "content": "我买了什么"
+            },
+            {
+              "start_timestamp": 286,
+              "end_timestamp": 287,
+              "content": "我盈亏多少必要"
+            },
+            {
+              "start_timestamp": 287,
+              "end_timestamp": 289,
+              "content": "但远远远不够"
+            },
+            {
+              "start_timestamp": 289,
+              "end_timestamp": 290,
+              "content": "你需要给他补"
+            },
+            {
+              "start_timestamp": 290,
+              "end_timestamp": 291,
+              "content": "我为什么会亏"
+            },
+            {
+              "start_timestamp": 291,
+              "end_timestamp": 292,
+              "content": "我为什么盈利"
+            },
+            {
+              "start_timestamp": 292,
+              "end_timestamp": 295,
+              "content": "今天市场为什么会拉升这个板块"
+            },
+            {
+              "start_timestamp": 295,
+              "end_timestamp": 297,
+              "content": "它的底层的原因是什么"
+            },
+            {
+              "start_timestamp": 297,
+              "end_timestamp": 300,
+              "content": "就好比说唉今天拉拉升了这个某某金王"
+            },
+            {
+              "start_timestamp": 300,
+              "end_timestamp": 301,
+              "content": "他走的什么"
+            },
+            {
+              "start_timestamp": 301,
+              "end_timestamp": 303,
+              "content": "走的是大金融方向"
+            },
+            {
+              "start_timestamp": 303,
+              "end_timestamp": 305,
+              "content": "大金融方向当中走的是什么"
+            },
+            {
+              "start_timestamp": 305,
+              "end_timestamp": 306,
+              "content": "走的是稳定币方向"
+            },
+            {
+              "start_timestamp": 306,
+              "end_timestamp": 307,
+              "content": "那有没有这种带动"
+            },
+            {
+              "start_timestamp": 307,
+              "end_timestamp": 309,
+              "content": "是受到外盘带动"
+            },
+            {
+              "start_timestamp": 309,
+              "end_timestamp": 309,
+              "content": "还是自身"
+            },
+            {
+              "start_timestamp": 309,
+              "end_timestamp": 313,
+              "content": "现在当下出来了一个这个跨境支付相关概念"
+            },
+            {
+              "start_timestamp": 313,
+              "end_timestamp": 315,
+              "content": "还是说我拿的是创新药"
+            },
+            {
+              "start_timestamp": 315,
+              "end_timestamp": 318,
+              "content": "那我创新药今天涨的核心原因是什么"
+            },
+            {
+              "start_timestamp": 318,
+              "end_timestamp": 321,
+              "content": "是上周五的涨拉升带动"
+            },
+            {
+              "start_timestamp": 321,
+              "end_timestamp": 323,
+              "content": "还是说是当下市场的反馈"
+            },
+            {
+              "start_timestamp": 323,
+              "end_timestamp": 325,
+              "content": "你说有朋友说我拿了四星"
+            },
+            {
+              "start_timestamp": 325,
+              "end_timestamp": 328,
+              "content": "四星到底是自身的独立性题材"
+            },
+            {
+              "start_timestamp": 328,
+              "end_timestamp": 329,
+              "content": "还是整体板块的带动"
+            },
+            {
+              "start_timestamp": 329,
+              "end_timestamp": 330,
+              "content": "这都是不一样的"
+            },
+            {
+              "start_timestamp": 330,
+              "end_timestamp": 332,
+              "content": "记住判断标准"
+            },
+            {
+              "start_timestamp": 332,
+              "end_timestamp": 334,
+              "content": "如果你没有下一次两个字"
+            },
+            {
+              "start_timestamp": 334,
+              "end_timestamp": 335,
+              "content": "你还是停留在第一层"
+            },
+            {
+              "start_timestamp": 335,
+              "end_timestamp": 337,
+              "content": "下一次会怎么做"
+            },
+            {
+              "start_timestamp": 337,
+              "end_timestamp": 340,
+              "content": "明天如果遇到了什么样的情况"
+            },
+            {
+              "start_timestamp": 340,
+              "end_timestamp": 341,
+              "content": "我应该怎么办"
+            },
+            {
+              "start_timestamp": 341,
+              "end_timestamp": 343,
+              "content": "那么复盘当中失效最主要的几个原因是"
+            },
+            {
+              "start_timestamp": 343,
+              "end_timestamp": 345,
+              "content": "第一只基盈亏盈亏是结果"
+            },
+            {
+              "start_timestamp": 345,
+              "end_timestamp": 347,
+              "content": "它不是你说的原因"
+            },
+            {
+              "start_timestamp": 347,
+              "end_timestamp": 348,
+              "content": "记100遍"
+            },
+            {
+              "start_timestamp": 348,
+              "end_timestamp": 351,
+              "content": "结果也没有任何改变不了你任何的原因"
+            },
+            {
+              "start_timestamp": 351,
+              "end_timestamp": 352,
+              "content": "归因给了自己"
+            },
+            {
+              "start_timestamp": 352,
+              "end_timestamp": 353,
+              "content": "赚了是能力"
+            },
+            {
+              "start_timestamp": 353,
+              "end_timestamp": 355,
+              "content": "亏了它是市场"
+            },
+            {
+              "start_timestamp": 355,
+              "end_timestamp": 360,
+              "content": "记住这个问题会怎么着赚"
+            },
+            {
+              "start_timestamp": 360,
+              "end_timestamp": 361,
+              "content": "是你的能力"
+            },
+            {
+              "start_timestamp": 361,
+              "end_timestamp": 363,
+              "content": "亏是因为市场他妈不给我"
+            },
+            {
+              "start_timestamp": 363,
+              "end_timestamp": 367,
+              "content": "那你后续呢当市场一旦不行的时候"
+            },
+            {
+              "start_timestamp": 367,
+              "end_timestamp": 368,
+              "content": "总是不行的时候"
+            },
+            {
+              "start_timestamp": 368,
+              "end_timestamp": 369,
+              "content": "我复盘没有错"
+            },
+            {
+              "start_timestamp": 369,
+              "end_timestamp": 371,
+              "content": "我这个人不可能错的对吧"
+            },
+            {
+              "start_timestamp": 371,
+              "end_timestamp": 372,
+              "content": "我不存在这个问题"
+            },
+            {
+              "start_timestamp": 372,
+              "end_timestamp": 374,
+              "content": "那怎么办"
+            },
+            {
+              "start_timestamp": 374,
+              "end_timestamp": 375,
+              "content": "第二个没有规则"
+            },
+            {
+              "start_timestamp": 375,
+              "end_timestamp": 376,
+              "content": "分析完结束了没有"
+            },
+            {
+              "start_timestamp": 376,
+              "end_timestamp": 377,
+              "content": "下一次应该怎么办"
+            },
+            {
+              "start_timestamp": 377,
+              "end_timestamp": 378,
+              "content": "我应该如何修正"
+            },
+            {
+              "start_timestamp": 378,
+              "end_timestamp": 380,
+              "content": "当我下一次遇到次新股的时候"
+            },
+            {
+              "start_timestamp": 380,
+              "end_timestamp": 381,
+              "content": "次新股异动的时候"
+            },
+            {
+              "start_timestamp": 381,
+              "end_timestamp": 383,
+              "content": "我应该怎么办"
+            },
+            {
+              "start_timestamp": 383,
+              "end_timestamp": 384,
+              "content": "你每次都在讲"
+            },
+            {
+              "start_timestamp": 384,
+              "end_timestamp": 385,
+              "content": "如果重生"
+            },
+            {
+              "start_timestamp": 385,
+              "end_timestamp": 386,
+              "content": "你重生"
+            },
+            {
+              "start_timestamp": 386,
+              "end_timestamp": 388,
+              "content": "就算你回到重生"
+            },
+            {
+              "start_timestamp": 388,
+              "end_timestamp": 390,
+              "content": "200 2026年9月16号"
+            },
+            {
+              "start_timestamp": 390,
+              "end_timestamp": 392,
+              "content": "第二天还是会去卖深谷"
+            },
+            {
+              "start_timestamp": 392,
+              "end_timestamp": 393,
+              "content": "为什么你不记得了"
+            },
+            {
+              "start_timestamp": 393,
+              "end_timestamp": 395,
+              "content": "如果现在重生"
+            },
+            {
+              "start_timestamp": 395,
+              "end_timestamp": 395,
+              "content": "你会记得啊"
+            },
+            {
+              "start_timestamp": 395,
+              "end_timestamp": 396,
+              "content": "神股应该怎么做"
+            },
+            {
+              "start_timestamp": 398,
+              "end_timestamp": 399,
+              "content": "但是我告诉你"
+            },
+            {
+              "start_timestamp": 399,
+              "end_timestamp": 400,
+              "content": "切换过来之后"
+            },
+            {
+              "start_timestamp": 400,
+              "end_timestamp": 402,
+              "content": "你再去看其他的反馈是会更好"
+            },
+            {
+              "start_timestamp": 402,
+              "end_timestamp": 404,
+              "content": "间隔不要太久"
+            },
+            {
+              "start_timestamp": 404,
+              "end_timestamp": 405,
+              "content": "每天去做复盘"
+            },
+            {
+              "start_timestamp": 405,
+              "end_timestamp": 408,
+              "content": "不要一周以后再看你的细节"
+            },
+            {
+              "start_timestamp": 408,
+              "end_timestamp": 410,
+              "content": "如果你是一周之后再去回"
+            },
+            {
+              "start_timestamp": 410,
+              "end_timestamp": 412,
+              "content": "你会把自己所有的问题全盘推翻掉"
+            },
+            {
+              "start_timestamp": 412,
+              "end_timestamp": 414,
+              "content": "你没有问题理解吗"
+            },
+            {
+              "start_timestamp": 414,
+              "end_timestamp": 416,
+              "content": "你没有问题"
+            },
+            {
+              "start_timestamp": 416,
+              "end_timestamp": 419,
+              "content": "你会去自己会去给自己编故事"
+            },
+            {
+              "start_timestamp": 419,
+              "end_timestamp": 421,
+              "content": "那个故事是最他妈恶心人的"
+            },
+            {
+              "start_timestamp": 421,
+              "end_timestamp": 422,
+              "content": "你能骗得了别人"
+            },
+            {
+              "start_timestamp": 422,
+              "end_timestamp": 423,
+              "content": "骗不了自己"
+            },
+            {
+              "start_timestamp": 423,
+              "end_timestamp": 424,
+              "content": "你如果骗自己"
+            },
+            {
+              "start_timestamp": 424,
+              "end_timestamp": 425,
+              "content": "结果没有结果"
+            },
+            {
+              "start_timestamp": 425,
+              "end_timestamp": 428,
+              "content": "就像我们上学的时候一样作弊一样"
+            },
+            {
+              "start_timestamp": 428,
+              "end_timestamp": 431,
+              "content": "那么复盘不是回忆"
+            },
+            {
+              "start_timestamp": 431,
+              "end_timestamp": 431,
+              "content": "是审判"
+            },
+            {
+              "start_timestamp": 431,
+              "end_timestamp": 432,
+              "content": "如果你不会"
+            },
+            {
+              "start_timestamp": 432,
+              "end_timestamp": 435,
+              "content": "那你就用一个养一个小逻辑啊"
+            },
+            {
+              "start_timestamp": 435,
+              "end_timestamp": 440,
+              "content": "用逻辑割的语气和逻辑哥的表述来怼你"
+            },
+            {
+              "start_timestamp": 440,
+              "end_timestamp": 443,
+              "content": "我告诉你没把你怼在墙上"
+            },
+            {
+              "start_timestamp": 443,
+              "end_timestamp": 445,
+              "content": "算是你养逻辑没养好"
+            },
+            {
+              "start_timestamp": 445,
+              "end_timestamp": 446,
+              "content": "你让我怼你"
+            },
+            {
+              "start_timestamp": 446,
+              "end_timestamp": 449,
+              "content": "我我我现在相对来说就是我已经收着了啊"
+            },
+            {
+              "start_timestamp": 449,
+              "end_timestamp": 451,
+              "content": "没办法怼你了"
+            },
+            {
+              "start_timestamp": 451,
+              "end_timestamp": 452,
+              "content": "我再怼你"
+            },
+            {
+              "start_timestamp": 452,
+              "end_timestamp": 453,
+              "content": "你又举报我对吧"
+            },
+            {
+              "start_timestamp": 453,
+              "end_timestamp": 454,
+              "content": "又投诉我"
+            },
+            {
+              "start_timestamp": 454,
+              "end_timestamp": 456,
+              "content": "审判的对象不是市场"
+            },
+            {
+              "start_timestamp": 456,
+              "end_timestamp": 458,
+              "content": "是你所有的决策过程"
+            },
+            {
+              "start_timestamp": 458,
+              "end_timestamp": 459,
+              "content": "记住了"
+            },
+            {
+              "start_timestamp": 459,
+              "end_timestamp": 460,
+              "content": "复盘五段式"
+            },
+            {
+              "start_timestamp": 460,
+              "end_timestamp": 463,
+              "content": "第一段当中我们写多长"
+            },
+            {
+              "start_timestamp": 463,
+              "end_timestamp": 464,
+              "content": "写什么"
+            },
+            {
+              "start_timestamp": 464,
+              "end_timestamp": 465,
+              "content": "写多长"
+            },
+            {
+              "start_timestamp": 465,
+              "end_timestamp": 466,
+              "content": "一次性给全"
+            },
+            {
+              "start_timestamp": 466,
+              "end_timestamp": 468,
+              "content": "第一段写指数"
+            },
+            {
+              "start_timestamp": 468,
+              "end_timestamp": 469,
+              "content": "当下指数发生了什么用"
+            },
+            {
+              "start_timestamp": 469,
+              "end_timestamp": 472,
+              "content": "同时用波浪理论去看哎"
+            },
+            {
+              "start_timestamp": 472,
+              "end_timestamp": 474,
+              "content": "确实为什么会在这个位置上会出现这种情况"
+            },
+            {
+              "start_timestamp": 474,
+              "end_timestamp": 476,
+              "content": "而他接下来的压力点在哪"
+            },
+            {
+              "start_timestamp": 476,
+              "end_timestamp": 477,
+              "content": "他的支撑点在哪"
+            },
+            {
+              "start_timestamp": 477,
+              "end_timestamp": 478,
+              "content": "你要分别看清楚"
+            },
+            {
+              "start_timestamp": 478,
+              "end_timestamp": 480,
+              "content": "第二段是短线情绪"
+            },
+            {
+              "start_timestamp": 480,
+              "end_timestamp": 482,
+              "content": "是去看到赚钱效应在哪里"
+            },
+            {
+              "start_timestamp": 482,
+              "end_timestamp": 484,
+              "content": "第三段是主线的资金"
+            },
+            {
+              "start_timestamp": 484,
+              "end_timestamp": 486,
+              "content": "今天的资金去了哪"
+            },
+            {
+              "start_timestamp": 486,
+              "end_timestamp": 488,
+              "content": "前面这段时间资金都去了哪"
+            },
+            {
+              "start_timestamp": 488,
+              "end_timestamp": 490,
+              "content": "5日资金和当日资金"
+            },
+            {
+              "start_timestamp": 490,
+              "end_timestamp": 492,
+              "content": "那么第四段是明日计划"
+            },
+            {
+              "start_timestamp": 492,
+              "end_timestamp": 494,
+              "content": "明天我会怎么做"
+            },
+            {
+              "start_timestamp": 494,
+              "end_timestamp": 495,
+              "content": "我准备怎么干"
+            },
+            {
+              "start_timestamp": 495,
+              "end_timestamp": 496,
+              "content": "第五段是情景推演"
+            },
+            {
+              "start_timestamp": 496,
+              "end_timestamp": 498,
+              "content": "如果怎么怎么样"
+            },
+            {
+              "start_timestamp": 498,
+              "end_timestamp": 500,
+              "content": "那么我会如何如何"
+            },
+            {
+              "start_timestamp": 500,
+              "end_timestamp": 502,
+              "content": "这是我的复盘"
+            },
+            {
+              "start_timestamp": 502,
+              "end_timestamp": 504,
+              "content": "我每次的复盘都会这么去做梳理"
+            },
+            {
+              "start_timestamp": 504,
+              "end_timestamp": 506,
+              "content": "我的复盘一定是"
+            },
+            {
+              "start_timestamp": 506,
+              "end_timestamp": 509,
+              "content": "首先第一个我会去看到当下市场"
+            },
+            {
+              "start_timestamp": 509,
+              "end_timestamp": 512,
+              "content": "从宏观层面上去梳理唉有哪些事儿对吧"
+            },
+            {
+              "start_timestamp": 512,
+              "end_timestamp": 514,
+              "content": "这周复盘当中周复盘是定方向啊"
+            },
+            {
+              "start_timestamp": 514,
+              "end_timestamp": 515,
+              "content": "定整体方向"
+            },
+            {
+              "start_timestamp": 515,
+              "end_timestamp": 516,
+              "content": "那么再往下去看"
+            },
+            {
+              "start_timestamp": 516,
+              "end_timestamp": 518,
+              "content": "哎我第二天应该怎么去切"
+            },
+            {
+              "start_timestamp": 518,
+              "end_timestamp": 520,
+              "content": "我重点的事件怎么去看"
+            },
+            {
+              "start_timestamp": 520,
+              "end_timestamp": 523,
+              "content": "然后我产业催化到底催化了什么"
+            },
+            {
+              "start_timestamp": 523,
+              "end_timestamp": 524,
+              "content": "哪一块会有催化"
+            },
+            {
+              "start_timestamp": 524,
+              "end_timestamp": 525,
+              "content": "然后单独去聊的"
+            },
+            {
+              "start_timestamp": 525,
+              "end_timestamp": 526,
+              "content": "怎么去聊"
+            },
+            {
+              "start_timestamp": 526,
+              "end_timestamp": 527,
+              "content": "短线情绪上"
+            },
+            {
+              "start_timestamp": 527,
+              "end_timestamp": 529,
+              "content": "量能回到了这个哎梯队啊"
+            },
+            {
+              "start_timestamp": 529,
+              "end_timestamp": 530,
+              "content": "市场情绪啊"
+            },
+            {
+              "start_timestamp": 530,
+              "end_timestamp": 531,
+              "content": "市场行情啊"
+            },
+            {
+              "start_timestamp": 531,
+              "end_timestamp": 532,
+              "content": "我应该怎么看"
+            },
+            {
+              "start_timestamp": 532,
+              "end_timestamp": 534,
+              "content": "那么医药这边是15规划引爆"
+            },
+            {
+              "start_timestamp": 534,
+              "end_timestamp": 536,
+              "content": "同时呢保留身为主攻"
+            },
+            {
+              "start_timestamp": 536,
+              "end_timestamp": 537,
+              "content": "为什么他要成为主攻点"
+            },
+            {
+              "start_timestamp": 537,
+              "end_timestamp": 540,
+              "content": "你要想清楚为什么他能够成为主攻核心点"
+            },
+            {
+              "start_timestamp": 544,
+              "end_timestamp": 546,
+              "content": "那么消费点我会要不要降低"
+            },
+            {
+              "start_timestamp": 546,
+              "end_timestamp": 550,
+              "content": "那么涨停上我去看他的反馈是否带动起情绪"
+            },
+            {
+              "start_timestamp": 550,
+              "end_timestamp": 552,
+              "content": "他要不要看延续性"
+            },
+            {
+              "start_timestamp": 552,
+              "end_timestamp": 555,
+              "content": "然后为什么我讲9月18号它不是缩量反弹"
+            },
+            {
+              "start_timestamp": 555,
+              "end_timestamp": 557,
+              "content": "是缩是放量反转点"
+            },
+            {
+              "start_timestamp": 557,
+              "end_timestamp": 557,
+              "content": "为什么"
+            },
+            {
+              "start_timestamp": 557,
+              "end_timestamp": 558,
+              "content": "然后资金面上"
+            },
+            {
+              "start_timestamp": 558,
+              "end_timestamp": 562,
+              "content": "从过去的ETF托底到转向产业链主攻对吧"
+            },
+            {
+              "start_timestamp": 562,
+              "end_timestamp": 564,
+              "content": "在此题材上我怎么去看唉"
+            },
+            {
+              "start_timestamp": 564,
+              "end_timestamp": 565,
+              "content": "资金在哪"
+            },
+            {
+              "start_timestamp": 565,
+              "end_timestamp": 567,
+              "content": "这是每次你都要去关注的"
+            },
+            {
+              "start_timestamp": 567,
+              "end_timestamp": 569,
+              "content": "然后次新加重组是情绪主线"
+            },
+            {
+              "start_timestamp": 569,
+              "end_timestamp": 570,
+              "content": "为什么是如此问题"
+            },
+            {
+              "start_timestamp": 570,
+              "end_timestamp": 574,
+              "content": "你应该怎么去看清楚内容点会完全不一样好"
+            },
+            {
+              "start_timestamp": 574,
+              "end_timestamp": 578,
+              "content": "然后再落到下面阶段式的复盘"
+            },
+            {
+              "start_timestamp": 578,
+              "end_timestamp": 580,
+              "content": "如果你要写的多"
+            },
+            {
+              "start_timestamp": 580,
+              "end_timestamp": 581,
+              "content": "你可以多写点"
+            },
+            {
+              "start_timestamp": 581,
+              "end_timestamp": 583,
+              "content": "一般来说3~5句足够了"
+            },
+            {
+              "start_timestamp": 583,
+              "end_timestamp": 584,
+              "content": "3~5句足够了"
+            },
+            {
+              "start_timestamp": 584,
+              "end_timestamp": 586,
+              "content": "今天市场发生了什么"
+            },
+            {
+              "start_timestamp": 586,
+              "end_timestamp": 587,
+              "content": "量价结构如何"
+            },
+            {
+              "start_timestamp": 587,
+              "end_timestamp": 589,
+              "content": "波浪理论去给你解决问题就可以了啊"
+            },
+            {
+              "start_timestamp": 589,
+              "end_timestamp": 591,
+              "content": "一张图能够看看清楚"
+            },
+            {
+              "start_timestamp": 591,
+              "end_timestamp": 593,
+              "content": "那么短线情绪上赚钱交易在哪"
+            },
+            {
+              "start_timestamp": 593,
+              "end_timestamp": 594,
+              "content": "今天的钱好不好赚"
+            },
+            {
+              "start_timestamp": 594,
+              "end_timestamp": 596,
+              "content": "它集中在什么地方发发散发酵"
+            },
+            {
+              "start_timestamp": 596,
+              "end_timestamp": 598,
+              "content": "那么主线资金钱去了哪"
+            },
+            {
+              "start_timestamp": 598,
+              "end_timestamp": 600,
+              "content": "主线有没有换3~5句"
+            },
+            {
+              "start_timestamp": 600,
+              "end_timestamp": 602,
+              "content": "然后明天准备什么触发条件"
+            },
+            {
+              "start_timestamp": 602,
+              "end_timestamp": 603,
+              "content": "这个你可以短一点啊"
+            },
+            {
+              "start_timestamp": 603,
+              "end_timestamp": 604,
+              "content": "可以短一点"
+            },
+            {
+              "start_timestamp": 604,
+              "end_timestamp": 606,
+              "content": "慢慢的去添加内容就可以了"
+            },
+            {
+              "start_timestamp": 606,
+              "end_timestamp": 607,
+              "content": "刚开始的过程当中"
+            },
+            {
+              "start_timestamp": 607,
+              "end_timestamp": 608,
+              "content": "不要一下子像我一样"
+            },
+            {
+              "start_timestamp": 608,
+              "end_timestamp": 609,
+              "content": "他妈写个四五千字"
+            },
+            {
+              "start_timestamp": 609,
+              "end_timestamp": 610,
+              "content": "没必要浪费"
+            },
+            {
+              "start_timestamp": 610,
+              "end_timestamp": 612,
+              "content": "然后情景推演是如果走A怎么做"
+            },
+            {
+              "start_timestamp": 612,
+              "end_timestamp": 613,
+              "content": "走B怎么做"
+            },
+            {
+              "start_timestamp": 613,
+              "end_timestamp": 614,
+              "content": "走C怎么做"
+            },
+            {
+              "start_timestamp": 614,
+              "end_timestamp": 615,
+              "content": "我分别应该怎么办"
+            },
+            {
+              "start_timestamp": 615,
+              "end_timestamp": 616,
+              "content": "三个不同场景"
+            },
+            {
+              "start_timestamp": 616,
+              "end_timestamp": 618,
+              "content": "然后这五段顺序不要去改"
+            },
+            {
+              "start_timestamp": 618,
+              "end_timestamp": 621,
+              "content": "先去先讲客观"
+            },
+            {
+              "start_timestamp": 621,
+              "end_timestamp": 622,
+              "content": "再去讲主观"
+            },
+            {
+              "start_timestamp": 622,
+              "end_timestamp": 626,
+              "content": "客观的地方是已经市场已经定调了的"
+            },
+            {
+              "start_timestamp": 626,
+              "end_timestamp": 627,
+              "content": "你不会再变了的"
+            },
+            {
+              "start_timestamp": 627,
+              "end_timestamp": 629,
+              "content": "主观上个人怎么去"
+            },
+            {
+              "start_timestamp": 629,
+              "end_timestamp": 632,
+              "content": "先写完计划再看市场"
+            },
+            {
+              "start_timestamp": 632,
+              "end_timestamp": 634,
+              "content": "然后先下结论再找证据"
+            },
+            {
+              "start_timestamp": 634,
+              "end_timestamp": 636,
+              "content": "那是自我安慰"
+            },
+            {
+              "start_timestamp": 636,
+              "end_timestamp": 640,
+              "content": "记住你不要先去写完计划再看市场"
+            },
+            {
+              "start_timestamp": 640,
+              "end_timestamp": 642,
+              "content": "你是要想清楚当下市场是一个什么样的情况"
+            },
+            {
+              "start_timestamp": 642,
+              "end_timestamp": 643,
+              "content": "我应该怎么办"
+            },
+            {
+              "start_timestamp": 643,
+              "end_timestamp": 645,
+              "content": "你的复盘应该如何"
+            },
+            {
+              "start_timestamp": 645,
+              "end_timestamp": 646,
+              "content": "你的市场应该先看"
+            },
+            {
+              "start_timestamp": 646,
+              "end_timestamp": 649,
+              "content": "先看完市场之后再去想"
+            },
+            {
+              "start_timestamp": 649,
+              "end_timestamp": 650,
+              "content": "我根据市场的变化"
+            },
+            {
+              "start_timestamp": 650,
+              "end_timestamp": 652,
+              "content": "我应该怎么办"
+            },
+            {
+              "start_timestamp": 652,
+              "end_timestamp": 653,
+              "content": "这是最关键的地方"
+            },
+            {
+              "start_timestamp": 653,
+              "end_timestamp": 656,
+              "content": "也是能够最快的跑通的地方"
+            },
+            {
+              "start_timestamp": 656,
+              "end_timestamp": 658,
+              "content": "第一段指数当中"
+            },
+            {
+              "start_timestamp": 658,
+              "end_timestamp": 660,
+              "content": "我一般性来讲只写事实"
+            },
+            {
+              "start_timestamp": 660,
+              "end_timestamp": 661,
+              "content": "不要写判断"
+            },
+            {
+              "start_timestamp": 661,
+              "end_timestamp": 662,
+              "content": "不要与不要有任何的"
+            },
+            {
+              "start_timestamp": 662,
+              "end_timestamp": 666,
+              "content": "我觉得在指数和短线情绪"
+            },
+            {
+              "start_timestamp": 666,
+              "end_timestamp": 667,
+              "content": "包括主线T3上"
+            },
+            {
+              "start_timestamp": 667,
+              "end_timestamp": 668,
+              "content": "不要有任何的"
+            },
+            {
+              "start_timestamp": 668,
+              "end_timestamp": 670,
+              "content": "我觉得首先市场成交额多少"
+            },
+            {
+              "start_timestamp": 670,
+              "end_timestamp": 672,
+              "content": "比昨天放量还是缩量"
+            },
+            {
+              "start_timestamp": 672,
+              "end_timestamp": 674,
+              "content": "今天的资金来了呢"
+            },
+            {
+              "start_timestamp": 674,
+              "end_timestamp": 675,
+              "content": "来了没有"
+            },
+            {
+              "start_timestamp": 675,
+              "end_timestamp": 676,
+              "content": "就是我们看到的资金"
+            },
+            {
+              "start_timestamp": 676,
+              "end_timestamp": 677,
+              "content": "类似于这样的一个资金对吧"
+            },
+            {
+              "start_timestamp": 677,
+              "end_timestamp": 678,
+              "content": "今天来了多少资金"
+            },
+            {
+              "start_timestamp": 678,
+              "end_timestamp": 679,
+              "content": "机构资金"
+            },
+            {
+              "start_timestamp": 679,
+              "end_timestamp": 679,
+              "content": "主力资金"
+            },
+            {
+              "start_timestamp": 679,
+              "end_timestamp": 681,
+              "content": "散户他到底来了多少钱"
+            },
+            {
+              "start_timestamp": 681,
+              "end_timestamp": 682,
+              "content": "到收盘的时候"
+            },
+            {
+              "start_timestamp": 682,
+              "end_timestamp": 683,
+              "content": "你去给我统计盘中的时候"
+            },
+            {
+              "start_timestamp": 683,
+              "end_timestamp": 685,
+              "content": "不用去统计他如果有波动点的时候"
+            },
+            {
+              "start_timestamp": 685,
+              "end_timestamp": 687,
+              "content": "你再到时候再说啊"
+            },
+            {
+              "start_timestamp": 687,
+              "end_timestamp": 688,
+              "content": "这个是属于自我的回溯"
+            },
+            {
+              "start_timestamp": 688,
+              "end_timestamp": 691,
+              "content": "到时候唉为什么我没有关注到这个地方"
+            },
+            {
+              "start_timestamp": 691,
+              "end_timestamp": 692,
+              "content": "那么主主要指数收在哪里"
+            },
+            {
+              "start_timestamp": 692,
+              "end_timestamp": 693,
+              "content": "涨跌幅是多少"
+            },
+            {
+              "start_timestamp": 693,
+              "end_timestamp": 696,
+              "content": "它的关键位的支撑和压力在哪"
+            },
+            {
+              "start_timestamp": 696,
+              "end_timestamp": 697,
+              "content": "涨跌家数比是多少"
+            },
+            {
+              "start_timestamp": 697,
+              "end_timestamp": 698,
+              "content": "涨停多少"
+            },
+            {
+              "start_timestamp": 698,
+              "end_timestamp": 699,
+              "content": "跌停多少家"
+            },
+            {
+              "start_timestamp": 699,
+              "end_timestamp": 700,
+              "content": "今天的高度空间在哪"
+            },
+            {
+              "start_timestamp": 700,
+              "end_timestamp": 703,
+              "content": "哎盘面空间知识等于情绪上"
+            },
+            {
+              "start_timestamp": 703,
+              "end_timestamp": 703,
+              "content": "到时候会去讲"
+            },
+            {
+              "start_timestamp": 703,
+              "end_timestamp": 705,
+              "content": "然后最最明显的排名特征"
+            },
+            {
+              "start_timestamp": 705,
+              "end_timestamp": 707,
+              "content": "今天是V型反转"
+            },
+            {
+              "start_timestamp": 707,
+              "end_timestamp": 708,
+              "content": "还是说高举高打"
+            },
+            {
+              "start_timestamp": 708,
+              "end_timestamp": 710,
+              "content": "还是说这个低开高走"
+            },
+            {
+              "start_timestamp": 710,
+              "end_timestamp": 712,
+              "content": "这都是完全不一样的"
+            },
+            {
+              "start_timestamp": 712,
+              "end_timestamp": 714,
+              "content": "比方说唉市场成交额2万亿对吧"
+            },
+            {
+              "start_timestamp": 714,
+              "end_timestamp": 715,
+              "content": "缩量多少"
+            },
+            {
+              "start_timestamp": 715,
+              "end_timestamp": 717,
+              "content": "沪指收多少"
+            },
+            {
+              "start_timestamp": 717,
+              "end_timestamp": 718,
+              "content": "这个涨停家数"
+            },
+            {
+              "start_timestamp": 718,
+              "end_timestamp": 719,
+              "content": "涨停家数"
+            },
+            {
+              "start_timestamp": 719,
+              "end_timestamp": 719,
+              "content": "跌停家数"
+            },
+            {
+              "start_timestamp": 719,
+              "end_timestamp": 722,
+              "content": "指指数整体性的活跃度啊"
+            },
+            {
+              "start_timestamp": 722,
+              "end_timestamp": 723,
+              "content": "盘面特征是什么"
+            },
+            {
+              "start_timestamp": 723,
+              "end_timestamp": 724,
+              "content": "你要讲清楚"
+            },
+            {
+              "start_timestamp": 724,
+              "end_timestamp": 726,
+              "content": "第二段是短线情绪"
+            },
+            {
+              "start_timestamp": 726,
+              "end_timestamp": 729,
+              "content": "情绪是当下好不好赚钱的度量"
+            },
+            {
+              "start_timestamp": 729,
+              "end_timestamp": 730,
+              "content": "不是指数涨跌的同义词"
+            },
+            {
+              "start_timestamp": 730,
+              "end_timestamp": 733,
+              "content": "指数涨跌跟我赚不赚钱没关系"
+            },
+            {
+              "start_timestamp": 733,
+              "end_timestamp": 733,
+              "content": "赚钱效应"
+            },
+            {
+              "start_timestamp": 733,
+              "end_timestamp": 735,
+              "content": "今天买入人能赚钱吗"
+            },
+            {
+              "start_timestamp": 735,
+              "end_timestamp": 736,
+              "content": "怎么记好"
+            },
+            {
+              "start_timestamp": 736,
+              "end_timestamp": 737,
+              "content": "还是一般"
+            },
+            {
+              "start_timestamp": 737,
+              "end_timestamp": 741,
+              "content": "就是拿今天涨停家数来做对比就可以了"
+            },
+            {
+              "start_timestamp": 741,
+              "end_timestamp": 744,
+              "content": "离最高连板的高度数字和昨天对比"
+            },
+            {
+              "start_timestamp": 744,
+              "end_timestamp": 745,
+              "content": "做一张图就可以"
+            },
+            {
+              "start_timestamp": 745,
+              "end_timestamp": 746,
+              "content": "炸板数"
+            },
+            {
+              "start_timestamp": 746,
+              "end_timestamp": 747,
+              "content": "今天涨停打开的多不多"
+            },
+            {
+              "start_timestamp": 747,
+              "end_timestamp": 749,
+              "content": "炸板率大致水平百分之多少"
+            },
+            {
+              "start_timestamp": 749,
+              "end_timestamp": 750,
+              "content": "30%"
+            },
+            {
+              "start_timestamp": 750,
+              "end_timestamp": 752,
+              "content": "炸板率也就十个票封涨停"
+            },
+            {
+              "start_timestamp": 752,
+              "end_timestamp": 754,
+              "content": "三个票炸掉对吧"
+            },
+            {
+              "start_timestamp": 754,
+              "end_timestamp": 755,
+              "content": "最后剩下的七个嘛"
+            },
+            {
+              "start_timestamp": 755,
+              "end_timestamp": 758,
+              "content": "那么昨天的强势方向今天还在吗"
+            },
+            {
+              "start_timestamp": 758,
+              "end_timestamp": 761,
+              "content": "到底是延续切换还是轮动还是退潮"
+            },
+            {
+              "start_timestamp": 761,
+              "end_timestamp": 762,
+              "content": "是完全不一样的"
+            },
+            {
+              "start_timestamp": 762,
+              "end_timestamp": 765,
+              "content": "这一段作用是把今天不好做或者今天好做"
+            },
+            {
+              "start_timestamp": 765,
+              "end_timestamp": 766,
+              "content": "变成可回看"
+            },
+            {
+              "start_timestamp": 766,
+              "end_timestamp": 767,
+              "content": "可回溯的内容"
+            },
+            {
+              "start_timestamp": 767,
+              "end_timestamp": 769,
+              "content": "一个月之后回去看"
+            },
+            {
+              "start_timestamp": 769,
+              "end_timestamp": 771,
+              "content": "你就能知道自己在什么样的情绪环境下"
+            },
+            {
+              "start_timestamp": 771,
+              "end_timestamp": 772,
+              "content": "容易犯错"
+            },
+            {
+              "start_timestamp": 772,
+              "end_timestamp": 775,
+              "content": "什么样的情况下能够赚钱啊"
+            },
+            {
+              "start_timestamp": 775,
+              "end_timestamp": 778,
+              "content": "好第三段就是主线资金"
+            },
+            {
+              "start_timestamp": 778,
+              "end_timestamp": 780,
+              "content": "也就是我们讲的题材啊"
+            },
+            {
+              "start_timestamp": 780,
+              "end_timestamp": 781,
+              "content": "今天题材走在哪"
+            },
+            {
+              "start_timestamp": 781,
+              "end_timestamp": 782,
+              "content": "强度在哪里"
+            },
+            {
+              "start_timestamp": 782,
+              "end_timestamp": 785,
+              "content": "为什么他们好好这个地方"
+            },
+            {
+              "start_timestamp": 785,
+              "end_timestamp": 788,
+              "content": "需要确定的是钱往哪儿去留"
+            },
+            {
+              "start_timestamp": 788,
+              "end_timestamp": 789,
+              "content": "不是要你去做"
+            },
+            {
+              "start_timestamp": 789,
+              "end_timestamp": 791,
+              "content": "今天买什么买什么"
+            },
+            {
+              "start_timestamp": 791,
+              "end_timestamp": 793,
+              "content": "做成是计划"
+            },
+            {
+              "start_timestamp": 794,
+              "end_timestamp": 798,
+              "content": "记住了当下的主线有没有出现新的方向"
+            },
+            {
+              "start_timestamp": 798,
+              "end_timestamp": 799,
+              "content": "当下主线是什么"
+            },
+            {
+              "start_timestamp": 799,
+              "end_timestamp": 800,
+              "content": "有没有出现新方向"
+            },
+            {
+              "start_timestamp": 800,
+              "end_timestamp": 802,
+              "content": "活跃资金是在流入还是流出"
+            },
+            {
+              "start_timestamp": 802,
+              "end_timestamp": 804,
+              "content": "还是在做内部切换"
+            },
+            {
+              "start_timestamp": 804,
+              "end_timestamp": 807,
+              "content": "强度是主线变强了还是变弱了"
+            },
+            {
+              "start_timestamp": 807,
+              "end_timestamp": 809,
+              "content": "用什么样的信号来看它"
+            },
+            {
+              "start_timestamp": 809,
+              "end_timestamp": 810,
+              "content": "那么我的位置"
+            },
+            {
+              "start_timestamp": 810,
+              "end_timestamp": 813,
+              "content": "我当前的持仓有没有在主线上"
+            },
+            {
+              "start_timestamp": 813,
+              "end_timestamp": 813,
+              "content": "如果在"
+            },
+            {
+              "start_timestamp": 813,
+              "end_timestamp": 814,
+              "content": "那么恭喜你"
+            },
+            {
+              "start_timestamp": 814,
+              "end_timestamp": 815,
+              "content": "挺好的对吧"
+            },
+            {
+              "start_timestamp": 815,
+              "end_timestamp": 816,
+              "content": "第二天决定怎么去"
+            },
+            {
+              "start_timestamp": 816,
+              "end_timestamp": 817,
+              "content": "且如果不在"
+            },
+            {
+              "start_timestamp": 817,
+              "end_timestamp": 819,
+              "content": "我要想清楚为什么我会不在"
+            },
+            {
+              "start_timestamp": 819,
+              "end_timestamp": 821,
+              "content": "我下一次应该怎么样的把握"
+            },
+            {
+              "start_timestamp": 821,
+              "end_timestamp": 823,
+              "content": "这类这样类型的机会"
+            },
+            {
+              "start_timestamp": 823,
+              "end_timestamp": 825,
+              "content": "那么我的位置在不在主线上"
+            },
+            {
+              "start_timestamp": 825,
+              "end_timestamp": 828,
+              "content": "这一条是最容易你自己主动性跳出的"
+            },
+            {
+              "start_timestamp": 828,
+              "end_timestamp": 831,
+              "content": "记住了你的在不在很关键"
+            },
+            {
+              "start_timestamp": 831,
+              "end_timestamp": 834,
+              "content": "就像当时切神鼓的时候一样"
+            },
+            {
+              "start_timestamp": 834,
+              "end_timestamp": 835,
+              "content": "切四星的时候一样"
+            },
+            {
+              "start_timestamp": 835,
+              "end_timestamp": 836,
+              "content": "人家还在跟你聊"
+            },
+            {
+              "start_timestamp": 836,
+              "end_timestamp": 838,
+              "content": "兄弟科技牛逼"
+            },
+            {
+              "start_timestamp": 838,
+              "end_timestamp": 839,
+              "content": "机会点都不会看"
+            },
+            {
+              "start_timestamp": 839,
+              "end_timestamp": 841,
+              "content": "第四步是模拟计划"
+            },
+            {
+              "start_timestamp": 841,
+              "end_timestamp": 842,
+              "content": "明天的计划应该怎么做"
+            },
+            {
+              "start_timestamp": 842,
+              "end_timestamp": 843,
+              "content": "我观察什么"
+            },
+            {
+              "start_timestamp": 843,
+              "end_timestamp": 844,
+              "content": "明天重点看什么方向"
+            },
+            {
+              "start_timestamp": 844,
+              "end_timestamp": 845,
+              "content": "能不能延续啊"
+            },
+            {
+              "start_timestamp": 845,
+              "end_timestamp": 846,
+              "content": "触发条件"
+            },
+            {
+              "start_timestamp": 846,
+              "end_timestamp": 847,
+              "content": "如果A怎么怎么样"
+            },
+            {
+              "start_timestamp": 847,
+              "end_timestamp": 849,
+              "content": "我才会去做B"
+            },
+            {
+              "start_timestamp": 849,
+              "end_timestamp": 850,
+              "content": "那么仓位我会怎么样去做"
+            },
+            {
+              "start_timestamp": 850,
+              "end_timestamp": 853,
+              "content": "按照你之前的仓位规则计算"
+            },
+            {
+              "start_timestamp": 853,
+              "end_timestamp": 855,
+              "content": "不超过总仓位多少"
+            },
+            {
+              "start_timestamp": 855,
+              "end_timestamp": 856,
+              "content": "然后不做的情况下"
+            },
+            {
+              "start_timestamp": 856,
+              "end_timestamp": 857,
+              "content": "如果A不成立"
+            },
+            {
+              "start_timestamp": 857,
+              "end_timestamp": 858,
+              "content": "我应该怎么办"
+            },
+            {
+              "start_timestamp": 858,
+              "end_timestamp": 859,
+              "content": "如果指数没能突破哎"
+            },
+            {
+              "start_timestamp": 859,
+              "end_timestamp": 861,
+              "content": "走不上去我就不碰"
+            },
+            {
+              "start_timestamp": 861,
+              "end_timestamp": 862,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 862,
+              "end_timestamp": 863,
+              "content": "那么明确写出什么样的情况下"
+            },
+            {
+              "start_timestamp": 863,
+              "end_timestamp": 864,
+              "content": "我不做"
+            },
+            {
+              "start_timestamp": 864,
+              "end_timestamp": 868,
+              "content": "大部分亏损来自于本应该不应该做的地方"
+            },
+            {
+              "start_timestamp": 868,
+              "end_timestamp": 869,
+              "content": "你选择去做了"
+            },
+            {
+              "start_timestamp": 869,
+              "end_timestamp": 871,
+              "content": "本不应该参与的时候"
+            },
+            {
+              "start_timestamp": 871,
+              "end_timestamp": 872,
+              "content": "你参与了"
+            },
+            {
+              "start_timestamp": 872,
+              "end_timestamp": 873,
+              "content": "你都想好了"
+            },
+            {
+              "start_timestamp": 873,
+              "end_timestamp": 874,
+              "content": "我都明天不动了"
+            },
+            {
+              "start_timestamp": 874,
+              "end_timestamp": 875,
+              "content": "然后当行情"
+            },
+            {
+              "start_timestamp": 875,
+              "end_timestamp": 878,
+              "content": "当这个突然间某个地方某个个股拉升了一下"
+            },
+            {
+              "start_timestamp": 878,
+              "end_timestamp": 879,
+              "content": "我靠这个地方牛逼"
+            },
+            {
+              "start_timestamp": 879,
+              "end_timestamp": 880,
+              "content": "赶紧追"
+            },
+            {
+              "start_timestamp": 880,
+              "end_timestamp": 881,
+              "content": "这是你的问题"
+            },
+            {
+              "start_timestamp": 881,
+              "end_timestamp": 884,
+              "content": "那么情景推演至少要做三个情景"
+            },
+            {
+              "start_timestamp": 884,
+              "end_timestamp": 886,
+              "content": "如果强是怎么样"
+            },
+            {
+              "start_timestamp": 886,
+              "end_timestamp": 887,
+              "content": "主线延续"
+            },
+            {
+              "start_timestamp": 887,
+              "end_timestamp": 887,
+              "content": "量能放大"
+            },
+            {
+              "start_timestamp": 887,
+              "end_timestamp": 888,
+              "content": "我们按照计划执行"
+            },
+            {
+              "start_timestamp": 888,
+              "end_timestamp": 890,
+              "content": "仓位不超过上限"
+            },
+            {
+              "start_timestamp": 890,
+              "end_timestamp": 891,
+              "content": "如果窄幅主线不明朗"
+            },
+            {
+              "start_timestamp": 891,
+              "end_timestamp": 893,
+              "content": "我干脆要么减半"
+            },
+            {
+              "start_timestamp": 893,
+              "end_timestamp": 894,
+              "content": "要么就干脆观望"
+            },
+            {
+              "start_timestamp": 894,
+              "end_timestamp": 895,
+              "content": "还有就是主线破坏"
+            },
+            {
+              "start_timestamp": 895,
+              "end_timestamp": 896,
+              "content": "情绪转弱"
+            },
+            {
+              "start_timestamp": 896,
+              "end_timestamp": 896,
+              "content": "我不执行"
+            },
+            {
+              "start_timestamp": 896,
+              "end_timestamp": 898,
+              "content": "先减仓等信号"
+            },
+            {
+              "start_timestamp": 898,
+              "end_timestamp": 901,
+              "content": "记住单独列一条风险提示"
+            },
+            {
+              "start_timestamp": 901,
+              "end_timestamp": 903,
+              "content": "写下你明天最可能犯的错"
+            },
+            {
+              "start_timestamp": 903,
+              "end_timestamp": 906,
+              "content": "比方说会因为怕错过而提前进场亏了"
+            },
+            {
+              "start_timestamp": 906,
+              "end_timestamp": 907,
+              "content": "想版本这种情况"
+            },
+            {
+              "start_timestamp": 907,
+              "end_timestamp": 910,
+              "content": "把提前写下来的错误写在那"
+            },
+            {
+              "start_timestamp": 910,
+              "end_timestamp": 912,
+              "content": "告诉你这个地方是你最容易犯的错误"
+            },
+            {
+              "start_timestamp": 912,
+              "end_timestamp": 913,
+              "content": "你就给我记住了"
+            },
+            {
+              "start_timestamp": 913,
+              "end_timestamp": 915,
+              "content": "我就不去犯这个错误"
+            },
+            {
+              "start_timestamp": 915,
+              "end_timestamp": 916,
+              "content": "那么错误应该怎么归类"
+            },
+            {
+              "start_timestamp": 916,
+              "end_timestamp": 919,
+              "content": "三种错误最值得你去自责"
+            },
+            {
+              "start_timestamp": 919,
+              "end_timestamp": 924,
+              "content": "这个地方是关是整篇视频当中最关键的地方"
+            },
+            {
+              "start_timestamp": 924,
+              "end_timestamp": 926,
+              "content": "首先可以避免的错误"
+            },
+            {
+              "start_timestamp": 926,
+              "end_timestamp": 928,
+              "content": "第二不可避免的第三系统性错误"
+            },
+            {
+              "start_timestamp": 928,
+              "end_timestamp": 930,
+              "content": "被规则本身就不行"
+            },
+            {
+              "start_timestamp": 930,
+              "end_timestamp": 934,
+              "content": "第四个改的归类错的方向改掉"
+            },
+            {
+              "start_timestamp": 935,
+              "end_timestamp": 936,
+              "content": "那么怎么归"
+            },
+            {
+              "start_timestamp": 936,
+              "end_timestamp": 939,
+              "content": "第一个改什么"
+            },
+            {
+              "start_timestamp": 939,
+              "end_timestamp": 941,
+              "content": "可以避免的违反掉你自己写的规则"
+            },
+            {
+              "start_timestamp": 941,
+              "end_timestamp": 943,
+              "content": "那你就给我修正纪律啊"
+            },
+            {
+              "start_timestamp": 943,
+              "end_timestamp": 944,
+              "content": "明显是不对的对吧"
+            },
+            {
+              "start_timestamp": 944,
+              "end_timestamp": 945,
+              "content": "你硬要去做"
+            },
+            {
+              "start_timestamp": 945,
+              "end_timestamp": 946,
+              "content": "明知道止损了"
+            },
+            {
+              "start_timestamp": 946,
+              "end_timestamp": 947,
+              "content": "你还在那扛"
+            },
+            {
+              "start_timestamp": 947,
+              "end_timestamp": 949,
+              "content": "还觉得唉还有机会"
+            },
+            {
+              "start_timestamp": 949,
+              "end_timestamp": 950,
+              "content": "那这是你的纪律问题"
+            },
+            {
+              "start_timestamp": 950,
+              "end_timestamp": 951,
+              "content": "不可避免"
+            },
+            {
+              "start_timestamp": 951,
+              "end_timestamp": 952,
+              "content": "规则内执行"
+            },
+            {
+              "start_timestamp": 952,
+              "end_timestamp": 953,
+              "content": "但结果依然不太好"
+            },
+            {
+              "start_timestamp": 953,
+              "end_timestamp": 954,
+              "content": "按照规则买入"
+            },
+            {
+              "start_timestamp": 954,
+              "end_timestamp": 956,
+              "content": "遇到系统性的下跌"
+            },
+            {
+              "start_timestamp": 956,
+              "end_timestamp": 957,
+              "content": "就是出现系统性风险"
+            },
+            {
+              "start_timestamp": 957,
+              "end_timestamp": 958,
+              "content": "它崩了"
+            },
+            {
+              "start_timestamp": 958,
+              "end_timestamp": 959,
+              "content": "这个地方不用你去改"
+            },
+            {
+              "start_timestamp": 959,
+              "end_timestamp": 960,
+              "content": "不是你的错"
+            },
+            {
+              "start_timestamp": 960,
+              "end_timestamp": 962,
+              "content": "你别自己往自己身上背锅"
+            },
+            {
+              "start_timestamp": 962,
+              "end_timestamp": 963,
+              "content": "这个锅不用你管啊"
+            },
+            {
+              "start_timestamp": 963,
+              "end_timestamp": 965,
+              "content": "这个锅不在你身上"
+            },
+            {
+              "start_timestamp": 965,
+              "end_timestamp": 967,
+              "content": "那么你自身的系统性"
+            },
+            {
+              "start_timestamp": 967,
+              "end_timestamp": 971,
+              "content": "这个系统性叫什么规则的系统本身就有问题"
+            },
+            {
+              "start_timestamp": 971,
+              "end_timestamp": 975,
+              "content": "你的期待策略期望值已经不行了"
+            },
+            {
+              "start_timestamp": 975,
+              "end_timestamp": 977,
+              "content": "止损位明显设置有缺陷了"
+            },
+            {
+              "start_timestamp": 980,
+              "end_timestamp": 983,
+              "content": "你不要觉得我他妈我的交易系统贼牛逼"
+            },
+            {
+              "start_timestamp": 983,
+              "end_timestamp": 985,
+              "content": "你的交易系统是在不断的更新的"
+            },
+            {
+              "start_timestamp": 985,
+              "end_timestamp": 989,
+              "content": "记住了最常见的会去把不可避免变成可避免"
+            },
+            {
+              "start_timestamp": 989,
+              "end_timestamp": 992,
+              "content": "你不要去每一次的亏损都要去自责自己"
+            },
+            {
+              "start_timestamp": 992,
+              "end_timestamp": 993,
+              "content": "你没有"
+            },
+            {
+              "start_timestamp": 993,
+              "end_timestamp": 994,
+              "content": "那么你没那么"
+            },
+            {
+              "start_timestamp": 994,
+              "end_timestamp": 996,
+              "content": "你能看到你逻辑个视频"
+            },
+            {
+              "start_timestamp": 996,
+              "end_timestamp": 997,
+              "content": "看到17分钟"
+            },
+            {
+              "start_timestamp": 997,
+              "end_timestamp": 997,
+              "content": "18分钟"
+            },
+            {
+              "start_timestamp": 997,
+              "end_timestamp": 998,
+              "content": "你不是纯伞"
+            },
+            {
+              "start_timestamp": 998,
+              "end_timestamp": 1000,
+              "content": "你不是纯韭菜了"
+            },
+            {
+              "start_timestamp": 1000,
+              "end_timestamp": 1003,
+              "content": "你自责久了之后就会乱改你的规则"
+            },
+            {
+              "start_timestamp": 1003,
+              "end_timestamp": 1005,
+              "content": "把你本身能赚钱的系统破坏掉"
+            },
+            {
+              "start_timestamp": 1005,
+              "end_timestamp": 1007,
+              "content": "这是你最容易出现的"
+            },
+            {
+              "start_timestamp": 1007,
+              "end_timestamp": 1009,
+              "content": "而且是最隐蔽的一条死路"
+            },
+            {
+              "start_timestamp": 1009,
+              "end_timestamp": 1012,
+              "content": "你不知道你自己在那修正"
+            },
+            {
+              "start_timestamp": 1012,
+              "end_timestamp": 1013,
+              "content": "人家说哎你你不行"
+            },
+            {
+              "start_timestamp": 1013,
+              "end_timestamp": 1015,
+              "content": "兄弟你这个你跟我学吧"
+            },
+            {
+              "start_timestamp": 1015,
+              "end_timestamp": 1016,
+              "content": "你不对"
+            },
+            {
+              "start_timestamp": 1016,
+              "end_timestamp": 1017,
+              "content": "不是的"
+            },
+            {
+              "start_timestamp": 1017,
+              "end_timestamp": 1019,
+              "content": "是你本身就已经有一点基础了"
+            },
+            {
+              "start_timestamp": 1019,
+              "end_timestamp": 1021,
+              "content": "你在你的基础上去给我搭建"
+            },
+            {
+              "start_timestamp": 1021,
+              "end_timestamp": 1023,
+              "content": "你属于你自己的东西"
+            },
+            {
+              "start_timestamp": 1023,
+              "end_timestamp": 1025,
+              "content": "那么每笔亏损问自己四个问题"
+            },
+            {
+              "start_timestamp": 1025,
+              "end_timestamp": 1028,
+              "content": "第一笔我有没有定下计划"
+            },
+            {
+              "start_timestamp": 1028,
+              "end_timestamp": 1031,
+              "content": "我的亏损是到底是怎么来的"
+            },
+            {
+              "start_timestamp": 1031,
+              "end_timestamp": 1034,
+              "content": "第二执行的时候有没有按照计划去做"
+            },
+            {
+              "start_timestamp": 1034,
+              "end_timestamp": 1035,
+              "content": "我已经定好了计划"
+            },
+            {
+              "start_timestamp": 1035,
+              "end_timestamp": 1037,
+              "content": "比方说我看好创新药"
+            },
+            {
+              "start_timestamp": 1037,
+              "end_timestamp": 1038,
+              "content": "那我创新药已经梳理这些票"
+            },
+            {
+              "start_timestamp": 1038,
+              "end_timestamp": 1040,
+              "content": "我为什么在它异动时刻"
+            },
+            {
+              "start_timestamp": 1040,
+              "end_timestamp": 1041,
+              "content": "为什么不去做"
+            },
+            {
+              "start_timestamp": 1041,
+              "end_timestamp": 1042,
+              "content": "是因为他太高了"
+            },
+            {
+              "start_timestamp": 1042,
+              "end_timestamp": 1044,
+              "content": "还是因为我害怕这个你要想清楚"
+            },
+            {
+              "start_timestamp": 1044,
+              "end_timestamp": 1047,
+              "content": "那么按照计划做了"
+            },
+            {
+              "start_timestamp": 1047,
+              "end_timestamp": 1050,
+              "content": "连续亏损十次以上"
+            },
+            {
+              "start_timestamp": 1050,
+              "end_timestamp": 1052,
+              "content": "那么大概率是你的规则问题"
+            },
+            {
+              "start_timestamp": 1052,
+              "end_timestamp": 1054,
+              "content": "你如果十次你错一次"
+            },
+            {
+              "start_timestamp": 1054,
+              "end_timestamp": 1056,
+              "content": "那我觉得你的规则上没有什么"
+            },
+            {
+              "start_timestamp": 1056,
+              "end_timestamp": 1058,
+              "content": "没有没什么太大毛病"
+            },
+            {
+              "start_timestamp": 1058,
+              "end_timestamp": 1059,
+              "content": "同样的情况下"
+            },
+            {
+              "start_timestamp": 1059,
+              "end_timestamp": 1060,
+              "content": "过去的20笔"
+            },
+            {
+              "start_timestamp": 1060,
+              "end_timestamp": 1061,
+              "content": "我赚多还是亏多"
+            },
+            {
+              "start_timestamp": 1061,
+              "end_timestamp": 1064,
+              "content": "如果记住了"
+            },
+            {
+              "start_timestamp": 1064,
+              "end_timestamp": 1066,
+              "content": "你的样本要足够的充分"
+            },
+            {
+              "start_timestamp": 1066,
+              "end_timestamp": 1067,
+              "content": "因为我们做统计的时候"
+            },
+            {
+              "start_timestamp": 1067,
+              "end_timestamp": 1068,
+              "content": "一定要样本要多"
+            },
+            {
+              "start_timestamp": 1068,
+              "end_timestamp": 1069,
+              "content": "不是一个样本"
+            },
+            {
+              "start_timestamp": 1069,
+              "end_timestamp": 1073,
+              "content": "两个样本就哎112个案例个例就来决定了"
+            },
+            {
+              "start_timestamp": 1073,
+              "end_timestamp": 1076,
+              "content": "第四问和第三问是最关键"
+            },
+            {
+              "start_timestamp": 1076,
+              "end_timestamp": 1079,
+              "content": "它区分了你的你的错到底是怎么错的"
+            },
+            {
+              "start_timestamp": 1079,
+              "end_timestamp": 1082,
+              "content": "还是说你只是这一次运气不太好"
+            },
+            {
+              "start_timestamp": 1082,
+              "end_timestamp": 1085,
+              "content": "覆潮之下整个泥沙俱下的情况下"
+            },
+            {
+              "start_timestamp": 1085,
+              "end_timestamp": 1087,
+              "content": "你就不要去复盘了"
+            },
+            {
+              "start_timestamp": 1087,
+              "end_timestamp": 1088,
+              "content": "没必要复盘啊"
+            },
+            {
+              "start_timestamp": 1088,
+              "end_timestamp": 1089,
+              "content": "跌都妈跌爆了"
+            },
+            {
+              "start_timestamp": 1089,
+              "end_timestamp": 1090,
+              "content": "不是你的问题"
+            },
+            {
+              "start_timestamp": 1090,
+              "end_timestamp": 1093,
+              "content": "我就想清楚有没有逆势抗跌的方向"
+            },
+            {
+              "start_timestamp": 1093,
+              "end_timestamp": 1096,
+              "content": "这个地方我能不能去参与周复盘"
+            },
+            {
+              "start_timestamp": 1096,
+              "end_timestamp": 1097,
+              "content": "管的是整体大方向"
+            },
+            {
+              "start_timestamp": 1097,
+              "end_timestamp": 1098,
+              "content": "就一周的方向"
+            },
+            {
+              "start_timestamp": 1098,
+              "end_timestamp": 1100,
+              "content": "接下来重要事件催化是什么"
+            },
+            {
+              "start_timestamp": 1100,
+              "end_timestamp": 1101,
+              "content": "唉当下的市场情绪在哪里"
+            },
+            {
+              "start_timestamp": 1101,
+              "end_timestamp": 1103,
+              "content": "有没有赚钱效应对吧"
+            },
+            {
+              "start_timestamp": 1103,
+              "end_timestamp": 1106,
+              "content": "那么日复盘管的是当天周复盘管整体方向"
+            },
+            {
+              "start_timestamp": 1106,
+              "end_timestamp": 1109,
+              "content": "本周验证上周的预判对了几个"
+            },
+            {
+              "start_timestamp": 1109,
+              "end_timestamp": 1112,
+              "content": "本周的实况主线走成了什么样规则修订"
+            },
+            {
+              "start_timestamp": 1112,
+              "end_timestamp": 1114,
+              "content": "这一周应该改哪条规则"
+            },
+            {
+              "start_timestamp": 1114,
+              "end_timestamp": 1116,
+              "content": "下周的展望重点观察什么"
+            },
+            {
+              "start_timestamp": 1116,
+              "end_timestamp": 1119,
+              "content": "这是我每次必须都要去做的"
+            },
+            {
+              "start_timestamp": 1119,
+              "end_timestamp": 1120,
+              "content": "就我要去做做什么"
+            },
+            {
+              "start_timestamp": 1120,
+              "end_timestamp": 1122,
+              "content": "我的这个计划怎么去切"
+            },
+            {
+              "start_timestamp": 1122,
+              "end_timestamp": 1126,
+              "content": "那哪些内容就我会去东西会比较多"
+            },
+            {
+              "start_timestamp": 1126,
+              "end_timestamp": 1127,
+              "content": "哎我东西会比较多"
+            },
+            {
+              "start_timestamp": 1127,
+              "end_timestamp": 1130,
+              "content": "那么这一块上市场的到底反馈是什么"
+            },
+            {
+              "start_timestamp": 1130,
+              "end_timestamp": 1131,
+              "content": "我们要去写清楚"
+            },
+            {
+              "start_timestamp": 1131,
+              "end_timestamp": 1133,
+              "content": "我们接下来思路要去怎么样去做"
+            },
+            {
+              "start_timestamp": 1133,
+              "end_timestamp": 1136,
+              "content": "包括说这是过去我们去讲的对吧"
+            },
+            {
+              "start_timestamp": 1136,
+              "end_timestamp": 1137,
+              "content": "回溯自己的问题"
+            },
+            {
+              "start_timestamp": 1137,
+              "end_timestamp": 1140,
+              "content": "那接下来应该怎么去面对新股的超级行情"
+            },
+            {
+              "start_timestamp": 1140,
+              "end_timestamp": 1142,
+              "content": "是投机分开始还是末端的宣泄"
+            },
+            {
+              "start_timestamp": 1142,
+              "end_timestamp": 1142,
+              "content": "到底怎么看"
+            },
+            {
+              "start_timestamp": 1142,
+              "end_timestamp": 1144,
+              "content": "就看持续性理解吧"
+            },
+            {
+              "start_timestamp": 1144,
+              "end_timestamp": 1147,
+              "content": "唉我对未来的预期怎么去看"
+            },
+            {
+              "start_timestamp": 1147,
+              "end_timestamp": 1149,
+              "content": "哎他的聊点他的重要的东西"
+            },
+            {
+              "start_timestamp": 1149,
+              "end_timestamp": 1151,
+              "content": "然后你手上的几笔应该怎么办"
+            },
+            {
+              "start_timestamp": 1151,
+              "end_timestamp": 1153,
+              "content": "这是你关键是你要去想的"
+            },
+            {
+              "start_timestamp": 1153,
+              "end_timestamp": 1153,
+              "content": "哎"
+            },
+            {
+              "start_timestamp": 1153,
+              "end_timestamp": 1154,
+              "content": "我竞价去决定去留"
+            },
+            {
+              "start_timestamp": 1154,
+              "end_timestamp": 1154,
+              "content": "唉"
+            },
+            {
+              "start_timestamp": 1154,
+              "end_timestamp": 1158,
+              "content": "我要去等等一下等一步等它的确定性"
+            },
+            {
+              "start_timestamp": 1158,
+              "end_timestamp": 1161,
+              "content": "你的次新已经明显有有感受了"
+            },
+            {
+              "start_timestamp": 1161,
+              "end_timestamp": 1162,
+              "content": "然后你持仓的这些哎"
+            },
+            {
+              "start_timestamp": 1162,
+              "end_timestamp": 1163,
+              "content": "你之后你的布局"
+            },
+            {
+              "start_timestamp": 1163,
+              "end_timestamp": 1165,
+              "content": "整体策略定调都会不一样"
+            },
+            {
+              "start_timestamp": 1165,
+              "end_timestamp": 1166,
+              "content": "理解吗"
+            },
+            {
+              "start_timestamp": 1166,
+              "end_timestamp": 1167,
+              "content": "你的东西会完全不一样"
+            },
+            {
+              "start_timestamp": 1167,
+              "end_timestamp": 1169,
+              "content": "我周一周二周三周四"
+            },
+            {
+              "start_timestamp": 1169,
+              "end_timestamp": 1170,
+              "content": "它分别会有什么内容"
+            },
+            {
+              "start_timestamp": 1170,
+              "end_timestamp": 1172,
+              "content": "东西都会完全不同"
+            },
+            {
+              "start_timestamp": 1172,
+              "end_timestamp": 1173,
+              "content": "这是你要做的复盘"
+            },
+            {
+              "start_timestamp": 1173,
+              "end_timestamp": 1175,
+              "content": "然后再是什么呢"
+            },
+            {
+              "start_timestamp": 1175,
+              "end_timestamp": 1175,
+              "content": "复盘日志"
+            },
+            {
+              "start_timestamp": 1175,
+              "end_timestamp": 1178,
+              "content": "每一天我可以去抄这张"
+            },
+            {
+              "start_timestamp": 1178,
+              "end_timestamp": 1179,
+              "content": "直接截图"
+            },
+            {
+              "start_timestamp": 1179,
+              "end_timestamp": 1181,
+              "content": "每天收盘之后15分钟坚持写完"
+            },
+            {
+              "start_timestamp": 1181,
+              "end_timestamp": 1182,
+              "content": "不要等到"
+            },
+            {
+              "start_timestamp": 1182,
+              "end_timestamp": 1184,
+              "content": "不要等到记住了"
+            },
+            {
+              "start_timestamp": 1184,
+              "end_timestamp": 1185,
+              "content": "不要去给我等太久"
+            },
+            {
+              "start_timestamp": 1185,
+              "end_timestamp": 1186,
+              "content": "不要等太久"
+            },
+            {
+              "start_timestamp": 1186,
+              "end_timestamp": 1187,
+              "content": "15分钟到五点钟之前"
+            },
+            {
+              "start_timestamp": 1187,
+              "end_timestamp": 1188,
+              "content": "你基本上出来了"
+            },
+            {
+              "start_timestamp": 1188,
+              "end_timestamp": 1190,
+              "content": "如果晚上你复盘啊"
+            },
+            {
+              "start_timestamp": 1190,
+              "end_timestamp": 1194,
+              "content": "那你就在复盘的15分钟以内写完填就可以了"
+            },
+            {
+              "start_timestamp": 1194,
+              "end_timestamp": 1195,
+              "content": "这张图是直接可以填的"
+            },
+            {
+              "start_timestamp": 1195,
+              "end_timestamp": 1197,
+              "content": "直接填就可以了啊"
+            },
+            {
+              "start_timestamp": 1197,
+              "end_timestamp": 1198,
+              "content": "比较简单"
+            },
+            {
+              "start_timestamp": 1199,
+              "end_timestamp": 1200,
+              "content": "然后复盘做的对不对"
+            },
+            {
+              "start_timestamp": 1200,
+              "end_timestamp": 1200,
+              "content": "看这三条"
+            },
+            {
+              "start_timestamp": 1200,
+              "end_timestamp": 1204,
+              "content": "第一能否回看你的复盘还能够回来"
+            },
+            {
+              "start_timestamp": 1204,
+              "end_timestamp": 1207,
+              "content": "还能够回想起当时发生了什么"
+            },
+            {
+              "start_timestamp": 1207,
+              "end_timestamp": 1208,
+              "content": "你记得是事实"
+            },
+            {
+              "start_timestamp": 1208,
+              "end_timestamp": 1209,
+              "content": "而不是你的情绪"
+            },
+            {
+              "start_timestamp": 1209,
+              "end_timestamp": 1213,
+              "content": "第二个能够验证你能够去证伪"
+            },
+            {
+              "start_timestamp": 1213,
+              "end_timestamp": 1216,
+              "content": "可以证伪的判断才是关键性"
+            },
+            {
+              "start_timestamp": 1216,
+              "end_timestamp": 1217,
+              "content": "事后能够去证伪啊"
+            },
+            {
+              "start_timestamp": 1217,
+              "end_timestamp": 1220,
+              "content": "证明这个地方怎么怎么样对吧"
+            },
+            {
+              "start_timestamp": 1220,
+              "end_timestamp": 1221,
+              "content": "能去改规则"
+            },
+            {
+              "start_timestamp": 1221,
+              "end_timestamp": 1222,
+              "content": "那么这一个月的复盘"
+            },
+            {
+              "start_timestamp": 1222,
+              "end_timestamp": 1224,
+              "content": "至少你要去修正一条规则"
+            },
+            {
+              "start_timestamp": 1224,
+              "end_timestamp": 1226,
+              "content": "这条规则到底错在哪"
+            },
+            {
+              "start_timestamp": 1226,
+              "end_timestamp": 1228,
+              "content": "说明你的复盘有效了啊"
+            },
+            {
+              "start_timestamp": 1228,
+              "end_timestamp": 1230,
+              "content": "能够真正的出东西了"
+            },
+            {
+              "start_timestamp": 1230,
+              "end_timestamp": 1231,
+              "content": "那么第三条"
+            },
+            {
+              "start_timestamp": 1231,
+              "end_timestamp": 1232,
+              "content": "如果你没有规则"
+            },
+            {
+              "start_timestamp": 1232,
+              "end_timestamp": 1233,
+              "content": "那你的复盘还是在记录"
+            },
+            {
+              "start_timestamp": 1233,
+              "end_timestamp": 1234,
+              "content": "还是在记账"
+            },
+            {
+              "start_timestamp": 1234,
+              "end_timestamp": 1235,
+              "content": "没有进化"
+            },
+            {
+              "start_timestamp": 1235,
+              "end_timestamp": 1237,
+              "content": "没有进化"
+            },
+            {
+              "start_timestamp": 1237,
+              "end_timestamp": 1238,
+              "content": "能理解不"
+            },
+            {
+              "start_timestamp": 1238,
+              "end_timestamp": 1241,
+              "content": "所以记住了21天复盘打卡表"
+            },
+            {
+              "start_timestamp": 1241,
+              "end_timestamp": 1242,
+              "content": "你自己去做"
+            },
+            {
+              "start_timestamp": 1242,
+              "end_timestamp": 1243,
+              "content": "每天打一个勾"
+            },
+            {
+              "start_timestamp": 1243,
+              "end_timestamp": 1244,
+              "content": "中断就从头开始"
+            },
+            {
+              "start_timestamp": 1244,
+              "end_timestamp": 1245,
+              "content": "心理学上"
+            },
+            {
+              "start_timestamp": 1245,
+              "end_timestamp": 1248,
+              "content": "21天是养成习惯成型的一个常用门槛"
+            },
+            {
+              "start_timestamp": 1248,
+              "end_timestamp": 1250,
+              "content": "21天是以是一条线"
+            },
+            {
+              "start_timestamp": 1250,
+              "end_timestamp": 1251,
+              "content": "把这张表打印下来"
+            },
+            {
+              "start_timestamp": 1251,
+              "end_timestamp": 1252,
+              "content": "贴在电脑旁边购买"
+            },
+            {
+              "start_timestamp": 1252,
+              "end_timestamp": 1254,
+              "content": "21天再去发一条动态"
+            },
+            {
+              "start_timestamp": 1254,
+              "end_timestamp": 1256,
+              "content": "本身就是一条很好的内容"
+            },
+            {
+              "start_timestamp": 1256,
+              "end_timestamp": 1259,
+              "content": "所以各位为什么我要去给你们讲这些东西"
+            },
+            {
+              "start_timestamp": 1259,
+              "end_timestamp": 1261,
+              "content": "我也在形成我自己的习惯"
+            },
+            {
+              "start_timestamp": 1261,
+              "end_timestamp": 1262,
+              "content": "慢慢去跟你们分享"
+            },
+            {
+              "start_timestamp": 1262,
+              "end_timestamp": 1265,
+              "content": "那么认知税后续的后续的这个系列排期"
+            },
+            {
+              "start_timestamp": 1265,
+              "end_timestamp": 1267,
+              "content": "是看懂一张表"
+            },
+            {
+              "start_timestamp": 1267,
+              "end_timestamp": 1268,
+              "content": "三张表"
+            },
+            {
+              "start_timestamp": 1268,
+              "end_timestamp": 1270,
+              "content": "看懂怎么去看懂一家公司基本面"
+            },
+            {
+              "start_timestamp": 1270,
+              "end_timestamp": 1272,
+              "content": "然后主线题材的生命周期"
+            },
+            {
+              "start_timestamp": 1272,
+              "end_timestamp": 1274,
+              "content": "再是持仓还是持股啊"
+            },
+            {
+              "start_timestamp": 1274,
+              "end_timestamp": 1276,
+              "content": "持股过节还是持币过节"
+            },
+            {
+              "start_timestamp": 1276,
+              "end_timestamp": 1277,
+              "content": "15年历史统计"
+            },
+            {
+              "start_timestamp": 1277,
+              "end_timestamp": 1280,
+              "content": "这是关于说接下来这个相关内容"
+            },
+            {
+              "start_timestamp": 1280,
+              "end_timestamp": 1281,
+              "content": "那么从0~1"
+            },
+            {
+              "start_timestamp": 1281,
+              "end_timestamp": 1283,
+              "content": "搭建一套属于你的自己的交易系统"
+            },
+            {
+              "start_timestamp": 1283,
+              "end_timestamp": 1284,
+              "content": "把所有东西装进去"
+            },
+            {
+              "start_timestamp": 1284,
+              "end_timestamp": 1287,
+              "content": "那么前面已经讲过了啊"
+            },
+            {
+              "start_timestamp": 1287,
+              "end_timestamp": 1288,
+              "content": "讲过这些主页合集"
+            },
+            {
+              "start_timestamp": 1288,
+              "end_timestamp": 1289,
+              "content": "你可以连续看好吧"
+            },
+            {
+              "start_timestamp": 1289,
+              "end_timestamp": 1291,
+              "content": "能看到的去看"
+            },
+            {
+              "start_timestamp": 1291,
+              "end_timestamp": 1292,
+              "content": "尽可能的去看完"
+            },
+            {
+              "start_timestamp": 1292,
+              "end_timestamp": 1295,
+              "content": "以上所有内容都只作为个人复盘梳理"
+            },
+            {
+              "start_timestamp": 1295,
+              "end_timestamp": 1297,
+              "content": "不作为任何投资建议"
+            },
+            {
+              "start_timestamp": 1297,
+              "end_timestamp": 1299,
+              "content": "看到这里也辛苦各位帮忙点个关注"
+            },
+            {
+              "start_timestamp": 1299,
+              "end_timestamp": 1301,
+              "content": "帮我转发内容好吧"
+            },
+            {
+              "start_timestamp": 1301,
+              "end_timestamp": 1302,
+              "content": "各位爱你们"
+            }
+          ],
+          "timestamp": 3
+        }
+      ]
+    },
+    "stid": "161516894176958334",
+    "status": 0,
+    "like_num": 0,
+    "dislike_num": 0
+  }
+}

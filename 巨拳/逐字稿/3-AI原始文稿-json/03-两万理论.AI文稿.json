@@ -1,0 +1,2005 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "code": 1,
+    "model_result": {
+      "result_type": 0,
+      "summary": "",
+      "outline": [],
+      "subtitle": [
+        {
+          "title": "",
+          "part_subtitle": [
+            {
+              "start_timestamp": 1,
+              "end_timestamp": 2,
+              "content": "进入市场已经10年了"
+            },
+            {
+              "start_timestamp": 2,
+              "end_timestamp": 6,
+              "content": "我看过无数的新手进入这个草原"
+            },
+            {
+              "start_timestamp": 6,
+              "end_timestamp": 10,
+              "content": "绝大部分新手进入草原之后犯的第一个错误"
+            },
+            {
+              "start_timestamp": 10,
+              "end_timestamp": 12,
+              "content": "也叫第一个大坑"
+            },
+            {
+              "start_timestamp": 12,
+              "end_timestamp": 18,
+              "content": "就是拿超过自己可控的资金去进行交易"
+            },
+            {
+              "start_timestamp": 18,
+              "end_timestamp": 19,
+              "content": "好各位群友大家好"
+            },
+            {
+              "start_timestamp": 19,
+              "end_timestamp": 20,
+              "content": "我是聚全"
+            },
+            {
+              "start_timestamp": 20,
+              "end_timestamp": 23,
+              "content": "那么今天我们开始第一个内容"
+            },
+            {
+              "start_timestamp": 23,
+              "end_timestamp": 24,
+              "content": "所有人进入市场"
+            },
+            {
+              "start_timestamp": 24,
+              "end_timestamp": 26,
+              "content": "肯定都是怀揣着股市梦的"
+            },
+            {
+              "start_timestamp": 26,
+              "end_timestamp": 27,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 27,
+              "end_timestamp": 28,
+              "content": "没有梦"
+            },
+            {
+              "start_timestamp": 28,
+              "end_timestamp": 29,
+              "content": "谁来市场嘛"
+            },
+            {
+              "start_timestamp": 29,
+              "end_timestamp": 32,
+              "content": "进入市场大家第一件事是什么"
+            },
+            {
+              "start_timestamp": 32,
+              "end_timestamp": 35,
+              "content": "拿本金我要投入多少"
+            },
+            {
+              "start_timestamp": 35,
+              "end_timestamp": 36,
+              "content": "我是学生"
+            },
+            {
+              "start_timestamp": 36,
+              "end_timestamp": 39,
+              "content": "我可能拿个8000块钱啊"
+            },
+            {
+              "start_timestamp": 39,
+              "end_timestamp": 40,
+              "content": "我刚工作两年"
+            },
+            {
+              "start_timestamp": 40,
+              "end_timestamp": 41,
+              "content": "我可能拿个2万块钱"
+            },
+            {
+              "start_timestamp": 41,
+              "end_timestamp": 46,
+              "content": "然后我是一个那个开厂的老总"
+            },
+            {
+              "start_timestamp": 46,
+              "end_timestamp": 48,
+              "content": "我可能拿个百八十万的也很正常"
+            },
+            {
+              "start_timestamp": 48,
+              "end_timestamp": 52,
+              "content": "很多那么这样的选手有一个共性"
+            },
+            {
+              "start_timestamp": 52,
+              "end_timestamp": 55,
+              "content": "在介入一个新的一个行业"
+            },
+            {
+              "start_timestamp": 55,
+              "end_timestamp": 58,
+              "content": "尝试一个新的事物的时候"
+            },
+            {
+              "start_timestamp": 58,
+              "end_timestamp": 63,
+              "content": "总是把自己的那个理想放的特别的高"
+            },
+            {
+              "start_timestamp": 63,
+              "end_timestamp": 65,
+              "content": "把理想放的特别的高"
+            },
+            {
+              "start_timestamp": 65,
+              "end_timestamp": 66,
+              "content": "我要赚十倍"
+            },
+            {
+              "start_timestamp": 66,
+              "end_timestamp": 68,
+              "content": "我要赚百倍"
+            },
+            {
+              "start_timestamp": 68,
+              "end_timestamp": 69,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 69,
+              "end_timestamp": 71,
+              "content": "那既然理想这么高的话"
+            },
+            {
+              "start_timestamp": 71,
+              "end_timestamp": 72,
+              "content": "我的本金能少吗"
+            },
+            {
+              "start_timestamp": 72,
+              "end_timestamp": 74,
+              "content": "不能少"
+            },
+            {
+              "start_timestamp": 74,
+              "end_timestamp": 77,
+              "content": "所以就有重仓博弈"
+            },
+            {
+              "start_timestamp": 77,
+              "end_timestamp": 80,
+              "content": "我我身上假如有只有100万"
+            },
+            {
+              "start_timestamp": 80,
+              "end_timestamp": 82,
+              "content": "我拿出80万进行交易"
+            },
+            {
+              "start_timestamp": 82,
+              "end_timestamp": 83,
+              "content": "大家要思考一下"
+            },
+            {
+              "start_timestamp": 83,
+              "end_timestamp": 85,
+              "content": "80万对于100万是什么概念"
+            },
+            {
+              "start_timestamp": 85,
+              "end_timestamp": 89,
+              "content": "相当于绝大部分流动资金你都投进来了"
+            },
+            {
+              "start_timestamp": 89,
+              "end_timestamp": 94,
+              "content": "但问题是你进入市场是刚刚进入很多细节"
+            },
+            {
+              "start_timestamp": 94,
+              "end_timestamp": 97,
+              "content": "很多模式类的东西你并没有打磨好"
+            },
+            {
+              "start_timestamp": 97,
+              "end_timestamp": 100,
+              "content": "你要交学费的"
+            },
+            {
+              "start_timestamp": 100,
+              "end_timestamp": 101,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 101,
+              "end_timestamp": 103,
+              "content": "你的投入本金越大"
+            },
+            {
+              "start_timestamp": 103,
+              "end_timestamp": 107,
+              "content": "你的学费就越高就越高"
+            },
+            {
+              "start_timestamp": 107,
+              "end_timestamp": 112,
+              "content": "所以新手最容易踩的坑就是盲目自大"
+            },
+            {
+              "start_timestamp": 112,
+              "end_timestamp": 116,
+              "content": "用不可控的本金去进行交易啊"
+            },
+            {
+              "start_timestamp": 116,
+              "end_timestamp": 118,
+              "content": "我这里写下来"
+            },
+            {
+              "start_timestamp": 128,
+              "end_timestamp": 130,
+              "content": "那不管大家相不相信"
+            },
+            {
+              "start_timestamp": 130,
+              "end_timestamp": 135,
+              "content": "我进入市场10年一九年开始写公众号"
+            },
+            {
+              "start_timestamp": 135,
+              "end_timestamp": 137,
+              "content": "119年开始写"
+            },
+            {
+              "start_timestamp": 137,
+              "end_timestamp": 141,
+              "content": "到目前已经有67年的时间了"
+            },
+            {
+              "start_timestamp": 141,
+              "end_timestamp": 143,
+              "content": "在整个那个后台上"
+            },
+            {
+              "start_timestamp": 143,
+              "end_timestamp": 147,
+              "content": "我是看到了很多惨绝人寰的这真实案例啊"
+            },
+            {
+              "start_timestamp": 147,
+              "end_timestamp": 149,
+              "content": "惨绝人寰"
+            },
+            {
+              "start_timestamp": 149,
+              "end_timestamp": 150,
+              "content": "这个我之前聊过很多次"
+            },
+            {
+              "start_timestamp": 150,
+              "end_timestamp": 152,
+              "content": "我现在再聊一下啊"
+            },
+            {
+              "start_timestamp": 152,
+              "end_timestamp": 155,
+              "content": "有一个上海的一个女的"
+            },
+            {
+              "start_timestamp": 155,
+              "end_timestamp": 160,
+              "content": "然后拿则他是当年是新婚夫妇啊"
+            },
+            {
+              "start_timestamp": 160,
+              "end_timestamp": 163,
+              "content": "然后两方双方家庭给他"
+            },
+            {
+              "start_timestamp": 164,
+              "end_timestamp": 167,
+              "content": "给他们这个小家庭凑了一笔房"
+            },
+            {
+              "start_timestamp": 167,
+              "end_timestamp": 169,
+              "content": "那个房本凑了一笔房本"
+            },
+            {
+              "start_timestamp": 169,
+              "end_timestamp": 172,
+              "content": "就帮他们供的那个给了给了那个首付"
+            },
+            {
+              "start_timestamp": 172,
+              "end_timestamp": 176,
+              "content": "在上海的首付应该要当时要小几百万"
+            },
+            {
+              "start_timestamp": 176,
+              "end_timestamp": 179,
+              "content": "然后他把这个拿去"
+            },
+            {
+              "start_timestamp": 179,
+              "end_timestamp": 182,
+              "content": "把这个资金一用拿去做股票"
+            },
+            {
+              "start_timestamp": 182,
+              "end_timestamp": 185,
+              "content": "他是一个国企的一个员工哈"
+            },
+            {
+              "start_timestamp": 185,
+              "end_timestamp": 186,
+              "content": "每个月两三万"
+            },
+            {
+              "start_timestamp": 186,
+              "end_timestamp": 188,
+              "content": "说实话在上海不算很高"
+            },
+            {
+              "start_timestamp": 188,
+              "end_timestamp": 189,
+              "content": "但是还可以"
+            },
+            {
+              "start_timestamp": 189,
+              "end_timestamp": 193,
+              "content": "这么美美满的一个家庭300万"
+            },
+            {
+              "start_timestamp": 193,
+              "end_timestamp": 196,
+              "content": "最后带走了不超过100万"
+            },
+            {
+              "start_timestamp": 196,
+              "end_timestamp": 198,
+              "content": "具体数字我忘记了"
+            },
+            {
+              "start_timestamp": 198,
+              "end_timestamp": 200,
+              "content": "然后他在后台问我怎么办"
+            },
+            {
+              "start_timestamp": 200,
+              "end_timestamp": 202,
+              "content": "钱哥怎么办"
+            },
+            {
+              "start_timestamp": 202,
+              "end_timestamp": 206,
+              "content": "然后他可以为回本做任何事情"
+            },
+            {
+              "start_timestamp": 206,
+              "end_timestamp": 207,
+              "content": "大家可以去思考啊"
+            },
+            {
+              "start_timestamp": 207,
+              "end_timestamp": 209,
+              "content": "这个任何事情包括什么事情"
+            },
+            {
+              "start_timestamp": 209,
+              "end_timestamp": 211,
+              "content": "这是真实案例啊"
+            },
+            {
+              "start_timestamp": 211,
+              "end_timestamp": 215,
+              "content": "啊我再聊一个自己的故事哈"
+            },
+            {
+              "start_timestamp": 215,
+              "end_timestamp": 217,
+              "content": "再聊一个自己的"
+            },
+            {
+              "start_timestamp": 217,
+              "end_timestamp": 219,
+              "content": "当年我大学毕业的时候"
+            },
+            {
+              "start_timestamp": 219,
+              "end_timestamp": 221,
+              "content": "当时家境还可以的"
+            },
+            {
+              "start_timestamp": 221,
+              "end_timestamp": 223,
+              "content": "当年家境还可以"
+            },
+            {
+              "start_timestamp": 223,
+              "end_timestamp": 225,
+              "content": "然后我们本地有一个商场"
+            },
+            {
+              "start_timestamp": 225,
+              "end_timestamp": 227,
+              "content": "那个时候刚刚建成本地的一个商场"
+            },
+            {
+              "start_timestamp": 227,
+              "end_timestamp": 233,
+              "content": "现在已经是我这个市排名前三的一个综合商场"
+            },
+            {
+              "start_timestamp": 233,
+              "end_timestamp": 235,
+              "content": "然后当时我爸怎么说呢"
+            },
+            {
+              "start_timestamp": 235,
+              "end_timestamp": 237,
+              "content": "他他拿了300万"
+            },
+            {
+              "start_timestamp": 237,
+              "end_timestamp": 238,
+              "content": "他跟我说啊"
+            },
+            {
+              "start_timestamp": 238,
+              "end_timestamp": 239,
+              "content": "现在你已经毕业了"
+            },
+            {
+              "start_timestamp": 239,
+              "end_timestamp": 244,
+              "content": "然后你看一下要不要去做点生意"
+            },
+            {
+              "start_timestamp": 245,
+              "end_timestamp": 249,
+              "content": "让我去这个商场拿下一个档口啊"
+            },
+            {
+              "start_timestamp": 249,
+              "end_timestamp": 251,
+              "content": "那个时候我是怎么做的"
+            },
+            {
+              "start_timestamp": 251,
+              "end_timestamp": 253,
+              "content": "我在那个商场门口蹲了一个月"
+            },
+            {
+              "start_timestamp": 253,
+              "end_timestamp": 256,
+              "content": "我真的就在门口蹲了一个月"
+            },
+            {
+              "start_timestamp": 256,
+              "end_timestamp": 259,
+              "content": "当时是没有什么人工智能去给你做分析的"
+            },
+            {
+              "start_timestamp": 259,
+              "end_timestamp": 260,
+              "content": "1010年前啊"
+            },
+            {
+              "start_timestamp": 260,
+              "end_timestamp": 262,
+              "content": "没有人工智能给你做"
+            },
+            {
+              "start_timestamp": 262,
+              "end_timestamp": 263,
+              "content": "去分析去做分析"
+            },
+            {
+              "start_timestamp": 263,
+              "end_timestamp": 266,
+              "content": "也没有那个商场的那个经营数据去给你看的"
+            },
+            {
+              "start_timestamp": 266,
+              "end_timestamp": 270,
+              "content": "我只能用最蠢的办法就是蹲门口蹲了一个月"
+            },
+            {
+              "start_timestamp": 270,
+              "end_timestamp": 271,
+              "content": "我每天看人流"
+            },
+            {
+              "start_timestamp": 271,
+              "end_timestamp": 273,
+              "content": "我看一下进来吃东西的人多呢"
+            },
+            {
+              "start_timestamp": 273,
+              "end_timestamp": 274,
+              "content": "还是买衣服的"
+            },
+            {
+              "start_timestamp": 274,
+              "end_timestamp": 278,
+              "content": "还是单纯的是那种老大爷老大妈进去啊"
+            },
+            {
+              "start_timestamp": 278,
+              "end_timestamp": 279,
+              "content": "蹭蹭空调的"
+            },
+            {
+              "start_timestamp": 279,
+              "end_timestamp": 283,
+              "content": "就像我这类蹲了一个月"
+            },
+            {
+              "start_timestamp": 283,
+              "end_timestamp": 285,
+              "content": "然后过了一个月"
+            },
+            {
+              "start_timestamp": 285,
+              "end_timestamp": 286,
+              "content": "过了一个月之后"
+            },
+            {
+              "start_timestamp": 286,
+              "end_timestamp": 290,
+              "content": "我觉得不行"
+            },
+            {
+              "start_timestamp": 290,
+              "end_timestamp": 292,
+              "content": "我这300万砸进去"
+            },
+            {
+              "start_timestamp": 292,
+              "end_timestamp": 294,
+              "content": "我很有可能赚不回来"
+            },
+            {
+              "start_timestamp": 294,
+              "end_timestamp": 297,
+              "content": "最终我就决定跟我跟我爸说"
+            },
+            {
+              "start_timestamp": 297,
+              "end_timestamp": 297,
+              "content": "唉不要了"
+            },
+            {
+              "start_timestamp": 297,
+              "end_timestamp": 299,
+              "content": "你这个钱你自己留着"
+            },
+            {
+              "start_timestamp": 299,
+              "end_timestamp": 301,
+              "content": "我自己去想一下做什么事啊"
+            },
+            {
+              "start_timestamp": 301,
+              "end_timestamp": 302,
+              "content": "所以我才进入的股市"
+            },
+            {
+              "start_timestamp": 302,
+              "end_timestamp": 305,
+              "content": "这个是我的入市的那个小故事啊"
+            },
+            {
+              "start_timestamp": 305,
+              "end_timestamp": 308,
+              "content": "所以结合我自己的故事"
+            },
+            {
+              "start_timestamp": 308,
+              "end_timestamp": 311,
+              "content": "还有结合我刚才说的那个上海的那个人的故事"
+            },
+            {
+              "start_timestamp": 311,
+              "end_timestamp": 313,
+              "content": "大家可以去想一下"
+            },
+            {
+              "start_timestamp": 314,
+              "end_timestamp": 318,
+              "content": "我们拿着超过能力的本金去进行交易"
+            },
+            {
+              "start_timestamp": 318,
+              "end_timestamp": 319,
+              "content": "本质是什么"
+            },
+            {
+              "start_timestamp": 319,
+              "end_timestamp": 323,
+              "content": "本质是对自己的钱极度的不负责"
+            },
+            {
+              "start_timestamp": 325,
+              "end_timestamp": 327,
+              "content": "极度的不负责"
+            },
+            {
+              "start_timestamp": 328,
+              "end_timestamp": 330,
+              "content": "因此我在2019年"
+            },
+            {
+              "start_timestamp": 330,
+              "end_timestamp": 334,
+              "content": "我应该是全市场最早提出来2万思维"
+            },
+            {
+              "start_timestamp": 334,
+              "end_timestamp": 338,
+              "content": "其实本质上就是风险思维的2万思维"
+            },
+            {
+              "start_timestamp": 338,
+              "end_timestamp": 339,
+              "content": "什么叫2万思维啊"
+            },
+            {
+              "start_timestamp": 339,
+              "end_timestamp": 340,
+              "content": "大家记得吗"
+            },
+            {
+              "start_timestamp": 340,
+              "end_timestamp": 341,
+              "content": "有没有老群友记得的"
+            },
+            {
+              "start_timestamp": 341,
+              "end_timestamp": 343,
+              "content": "大家可以想一下啊"
+            },
+            {
+              "start_timestamp": 343,
+              "end_timestamp": 346,
+              "content": "2万思维指的是我们进入市场"
+            },
+            {
+              "start_timestamp": 351,
+              "end_timestamp": 354,
+              "content": "我们先做一段时间"
+            },
+            {
+              "start_timestamp": 354,
+              "end_timestamp": 358,
+              "content": "等这段时间我们对整个股市有一定的认知之后"
+            },
+            {
+              "start_timestamp": 358,
+              "end_timestamp": 361,
+              "content": "我们如果说有赚钱"
+            },
+            {
+              "start_timestamp": 361,
+              "end_timestamp": 363,
+              "content": "或者你做得相对稳定"
+            },
+            {
+              "start_timestamp": 363,
+              "end_timestamp": 365,
+              "content": "你可以慢慢地进行加仓"
+            },
+            {
+              "start_timestamp": 365,
+              "end_timestamp": 368,
+              "content": "不影响你最终的目标达成"
+            },
+            {
+              "start_timestamp": 369,
+              "end_timestamp": 373,
+              "content": "你可以慢慢的把你的总资金加进去"
+            },
+            {
+              "start_timestamp": 373,
+              "end_timestamp": 375,
+              "content": "但是你不要一次性加进来"
+            },
+            {
+              "start_timestamp": 375,
+              "end_timestamp": 378,
+              "content": "尤其是一个陌生的一个市场"
+            },
+            {
+              "start_timestamp": 378,
+              "end_timestamp": 380,
+              "content": "大家能理解什么意思吗"
+            },
+            {
+              "start_timestamp": 380,
+              "end_timestamp": 381,
+              "content": "这个是我提出来的思维"
+            },
+            {
+              "start_timestamp": 381,
+              "end_timestamp": 385,
+              "content": "因为学习是需要成本的"
+            },
+            {
+              "start_timestamp": 386,
+              "end_timestamp": 390,
+              "content": "然后我19年讲了这个2万思维之后啊"
+            },
+            {
+              "start_timestamp": 390,
+              "end_timestamp": 394,
+              "content": "哦这这段时间我翻了一下网上B站也好啊"
+            },
+            {
+              "start_timestamp": 394,
+              "end_timestamp": 395,
+              "content": "抖音也好啊"
+            },
+            {
+              "start_timestamp": 395,
+              "end_timestamp": 397,
+              "content": "就其他自媒自自自媒"
+            },
+            {
+              "start_timestamp": 397,
+              "end_timestamp": 399,
+              "content": "自媒体平台我都看了一下哈"
+            },
+            {
+              "start_timestamp": 399,
+              "end_timestamp": 402,
+              "content": "好多人都用我的2万思维"
+            },
+            {
+              "start_timestamp": 402,
+              "end_timestamp": 403,
+              "content": "好多人用啊"
+            },
+            {
+              "start_timestamp": 403,
+              "end_timestamp": 404,
+              "content": "包括曹家"
+            },
+            {
+              "start_timestamp": 404,
+              "end_timestamp": 408,
+              "content": "当时在那个抖音跟那个大胡子直播的时候"
+            },
+            {
+              "start_timestamp": 408,
+              "end_timestamp": 409,
+              "content": "也在聊这个2万思维"
+            },
+            {
+              "start_timestamp": 409,
+              "end_timestamp": 411,
+              "content": "我可以跟大家说啊"
+            },
+            {
+              "start_timestamp": 411,
+              "end_timestamp": 412,
+              "content": "他们提的绝对没我早"
+            },
+            {
+              "start_timestamp": 412,
+              "end_timestamp": 413,
+              "content": "我是19年提的"
+            },
+            {
+              "start_timestamp": 413,
+              "end_timestamp": 417,
+              "content": "他们是这两年才提的2万思维"
+            },
+            {
+              "start_timestamp": 417,
+              "end_timestamp": 419,
+              "content": "当然人越多人去讲"
+            },
+            {
+              "start_timestamp": 419,
+              "end_timestamp": 421,
+              "content": "这个2万思维肯定是一个好事嘛"
+            },
+            {
+              "start_timestamp": 421,
+              "end_timestamp": 423,
+              "content": "对整个市场肯定是好事"
+            },
+            {
+              "start_timestamp": 423,
+              "end_timestamp": 424,
+              "content": "所有人进入市场"
+            },
+            {
+              "start_timestamp": 424,
+              "end_timestamp": 428,
+              "content": "如果都能通过各种各样的自媒自媒体平台啊"
+            },
+            {
+              "start_timestamp": 428,
+              "end_timestamp": 430,
+              "content": "听过这个2万水啊"
+            },
+            {
+              "start_timestamp": 430,
+              "end_timestamp": 432,
+              "content": "你对这个市场至少有一定的畏惧性"
+            },
+            {
+              "start_timestamp": 432,
+              "end_timestamp": 436,
+              "content": "你对这个市场这至少竟有有一定的保守性"
+            },
+            {
+              "start_timestamp": 436,
+              "end_timestamp": 437,
+              "content": "你不要一进来"
+            },
+            {
+              "start_timestamp": 437,
+              "end_timestamp": 440,
+              "content": "我就怀揣着特别大的梦"
+            },
+            {
+              "start_timestamp": 440,
+              "end_timestamp": 442,
+              "content": "你要心里想着我这2万进来能不能保住"
+            },
+            {
+              "start_timestamp": 442,
+              "end_timestamp": 445,
+              "content": "成在想后面能不能赚到4万"
+            },
+            {
+              "start_timestamp": 445,
+              "end_timestamp": 446,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 447,
+              "end_timestamp": 450,
+              "content": "那么这个2万思维我是最早提出来的"
+            },
+            {
+              "start_timestamp": 450,
+              "end_timestamp": 452,
+              "content": "但是我现在自己来说"
+            },
+            {
+              "start_timestamp": 452,
+              "end_timestamp": 454,
+              "content": "2万思维已经过时了"
+            },
+            {
+              "start_timestamp": 454,
+              "end_timestamp": 457,
+              "content": "2万4位已经过时了"
+            },
+            {
+              "start_timestamp": 457,
+              "end_timestamp": 458,
+              "content": "为什么呢"
+            },
+            {
+              "start_timestamp": 459,
+              "end_timestamp": 464,
+              "content": "随着这几年量化市场主导行情"
+            },
+            {
+              "start_timestamp": 464,
+              "end_timestamp": 471,
+              "content": "很多股票是很多股票呈现于趋势性上涨"
+            },
+            {
+              "start_timestamp": 471,
+              "end_timestamp": 473,
+              "content": "从原来的十块钱涨到50块"
+            },
+            {
+              "start_timestamp": 473,
+              "end_timestamp": 474,
+              "content": "涨到100块"
+            },
+            {
+              "start_timestamp": 474,
+              "end_timestamp": 476,
+              "content": "涨到200块啊"
+            },
+            {
+              "start_timestamp": 476,
+              "end_timestamp": 478,
+              "content": "你们可以去翻看一下现在的那个市场啊"
+            },
+            {
+              "start_timestamp": 478,
+              "end_timestamp": 481,
+              "content": "我大家看大家看一下"
+            },
+            {
+              "start_timestamp": 482,
+              "end_timestamp": 487,
+              "content": "我们看一下这个现在"
+            },
+            {
+              "start_timestamp": 489,
+              "end_timestamp": 498,
+              "content": "额这里超过100块的股票有278只"
+            },
+            {
+              "start_timestamp": 498,
+              "end_timestamp": 502,
+              "content": "超过100块的股票啊"
+            },
+            {
+              "start_timestamp": 502,
+              "end_timestamp": 503,
+              "content": "大家能理解什么概念吗"
+            },
+            {
+              "start_timestamp": 503,
+              "end_timestamp": 505,
+              "content": "然后我们点开这个20日涨幅"
+            },
+            {
+              "start_timestamp": 505,
+              "end_timestamp": 507,
+              "content": "就是这段时间涨幅"
+            },
+            {
+              "start_timestamp": 507,
+              "end_timestamp": 511,
+              "content": "排前面的大部分都是大几十块"
+            },
+            {
+              "start_timestamp": 511,
+              "end_timestamp": 514,
+              "content": "几百块一股的"
+            },
+            {
+              "start_timestamp": 515,
+              "end_timestamp": 516,
+              "content": "那那大家回归这里"
+            },
+            {
+              "start_timestamp": 517,
+              "end_timestamp": 521,
+              "content": "2万思维够不够2万4位够不够"
+            },
+            {
+              "start_timestamp": 523,
+              "end_timestamp": 524,
+              "content": "几十块一股"
+            },
+            {
+              "start_timestamp": 524,
+              "end_timestamp": 525,
+              "content": "几百块一股"
+            },
+            {
+              "start_timestamp": 525,
+              "end_timestamp": 528,
+              "content": "你一股一手多少钱啊"
+            },
+            {
+              "start_timestamp": 528,
+              "end_timestamp": 531,
+              "content": "更不要说那个科创的"
+            },
+            {
+              "start_timestamp": 531,
+              "end_timestamp": 533,
+              "content": "科创的买入最少买两手"
+            },
+            {
+              "start_timestamp": 533,
+              "end_timestamp": 536,
+              "content": "最少买两手"
+            },
+            {
+              "start_timestamp": 536,
+              "end_timestamp": 537,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 537,
+              "end_timestamp": 540,
+              "content": "所以现在时代已经变化了"
+            },
+            {
+              "start_timestamp": 540,
+              "end_timestamp": 543,
+              "content": "你以前2万人参与主流市场"
+            },
+            {
+              "start_timestamp": 543,
+              "end_timestamp": 547,
+              "content": "绝大部分的那些股票"
+            },
+            {
+              "start_timestamp": 547,
+              "end_timestamp": 550,
+              "content": "就是主流主流短线的也好啊"
+            },
+            {
+              "start_timestamp": 550,
+              "end_timestamp": 551,
+              "content": "然后主流板块也好"
+            },
+            {
+              "start_timestamp": 551,
+              "end_timestamp": 553,
+              "content": "里面绝大部分绝大部分股票"
+            },
+            {
+              "start_timestamp": 553,
+              "end_timestamp": 555,
+              "content": "你2万块钱你可以去参与"
+            },
+            {
+              "start_timestamp": 555,
+              "end_timestamp": 560,
+              "content": "现在2万块钱你连买都买不到"
+            },
+            {
+              "start_timestamp": 560,
+              "end_timestamp": 561,
+              "content": "明白了吧"
+            },
+            {
+              "start_timestamp": 561,
+              "end_timestamp": 563,
+              "content": "所以说不要"
+            },
+            {
+              "start_timestamp": 563,
+              "end_timestamp": 566,
+              "content": "如果说有有其他up主看我这个视频啊"
+            },
+            {
+              "start_timestamp": 566,
+              "end_timestamp": 567,
+              "content": "不要无脑去用2万思维"
+            },
+            {
+              "start_timestamp": 567,
+              "end_timestamp": 568,
+              "content": "很不科学"
+            },
+            {
+              "start_timestamp": 568,
+              "end_timestamp": 569,
+              "content": "很不合理"
+            },
+            {
+              "start_timestamp": 569,
+              "end_timestamp": 571,
+              "content": "不符合现实啊"
+            },
+            {
+              "start_timestamp": 571,
+              "end_timestamp": 573,
+              "content": "2万根本买不到股票"
+            },
+            {
+              "start_timestamp": 573,
+              "end_timestamp": 576,
+              "content": "有的人可能说我去买别的那些非主流的"
+            },
+            {
+              "start_timestamp": 576,
+              "end_timestamp": 580,
+              "content": "那就与学习的学习相悖了啊"
+            },
+            {
+              "start_timestamp": 580,
+              "end_timestamp": 582,
+              "content": "你如果不参与主流"
+            },
+            {
+              "start_timestamp": 582,
+              "end_timestamp": 583,
+              "content": "你不参与核心的话"
+            },
+            {
+              "start_timestamp": 583,
+              "end_timestamp": 585,
+              "content": "你是不适合学习的"
+            },
+            {
+              "start_timestamp": 585,
+              "end_timestamp": 587,
+              "content": "大家能理解什么意思吗"
+            },
+            {
+              "start_timestamp": 587,
+              "end_timestamp": 589,
+              "content": "你就为了低价股你去做"
+            },
+            {
+              "start_timestamp": 589,
+              "end_timestamp": 591,
+              "content": "你就为了买得到"
+            },
+            {
+              "start_timestamp": 591,
+              "end_timestamp": 591,
+              "content": "你去做"
+            },
+            {
+              "start_timestamp": 591,
+              "end_timestamp": 593,
+              "content": "那你一定是学不学不到的"
+            },
+            {
+              "start_timestamp": 593,
+              "end_timestamp": 595,
+              "content": "你连参与的门槛都没有"
+            },
+            {
+              "start_timestamp": 595,
+              "end_timestamp": 596,
+              "content": "那怎么做呢"
+            },
+            {
+              "start_timestamp": 596,
+              "end_timestamp": 597,
+              "content": "懂了吧"
+            },
+            {
+              "start_timestamp": 597,
+              "end_timestamp": 600,
+              "content": "所以现代变了啊"
+            },
+            {
+              "start_timestamp": 600,
+              "end_timestamp": 601,
+              "content": "不要再叫2万思维了"
+            },
+            {
+              "start_timestamp": 601,
+              "end_timestamp": 603,
+              "content": "现在叫做两手思维"
+            },
+            {
+              "start_timestamp": 603,
+              "end_timestamp": 605,
+              "content": "两手理论"
+            },
+            {
+              "start_timestamp": 606,
+              "end_timestamp": 607,
+              "content": "那么好"
+            },
+            {
+              "start_timestamp": 607,
+              "end_timestamp": 609,
+              "content": "现在我们继续聊一下"
+            },
+            {
+              "start_timestamp": 609,
+              "end_timestamp": 611,
+              "content": "为什么要用两手啊"
+            },
+            {
+              "start_timestamp": 611,
+              "end_timestamp": 613,
+              "content": "当时叫2万"
+            },
+            {
+              "start_timestamp": 613,
+              "end_timestamp": 614,
+              "content": "现在为什么要叫两首"
+            },
+            {
+              "start_timestamp": 614,
+              "end_timestamp": 615,
+              "content": "我们现在来聊一下啊"
+            },
+            {
+              "start_timestamp": 615,
+              "end_timestamp": 617,
+              "content": "第一点做题标准"
+            },
+            {
+              "start_timestamp": 617,
+              "end_timestamp": 621,
+              "content": "我们一只股票我们买一手T1手"
+            },
+            {
+              "start_timestamp": 621,
+              "end_timestamp": 625,
+              "content": "所以我们总仓位至少是两手"
+            },
+            {
+              "start_timestamp": 625,
+              "end_timestamp": 627,
+              "content": "这个是对于大部分股票来说的"
+            },
+            {
+              "start_timestamp": 627,
+              "end_timestamp": 628,
+              "content": "如果是科创"
+            },
+            {
+              "start_timestamp": 628,
+              "end_timestamp": 631,
+              "content": "你买的话至少是买两手啊"
+            },
+            {
+              "start_timestamp": 631,
+              "end_timestamp": 633,
+              "content": "这些有一些特殊的要求"
+            },
+            {
+              "start_timestamp": 633,
+              "end_timestamp": 635,
+              "content": "那你就是四首"
+            },
+            {
+              "start_timestamp": 635,
+              "end_timestamp": 638,
+              "content": "我这里定两首是定的是最低的"
+            },
+            {
+              "start_timestamp": 638,
+              "end_timestamp": 641,
+              "content": "最低的做题标准"
+            },
+            {
+              "start_timestamp": 641,
+              "end_timestamp": 645,
+              "content": "做T属于交易的一部分啊"
+            },
+            {
+              "start_timestamp": 645,
+              "end_timestamp": 648,
+              "content": "买入做低持仓卖出"
+            },
+            {
+              "start_timestamp": 648,
+              "end_timestamp": 650,
+              "content": "只要你有两手"
+            },
+            {
+              "start_timestamp": 650,
+              "end_timestamp": 655,
+              "content": "你就能完成绝大部分的基础金融交易啊"
+            },
+            {
+              "start_timestamp": 655,
+              "end_timestamp": 657,
+              "content": "你就可以完成这些动作"
+            },
+            {
+              "start_timestamp": 657,
+              "end_timestamp": 659,
+              "content": "所以这个是最低标准"
+            },
+            {
+              "start_timestamp": 659,
+              "end_timestamp": 665,
+              "content": "第二个两手是最低的分仓要求啊"
+            },
+            {
+              "start_timestamp": 665,
+              "end_timestamp": 668,
+              "content": "你我在学习过程中哈"
+            },
+            {
+              "start_timestamp": 668,
+              "end_timestamp": 669,
+              "content": "如果是小资金"
+            },
+            {
+              "start_timestamp": 669,
+              "end_timestamp": 675,
+              "content": "这听清楚小资金就你刚刚好可能只有334万"
+            },
+            {
+              "start_timestamp": 675,
+              "end_timestamp": 677,
+              "content": "你只能买一手两手啊"
+            },
+            {
+              "start_timestamp": 677,
+              "end_timestamp": 679,
+              "content": "你当然只能满仓了"
+            },
+            {
+              "start_timestamp": 679,
+              "end_timestamp": 681,
+              "content": "你没有办法去做分仓的"
+            },
+            {
+              "start_timestamp": 681,
+              "end_timestamp": 682,
+              "content": "你你们去看啊"
+            },
+            {
+              "start_timestamp": 682,
+              "end_timestamp": 689,
+              "content": "咳你就像这个涨幅最大的中创385块钱"
+            },
+            {
+              "start_timestamp": 689,
+              "end_timestamp": 694,
+              "content": "一股科创板也就是买一手78万啊"
+            },
+            {
+              "start_timestamp": 694,
+              "end_timestamp": 696,
+              "content": "买一手78万"
+            },
+            {
+              "start_timestamp": 696,
+              "end_timestamp": 699,
+              "content": "所以我们说两首是最低的"
+            },
+            {
+              "start_timestamp": 699,
+              "end_timestamp": 701,
+              "content": "做题最低的分仓要求"
+            },
+            {
+              "start_timestamp": 701,
+              "end_timestamp": 702,
+              "content": "我们在学习过程中"
+            },
+            {
+              "start_timestamp": 702,
+              "end_timestamp": 704,
+              "content": "有时候达不到这个标准的"
+            },
+            {
+              "start_timestamp": 704,
+              "end_timestamp": 705,
+              "content": "只是最低的"
+            },
+            {
+              "start_timestamp": 705,
+              "end_timestamp": 707,
+              "content": "从理论来说"
+            },
+            {
+              "start_timestamp": 707,
+              "end_timestamp": 708,
+              "content": "我们要分仓嘛"
+            },
+            {
+              "start_timestamp": 708,
+              "end_timestamp": 710,
+              "content": "我们未来要做大资金"
+            },
+            {
+              "start_timestamp": 710,
+              "end_timestamp": 712,
+              "content": "我们从小资金开始学起对吧"
+            },
+            {
+              "start_timestamp": 712,
+              "end_timestamp": 713,
+              "content": "慢慢的加资金"
+            },
+            {
+              "start_timestamp": 713,
+              "end_timestamp": 714,
+              "content": "慢慢的做大"
+            },
+            {
+              "start_timestamp": 714,
+              "end_timestamp": 715,
+              "content": "做到未来大资金"
+            },
+            {
+              "start_timestamp": 715,
+              "end_timestamp": 718,
+              "content": "我们肯定涉及到分仓的最低的分"
+            },
+            {
+              "start_timestamp": 718,
+              "end_timestamp": 720,
+              "content": "那个分仓要求就是两手啊"
+            },
+            {
+              "start_timestamp": 720,
+              "end_timestamp": 721,
+              "content": "各买一手"
+            },
+            {
+              "start_timestamp": 721,
+              "end_timestamp": 723,
+              "content": "分两分两笔嘛"
+            },
+            {
+              "start_timestamp": 723,
+              "end_timestamp": 725,
+              "content": "那你如果说你资金量越大"
+            },
+            {
+              "start_timestamp": 725,
+              "end_timestamp": 726,
+              "content": "你可能分三笔"
+            },
+            {
+              "start_timestamp": 726,
+              "end_timestamp": 727,
+              "content": "1/3"
+            },
+            {
+              "start_timestamp": 727,
+              "end_timestamp": 727,
+              "content": "1/4"
+            },
+            {
+              "start_timestamp": 727,
+              "end_timestamp": 728,
+              "content": "1/8"
+            },
+            {
+              "start_timestamp": 728,
+              "end_timestamp": 730,
+              "content": "现在像我大户啊"
+            },
+            {
+              "start_timestamp": 730,
+              "end_timestamp": 732,
+              "content": "我现在大账户做的就是1/8"
+            },
+            {
+              "start_timestamp": 732,
+              "end_timestamp": 735,
+              "content": "然后我用那个食堂户的话"
+            },
+            {
+              "start_timestamp": 735,
+              "end_timestamp": 737,
+              "content": "就是做的1/4分成"
+            },
+            {
+              "start_timestamp": 737,
+              "end_timestamp": 738,
+              "content": "这是第二点"
+            },
+            {
+              "start_timestamp": 738,
+              "end_timestamp": 741,
+              "content": "最低的分场要求"
+            },
+            {
+              "start_timestamp": 741,
+              "end_timestamp": 742,
+              "content": "第三点"
+            },
+            {
+              "start_timestamp": 742,
+              "end_timestamp": 745,
+              "content": "从学习和亏损的角度"
+            },
+            {
+              "start_timestamp": 745,
+              "end_timestamp": 747,
+              "content": "这个点可以聊很久"
+            },
+            {
+              "start_timestamp": 747,
+              "end_timestamp": 748,
+              "content": "聊风险嘛"
+            },
+            {
+              "start_timestamp": 748,
+              "end_timestamp": 750,
+              "content": "聊学习嘛可以聊很久"
+            },
+            {
+              "start_timestamp": 750,
+              "end_timestamp": 751,
+              "content": "为什么叫两手思维"
+            },
+            {
+              "start_timestamp": 751,
+              "end_timestamp": 755,
+              "content": "因为两手基本上是你参与这个市场的最低标准"
+            },
+            {
+              "start_timestamp": 755,
+              "end_timestamp": 758,
+              "content": "也就是你从学习和亏损的角度"
+            },
+            {
+              "start_timestamp": 758,
+              "end_timestamp": 760,
+              "content": "你亏的越少"
+            },
+            {
+              "start_timestamp": 760,
+              "end_timestamp": 762,
+              "content": "亏的是最少的一个角度"
+            },
+            {
+              "start_timestamp": 762,
+              "end_timestamp": 764,
+              "content": "学的是最多的"
+            },
+            {
+              "start_timestamp": 764,
+              "end_timestamp": 767,
+              "content": "你两手学起来跟别人"
+            },
+            {
+              "start_timestamp": 767,
+              "end_timestamp": 771,
+              "content": "200万手学起来是没有区别的"
+            },
+            {
+              "start_timestamp": 771,
+              "end_timestamp": 772,
+              "content": "我现在很有钱"
+            },
+            {
+              "start_timestamp": 772,
+              "end_timestamp": 773,
+              "content": "我现在进入市场"
+            },
+            {
+              "start_timestamp": 773,
+              "end_timestamp": 774,
+              "content": "我拿拿很多钱的金"
+            },
+            {
+              "start_timestamp": 774,
+              "end_timestamp": 777,
+              "content": "很多钱的资金来投资"
+            },
+            {
+              "start_timestamp": 777,
+              "end_timestamp": 779,
+              "content": "他跟你没有任何区别"
+            },
+            {
+              "start_timestamp": 779,
+              "end_timestamp": 781,
+              "content": "因为你们两个都属于新手"
+            },
+            {
+              "start_timestamp": 781,
+              "end_timestamp": 783,
+              "content": "明白没有"
+            },
+            {
+              "start_timestamp": 783,
+              "end_timestamp": 785,
+              "content": "你们从学习的角度来说"
+            },
+            {
+              "start_timestamp": 785,
+              "end_timestamp": 787,
+              "content": "学的是一模一样的"
+            },
+            {
+              "start_timestamp": 787,
+              "end_timestamp": 789,
+              "content": "最低要求"
+            },
+            {
+              "start_timestamp": 789,
+              "end_timestamp": 790,
+              "content": "最高标准"
+            },
+            {
+              "start_timestamp": 790,
+              "end_timestamp": 793,
+              "content": "亏的呢你们去思考一下"
+            },
+            {
+              "start_timestamp": 793,
+              "end_timestamp": 795,
+              "content": "我拿100万"
+            },
+            {
+              "start_timestamp": 795,
+              "end_timestamp": 797,
+              "content": "我亏一笔亏10万"
+            },
+            {
+              "start_timestamp": 797,
+              "end_timestamp": 797,
+              "content": "100万"
+            },
+            {
+              "start_timestamp": 797,
+              "end_timestamp": 801,
+              "content": "那个就是拿钱的人可能还还要存个几年"
+            },
+            {
+              "start_timestamp": 801,
+              "end_timestamp": 803,
+              "content": "存了10年才存得到你"
+            },
+            {
+              "start_timestamp": 803,
+              "end_timestamp": 804,
+              "content": "你在股票中"
+            },
+            {
+              "start_timestamp": 804,
+              "end_timestamp": 807,
+              "content": "你在股市中一天就给你亏掉"
+            },
+            {
+              "start_timestamp": 807,
+              "end_timestamp": 808,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 808,
+              "end_timestamp": 811,
+              "content": "一天就亏你存了多少年的那个钱"
+            },
+            {
+              "start_timestamp": 811,
+              "end_timestamp": 813,
+              "content": "所以说你再有钱"
+            },
+            {
+              "start_timestamp": 813,
+              "end_timestamp": 814,
+              "content": "你要把这个本金压下来"
+            },
+            {
+              "start_timestamp": 814,
+              "end_timestamp": 816,
+              "content": "你先学透学好"
+            },
+            {
+              "start_timestamp": 817,
+              "end_timestamp": 819,
+              "content": "你再来谈收益的问题"
+            },
+            {
+              "start_timestamp": 819,
+              "end_timestamp": 820,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 820,
+              "end_timestamp": 822,
+              "content": "所以两手你去做"
+            },
+            {
+              "start_timestamp": 822,
+              "end_timestamp": 825,
+              "content": "你的学习是达到极致的"
+            },
+            {
+              "start_timestamp": 825,
+              "end_timestamp": 826,
+              "content": "不影响你学习"
+            },
+            {
+              "start_timestamp": 826,
+              "end_timestamp": 829,
+              "content": "你的亏损是压到最低的"
+            },
+            {
+              "start_timestamp": 829,
+              "end_timestamp": 831,
+              "content": "大幅度的减小你的亏损"
+            },
+            {
+              "start_timestamp": 832,
+              "end_timestamp": 838,
+              "content": "以上三点就是为什么最终定的是两手思维"
+            },
+            {
+              "start_timestamp": 839,
+              "end_timestamp": 841,
+              "content": "好我们上面讲了那么多哈"
+            },
+            {
+              "start_timestamp": 841,
+              "end_timestamp": 842,
+              "content": "讲风险"
+            },
+            {
+              "start_timestamp": 842,
+              "end_timestamp": 845,
+              "content": "讲两手讲2万啊"
+            },
+            {
+              "start_timestamp": 845,
+              "end_timestamp": 846,
+              "content": "聊也聊了"
+            },
+            {
+              "start_timestamp": 846,
+              "end_timestamp": 848,
+              "content": "为什么要用两手去学习"
+            },
+            {
+              "start_timestamp": 848,
+              "end_timestamp": 851,
+              "content": "我们聊了三个三个原因"
+            },
+            {
+              "start_timestamp": 851,
+              "end_timestamp": 854,
+              "content": "就知其然必须知其所以然"
+            },
+            {
+              "start_timestamp": 854,
+              "end_timestamp": 856,
+              "content": "讲了很多啊"
+            },
+            {
+              "start_timestamp": 856,
+              "end_timestamp": 857,
+              "content": "最后聊一下"
+            },
+            {
+              "start_timestamp": 857,
+              "end_timestamp": 859,
+              "content": "大家不要去小瞧任何一个"
+            },
+            {
+              "start_timestamp": 859,
+              "end_timestamp": 861,
+              "content": "只能买两手的一个新手啊"
+            },
+            {
+              "start_timestamp": 861,
+              "end_timestamp": 868,
+              "content": "我当时1617年身上就剩10万"
+            },
+            {
+              "start_timestamp": 869,
+              "end_timestamp": 871,
+              "content": "身上就剩就剩10万"
+            },
+            {
+              "start_timestamp": 871,
+              "end_timestamp": 873,
+              "content": "一直到现在"
+            },
+            {
+              "start_timestamp": 873,
+              "end_timestamp": 878,
+              "content": "我一只票一秒钟的盈亏就远远超过这个10万啊"
+            },
+            {
+              "start_timestamp": 878,
+              "end_timestamp": 881,
+              "content": "就像上周五一秒钟我就亏了17年"
+            },
+            {
+              "start_timestamp": 881,
+              "end_timestamp": 883,
+              "content": "整个我就一秒钟啊"
+            },
+            {
+              "start_timestamp": 883,
+              "end_timestamp": 884,
+              "content": "不要说一天了"
+            },
+            {
+              "start_timestamp": 884,
+              "end_timestamp": 885,
+              "content": "一秒钟"
+            },
+            {
+              "start_timestamp": 885,
+              "end_timestamp": 888,
+              "content": "所以不要小瞧任何一个只能买两手的一个新手"
+            },
+            {
+              "start_timestamp": 888,
+              "end_timestamp": 890,
+              "content": "大家进入市场是为了赚钱的"
+            },
+            {
+              "start_timestamp": 890,
+              "end_timestamp": 892,
+              "content": "不是去亏钱的"
+            },
+            {
+              "start_timestamp": 892,
+              "end_timestamp": 894,
+              "content": "我们进来之后先享风险"
+            },
+            {
+              "start_timestamp": 894,
+              "end_timestamp": 895,
+              "content": "后享收益"
+            },
+            {
+              "start_timestamp": 895,
+              "end_timestamp": 898,
+              "content": "千里之行始于足下"
+            },
+            {
+              "start_timestamp": 898,
+              "end_timestamp": 900,
+              "content": "我们从小开始"
+            },
+            {
+              "start_timestamp": 900,
+              "end_timestamp": 902,
+              "content": "我们从从学开始"
+            },
+            {
+              "start_timestamp": 902,
+              "end_timestamp": 906,
+              "content": "股市的魅力在于公平性"
+            },
+            {
+              "start_timestamp": 906,
+              "end_timestamp": 907,
+              "content": "公平性啊"
+            },
+            {
+              "start_timestamp": 907,
+              "end_timestamp": 909,
+              "content": "当然大家可能说哎呀"
+            },
+            {
+              "start_timestamp": 909,
+              "end_timestamp": 911,
+              "content": "后面会不会有人在那里搞那种什么小动作"
+            },
+            {
+              "start_timestamp": 911,
+              "end_timestamp": 913,
+              "content": "这些不是我们要探讨的"
+            },
+            {
+              "start_timestamp": 913,
+              "end_timestamp": 914,
+              "content": "我们要探讨的"
+            },
+            {
+              "start_timestamp": 914,
+              "end_timestamp": 917,
+              "content": "至少在那个明面的舞台上"
+            },
+            {
+              "start_timestamp": 917,
+              "end_timestamp": 920,
+              "content": "他给了所有怀揣梦想的人"
+            },
+            {
+              "start_timestamp": 920,
+              "end_timestamp": 921,
+              "content": "一个师长"
+            },
+            {
+              "start_timestamp": 921,
+              "end_timestamp": 922,
+              "content": "报复了舞台"
+            },
+            {
+              "start_timestamp": 922,
+              "end_timestamp": 926,
+              "content": "所有人站在站在上面都是一样子的"
+            },
+            {
+              "start_timestamp": 926,
+              "end_timestamp": 927,
+              "content": "没有区别的"
+            },
+            {
+              "start_timestamp": 927,
+              "end_timestamp": 928,
+              "content": "你2万也好"
+            },
+            {
+              "start_timestamp": 928,
+              "end_timestamp": 930,
+              "content": "两个亿也好"
+            },
+            {
+              "start_timestamp": 930,
+              "end_timestamp": 930,
+              "content": "没区别"
+            },
+            {
+              "start_timestamp": 932,
+              "end_timestamp": 933,
+              "content": "你亏起来一样亏的呀"
+            },
+            {
+              "start_timestamp": 933,
+              "end_timestamp": 934,
+              "content": "懂吧"
+            },
+            {
+              "start_timestamp": 934,
+              "end_timestamp": 937,
+              "content": "对于股市来说"
+            },
+            {
+              "start_timestamp": 937,
+              "end_timestamp": 940,
+              "content": "2万2万手都是一样的"
+            },
+            {
+              "start_timestamp": 940,
+              "end_timestamp": 941,
+              "content": "百分比"
+            },
+            {
+              "start_timestamp": 941,
+              "end_timestamp": 945,
+              "content": "游戏百分比不是看你那个具体的金额"
+            },
+            {
+              "start_timestamp": 945,
+              "end_timestamp": 947,
+              "content": "而是看那个百分比"
+            },
+            {
+              "start_timestamp": 947,
+              "end_timestamp": 951,
+              "content": "所以大家就从两手开始慢慢学"
+            },
+            {
+              "start_timestamp": 951,
+              "end_timestamp": 953,
+              "content": "如果你没有经验的"
+            },
+            {
+              "start_timestamp": 953,
+              "end_timestamp": 954,
+              "content": "就从两手开始学"
+            },
+            {
+              "start_timestamp": 954,
+              "end_timestamp": 956,
+              "content": "不要去拿多了"
+            },
+            {
+              "start_timestamp": 956,
+              "end_timestamp": 959,
+              "content": "然后在这个舞台上追逐自己的梦想"
+            },
+            {
+              "start_timestamp": 960,
+              "end_timestamp": 960,
+              "content": "那么好"
+            },
+            {
+              "start_timestamp": 960,
+              "end_timestamp": 963,
+              "content": "这个两手思维讲到这里"
+            },
+            {
+              "start_timestamp": 963,
+              "end_timestamp": 965,
+              "content": "我不知道对大家有"
+            }
+          ],
+          "timestamp": 1
+        }
+      ]
+    },
+    "stid": "0",
+    "status": 0,
+    "like_num": 0,
+    "dislike_num": 0
+  }
+}

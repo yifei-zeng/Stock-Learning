@@ -1,0 +1,4945 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "code": 1,
+    "model_result": {
+      "result_type": 0,
+      "summary": "",
+      "outline": [],
+      "subtitle": [
+        {
+          "title": "",
+          "part_subtitle": [
+            {
+              "start_timestamp": 1,
+              "end_timestamp": 3,
+              "content": "大家进入市场之后"
+            },
+            {
+              "start_timestamp": 3,
+              "end_timestamp": 8,
+              "content": "要么是听说过某一个票的名字啊"
+            },
+            {
+              "start_timestamp": 8,
+              "end_timestamp": 11,
+              "content": "要么是听说过某一个行业呃"
+            },
+            {
+              "start_timestamp": 11,
+              "end_timestamp": 17,
+              "content": "例如呃那个新能源汽车白酒这些行业啊"
+            },
+            {
+              "start_timestamp": 17,
+              "end_timestamp": 23,
+              "content": "那么接触更多的可能是那些红红绿绿的日K啊"
+            },
+            {
+              "start_timestamp": 23,
+              "end_timestamp": 24,
+              "content": "我们今天就来开始聊一下"
+            },
+            {
+              "start_timestamp": 24,
+              "end_timestamp": 29,
+              "content": "关于这个技术型日K全讲解啊"
+            },
+            {
+              "start_timestamp": 29,
+              "end_timestamp": 32,
+              "content": "我们今天就来聊一个关于基础方向的"
+            },
+            {
+              "start_timestamp": 32,
+              "end_timestamp": 34,
+              "content": "最基础的东西就是日K线"
+            },
+            {
+              "start_timestamp": 34,
+              "end_timestamp": 39,
+              "content": "这个日K线在之前的大纲内容中啊"
+            },
+            {
+              "start_timestamp": 39,
+              "end_timestamp": 41,
+              "content": "我们来回顾一下啊"
+            },
+            {
+              "start_timestamp": 42,
+              "end_timestamp": 45,
+              "content": "本来应该是先从股票的基本规则"
+            },
+            {
+              "start_timestamp": 45,
+              "end_timestamp": 47,
+              "content": "和股票世界观讲起来的啊"
+            },
+            {
+              "start_timestamp": 47,
+              "end_timestamp": 50,
+              "content": "那么股票的基本规则这里我是打了个问号"
+            },
+            {
+              "start_timestamp": 50,
+              "end_timestamp": 52,
+              "content": "我是暂定不想讲啊"
+            },
+            {
+              "start_timestamp": 52,
+              "end_timestamp": 53,
+              "content": "然后世界观"
+            },
+            {
+              "start_timestamp": 53,
+              "end_timestamp": 57,
+              "content": "可能后面再找一个单独的视频来聊啊"
+            },
+            {
+              "start_timestamp": 57,
+              "end_timestamp": 60,
+              "content": "所以我们就进入到了开始聊基本面"
+            },
+            {
+              "start_timestamp": 60,
+              "end_timestamp": 63,
+              "content": "技术面和资金面这个三个面哈"
+            },
+            {
+              "start_timestamp": 63,
+              "end_timestamp": 65,
+              "content": "那么这三个面我优先选择技术面"
+            },
+            {
+              "start_timestamp": 65,
+              "end_timestamp": 70,
+              "content": "因为技术面其实是很多人容易搞混淆的啊"
+            },
+            {
+              "start_timestamp": 70,
+              "end_timestamp": 72,
+              "content": "这个属于一个扫盲篇"
+            },
+            {
+              "start_timestamp": 72,
+              "end_timestamp": 75,
+              "content": "所以我们先从技术面开始聊起啊"
+            },
+            {
+              "start_timestamp": 75,
+              "end_timestamp": 78,
+              "content": "那么在开始之前先问一个问题啊"
+            },
+            {
+              "start_timestamp": 78,
+              "end_timestamp": 81,
+              "content": "就有多少人之前我问过大家"
+            },
+            {
+              "start_timestamp": 81,
+              "end_timestamp": 83,
+              "content": "就是什么时候入市的嘛"
+            },
+            {
+              "start_timestamp": 83,
+              "end_timestamp": 85,
+              "content": "那么今天再来问一个问题"
+            },
+            {
+              "start_timestamp": 85,
+              "end_timestamp": 91,
+              "content": "有多少人觉得自己对日K已经研究透彻了啊"
+            },
+            {
+              "start_timestamp": 91,
+              "end_timestamp": 93,
+              "content": "如果说你觉得研究透彻了"
+            },
+            {
+              "start_timestamp": 93,
+              "end_timestamp": 95,
+              "content": "你扣个一啊"
+            },
+            {
+              "start_timestamp": 95,
+              "end_timestamp": 96,
+              "content": "如果说你觉得才刚刚开始"
+            },
+            {
+              "start_timestamp": 96,
+              "end_timestamp": 98,
+              "content": "或者说你一知半解"
+            },
+            {
+              "start_timestamp": 98,
+              "end_timestamp": 100,
+              "content": "你扣个二啊"
+            },
+            {
+              "start_timestamp": 100,
+              "end_timestamp": 104,
+              "content": "这是我们先对自己的一个基础知识有一个认知"
+            },
+            {
+              "start_timestamp": 104,
+              "end_timestamp": 108,
+              "content": "那么日K其实在不同角度"
+            },
+            {
+              "start_timestamp": 108,
+              "end_timestamp": 110,
+              "content": "它的运用是不一样的哈"
+            },
+            {
+              "start_timestamp": 110,
+              "end_timestamp": 112,
+              "content": "有的人可能把它用在趋势上"
+            },
+            {
+              "start_timestamp": 112,
+              "end_timestamp": 114,
+              "content": "有的人用在短线上"
+            },
+            {
+              "start_timestamp": 114,
+              "end_timestamp": 117,
+              "content": "我们就先从基础开始聊起"
+            },
+            {
+              "start_timestamp": 117,
+              "end_timestamp": 121,
+              "content": "K线是怎么产生的"
+            },
+            {
+              "start_timestamp": 121,
+              "end_timestamp": 124,
+              "content": "就是这一根K线是怎么产生的"
+            },
+            {
+              "start_timestamp": 124,
+              "end_timestamp": 126,
+              "content": "那么大家大家可能都知道哈"
+            },
+            {
+              "start_timestamp": 126,
+              "end_timestamp": 130,
+              "content": "就是K线它分为日K周K月K年K啊"
+            },
+            {
+              "start_timestamp": 130,
+              "end_timestamp": 135,
+              "content": "就是以不同时间为周期去定义一根K线"
+            },
+            {
+              "start_timestamp": 135,
+              "end_timestamp": 139,
+              "content": "通常我们聊多聊的最多的就是日K"
+            },
+            {
+              "start_timestamp": 139,
+              "end_timestamp": 142,
+              "content": "大家想一下我们股票是几点钟开盘啊"
+            },
+            {
+              "start_timestamp": 142,
+              "end_timestamp": 143,
+              "content": "09:30嘛哈"
+            },
+            {
+              "start_timestamp": 143,
+              "end_timestamp": 144,
+              "content": "我这里编写"
+            },
+            {
+              "start_timestamp": 144,
+              "end_timestamp": 146,
+              "content": "我们编来扫盲"
+            },
+            {
+              "start_timestamp": 146,
+              "end_timestamp": 149,
+              "content": "首先9.30股票会开盘"
+            },
+            {
+              "start_timestamp": 149,
+              "end_timestamp": 152,
+              "content": "就是9.25就开一个竞价出来"
+            },
+            {
+              "start_timestamp": 152,
+              "end_timestamp": 156,
+              "content": "9.30就会出一个开盘价格"
+            },
+            {
+              "start_timestamp": 156,
+              "end_timestamp": 156,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 156,
+              "end_timestamp": 157,
+              "content": "开盘价格"
+            },
+            {
+              "start_timestamp": 157,
+              "end_timestamp": 166,
+              "content": "那么开盘价格我们假如开盘价是十元每股啊"
+            },
+            {
+              "start_timestamp": 166,
+              "end_timestamp": 168,
+              "content": "假如是十元每股"
+            },
+            {
+              "start_timestamp": 168,
+              "end_timestamp": 172,
+              "content": "那么就开这里是不是有一根长一根横线"
+            },
+            {
+              "start_timestamp": 172,
+              "end_timestamp": 174,
+              "content": "就是这个股票开盘出来这个日K啊"
+            },
+            {
+              "start_timestamp": 174,
+              "end_timestamp": 176,
+              "content": "就是一根横线"
+            },
+            {
+              "start_timestamp": 176,
+              "end_timestamp": 180,
+              "content": "这个就代表十元啊"
+            },
+            {
+              "start_timestamp": 180,
+              "end_timestamp": 183,
+              "content": "这个这个横线的高度就代表十元"
+            },
+            {
+              "start_timestamp": 183,
+              "end_timestamp": 185,
+              "content": "那么如果今天开盘是十元"
+            },
+            {
+              "start_timestamp": 185,
+              "end_timestamp": 188,
+              "content": "他收盘是11元"
+            },
+            {
+              "start_timestamp": 189,
+              "end_timestamp": 190,
+              "content": "好再画一根横线"
+            },
+            {
+              "start_timestamp": 190,
+              "end_timestamp": 191,
+              "content": "这个是11元"
+            },
+            {
+              "start_timestamp": 193,
+              "end_timestamp": 194,
+              "content": "那么各位群友"
+            },
+            {
+              "start_timestamp": 194,
+              "end_timestamp": 197,
+              "content": "这个是代表什么"
+            },
+            {
+              "start_timestamp": 197,
+              "end_timestamp": 199,
+              "content": "这个股票今天涨停了啊"
+            },
+            {
+              "start_timestamp": 199,
+              "end_timestamp": 201,
+              "content": "因为主板的话"
+            },
+            {
+              "start_timestamp": 201,
+              "end_timestamp": 203,
+              "content": "再像我们A股主板的话"
+            },
+            {
+              "start_timestamp": 203,
+              "end_timestamp": 205,
+              "content": "涨幅上限是十个点哈"
+            },
+            {
+              "start_timestamp": 205,
+              "end_timestamp": 207,
+              "content": "那么创业板是20个点"
+            },
+            {
+              "start_timestamp": 207,
+              "end_timestamp": 208,
+              "content": "我们就拿主板来说嘛"
+            },
+            {
+              "start_timestamp": 208,
+              "end_timestamp": 210,
+              "content": "啊它开盘是十元"
+            },
+            {
+              "start_timestamp": 210,
+              "end_timestamp": 212,
+              "content": "然后收盘是11元"
+            },
+            {
+              "start_timestamp": 212,
+              "end_timestamp": 213,
+              "content": "我不管它中间是怎么走的"
+            },
+            {
+              "start_timestamp": 213,
+              "end_timestamp": 215,
+              "content": "我不管他9.40分"
+            },
+            {
+              "start_timestamp": 215,
+              "end_timestamp": 217,
+              "content": "09:50分十点怎么走"
+            },
+            {
+              "start_timestamp": 217,
+              "end_timestamp": 219,
+              "content": "我只要我只管他收盘"
+            },
+            {
+              "start_timestamp": 219,
+              "end_timestamp": 220,
+              "content": "它收盘如果是十元"
+            },
+            {
+              "start_timestamp": 220,
+              "end_timestamp": 223,
+              "content": "那么涨幅就达到了10%"
+            },
+            {
+              "start_timestamp": 223,
+              "end_timestamp": 224,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 224,
+              "end_timestamp": 229,
+              "content": "这就形成了一根什么涨停阳线"
+            },
+            {
+              "start_timestamp": 230,
+              "end_timestamp": 231,
+              "content": "我用红笔啊"
+            },
+            {
+              "start_timestamp": 232,
+              "end_timestamp": 235,
+              "content": "这个红笔从我老婆那里拿过来的"
+            },
+            {
+              "start_timestamp": 235,
+              "end_timestamp": 237,
+              "content": "刚刚好用得上"
+            },
+            {
+              "start_timestamp": 241,
+              "end_timestamp": 247,
+              "content": "啊这样就是一根涨停的一个红K线啊"
+            },
+            {
+              "start_timestamp": 247,
+              "end_timestamp": 249,
+              "content": "如果说啊没有到11元"
+            },
+            {
+              "start_timestamp": 249,
+              "end_timestamp": 253,
+              "content": "它涨到这个比我先丢远一点"
+            },
+            {
+              "start_timestamp": 253,
+              "end_timestamp": 258,
+              "content": "它涨到10.5元啊"
+            },
+            {
+              "start_timestamp": 258,
+              "end_timestamp": 260,
+              "content": "就是他开十块钱"
+            },
+            {
+              "start_timestamp": 260,
+              "end_timestamp": 262,
+              "content": "然后涨到10.5元"
+            },
+            {
+              "start_timestamp": 262,
+              "end_timestamp": 269,
+              "content": "他就会收出一个什么5%的红K线啊"
+            },
+            {
+              "start_timestamp": 269,
+              "end_timestamp": 271,
+              "content": "这个是10%"
+            },
+            {
+              "start_timestamp": 271,
+              "end_timestamp": 272,
+              "content": "这个是5%"
+            },
+            {
+              "start_timestamp": 274,
+              "end_timestamp": 276,
+              "content": "是不是很好理解"
+            },
+            {
+              "start_timestamp": 276,
+              "end_timestamp": 279,
+              "content": "说白了这个两个上下两根横的"
+            },
+            {
+              "start_timestamp": 279,
+              "end_timestamp": 283,
+              "content": "这个线代表了它开盘价格和收盘价格啊"
+            },
+            {
+              "start_timestamp": 283,
+              "end_timestamp": 286,
+              "content": "如果说收盘高于开盘"
+            },
+            {
+              "start_timestamp": 286,
+              "end_timestamp": 288,
+              "content": "它就是一根红色的K线"
+            },
+            {
+              "start_timestamp": 288,
+              "end_timestamp": 292,
+              "content": "我这里建议大家可以自己记下来也可以"
+            },
+            {
+              "start_timestamp": 292,
+              "end_timestamp": 295,
+              "content": "你们用什么AI什么统计下来也可以"
+            },
+            {
+              "start_timestamp": 295,
+              "end_timestamp": 298,
+              "content": "然后最好是在手机旁边啊"
+            },
+            {
+              "start_timestamp": 298,
+              "end_timestamp": 301,
+              "content": "在手机旁边拿着手机去看更好"
+            },
+            {
+              "start_timestamp": 301,
+              "end_timestamp": 305,
+              "content": "那么这个是最基本的一个什么啊"
+            },
+            {
+              "start_timestamp": 305,
+              "end_timestamp": 305,
+              "content": "各位群友"
+            },
+            {
+              "start_timestamp": 305,
+              "end_timestamp": 311,
+              "content": "这个是最基本的什么阳线一"
+            },
+            {
+              "start_timestamp": 313,
+              "end_timestamp": 315,
+              "content": "阳线啊"
+            },
+            {
+              "start_timestamp": 315,
+              "end_timestamp": 316,
+              "content": "就是这个就这个就叫阳线"
+            },
+            {
+              "start_timestamp": 316,
+              "end_timestamp": 318,
+              "content": "这个就叫阳线啊"
+            },
+            {
+              "start_timestamp": 318,
+              "end_timestamp": 320,
+              "content": "那么第二个啊"
+            },
+            {
+              "start_timestamp": 320,
+              "end_timestamp": 321,
+              "content": "阳线聊完了"
+            },
+            {
+              "start_timestamp": 321,
+              "end_timestamp": 323,
+              "content": "我们聊第二点"
+            },
+            {
+              "start_timestamp": 323,
+              "end_timestamp": 325,
+              "content": "我这里可能后面画的会很乱"
+            },
+            {
+              "start_timestamp": 325,
+              "end_timestamp": 327,
+              "content": "大家最好是跟着我慢慢的"
+            },
+            {
+              "start_timestamp": 327,
+              "end_timestamp": 328,
+              "content": "我们慢慢来研究哈"
+            },
+            {
+              "start_timestamp": 329,
+              "end_timestamp": 330,
+              "content": "第二个哦不对"
+            },
+            {
+              "start_timestamp": 330,
+              "end_timestamp": 332,
+              "content": "第一个还有一个要讲哈"
+            },
+            {
+              "start_timestamp": 332,
+              "end_timestamp": 335,
+              "content": "这一个我关于有个涨停板"
+            },
+            {
+              "start_timestamp": 335,
+              "end_timestamp": 335,
+              "content": "我刚才说了嘛"
+            },
+            {
+              "start_timestamp": 335,
+              "end_timestamp": 340,
+              "content": "就是我们对于主板涨幅上限是设定为10%"
+            },
+            {
+              "start_timestamp": 340,
+              "end_timestamp": 343,
+              "content": "那么如果说第二天还是一个涨停板"
+            },
+            {
+              "start_timestamp": 343,
+              "end_timestamp": 344,
+              "content": "那个叫什么"
+            },
+            {
+              "start_timestamp": 345,
+              "end_timestamp": 348,
+              "content": "这个叫连板"
+            },
+            {
+              "start_timestamp": 348,
+              "end_timestamp": 352,
+              "content": "涨停板连板连续的连啊"
+            },
+            {
+              "start_timestamp": 352,
+              "end_timestamp": 356,
+              "content": "连板就是两根涨停向上"
+            },
+            {
+              "start_timestamp": 357,
+              "end_timestamp": 360,
+              "content": "这里再来一根涨停啊"
+            },
+            {
+              "start_timestamp": 360,
+              "end_timestamp": 363,
+              "content": "这里一根这里一根啊"
+            },
+            {
+              "start_timestamp": 363,
+              "end_timestamp": 363,
+              "content": "就两根涨停"
+            },
+            {
+              "start_timestamp": 363,
+              "end_timestamp": 364,
+              "content": "这个叫连板"
+            },
+            {
+              "start_timestamp": 364,
+              "end_timestamp": 366,
+              "content": "三个呢三连板"
+            },
+            {
+              "start_timestamp": 366,
+              "end_timestamp": 368,
+              "content": "四个呢四连板啊"
+            },
+            {
+              "start_timestamp": 368,
+              "end_timestamp": 370,
+              "content": "那么这个就是一个基础的定义哈"
+            },
+            {
+              "start_timestamp": 370,
+              "end_timestamp": 371,
+              "content": "很简单"
+            },
+            {
+              "start_timestamp": 372,
+              "end_timestamp": 373,
+              "content": "反之"
+            },
+            {
+              "start_timestamp": 373,
+              "end_timestamp": 376,
+              "content": "什么叫阴线啊"
+            },
+            {
+              "start_timestamp": 377,
+              "end_timestamp": 379,
+              "content": "啊什么叫阴线啊"
+            },
+            {
+              "start_timestamp": 379,
+              "end_timestamp": 381,
+              "content": "阴线我就用黑笔替代啊"
+            },
+            {
+              "start_timestamp": 381,
+              "end_timestamp": 382,
+              "content": "因为我找不到绿色的笔啊"
+            },
+            {
+              "start_timestamp": 382,
+              "end_timestamp": 385,
+              "content": "红的我就用这个红笔来写嘛"
+            },
+            {
+              "start_timestamp": 385,
+              "end_timestamp": 391,
+              "content": "哈阴线就是假如我们开盘价是十"
+            },
+            {
+              "start_timestamp": 392,
+              "end_timestamp": 401,
+              "content": "然后收盘是额10×0.99块钱嘛"
+            },
+            {
+              "start_timestamp": 402,
+              "end_timestamp": 403,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 403,
+              "end_timestamp": 408,
+              "content": "那么这里是不是就是一根绿色的实体啊"
+            },
+            {
+              "start_timestamp": 408,
+              "end_timestamp": 410,
+              "content": "这个叫做跌停啊"
+            },
+            {
+              "start_timestamp": 410,
+              "end_timestamp": 411,
+              "content": "这个叫跌停"
+            },
+            {
+              "start_timestamp": 411,
+              "end_timestamp": 413,
+              "content": "从十块钱跌到九块钱"
+            },
+            {
+              "start_timestamp": 413,
+              "end_timestamp": 414,
+              "content": "跌了整整一块钱嘛"
+            },
+            {
+              "start_timestamp": 414,
+              "end_timestamp": 415,
+              "content": "10%"
+            },
+            {
+              "start_timestamp": 415,
+              "end_timestamp": 416,
+              "content": "这个叫跌停"
+            },
+            {
+              "start_timestamp": 416,
+              "end_timestamp": 424,
+              "content": "那么同样的哈跌停连板就是向下的连续的啊啊"
+            },
+            {
+              "start_timestamp": 424,
+              "end_timestamp": 427,
+              "content": "再这样向下的连续的一个大阴线也好"
+            },
+            {
+              "start_timestamp": 427,
+              "end_timestamp": 428,
+              "content": "或者一字跌停也好"
+            },
+            {
+              "start_timestamp": 428,
+              "end_timestamp": 430,
+              "content": "等会会聊一次跌停啊"
+            },
+            {
+              "start_timestamp": 430,
+              "end_timestamp": 432,
+              "content": "连续跌停就是几根阴线"
+            },
+            {
+              "start_timestamp": 432,
+              "end_timestamp": 434,
+              "content": "几个几个跌停连在一起"
+            },
+            {
+              "start_timestamp": 434,
+              "end_timestamp": 435,
+              "content": "这个叫连续跌停"
+            },
+            {
+              "start_timestamp": 435,
+              "end_timestamp": 437,
+              "content": "那么这个是第二点"
+            },
+            {
+              "start_timestamp": 437,
+              "end_timestamp": 438,
+              "content": "关于阴线"
+            },
+            {
+              "start_timestamp": 438,
+              "end_timestamp": 439,
+              "content": "第三点"
+            },
+            {
+              "start_timestamp": 442,
+              "end_timestamp": 444,
+              "content": "什么叫常上瘾"
+            },
+            {
+              "start_timestamp": 449,
+              "end_timestamp": 450,
+              "content": "啊长上引"
+            },
+            {
+              "start_timestamp": 452,
+              "end_timestamp": 454,
+              "content": "什么叫长下引"
+            },
+            {
+              "start_timestamp": 457,
+              "end_timestamp": 459,
+              "content": "那么什么叫十字星"
+            },
+            {
+              "start_timestamp": 463,
+              "end_timestamp": 467,
+              "content": "啊这也是大家经常听听过的长上影"
+            },
+            {
+              "start_timestamp": 467,
+              "end_timestamp": 468,
+              "content": "尤其是长上影"
+            },
+            {
+              "start_timestamp": 468,
+              "end_timestamp": 471,
+              "content": "我用的在我做弱转强"
+            },
+            {
+              "start_timestamp": 471,
+              "end_timestamp": 473,
+              "content": "用的最多的就是这个长上影"
+            },
+            {
+              "start_timestamp": 473,
+              "end_timestamp": 475,
+              "content": "当然这个是涉及到更后面的内容"
+            },
+            {
+              "start_timestamp": 475,
+              "end_timestamp": 479,
+              "content": "我们今天单纯是分析这个是什么意思哈"
+            },
+            {
+              "start_timestamp": 479,
+              "end_timestamp": 486,
+              "content": "长上影我用红笔吧哈啊假如说还是一样"
+            },
+            {
+              "start_timestamp": 486,
+              "end_timestamp": 488,
+              "content": "开十块钱"
+            },
+            {
+              "start_timestamp": 488,
+              "end_timestamp": 490,
+              "content": "一只股票开盘十块钱"
+            },
+            {
+              "start_timestamp": 490,
+              "end_timestamp": 494,
+              "content": "他盘中冲到了11块钱"
+            },
+            {
+              "start_timestamp": 496,
+              "end_timestamp": 497,
+              "content": "盘中啊"
+            },
+            {
+              "start_timestamp": 497,
+              "end_timestamp": 498,
+              "content": "这里记住啊"
+            },
+            {
+              "start_timestamp": 498,
+              "end_timestamp": 503,
+              "content": "听清楚是盘中尾盘跌回了十块钱"
+            },
+            {
+              "start_timestamp": 503,
+              "end_timestamp": 505,
+              "content": "尾盘跌了回来"
+            },
+            {
+              "start_timestamp": 505,
+              "end_timestamp": 508,
+              "content": "那么它开盘价和收盘价是不是一样的呀"
+            },
+            {
+              "start_timestamp": 508,
+              "end_timestamp": 510,
+              "content": "那么这根实这根实线就没有"
+            },
+            {
+              "start_timestamp": 510,
+              "end_timestamp": 512,
+              "content": "这上面这根线就没有了嘛"
+            },
+            {
+              "start_timestamp": 512,
+              "end_timestamp": 514,
+              "content": "我们就不要它"
+            },
+            {
+              "start_timestamp": 514,
+              "end_timestamp": 517,
+              "content": "它在实际过程中走势是怎么样的"
+            },
+            {
+              "start_timestamp": 517,
+              "end_timestamp": 522,
+              "content": "一根冲高回落的长上影线啊"
+            },
+            {
+              "start_timestamp": 522,
+              "end_timestamp": 524,
+              "content": "这个就是一根长上影"
+            },
+            {
+              "start_timestamp": 524,
+              "end_timestamp": 528,
+              "content": "它在实际就是有一根向上的一个实线"
+            },
+            {
+              "start_timestamp": 528,
+              "end_timestamp": 530,
+              "content": "这个就叫长上影"
+            },
+            {
+              "start_timestamp": 530,
+              "end_timestamp": 532,
+              "content": "开盘十块钱冲高到11块钱"
+            },
+            {
+              "start_timestamp": 532,
+              "end_timestamp": 533,
+              "content": "然后炸板"
+            },
+            {
+              "start_timestamp": 533,
+              "end_timestamp": 535,
+              "content": "然后又回到十块钱"
+            },
+            {
+              "start_timestamp": 535,
+              "end_timestamp": 537,
+              "content": "那么它最终收盘价哈"
+            },
+            {
+              "start_timestamp": 537,
+              "end_timestamp": 540,
+              "content": "收盘价跟开盘价是一一条线"
+            },
+            {
+              "start_timestamp": 540,
+              "end_timestamp": 544,
+              "content": "他这个长上影就代表它盘中冲高到多少快钱"
+            },
+            {
+              "start_timestamp": 544,
+              "end_timestamp": 546,
+              "content": "多少涨幅"
+            },
+            {
+              "start_timestamp": 546,
+              "end_timestamp": 548,
+              "content": "那么这个就是长沙影"
+            },
+            {
+              "start_timestamp": 548,
+              "end_timestamp": 551,
+              "content": "同理长下影呢"
+            },
+            {
+              "start_timestamp": 551,
+              "end_timestamp": 553,
+              "content": "同样这个也是十块钱啊"
+            },
+            {
+              "start_timestamp": 553,
+              "end_timestamp": 556,
+              "content": "盘中跌停跌停"
+            },
+            {
+              "start_timestamp": 557,
+              "end_timestamp": 561,
+              "content": "然后再收回来还是十块钱"
+            },
+            {
+              "start_timestamp": 561,
+              "end_timestamp": 562,
+              "content": "明白什么意思吗"
+            },
+            {
+              "start_timestamp": 562,
+              "end_timestamp": 566,
+              "content": "如果说大家我因为我还没有聊那个分时图哦"
+            },
+            {
+              "start_timestamp": 566,
+              "end_timestamp": 569,
+              "content": "大家如果说有了解一点"
+            },
+            {
+              "start_timestamp": 569,
+              "end_timestamp": 571,
+              "content": "分时图大概就是这个样子嘛"
+            },
+            {
+              "start_timestamp": 571,
+              "end_timestamp": 573,
+              "content": "哈这分数图形就是这样子"
+            },
+            {
+              "start_timestamp": 573,
+              "end_timestamp": 577,
+              "content": "刚刚那个长沙也不就是开盘十块钱冲高到涨停"
+            },
+            {
+              "start_timestamp": 577,
+              "end_timestamp": 578,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 578,
+              "end_timestamp": 579,
+              "content": "这个就是十块钱"
+            },
+            {
+              "start_timestamp": 579,
+              "end_timestamp": 581,
+              "content": "11块钱哎"
+            },
+            {
+              "start_timestamp": 581,
+              "end_timestamp": 583,
+              "content": "这个笔怎么也不行"
+            },
+            {
+              "start_timestamp": 584,
+              "end_timestamp": 586,
+              "content": "11块钱对不对"
+            },
+            {
+              "start_timestamp": 586,
+              "end_timestamp": 587,
+              "content": "冲高到涨停"
+            },
+            {
+              "start_timestamp": 587,
+              "end_timestamp": 590,
+              "content": "然后炸板平盘收盘"
+            },
+            {
+              "start_timestamp": 590,
+              "end_timestamp": 593,
+              "content": "那么这个就是分时图嘛"
+            },
+            {
+              "start_timestamp": 593,
+              "end_timestamp": 595,
+              "content": "冲高到涨停"
+            },
+            {
+              "start_timestamp": 595,
+              "end_timestamp": 596,
+              "content": "然后封住炸板"
+            },
+            {
+              "start_timestamp": 596,
+              "end_timestamp": 597,
+              "content": "回到十块钱"
+            },
+            {
+              "start_timestamp": 597,
+              "end_timestamp": 598,
+              "content": "就是这根线"
+            },
+            {
+              "start_timestamp": 598,
+              "end_timestamp": 601,
+              "content": "同理这个也就是反过来的吗"
+            },
+            {
+              "start_timestamp": 602,
+              "end_timestamp": 605,
+              "content": "啊就是下杀到跌停"
+            },
+            {
+              "start_timestamp": 605,
+              "end_timestamp": 607,
+              "content": "然后封跌停板"
+            },
+            {
+              "start_timestamp": 607,
+              "end_timestamp": 608,
+              "content": "再翘板"
+            },
+            {
+              "start_timestamp": 608,
+              "end_timestamp": 610,
+              "content": "回到平盘价啊"
+            },
+            {
+              "start_timestamp": 610,
+              "end_timestamp": 611,
+              "content": "这个就是分时图"
+            },
+            {
+              "start_timestamp": 612,
+              "end_timestamp": 614,
+              "content": "那么十字星呢"
+            },
+            {
+              "start_timestamp": 617,
+              "end_timestamp": 623,
+              "content": "十字星呢十字星就是它盘中上下震荡"
+            },
+            {
+              "start_timestamp": 623,
+              "end_timestamp": 628,
+              "content": "会产生一根长上影和一根长下影上下影嘛"
+            },
+            {
+              "start_timestamp": 628,
+              "end_timestamp": 631,
+              "content": "然后最终回到了开盘价附近"
+            },
+            {
+              "start_timestamp": 631,
+              "end_timestamp": 632,
+              "content": "这个就叫十字星"
+            },
+            {
+              "start_timestamp": 632,
+              "end_timestamp": 634,
+              "content": "其实大家如果说还不了解的话"
+            },
+            {
+              "start_timestamp": 634,
+              "end_timestamp": 637,
+              "content": "只要记住这个横线啊"
+            },
+            {
+              "start_timestamp": 637,
+              "end_timestamp": 640,
+              "content": "横线是开盘价和收盘价"
+            },
+            {
+              "start_timestamp": 640,
+              "end_timestamp": 643,
+              "content": "然后盘中冲高到或者下跌到啊"
+            },
+            {
+              "start_timestamp": 643,
+              "end_timestamp": 644,
+              "content": "是下跌倒"
+            },
+            {
+              "start_timestamp": 644,
+              "end_timestamp": 646,
+              "content": "这个倒字一定要记清楚啊"
+            },
+            {
+              "start_timestamp": 646,
+              "end_timestamp": 648,
+              "content": "不是说下跌到那里收盘"
+            },
+            {
+              "start_timestamp": 648,
+              "end_timestamp": 651,
+              "content": "而是曾经到了某一个价位"
+            },
+            {
+              "start_timestamp": 651,
+              "end_timestamp": 655,
+              "content": "会形成各自的长上影或者长下影啊"
+            },
+            {
+              "start_timestamp": 655,
+              "end_timestamp": 658,
+              "content": "那么这个就是也是一个基础的一个日K图形"
+            },
+            {
+              "start_timestamp": 658,
+              "end_timestamp": 659,
+              "content": "长sin"
+            },
+            {
+              "start_timestamp": 659,
+              "end_timestamp": 661,
+              "content": "长sin和十字星"
+            },
+            {
+              "start_timestamp": 661,
+              "end_timestamp": 665,
+              "content": "那么长上影在实战过程中用的是最多的哈"
+            },
+            {
+              "start_timestamp": 666,
+              "end_timestamp": 667,
+              "content": "那么第四个"
+            },
+            {
+              "start_timestamp": 669,
+              "end_timestamp": 671,
+              "content": "一字板"
+            },
+            {
+              "start_timestamp": 674,
+              "end_timestamp": 676,
+              "content": "一字板还有T字板"
+            },
+            {
+              "start_timestamp": 680,
+              "end_timestamp": 684,
+              "content": "一字板的意思就是第二天开盘直接涨停啊"
+            },
+            {
+              "start_timestamp": 684,
+              "end_timestamp": 688,
+              "content": "你本来我前一天是不管他怎么样的一个K线嘛"
+            },
+            {
+              "start_timestamp": 688,
+              "end_timestamp": 690,
+              "content": "他前一天收盘是十块钱"
+            },
+            {
+              "start_timestamp": 690,
+              "end_timestamp": 693,
+              "content": "第二天直接11块钱开"
+            },
+            {
+              "start_timestamp": 693,
+              "end_timestamp": 694,
+              "content": "他直接11块钱开"
+            },
+            {
+              "start_timestamp": 694,
+              "end_timestamp": 696,
+              "content": "而且没有炸板"
+            },
+            {
+              "start_timestamp": 696,
+              "end_timestamp": 700,
+              "content": "它就形成了一根跳空的一字图形啊"
+            },
+            {
+              "start_timestamp": 700,
+              "end_timestamp": 701,
+              "content": "跳空的一字图形"
+            },
+            {
+              "start_timestamp": 701,
+              "end_timestamp": 703,
+              "content": "那么大家可能当如果说你没有了解过"
+            },
+            {
+              "start_timestamp": 703,
+              "end_timestamp": 704,
+              "content": "你们可能不知道"
+            },
+            {
+              "start_timestamp": 704,
+              "end_timestamp": 708,
+              "content": "他怎么突然之间就就一根一根一根横线在那里"
+            },
+            {
+              "start_timestamp": 708,
+              "end_timestamp": 709,
+              "content": "其实这个就是一字板哈"
+            },
+            {
+              "start_timestamp": 709,
+              "end_timestamp": 711,
+              "content": "代表它没有开过"
+            },
+            {
+              "start_timestamp": 711,
+              "end_timestamp": 713,
+              "content": "那T字板呢啊"
+            },
+            {
+              "start_timestamp": 713,
+              "end_timestamp": 715,
+              "content": "就是炸开过涨停板啊"
+            },
+            {
+              "start_timestamp": 715,
+              "end_timestamp": 716,
+              "content": "炸开过涨停板"
+            },
+            {
+              "start_timestamp": 716,
+              "end_timestamp": 718,
+              "content": "如果说大家觉得哎呀"
+            },
+            {
+              "start_timestamp": 718,
+              "end_timestamp": 721,
+              "content": "权哥你这个涨停板我都不知道什么意思"
+            },
+            {
+              "start_timestamp": 721,
+              "end_timestamp": 721,
+              "content": "没关系"
+            },
+            {
+              "start_timestamp": 721,
+              "end_timestamp": 722,
+              "content": "你先听着"
+            },
+            {
+              "start_timestamp": 722,
+              "end_timestamp": 723,
+              "content": "先记得"
+            },
+            {
+              "start_timestamp": 723,
+              "end_timestamp": 725,
+              "content": "后面我们聊涨停的时候"
+            },
+            {
+              "start_timestamp": 725,
+              "end_timestamp": 727,
+              "content": "我们会接着来讲的嘛"
+            },
+            {
+              "start_timestamp": 727,
+              "end_timestamp": 729,
+              "content": "因为这个是关于基础日K"
+            },
+            {
+              "start_timestamp": 729,
+              "end_timestamp": 732,
+              "content": "其实最原始的日K是没有人聊涨停板的"
+            },
+            {
+              "start_timestamp": 732,
+              "end_timestamp": 733,
+              "content": "你们知道吗"
+            },
+            {
+              "start_timestamp": 733,
+              "end_timestamp": 736,
+              "content": "嗯包括国外其实没有涨停板制度的呀"
+            },
+            {
+              "start_timestamp": 736,
+              "end_timestamp": 738,
+              "content": "就只有我们比较特别嘛"
+            },
+            {
+              "start_timestamp": 738,
+              "end_timestamp": 740,
+              "content": "我们肯定从最基础的开始聊起"
+            },
+            {
+              "start_timestamp": 740,
+              "end_timestamp": 742,
+              "content": "这个是第四个哈"
+            },
+            {
+              "start_timestamp": 742,
+              "end_timestamp": 746,
+              "content": "那么第五个缺口"
+            },
+            {
+              "start_timestamp": 749,
+              "end_timestamp": 750,
+              "content": "什么叫缺口啊"
+            },
+            {
+              "start_timestamp": 752,
+              "end_timestamp": 756,
+              "content": "缺口就是某一天因为一些外部因素"
+            },
+            {
+              "start_timestamp": 756,
+              "end_timestamp": 758,
+              "content": "或者他自己出了业绩等等"
+            },
+            {
+              "start_timestamp": 758,
+              "end_timestamp": 766,
+              "content": "产生一根跳空高开或者跳空低开的那个图形"
+            },
+            {
+              "start_timestamp": 766,
+              "end_timestamp": 766,
+              "content": "出来"
+            },
+            {
+              "start_timestamp": 766,
+              "end_timestamp": 770,
+              "content": "那个跳空程度就是缺口"
+            },
+            {
+              "start_timestamp": 771,
+              "end_timestamp": 775,
+              "content": "假如今天收今天收盘价是十元"
+            },
+            {
+              "start_timestamp": 776,
+              "end_timestamp": 776,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 776,
+              "end_timestamp": 778,
+              "content": "他这样收盘在这里哦"
+            },
+            {
+              "start_timestamp": 778,
+              "end_timestamp": 780,
+              "content": "明天他今晚出了一个业绩"
+            },
+            {
+              "start_timestamp": 780,
+              "end_timestamp": 782,
+              "content": "明天大幅高开"
+            },
+            {
+              "start_timestamp": 782,
+              "end_timestamp": 783,
+              "content": "不要大幅高开"
+            },
+            {
+              "start_timestamp": 783,
+              "end_timestamp": 786,
+              "content": "直接一字板啊"
+            },
+            {
+              "start_timestamp": 786,
+              "end_timestamp": 788,
+              "content": "这这是昨天的收收盘价"
+            },
+            {
+              "start_timestamp": 788,
+              "end_timestamp": 792,
+              "content": "然后到今天直接一字板开盘"
+            },
+            {
+              "start_timestamp": 792,
+              "end_timestamp": 794,
+              "content": "这个这个幅度叫什么"
+            },
+            {
+              "start_timestamp": 794,
+              "end_timestamp": 797,
+              "content": "这个就叫缺口"
+            },
+            {
+              "start_timestamp": 798,
+              "end_timestamp": 799,
+              "content": "懂了吗"
+            },
+            {
+              "start_timestamp": 799,
+              "end_timestamp": 801,
+              "content": "同理向下的就叫向下缺口"
+            },
+            {
+              "start_timestamp": 801,
+              "end_timestamp": 804,
+              "content": "向上的就叫向上缺口"
+            },
+            {
+              "start_timestamp": 804,
+              "end_timestamp": 805,
+              "content": "很简单哈"
+            },
+            {
+              "start_timestamp": 805,
+              "end_timestamp": 806,
+              "content": "其实很简单"
+            },
+            {
+              "start_timestamp": 806,
+              "end_timestamp": 807,
+              "content": "大家只要记住这一个"
+            },
+            {
+              "start_timestamp": 807,
+              "end_timestamp": 810,
+              "content": "这一个是这一个日K"
+            },
+            {
+              "start_timestamp": 810,
+              "end_timestamp": 813,
+              "content": "它的上瘾代表冲高到哪一个位置"
+            },
+            {
+              "start_timestamp": 813,
+              "end_timestamp": 816,
+              "content": "下影代表盘中下跌到哪一个位置"
+            },
+            {
+              "start_timestamp": 816,
+              "end_timestamp": 817,
+              "content": "然后一个开盘价"
+            },
+            {
+              "start_timestamp": 817,
+              "end_timestamp": 819,
+              "content": "一个收盘价"
+            },
+            {
+              "start_timestamp": 819,
+              "end_timestamp": 821,
+              "content": "当收盘价高于开盘价"
+            },
+            {
+              "start_timestamp": 821,
+              "end_timestamp": 823,
+              "content": "它就是一根红色的K线"
+            },
+            {
+              "start_timestamp": 823,
+              "end_timestamp": 824,
+              "content": "如果是低于"
+            },
+            {
+              "start_timestamp": 824,
+              "end_timestamp": 826,
+              "content": "那就是一根绿色的阴线"
+            },
+            {
+              "start_timestamp": 826,
+              "end_timestamp": 831,
+              "content": "那么这个就是最基础的一个单日K图形好"
+            },
+            {
+              "start_timestamp": 831,
+              "end_timestamp": 834,
+              "content": "那么到这里大家应该都听得懂吧"
+            },
+            {
+              "start_timestamp": 834,
+              "end_timestamp": 837,
+              "content": "听得懂扣个一好吗啊"
+            },
+            {
+              "start_timestamp": 837,
+              "end_timestamp": 838,
+              "content": "这里听得懂"
+            },
+            {
+              "start_timestamp": 838,
+              "end_timestamp": 842,
+              "content": "如果听听得懂吗啊如果扣听得懂"
+            },
+            {
+              "start_timestamp": 842,
+              "end_timestamp": 843,
+              "content": "就扣个一很简单啊"
+            },
+            {
+              "start_timestamp": 843,
+              "end_timestamp": 844,
+              "content": "真的很基础啊"
+            },
+            {
+              "start_timestamp": 844,
+              "end_timestamp": 846,
+              "content": "其实我这个我都不打算讲的"
+            },
+            {
+              "start_timestamp": 846,
+              "end_timestamp": 847,
+              "content": "但是想了一下"
+            },
+            {
+              "start_timestamp": 847,
+              "end_timestamp": 850,
+              "content": "如果说要译文全部讲解的话"
+            },
+            {
+              "start_timestamp": 850,
+              "end_timestamp": 852,
+              "content": "最好从最基础开始讲起"
+            },
+            {
+              "start_timestamp": 852,
+              "end_timestamp": 854,
+              "content": "那么这是第一个啊"
+            },
+            {
+              "start_timestamp": 854,
+              "end_timestamp": 858,
+              "content": "第二个我们开始聊深一点的啊"
+            },
+            {
+              "start_timestamp": 860,
+              "end_timestamp": 862,
+              "content": "最基础的啊"
+            },
+            {
+              "start_timestamp": 862,
+              "end_timestamp": 864,
+              "content": "这也是最基础的单日K"
+            },
+            {
+              "start_timestamp": 864,
+              "end_timestamp": 869,
+              "content": "那么第二个最基础的日K组合"
+            },
+            {
+              "start_timestamp": 869,
+              "end_timestamp": 871,
+              "content": "什么叫组合啊"
+            },
+            {
+              "start_timestamp": 871,
+              "end_timestamp": 873,
+              "content": "组合的意思就是最少两个"
+            },
+            {
+              "start_timestamp": 873,
+              "end_timestamp": 874,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 874,
+              "end_timestamp": 878,
+              "content": "大于等于二两个三个四个五个"
+            },
+            {
+              "start_timestamp": 878,
+              "end_timestamp": 879,
+              "content": "这个才叫组合吗"
+            },
+            {
+              "start_timestamp": 879,
+              "end_timestamp": 881,
+              "content": "你不可能一个叫组合嘛"
+            },
+            {
+              "start_timestamp": 881,
+              "end_timestamp": 882,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 882,
+              "end_timestamp": 886,
+              "content": "那么我们这里组合就是把这些单日K"
+            },
+            {
+              "start_timestamp": 886,
+              "end_timestamp": 890,
+              "content": "通过不同的特征组合在一起"
+            },
+            {
+              "start_timestamp": 890,
+              "end_timestamp": 894,
+              "content": "形成某对某一类预期进行预判的"
+            },
+            {
+              "start_timestamp": 894,
+              "end_timestamp": 897,
+              "content": "一个那个交易预判啊"
+            },
+            {
+              "start_timestamp": 897,
+              "end_timestamp": 899,
+              "content": "就提供一点帮助"
+            },
+            {
+              "start_timestamp": 899,
+              "end_timestamp": 901,
+              "content": "看到某一类组合"
+            },
+            {
+              "start_timestamp": 901,
+              "end_timestamp": 903,
+              "content": "我们对未来的一个走势进行一个预判"
+            },
+            {
+              "start_timestamp": 903,
+              "end_timestamp": 907,
+              "content": "从而对交易提供一点帮助啊"
+            },
+            {
+              "start_timestamp": 907,
+              "end_timestamp": 908,
+              "content": "假如说你看到嗯"
+            },
+            {
+              "start_timestamp": 908,
+              "end_timestamp": 911,
+              "content": "我后面讲一看到一这种就是看涨"
+            },
+            {
+              "start_timestamp": 911,
+              "end_timestamp": 912,
+              "content": "看到二就看跌"
+            },
+            {
+              "start_timestamp": 912,
+              "end_timestamp": 914,
+              "content": "那么你以后就可以用得到明白吗"
+            },
+            {
+              "start_timestamp": 914,
+              "end_timestamp": 916,
+              "content": "那么第一个要聊什么"
+            },
+            {
+              "start_timestamp": 916,
+              "end_timestamp": 919,
+              "content": "最基础的阳包阴"
+            },
+            {
+              "start_timestamp": 925,
+              "end_timestamp": 928,
+              "content": "阳包阴最基础了啊"
+            },
+            {
+              "start_timestamp": 928,
+              "end_timestamp": 932,
+              "content": "假如前一天是一根阴线"
+            },
+            {
+              "start_timestamp": 935,
+              "end_timestamp": 937,
+              "content": "啊就是这样的一根阴线"
+            },
+            {
+              "start_timestamp": 937,
+              "end_timestamp": 939,
+              "content": "我说的黑黑笔是绿色的哈"
+            },
+            {
+              "start_timestamp": 939,
+              "end_timestamp": 946,
+              "content": "第二天第二天来了一根完全反包的阳线"
+            },
+            {
+              "start_timestamp": 949,
+              "end_timestamp": 951,
+              "content": "这个就叫阳包阴啊"
+            },
+            {
+              "start_timestamp": 951,
+              "end_timestamp": 953,
+              "content": "这个就叫阳包阴"
+            },
+            {
+              "start_timestamp": 953,
+              "end_timestamp": 954,
+              "content": "那么我标题这里说了啊"
+            },
+            {
+              "start_timestamp": 954,
+              "end_timestamp": 956,
+              "content": "各图的预期是什么"
+            },
+            {
+              "start_timestamp": 956,
+              "end_timestamp": 959,
+              "content": "我们接下来就要开始聊预期了啊"
+            },
+            {
+              "start_timestamp": 959,
+              "end_timestamp": 960,
+              "content": "杨包英"
+            },
+            {
+              "start_timestamp": 963,
+              "end_timestamp": 965,
+              "content": "Can"
+            },
+            {
+              "start_timestamp": 969,
+              "end_timestamp": 969,
+              "content": "懂了吗"
+            },
+            {
+              "start_timestamp": 969,
+              "end_timestamp": 971,
+              "content": "杨包英看啥"
+            },
+            {
+              "start_timestamp": 971,
+              "end_timestamp": 972,
+              "content": "有很多人又要问了"
+            },
+            {
+              "start_timestamp": 972,
+              "end_timestamp": 976,
+              "content": "钱哥以后看到杨包英就无脑追吗"
+            },
+            {
+              "start_timestamp": 976,
+              "end_timestamp": 977,
+              "content": "我都说了"
+            },
+            {
+              "start_timestamp": 977,
+              "end_timestamp": 983,
+              "content": "这只是一个最基础最基基础的技术型指标"
+            },
+            {
+              "start_timestamp": 983,
+              "end_timestamp": 986,
+              "content": "你如果说单纯看一个图形去做"
+            },
+            {
+              "start_timestamp": 986,
+              "end_timestamp": 987,
+              "content": "你完蛋了"
+            },
+            {
+              "start_timestamp": 987,
+              "end_timestamp": 988,
+              "content": "懂了吗"
+            },
+            {
+              "start_timestamp": 988,
+              "end_timestamp": 990,
+              "content": "这只是辅助啊"
+            },
+            {
+              "start_timestamp": 990,
+              "end_timestamp": 991,
+              "content": "我举个例子哈"
+            },
+            {
+              "start_timestamp": 991,
+              "end_timestamp": 993,
+              "content": "我们在打龙头股"
+            },
+            {
+              "start_timestamp": 993,
+              "end_timestamp": 995,
+              "content": "我看到一个龙头股"
+            },
+            {
+              "start_timestamp": 995,
+              "end_timestamp": 996,
+              "content": "我只打龙头股"
+            },
+            {
+              "start_timestamp": 996,
+              "end_timestamp": 998,
+              "content": "是不是提高成功概率啊"
+            },
+            {
+              "start_timestamp": 998,
+              "end_timestamp": 1000,
+              "content": "只打龙头提高成功概率"
+            },
+            {
+              "start_timestamp": 1000,
+              "end_timestamp": 1002,
+              "content": "我只做低位板"
+            },
+            {
+              "start_timestamp": 1002,
+              "end_timestamp": 1004,
+              "content": "是不是提高安全度啊"
+            },
+            {
+              "start_timestamp": 1004,
+              "end_timestamp": 1006,
+              "content": "我只打阳包阴"
+            },
+            {
+              "start_timestamp": 1006,
+              "end_timestamp": 1008,
+              "content": "是不是提高按提高成功率啊"
+            },
+            {
+              "start_timestamp": 1008,
+              "end_timestamp": 1011,
+              "content": "就是基于各种各样的因素"
+            },
+            {
+              "start_timestamp": 1011,
+              "end_timestamp": 1013,
+              "content": "最终使成功率上升"
+            },
+            {
+              "start_timestamp": 1013,
+              "end_timestamp": 1015,
+              "content": "这个才是我们的目的"
+            },
+            {
+              "start_timestamp": 1015,
+              "end_timestamp": 1017,
+              "content": "而不是我看到阳包阴"
+            },
+            {
+              "start_timestamp": 1017,
+              "end_timestamp": 1018,
+              "content": "我就说啊"
+            },
+            {
+              "start_timestamp": 1018,
+              "end_timestamp": 1018,
+              "content": "这个一定赚钱"
+            },
+            {
+              "start_timestamp": 1018,
+              "end_timestamp": 1019,
+              "content": "不是的啊"
+            },
+            {
+              "start_timestamp": 1019,
+              "end_timestamp": 1022,
+              "content": "不是这个意思能理解吗"
+            },
+            {
+              "start_timestamp": 1022,
+              "end_timestamp": 1030,
+              "content": "那么反之这个阳包阴反过来是什么阴包阳"
+            },
+            {
+              "start_timestamp": 1033,
+              "end_timestamp": 1034,
+              "content": "前一天上涨"
+            },
+            {
+              "start_timestamp": 1034,
+              "end_timestamp": 1038,
+              "content": "第二天一根向下反包的阴线"
+            },
+            {
+              "start_timestamp": 1038,
+              "end_timestamp": 1040,
+              "content": "它有可能是跳空向下"
+            },
+            {
+              "start_timestamp": 1040,
+              "end_timestamp": 1042,
+              "content": "也有可能是高开低走"
+            },
+            {
+              "start_timestamp": 1042,
+              "end_timestamp": 1043,
+              "content": "向下也有可能低开"
+            },
+            {
+              "start_timestamp": 1043,
+              "end_timestamp": 1047,
+              "content": "就是这根阳线很明显附包住了这根阳线"
+            },
+            {
+              "start_timestamp": 1047,
+              "end_timestamp": 1049,
+              "content": "这个就叫阴包阳"
+            },
+            {
+              "start_timestamp": 1049,
+              "end_timestamp": 1051,
+              "content": "我就不写了哈"
+            },
+            {
+              "start_timestamp": 1051,
+              "end_timestamp": 1053,
+              "content": "这是第一个我们要聊的"
+            },
+            {
+              "start_timestamp": 1053,
+              "end_timestamp": 1055,
+              "content": "第二个"
+            },
+            {
+              "start_timestamp": 1057,
+              "end_timestamp": 1060,
+              "content": "N字形反包"
+            },
+            {
+              "start_timestamp": 1067,
+              "end_timestamp": 1069,
+              "content": "什么叫N字型反包"
+            },
+            {
+              "start_timestamp": 1070,
+              "end_timestamp": 1071,
+              "content": "大家看我手哈"
+            },
+            {
+              "start_timestamp": 1071,
+              "end_timestamp": 1077,
+              "content": "大家看我手一个涨停调整两天再来一个涨停"
+            },
+            {
+              "start_timestamp": 1077,
+              "end_timestamp": 1080,
+              "content": "这个就叫N字型反包"
+            },
+            {
+              "start_timestamp": 1080,
+              "end_timestamp": 1081,
+              "content": "能理解吗"
+            },
+            {
+              "start_timestamp": 1083,
+              "end_timestamp": 1090,
+              "content": "同样的一个跌停反弹两天就向上反弹两天"
+            },
+            {
+              "start_timestamp": 1090,
+              "end_timestamp": 1091,
+              "content": "再来一个跌停"
+            },
+            {
+              "start_timestamp": 1091,
+              "end_timestamp": 1093,
+              "content": "这个也叫N字形反包"
+            },
+            {
+              "start_timestamp": 1093,
+              "end_timestamp": 1096,
+              "content": "但是我们一般会在前面加一个N字形"
+            },
+            {
+              "start_timestamp": 1096,
+              "end_timestamp": 1098,
+              "content": "向下反包啊"
+            },
+            {
+              "start_timestamp": 1098,
+              "end_timestamp": 1100,
+              "content": "就叫倒过来的反包嘛"
+            },
+            {
+              "start_timestamp": 1100,
+              "end_timestamp": 1103,
+              "content": "倒过来的N字型反包"
+            },
+            {
+              "start_timestamp": 1103,
+              "end_timestamp": 1105,
+              "content": "这个我直接用手大哈"
+            },
+            {
+              "start_timestamp": 1105,
+              "end_timestamp": 1106,
+              "content": "我不知道大家看能不能搞懂啊"
+            },
+            {
+              "start_timestamp": 1106,
+              "end_timestamp": 1110,
+              "content": "涨停调整两天再来一个涨停"
+            },
+            {
+              "start_timestamp": 1110,
+              "end_timestamp": 1116,
+              "content": "那么这个调整调整一天叫N加一反包"
+            },
+            {
+              "start_timestamp": 1116,
+              "end_timestamp": 1120,
+              "content": "调整两天叫做N加二反包"
+            },
+            {
+              "start_timestamp": 1120,
+              "end_timestamp": 1123,
+              "content": "或他有可能不是不是调整啊"
+            },
+            {
+              "start_timestamp": 1123,
+              "end_timestamp": 1125,
+              "content": "他只要不是连续涨停"
+            },
+            {
+              "start_timestamp": 1125,
+              "end_timestamp": 1126,
+              "content": "都叫N加"
+            },
+            {
+              "start_timestamp": 1126,
+              "end_timestamp": 1127,
+              "content": "懂了吗"
+            },
+            {
+              "start_timestamp": 1127,
+              "end_timestamp": 1129,
+              "content": "如果是连连续两天涨停的话"
+            },
+            {
+              "start_timestamp": 1129,
+              "end_timestamp": 1131,
+              "content": "就是二连板嘛"
+            },
+            {
+              "start_timestamp": 1131,
+              "end_timestamp": 1133,
+              "content": "啊其实它不一定是说是一定是下跌"
+            },
+            {
+              "start_timestamp": 1133,
+              "end_timestamp": 1135,
+              "content": "它可能横盘震荡"
+            },
+            {
+              "start_timestamp": 1135,
+              "end_timestamp": 1136,
+              "content": "也可能一点点涨"
+            },
+            {
+              "start_timestamp": 1136,
+              "end_timestamp": 1138,
+              "content": "这也叫N字型反包"
+            },
+            {
+              "start_timestamp": 1139,
+              "end_timestamp": 1141,
+              "content": "那么这里画一下啊"
+            },
+            {
+              "start_timestamp": 1141,
+              "end_timestamp": 1146,
+              "content": "首先这里第一天涨停"
+            },
+            {
+              "start_timestamp": 1147,
+              "end_timestamp": 1148,
+              "content": "啊涨停"
+            },
+            {
+              "start_timestamp": 1149,
+              "end_timestamp": 1153,
+              "content": "然后调整两天"
+            },
+            {
+              "start_timestamp": 1153,
+              "end_timestamp": 1156,
+              "content": "这里不一定是一个实体的"
+            },
+            {
+              "start_timestamp": 1156,
+              "end_timestamp": 1158,
+              "content": "他可能是有长上影"
+            },
+            {
+              "start_timestamp": 1158,
+              "end_timestamp": 1160,
+              "content": "长下影懂吗"
+            },
+            {
+              "start_timestamp": 1160,
+              "end_timestamp": 1161,
+              "content": "不一定的"
+            },
+            {
+              "start_timestamp": 1161,
+              "end_timestamp": 1163,
+              "content": "就是大概就是没有大涨嘛"
+            },
+            {
+              "start_timestamp": 1163,
+              "end_timestamp": 1165,
+              "content": "没有连续涨停嘛"
+            },
+            {
+              "start_timestamp": 1165,
+              "end_timestamp": 1167,
+              "content": "好调整两天再来一根反包"
+            },
+            {
+              "start_timestamp": 1167,
+              "end_timestamp": 1169,
+              "content": "再来一根涨停"
+            },
+            {
+              "start_timestamp": 1172,
+              "end_timestamp": 1174,
+              "content": "这个就叫N字型反包"
+            },
+            {
+              "start_timestamp": 1174,
+              "end_timestamp": 1175,
+              "content": "我放近一点"
+            },
+            {
+              "start_timestamp": 1175,
+              "end_timestamp": 1178,
+              "content": "这个就叫N字型反包涨停调整"
+            },
+            {
+              "start_timestamp": 1178,
+              "end_timestamp": 1183,
+              "content": "那么中间的就是代表N加几"
+            },
+            {
+              "start_timestamp": 1183,
+              "end_timestamp": 1184,
+              "content": "两根阴线"
+            },
+            {
+              "start_timestamp": 1184,
+              "end_timestamp": 1186,
+              "content": "两根调整就隔了两天才涨停"
+            },
+            {
+              "start_timestamp": 1186,
+              "end_timestamp": 1189,
+              "content": "这个叫N加二"
+            },
+            {
+              "start_timestamp": 1190,
+              "end_timestamp": 1192,
+              "content": "N加二啊"
+            },
+            {
+              "start_timestamp": 1192,
+              "end_timestamp": 1193,
+              "content": "同理自己去推哈"
+            },
+            {
+              "start_timestamp": 1193,
+              "end_timestamp": 1195,
+              "content": "就一根调整一天"
+            },
+            {
+              "start_timestamp": 1195,
+              "end_timestamp": 1196,
+              "content": "直接反包了"
+            },
+            {
+              "start_timestamp": 1196,
+              "end_timestamp": 1198,
+              "content": "叫N加一"
+            },
+            {
+              "start_timestamp": 1198,
+              "end_timestamp": 1200,
+              "content": "这个是关于这个N字型反包"
+            },
+            {
+              "start_timestamp": 1200,
+              "end_timestamp": 1204,
+              "content": "第三个关于多方炮"
+            },
+            {
+              "start_timestamp": 1204,
+              "end_timestamp": 1210,
+              "content": "这个多方炮听上去这个名字其实气势磅礴啊"
+            },
+            {
+              "start_timestamp": 1210,
+              "end_timestamp": 1213,
+              "content": "跟那个行军打仗一样哈"
+            },
+            {
+              "start_timestamp": 1213,
+              "end_timestamp": 1216,
+              "content": "炮炮是什么意思啊"
+            },
+            {
+              "start_timestamp": 1216,
+              "end_timestamp": 1219,
+              "content": "强烈对不对"
+            },
+            {
+              "start_timestamp": 1219,
+              "end_timestamp": 1222,
+              "content": "强烈的意思对某一种预期哦"
+            },
+            {
+              "start_timestamp": 1222,
+              "end_timestamp": 1225,
+              "content": "这个刚才这里忘记说了"
+            },
+            {
+              "start_timestamp": 1225,
+              "end_timestamp": 1230,
+              "content": "大家想一下这一个N字形的图形预期是什么"
+            },
+            {
+              "start_timestamp": 1231,
+              "end_timestamp": 1236,
+              "content": "调整没有跌破前面这个这一个阳体"
+            },
+            {
+              "start_timestamp": 1236,
+              "end_timestamp": 1237,
+              "content": "这一个涨停"
+            },
+            {
+              "start_timestamp": 1238,
+              "end_timestamp": 1240,
+              "content": "看涨"
+            },
+            {
+              "start_timestamp": 1242,
+              "end_timestamp": 1244,
+              "content": "看长一样的哈"
+            },
+            {
+              "start_timestamp": 1244,
+              "end_timestamp": 1246,
+              "content": "这些都是常见的反包图形"
+            },
+            {
+              "start_timestamp": 1246,
+              "end_timestamp": 1248,
+              "content": "你们可以自己去找找品种对应进去"
+            },
+            {
+              "start_timestamp": 1248,
+              "end_timestamp": 1249,
+              "content": "我不找啊"
+            },
+            {
+              "start_timestamp": 1249,
+              "end_timestamp": 1253,
+              "content": "因为我这里不方便把那个电脑放出来"
+            },
+            {
+              "start_timestamp": 1253,
+              "end_timestamp": 1254,
+              "content": "你们可以找一下"
+            },
+            {
+              "start_timestamp": 1254,
+              "end_timestamp": 1256,
+              "content": "其实一大堆每天都有啊"
+            },
+            {
+              "start_timestamp": 1256,
+              "end_timestamp": 1258,
+              "content": "每天都有这样的图形"
+            },
+            {
+              "start_timestamp": 1259,
+              "end_timestamp": 1260,
+              "content": "继续多方炮"
+            },
+            {
+              "start_timestamp": 1261,
+              "end_timestamp": 1262,
+              "content": "多方炮"
+            },
+            {
+              "start_timestamp": 1262,
+              "end_timestamp": 1263,
+              "content": "那反过来是什么"
+            },
+            {
+              "start_timestamp": 1263,
+              "end_timestamp": 1265,
+              "content": "空方炮"
+            },
+            {
+              "start_timestamp": 1270,
+              "end_timestamp": 1272,
+              "content": "唉多方炮空方炮"
+            },
+            {
+              "start_timestamp": 1272,
+              "end_timestamp": 1273,
+              "content": "那么什么叫多方炮"
+            },
+            {
+              "start_timestamp": 1273,
+              "end_timestamp": 1275,
+              "content": "这里大家认真听哈"
+            },
+            {
+              "start_timestamp": 1275,
+              "end_timestamp": 1279,
+              "content": "一根涨停通常是涨停啊"
+            },
+            {
+              "start_timestamp": 1279,
+              "end_timestamp": 1280,
+              "content": "最好是涨停"
+            },
+            {
+              "start_timestamp": 1280,
+              "end_timestamp": 1282,
+              "content": "一般阳线也可以叫多方炮"
+            },
+            {
+              "start_timestamp": 1282,
+              "end_timestamp": 1284,
+              "content": "但是最好是涨停"
+            },
+            {
+              "start_timestamp": 1285,
+              "end_timestamp": 1287,
+              "content": "尤其是对于个股来说啊"
+            },
+            {
+              "start_timestamp": 1287,
+              "end_timestamp": 1293,
+              "content": "涨停第二天明显的调整"
+            },
+            {
+              "start_timestamp": 1294,
+              "end_timestamp": 1296,
+              "content": "这是不是阳包那个阴包阳啊"
+            },
+            {
+              "start_timestamp": 1296,
+              "end_timestamp": 1298,
+              "content": "这个这一个阴包阳"
+            },
+            {
+              "start_timestamp": 1298,
+              "end_timestamp": 1300,
+              "content": "第三天"
+            },
+            {
+              "start_timestamp": 1303,
+              "end_timestamp": 1305,
+              "content": "再来一根涨停"
+            },
+            {
+              "start_timestamp": 1305,
+              "end_timestamp": 1306,
+              "content": "把它包回去"
+            },
+            {
+              "start_timestamp": 1306,
+              "end_timestamp": 1308,
+              "content": "说明什么"
+            },
+            {
+              "start_timestamp": 1308,
+              "end_timestamp": 1310,
+              "content": "你们可以把自己代入进去啊"
+            },
+            {
+              "start_timestamp": 1310,
+              "end_timestamp": 1315,
+              "content": "说明这个你你能不能理解为里面的主力"
+            },
+            {
+              "start_timestamp": 1315,
+              "end_timestamp": 1317,
+              "content": "里面的资金在宽幅洗盘"
+            },
+            {
+              "start_timestamp": 1317,
+              "end_timestamp": 1321,
+              "content": "很强烈的洗盘才会出现这样的走势啊"
+            },
+            {
+              "start_timestamp": 1322,
+              "end_timestamp": 1326,
+              "content": "这样的一个涨停大跌涨停"
+            },
+            {
+              "start_timestamp": 1326,
+              "end_timestamp": 1327,
+              "content": "这里不一定是跌停的哈"
+            },
+            {
+              "start_timestamp": 1327,
+              "end_timestamp": 1330,
+              "content": "涨停大跌涨停"
+            },
+            {
+              "start_timestamp": 1330,
+              "end_timestamp": 1333,
+              "content": "这个就是一个很经典的多方炮"
+            },
+            {
+              "start_timestamp": 1333,
+              "end_timestamp": 1336,
+              "content": "而且最后一根涨停啊"
+            },
+            {
+              "start_timestamp": 1336,
+              "end_timestamp": 1338,
+              "content": "最好基本不是"
+            },
+            {
+              "start_timestamp": 1338,
+              "end_timestamp": 1342,
+              "content": "最好是最是一定要包掉中间的这个阴线"
+            },
+            {
+              "start_timestamp": 1342,
+              "end_timestamp": 1344,
+              "content": "这个反包的力度就更强烈"
+            },
+            {
+              "start_timestamp": 1344,
+              "end_timestamp": 1347,
+              "content": "这个就叫多方炮"
+            },
+            {
+              "start_timestamp": 1347,
+              "end_timestamp": 1348,
+              "content": "反过来呢"
+            },
+            {
+              "start_timestamp": 1350,
+              "end_timestamp": 1352,
+              "content": "空方炮马"
+            },
+            {
+              "start_timestamp": 1358,
+              "end_timestamp": 1361,
+              "content": "因为我是边聊边画啊"
+            },
+            {
+              "start_timestamp": 1362,
+              "end_timestamp": 1365,
+              "content": "空方炮额大跌一天"
+            },
+            {
+              "start_timestamp": 1365,
+              "end_timestamp": 1366,
+              "content": "第二天大涨"
+            },
+            {
+              "start_timestamp": 1366,
+              "end_timestamp": 1368,
+              "content": "第三天再大跌"
+            },
+            {
+              "start_timestamp": 1368,
+              "end_timestamp": 1371,
+              "content": "这种是看跌图形"
+            },
+            {
+              "start_timestamp": 1374,
+              "end_timestamp": 1377,
+              "content": "那么这种呢涨"
+            },
+            {
+              "start_timestamp": 1380,
+              "end_timestamp": 1381,
+              "content": "啊这个是看涨"
+            },
+            {
+              "start_timestamp": 1381,
+              "end_timestamp": 1382,
+              "content": "这个是看跌"
+            },
+            {
+              "start_timestamp": 1382,
+              "end_timestamp": 1384,
+              "content": "在实际运用中"
+            },
+            {
+              "start_timestamp": 1384,
+              "end_timestamp": 1385,
+              "content": "我们我刚才说了"
+            },
+            {
+              "start_timestamp": 1385,
+              "end_timestamp": 1388,
+              "content": "我们不要简单的去背一下这个图形"
+            },
+            {
+              "start_timestamp": 1388,
+              "end_timestamp": 1391,
+              "content": "我们一定要去理解里面的含义啊"
+            },
+            {
+              "start_timestamp": 1391,
+              "end_timestamp": 1395,
+              "content": "这个上下振幅有有很多短线票啊"
+            },
+            {
+              "start_timestamp": 1395,
+              "end_timestamp": 1397,
+              "content": "他们上下都是跌停的"
+            },
+            {
+              "start_timestamp": 1397,
+              "end_timestamp": 1399,
+              "content": "涨停跌停涨停跌停"
+            },
+            {
+              "start_timestamp": 1399,
+              "end_timestamp": 1400,
+              "content": "你们去想一下"
+            },
+            {
+              "start_timestamp": 1400,
+              "end_timestamp": 1401,
+              "content": "如果在里面做"
+            },
+            {
+              "start_timestamp": 1401,
+              "end_timestamp": 1402,
+              "content": "你前一天打板"
+            },
+            {
+              "start_timestamp": 1402,
+              "end_timestamp": 1404,
+              "content": "第二天跌停割肉"
+            },
+            {
+              "start_timestamp": 1404,
+              "end_timestamp": 1405,
+              "content": "第三天又涨停"
+            },
+            {
+              "start_timestamp": 1405,
+              "end_timestamp": 1406,
+              "content": "你会怎么样"
+            },
+            {
+              "start_timestamp": 1406,
+              "end_timestamp": 1407,
+              "content": "气死了"
+            },
+            {
+              "start_timestamp": 1407,
+              "end_timestamp": 1408,
+              "content": "卖飞了"
+            },
+            {
+              "start_timestamp": 1408,
+              "end_timestamp": 1411,
+              "content": "这种是一个很强烈的洗盘"
+            },
+            {
+              "start_timestamp": 1411,
+              "end_timestamp": 1413,
+              "content": "洗盘的一个动作能理解吗"
+            },
+            {
+              "start_timestamp": 1413,
+              "end_timestamp": 1415,
+              "content": "就是就跟我们洗衣服一样"
+            },
+            {
+              "start_timestamp": 1415,
+              "end_timestamp": 1418,
+              "content": "很强烈的去戳那个衣服一样"
+            },
+            {
+              "start_timestamp": 1418,
+              "end_timestamp": 1420,
+              "content": "最后一根阳线"
+            },
+            {
+              "start_timestamp": 1420,
+              "end_timestamp": 1424,
+              "content": "最后一个日K图形就代表了资金的进攻方向"
+            },
+            {
+              "start_timestamp": 1424,
+              "end_timestamp": 1428,
+              "content": "如果是一个反包的涨停大阳线多方炮"
+            },
+            {
+              "start_timestamp": 1428,
+              "end_timestamp": 1430,
+              "content": "如果是阴线看跌啊"
+            },
+            {
+              "start_timestamp": 1432,
+              "end_timestamp": 1435,
+              "content": "同理简单聊一下"
+            },
+            {
+              "start_timestamp": 1435,
+              "end_timestamp": 1437,
+              "content": "然后我我我简单聊一个"
+            },
+            {
+              "start_timestamp": 1437,
+              "end_timestamp": 1439,
+              "content": "有这个有一个叫叠叠多方炮"
+            },
+            {
+              "start_timestamp": 1439,
+              "end_timestamp": 1440,
+              "content": "很有意思"
+            },
+            {
+              "start_timestamp": 1440,
+              "end_timestamp": 1442,
+              "content": "还不过还真的有这样的品种"
+            },
+            {
+              "start_timestamp": 1442,
+              "end_timestamp": 1444,
+              "content": "叠叠多方炮"
+            },
+            {
+              "start_timestamp": 1444,
+              "end_timestamp": 1446,
+              "content": "我我这里不画图啊"
+            },
+            {
+              "start_timestamp": 1446,
+              "end_timestamp": 1447,
+              "content": "双碟吧"
+            },
+            {
+              "start_timestamp": 1447,
+              "end_timestamp": 1448,
+              "content": "我写个双碟"
+            },
+            {
+              "start_timestamp": 1451,
+              "end_timestamp": 1452,
+              "content": "叠叠多方炮"
+            },
+            {
+              "start_timestamp": 1452,
+              "end_timestamp": 1454,
+              "content": "什么叫跌双叠多方炮啊"
+            },
+            {
+              "start_timestamp": 1454,
+              "end_timestamp": 1459,
+              "content": "就是涨停跌停涨停跌停再涨停"
+            },
+            {
+              "start_timestamp": 1459,
+              "end_timestamp": 1463,
+              "content": "这一个动作重复两次能理解吗"
+            },
+            {
+              "start_timestamp": 1463,
+              "end_timestamp": 1464,
+              "content": "重复两次"
+            },
+            {
+              "start_timestamp": 1464,
+              "end_timestamp": 1466,
+              "content": "这个就叫叠叠空多方炮"
+            },
+            {
+              "start_timestamp": 1466,
+              "end_timestamp": 1467,
+              "content": "空方炮啊"
+            },
+            {
+              "start_timestamp": 1467,
+              "end_timestamp": 1471,
+              "content": "但是我们在实际运用中很少用啊"
+            },
+            {
+              "start_timestamp": 1471,
+              "end_timestamp": 1471,
+              "content": "很少用"
+            },
+            {
+              "start_timestamp": 1471,
+              "end_timestamp": 1474,
+              "content": "我这几年可能就看过几只啊"
+            },
+            {
+              "start_timestamp": 1475,
+              "end_timestamp": 1479,
+              "content": "那么这个是第四个叠叠多方炮和空方炮"
+            },
+            {
+              "start_timestamp": 1480,
+              "end_timestamp": 1483,
+              "content": "第五个红三兵"
+            },
+            {
+              "start_timestamp": 1486,
+              "end_timestamp": 1491,
+              "content": "红三兵还有乌云盖顶或者三只乌鸦"
+            },
+            {
+              "start_timestamp": 1495,
+              "end_timestamp": 1499,
+              "content": "红三兵就是连续三根红色的K线"
+            },
+            {
+              "start_timestamp": 1499,
+              "end_timestamp": 1503,
+              "content": "红色的红色的连续上涨三天"
+            },
+            {
+              "start_timestamp": 1503,
+              "end_timestamp": 1505,
+              "content": "这个就叫红三兵"
+            },
+            {
+              "start_timestamp": 1505,
+              "end_timestamp": 1506,
+              "content": "而且要上涨哈"
+            },
+            {
+              "start_timestamp": 1506,
+              "end_timestamp": 1509,
+              "content": "你不要说低开高走的那种红K线"
+            },
+            {
+              "start_timestamp": 1509,
+              "end_timestamp": 1512,
+              "content": "连续的上涨的三根红K线"
+            },
+            {
+              "start_timestamp": 1512,
+              "end_timestamp": 1514,
+              "content": "你又说低开高走也是红K线呐"
+            },
+            {
+              "start_timestamp": 1514,
+              "end_timestamp": 1516,
+              "content": "啊但是他是下跌的嘛"
+            },
+            {
+              "start_timestamp": 1516,
+              "end_timestamp": 1520,
+              "content": "红三兵就是要上涨的三只乌鸦呢"
+            },
+            {
+              "start_timestamp": 1520,
+              "end_timestamp": 1521,
+              "content": "同理啊"
+            },
+            {
+              "start_timestamp": 1521,
+              "end_timestamp": 1525,
+              "content": "三只乌鸦就是连续下跌的三根阴线"
+            },
+            {
+              "start_timestamp": 1525,
+              "end_timestamp": 1527,
+              "content": "这个中字是啥意思"
+            },
+            {
+              "start_timestamp": 1527,
+              "end_timestamp": 1529,
+              "content": "就是一个长上上下影线嘛"
+            },
+            {
+              "start_timestamp": 1529,
+              "end_timestamp": 1530,
+              "content": "就随便画一下的意思"
+            },
+            {
+              "start_timestamp": 1533,
+              "end_timestamp": 1535,
+              "content": "三只乌鸦啊"
+            },
+            {
+              "start_timestamp": 1535,
+              "end_timestamp": 1538,
+              "content": "就是向下的三根绿阴线"
+            },
+            {
+              "start_timestamp": 1538,
+              "end_timestamp": 1542,
+              "content": "那么这些就是一些最基础的一个组合"
+            },
+            {
+              "start_timestamp": 1542,
+              "end_timestamp": 1545,
+              "content": "还有一个简单的日K介绍"
+            },
+            {
+              "start_timestamp": 1545,
+              "end_timestamp": 1546,
+              "content": "两两点啊"
+            },
+            {
+              "start_timestamp": 1546,
+              "end_timestamp": 1550,
+              "content": "那么第一大点是聊单日K聊了聊了五个"
+            },
+            {
+              "start_timestamp": 1550,
+              "end_timestamp": 1553,
+              "content": "那么第二个是日K组合也聊了五个"
+            },
+            {
+              "start_timestamp": 1553,
+              "end_timestamp": 1557,
+              "content": "这里来来到了第三第三个问题哈"
+            },
+            {
+              "start_timestamp": 1557,
+              "end_timestamp": 1560,
+              "content": "这里就基本上是纯聊"
+            },
+            {
+              "start_timestamp": 1560,
+              "end_timestamp": 1562,
+              "content": "这里问大家哈"
+            },
+            {
+              "start_timestamp": 1562,
+              "end_timestamp": 1564,
+              "content": "你们觉得什么叫压力啊"
+            },
+            {
+              "start_timestamp": 1565,
+              "end_timestamp": 1566,
+              "content": "什么叫支撑性啊"
+            },
+            {
+              "start_timestamp": 1566,
+              "end_timestamp": 1569,
+              "content": "哎呦有点晃啊"
+            },
+            {
+              "start_timestamp": 1569,
+              "end_timestamp": 1570,
+              "content": "什么叫压力"
+            },
+            {
+              "start_timestamp": 1570,
+              "end_timestamp": 1571,
+              "content": "什么叫支撑性"
+            },
+            {
+              "start_timestamp": 1571,
+              "end_timestamp": 1572,
+              "content": "我先跟大家说一下哈"
+            },
+            {
+              "start_timestamp": 1572,
+              "end_timestamp": 1575,
+              "content": "我直接说结果好吧"
+            },
+            {
+              "start_timestamp": 1575,
+              "end_timestamp": 1578,
+              "content": "这里有一个震荡的图形"
+            },
+            {
+              "start_timestamp": 1580,
+              "end_timestamp": 1582,
+              "content": "震荡的图形"
+            },
+            {
+              "start_timestamp": 1582,
+              "end_timestamp": 1584,
+              "content": "这个叫区间震荡"
+            },
+            {
+              "start_timestamp": 1584,
+              "end_timestamp": 1585,
+              "content": "这个大家理能理解哈"
+            },
+            {
+              "start_timestamp": 1586,
+              "end_timestamp": 1591,
+              "content": "某一天这里会不会是不是有一个区间高点"
+            },
+            {
+              "start_timestamp": 1592,
+              "end_timestamp": 1594,
+              "content": "啊假如是这个是100块钱"
+            },
+            {
+              "start_timestamp": 1596,
+              "end_timestamp": 1597,
+              "content": "这个是90元"
+            },
+            {
+              "start_timestamp": 1597,
+              "end_timestamp": 1602,
+              "content": "这一只股票在90~100之间反复震荡"
+            },
+            {
+              "start_timestamp": 1602,
+              "end_timestamp": 1605,
+              "content": "某一天这只股票很牛逼"
+            },
+            {
+              "start_timestamp": 1605,
+              "end_timestamp": 1609,
+              "content": "他冲高到110元110"
+            },
+            {
+              "start_timestamp": 1609,
+              "end_timestamp": 1612,
+              "content": "然后往回调整"
+            },
+            {
+              "start_timestamp": 1613,
+              "end_timestamp": 1615,
+              "content": "往回调整到100元"
+            },
+            {
+              "start_timestamp": 1618,
+              "end_timestamp": 1619,
+              "content": "这个叫什么"
+            },
+            {
+              "start_timestamp": 1619,
+              "end_timestamp": 1620,
+              "content": "大家想一下什么"
+            },
+            {
+              "start_timestamp": 1620,
+              "end_timestamp": 1626,
+              "content": "这个这一个100块在这之前突破之前叫什么"
+            },
+            {
+              "start_timestamp": 1626,
+              "end_timestamp": 1628,
+              "content": "叫亚力伟"
+            },
+            {
+              "start_timestamp": 1632,
+              "end_timestamp": 1635,
+              "content": "啊就同样100块钱"
+            },
+            {
+              "start_timestamp": 1635,
+              "end_timestamp": 1637,
+              "content": "他在这里挣了很久"
+            },
+            {
+              "start_timestamp": 1637,
+              "end_timestamp": 1638,
+              "content": "90~100之间"
+            },
+            {
+              "start_timestamp": 1638,
+              "end_timestamp": 1639,
+              "content": "他挣了很久"
+            },
+            {
+              "start_timestamp": 1639,
+              "end_timestamp": 1641,
+              "content": "上上冲到100"
+            },
+            {
+              "start_timestamp": 1641,
+              "end_timestamp": 1645,
+              "content": "调整上冲到100调整100块是压力位"
+            },
+            {
+              "start_timestamp": 1645,
+              "end_timestamp": 1647,
+              "content": "当它突破到100"
+            },
+            {
+              "start_timestamp": 1647,
+              "end_timestamp": 1647,
+              "content": "涨到100"
+            },
+            {
+              "start_timestamp": 1647,
+              "end_timestamp": 1649,
+              "content": "一十一一百一十"
+            },
+            {
+              "start_timestamp": 1649,
+              "end_timestamp": 1651,
+              "content": "回踩这个100的时候"
+            },
+            {
+              "start_timestamp": 1651,
+              "end_timestamp": 1656,
+              "content": "这一个100元变成了支撑位"
+            },
+            {
+              "start_timestamp": 1662,
+              "end_timestamp": 1663,
+              "content": "啊变成了支撑位"
+            },
+            {
+              "start_timestamp": 1663,
+              "end_timestamp": 1665,
+              "content": "那么今天啊其实我今天想了很久"
+            },
+            {
+              "start_timestamp": 1665,
+              "end_timestamp": 1668,
+              "content": "就是为什么会这个样子"
+            },
+            {
+              "start_timestamp": 1668,
+              "end_timestamp": 1670,
+              "content": "你们有没有更好的例子哈"
+            },
+            {
+              "start_timestamp": 1670,
+              "end_timestamp": 1673,
+              "content": "我我先我我这里问题提出来了"
+            },
+            {
+              "start_timestamp": 1673,
+              "end_timestamp": 1676,
+              "content": "那么我会用我自己的理解"
+            },
+            {
+              "start_timestamp": 1676,
+              "end_timestamp": 1678,
+              "content": "然后跟大家聊啊"
+            },
+            {
+              "start_timestamp": 1678,
+              "end_timestamp": 1680,
+              "content": "我我用自己的理解跟大家聊"
+            },
+            {
+              "start_timestamp": 1680,
+              "end_timestamp": 1683,
+              "content": "如果大家有更好的例子"
+            },
+            {
+              "start_timestamp": 1683,
+              "end_timestamp": 1686,
+              "content": "我这里例子"
+            },
+            {
+              "start_timestamp": 1688,
+              "end_timestamp": 1691,
+              "content": "啊如果大家有更好的例子"
+            },
+            {
+              "start_timestamp": 1691,
+              "end_timestamp": 1694,
+              "content": "你觉得可以解释清楚这个压力位和支撑"
+            },
+            {
+              "start_timestamp": 1694,
+              "end_timestamp": 1695,
+              "content": "支撑支撑位"
+            },
+            {
+              "start_timestamp": 1695,
+              "end_timestamp": 1697,
+              "content": "你们来给我解讲例子好"
+            },
+            {
+              "start_timestamp": 1697,
+              "end_timestamp": 1699,
+              "content": "那么现在先由我来讲"
+            },
+            {
+              "start_timestamp": 1700,
+              "end_timestamp": 1702,
+              "content": "首先我用两个例子嘛"
+            },
+            {
+              "start_timestamp": 1702,
+              "end_timestamp": 1704,
+              "content": "第一个是运动员"
+            },
+            {
+              "start_timestamp": 1706,
+              "end_timestamp": 1707,
+              "content": "诶"
+            },
+            {
+              "start_timestamp": 1709,
+              "end_timestamp": 1713,
+              "content": "运动员"
+            },
+            {
+              "start_timestamp": 1715,
+              "end_timestamp": 1717,
+              "content": "大家有没有运动的一个习惯"
+            },
+            {
+              "start_timestamp": 1717,
+              "end_timestamp": 1720,
+              "content": "就是如果说大家有关注过运动员啊"
+            },
+            {
+              "start_timestamp": 1720,
+              "end_timestamp": 1724,
+              "content": "就是在一些非人类极限的成绩上"
+            },
+            {
+              "start_timestamp": 1724,
+              "end_timestamp": 1725,
+              "content": "什么叫非人类成绩"
+            },
+            {
+              "start_timestamp": 1725,
+              "end_timestamp": 1727,
+              "content": "就是你说破世界冠军那种啊"
+            },
+            {
+              "start_timestamp": 1727,
+              "end_timestamp": 1730,
+              "content": "我并不是聊那一种那么那么极端的"
+            },
+            {
+              "start_timestamp": 1730,
+              "end_timestamp": 1732,
+              "content": "我只是说一个常常规的"
+            },
+            {
+              "start_timestamp": 1732,
+              "end_timestamp": 1735,
+              "content": "一个像我们国家的一个什么一级运动员"
+            },
+            {
+              "start_timestamp": 1735,
+              "end_timestamp": 1735,
+              "content": "二级运动员"
+            },
+            {
+              "start_timestamp": 1735,
+              "end_timestamp": 1741,
+              "content": "其实很多体校的他们只要练习到位啊"
+            },
+            {
+              "start_timestamp": 1741,
+              "end_timestamp": 1744,
+              "content": "锻炼到位都能突破到那个成绩啊"
+            },
+            {
+              "start_timestamp": 1744,
+              "end_timestamp": 1746,
+              "content": "都能达到二级运动员啊"
+            },
+            {
+              "start_timestamp": 1746,
+              "end_timestamp": 1747,
+              "content": "一级运动员这个成绩啊"
+            },
+            {
+              "start_timestamp": 1747,
+              "end_timestamp": 1749,
+              "content": "当然我也没有了解清楚"
+            },
+            {
+              "start_timestamp": 1749,
+              "end_timestamp": 1750,
+              "content": "我只是举个例子哈"
+            },
+            {
+              "start_timestamp": 1750,
+              "end_timestamp": 1752,
+              "content": "大家也不要去钻牛角"
+            },
+            {
+              "start_timestamp": 1752,
+              "end_timestamp": 1752,
+              "content": "牛"
+            },
+            {
+              "start_timestamp": 1752,
+              "end_timestamp": 1754,
+              "content": "牛角尖那么大"
+            },
+            {
+              "start_timestamp": 1754,
+              "end_timestamp": 1756,
+              "content": "他对于他们来说"
+            },
+            {
+              "start_timestamp": 1756,
+              "end_timestamp": 1761,
+              "content": "假如说十秒十秒"
+            },
+            {
+              "start_timestamp": 1761,
+              "end_timestamp": 1762,
+              "content": "我们不要说十秒"
+            },
+            {
+              "start_timestamp": 1762,
+              "end_timestamp": 1764,
+              "content": "因为十秒他后面小数点很麻烦"
+            },
+            {
+              "start_timestamp": 1764,
+              "end_timestamp": 1766,
+              "content": "我说100秒哦"
+            },
+            {
+              "start_timestamp": 1766,
+              "end_timestamp": 1767,
+              "content": "假如说跑某一个长度"
+            },
+            {
+              "start_timestamp": 1767,
+              "end_timestamp": 1769,
+              "content": "它是用100秒"
+            },
+            {
+              "start_timestamp": 1771,
+              "end_timestamp": 1772,
+              "content": "100秒"
+            },
+            {
+              "start_timestamp": 1772,
+              "end_timestamp": 1774,
+              "content": "当他某一天某一个运动员"
+            },
+            {
+              "start_timestamp": 1774,
+              "end_timestamp": 1776,
+              "content": "他经过不断的锻炼哈"
+            },
+            {
+              "start_timestamp": 1776,
+              "end_timestamp": 1779,
+              "content": "他突破到了99秒"
+            },
+            {
+              "start_timestamp": 1781,
+              "end_timestamp": 1783,
+              "content": "在突破之前"
+            },
+            {
+              "start_timestamp": 1783,
+              "end_timestamp": 1786,
+              "content": "你们想一下这个100秒是什么啊"
+            },
+            {
+              "start_timestamp": 1787,
+              "end_timestamp": 1789,
+              "content": "是压力对不对"
+            },
+            {
+              "start_timestamp": 1789,
+              "end_timestamp": 1791,
+              "content": "因为他从来没有达到这个100秒的成绩"
+            },
+            {
+              "start_timestamp": 1791,
+              "end_timestamp": 1792,
+              "content": "他都是101秒"
+            },
+            {
+              "start_timestamp": 1792,
+              "end_timestamp": 1793,
+              "content": "102秒"
+            },
+            {
+              "start_timestamp": 1793,
+              "end_timestamp": 1797,
+              "content": "当他某一天他跑到了99秒"
+            },
+            {
+              "start_timestamp": 1797,
+              "end_timestamp": 1797,
+              "content": "我刚才说的"
+            },
+            {
+              "start_timestamp": 1797,
+              "end_timestamp": 1801,
+              "content": "他不是那种特别牛逼的世界冠军记录啊"
+            },
+            {
+              "start_timestamp": 1801,
+              "end_timestamp": 1804,
+              "content": "就是一个普通的职业运动员"
+            },
+            {
+              "start_timestamp": 1804,
+              "end_timestamp": 1806,
+              "content": "他突破这个成绩"
+            },
+            {
+              "start_timestamp": 1806,
+              "end_timestamp": 1811,
+              "content": "往后他只要没有明显的下滑100秒"
+            },
+            {
+              "start_timestamp": 1811,
+              "end_timestamp": 1814,
+              "content": "对于他来说就不再是压力了"
+            },
+            {
+              "start_timestamp": 1814,
+              "end_timestamp": 1815,
+              "content": "能理解吗"
+            },
+            {
+              "start_timestamp": 1815,
+              "end_timestamp": 1820,
+              "content": "这个在这个我我我我觉得大家不要跟我去犟哈"
+            },
+            {
+              "start_timestamp": 1820,
+              "end_timestamp": 1821,
+              "content": "大概就是这个意思"
+            },
+            {
+              "start_timestamp": 1821,
+              "end_timestamp": 1823,
+              "content": "因为我说的就案例"
+            },
+            {
+              "start_timestamp": 1823,
+              "end_timestamp": 1826,
+              "content": "就是不要去拿那种职业世界冠军"
+            },
+            {
+              "start_timestamp": 1826,
+              "end_timestamp": 1828,
+              "content": "不要去拿那种极端的案例"
+            },
+            {
+              "start_timestamp": 1828,
+              "end_timestamp": 1830,
+              "content": "就是一个普通的运动员"
+            },
+            {
+              "start_timestamp": 1830,
+              "end_timestamp": 1833,
+              "content": "可能想当当体育老师之类的那一种啊"
+            },
+            {
+              "start_timestamp": 1833,
+              "end_timestamp": 1836,
+              "content": "他在跑过100秒之前"
+            },
+            {
+              "start_timestamp": 1836,
+              "end_timestamp": 1837,
+              "content": "100秒对他是压力"
+            },
+            {
+              "start_timestamp": 1837,
+              "end_timestamp": 1839,
+              "content": "当他跑赢了100秒"
+            },
+            {
+              "start_timestamp": 1839,
+              "end_timestamp": 1841,
+              "content": "达到了99秒"
+            },
+            {
+              "start_timestamp": 1841,
+              "end_timestamp": 1842,
+              "content": "98秒"
+            },
+            {
+              "start_timestamp": 1842,
+              "end_timestamp": 1843,
+              "content": "未来他的成绩"
+            },
+            {
+              "start_timestamp": 1843,
+              "end_timestamp": 1847,
+              "content": "基本都会突破这个这一个数字的啊"
+            },
+            {
+              "start_timestamp": 1847,
+              "end_timestamp": 1849,
+              "content": "不至少短期之内"
+            },
+            {
+              "start_timestamp": 1849,
+              "end_timestamp": 1850,
+              "content": "但随着年纪变大"
+            },
+            {
+              "start_timestamp": 1850,
+              "end_timestamp": 1851,
+              "content": "他肯定要回归"
+            },
+            {
+              "start_timestamp": 1851,
+              "end_timestamp": 1853,
+              "content": "又是一刀100多了嘛"
+            },
+            {
+              "start_timestamp": 1853,
+              "end_timestamp": 1855,
+              "content": "就短期之内肯定是这个样子"
+            },
+            {
+              "start_timestamp": 1855,
+              "end_timestamp": 1857,
+              "content": "100秒不再是压力"
+            },
+            {
+              "start_timestamp": 1857,
+              "end_timestamp": 1859,
+              "content": "而是支撑"
+            },
+            {
+              "start_timestamp": 1859,
+              "end_timestamp": 1861,
+              "content": "就他哎呀"
+            },
+            {
+              "start_timestamp": 1861,
+              "end_timestamp": 1861,
+              "content": "他会跑"
+            },
+            {
+              "start_timestamp": 1861,
+              "end_timestamp": 1863,
+              "content": "我上一次跑了98秒"
+            },
+            {
+              "start_timestamp": 1863,
+              "end_timestamp": 1864,
+              "content": "我这一次至少100秒"
+            },
+            {
+              "start_timestamp": 1864,
+              "end_timestamp": 1865,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 1865,
+              "end_timestamp": 1867,
+              "content": "这个人的心理也是这个样子的"
+            },
+            {
+              "start_timestamp": 1867,
+              "end_timestamp": 1869,
+              "content": "这个是我举的第一个例子"
+            },
+            {
+              "start_timestamp": 1869,
+              "end_timestamp": 1871,
+              "content": "第二个例子"
+            },
+            {
+              "start_timestamp": 1872,
+              "end_timestamp": 1875,
+              "content": "关于台阶"
+            },
+            {
+              "start_timestamp": 1879,
+              "end_timestamp": 1885,
+              "content": "啊就是一截一截一截向上的这样的一个台阶"
+            },
+            {
+              "start_timestamp": 1886,
+              "end_timestamp": 1889,
+              "content": "当你没有走到第二个台阶的时候"
+            },
+            {
+              "start_timestamp": 1889,
+              "end_timestamp": 1891,
+              "content": "你要抬起脚"
+            },
+            {
+              "start_timestamp": 1891,
+              "end_timestamp": 1892,
+              "content": "如果说台阶过高"
+            },
+            {
+              "start_timestamp": 1892,
+              "end_timestamp": 1894,
+              "content": "你要可能要跳上去"
+            },
+            {
+              "start_timestamp": 1894,
+              "end_timestamp": 1896,
+              "content": "你的压力很大的"
+            },
+            {
+              "start_timestamp": 1897,
+              "end_timestamp": 1899,
+              "content": "当你跳过去了"
+            },
+            {
+              "start_timestamp": 1899,
+              "end_timestamp": 1902,
+              "content": "他就成了支撑啊"
+            },
+            {
+              "start_timestamp": 1902,
+              "end_timestamp": 1903,
+              "content": "它就成了支撑"
+            },
+            {
+              "start_timestamp": 1903,
+              "end_timestamp": 1904,
+              "content": "那么好"
+            },
+            {
+              "start_timestamp": 1904,
+              "end_timestamp": 1905,
+              "content": "这里一共两个例子"
+            },
+            {
+              "start_timestamp": 1905,
+              "end_timestamp": 1907,
+              "content": "第二个例子讲的很简单哈"
+            },
+            {
+              "start_timestamp": 1907,
+              "end_timestamp": 1908,
+              "content": "你们去想一下"
+            },
+            {
+              "start_timestamp": 1908,
+              "end_timestamp": 1910,
+              "content": "他们两个都有要求"
+            },
+            {
+              "start_timestamp": 1911,
+              "end_timestamp": 1915,
+              "content": "叫做有效突破"
+            },
+            {
+              "start_timestamp": 1923,
+              "end_timestamp": 1926,
+              "content": "哎有效突破啊"
+            },
+            {
+              "start_timestamp": 1926,
+              "end_timestamp": 1928,
+              "content": "这个石台阶的石头要够硬"
+            },
+            {
+              "start_timestamp": 1928,
+              "end_timestamp": 1931,
+              "content": "这个云运动员要自己坚持不懈"
+            },
+            {
+              "start_timestamp": 1931,
+              "end_timestamp": 1935,
+              "content": "这个才是底有效突破"
+            },
+            {
+              "start_timestamp": 1935,
+              "end_timestamp": 1939,
+              "content": "这才能看涨"
+            },
+            {
+              "start_timestamp": 1939,
+              "end_timestamp": 1940,
+              "content": "懂了吧"
+            },
+            {
+              "start_timestamp": 1940,
+              "end_timestamp": 1941,
+              "content": "反过来呢"
+            },
+            {
+              "start_timestamp": 1942,
+              "end_timestamp": 1944,
+              "content": "这样子"
+            },
+            {
+              "start_timestamp": 1947,
+              "end_timestamp": 1953,
+              "content": "向下的反过来呢看跌"
+            },
+            {
+              "start_timestamp": 1955,
+              "end_timestamp": 1955,
+              "content": "明白了吧"
+            },
+            {
+              "start_timestamp": 1955,
+              "end_timestamp": 1959,
+              "content": "这个就是最简单的一个压力和支撑力"
+            },
+            {
+              "start_timestamp": 1959,
+              "end_timestamp": 1960,
+              "content": "还是我那句话"
+            },
+            {
+              "start_timestamp": 1960,
+              "end_timestamp": 1963,
+              "content": "如果有更好的例子可以发在评论区"
+            },
+            {
+              "start_timestamp": 1963,
+              "end_timestamp": 1965,
+              "content": "我们来探讨一下"
+            },
+            {
+              "start_timestamp": 1965,
+              "end_timestamp": 1968,
+              "content": "那么这个是第三个关于压力和支撑力"
+            },
+            {
+              "start_timestamp": 1968,
+              "end_timestamp": 1973,
+              "content": "第四点趋势如何产生的"
+            },
+            {
+              "start_timestamp": 1973,
+              "end_timestamp": 1975,
+              "content": "趋势如何产生呢"
+            },
+            {
+              "start_timestamp": 1975,
+              "end_timestamp": 1979,
+              "content": "在开始聊1234之前"
+            },
+            {
+              "start_timestamp": 1979,
+              "end_timestamp": 1980,
+              "content": "我们先聊一下趋势"
+            },
+            {
+              "start_timestamp": 1980,
+              "end_timestamp": 1982,
+              "content": "大家想一下什么叫趋势啊"
+            },
+            {
+              "start_timestamp": 1982,
+              "end_timestamp": 1988,
+              "content": "趋势就是由各种各样的小级别的"
+            },
+            {
+              "start_timestamp": 1988,
+              "end_timestamp": 1991,
+              "content": "日K组合在一起"
+            },
+            {
+              "start_timestamp": 1991,
+              "end_timestamp": 1992,
+              "content": "这个就叫趋势"
+            },
+            {
+              "start_timestamp": 1993,
+              "end_timestamp": 1995,
+              "content": "对不对啊"
+            },
+            {
+              "start_timestamp": 1996,
+              "end_timestamp": 1998,
+              "content": "例如多方炮"
+            },
+            {
+              "start_timestamp": 1999,
+              "end_timestamp": 2000,
+              "content": "多方泡"
+            },
+            {
+              "start_timestamp": 2000,
+              "end_timestamp": 2002,
+              "content": "我刚才说多方炮"
+            },
+            {
+              "start_timestamp": 2002,
+              "end_timestamp": 2004,
+              "content": "你如果在某一个阶段反复的出现"
+            },
+            {
+              "start_timestamp": 2004,
+              "end_timestamp": 2007,
+              "content": "多方炮肯定是涨上去的"
+            },
+            {
+              "start_timestamp": 2007,
+              "end_timestamp": 2009,
+              "content": "大概率是涨上去的"
+            },
+            {
+              "start_timestamp": 2009,
+              "end_timestamp": 2011,
+              "content": "这种就是趋势呀"
+            },
+            {
+              "start_timestamp": 2011,
+              "end_timestamp": 2013,
+              "content": "同理空方炮"
+            },
+            {
+              "start_timestamp": 2013,
+              "end_timestamp": 2015,
+              "content": "那你天天高开低走"
+            },
+            {
+              "start_timestamp": 2015,
+              "end_timestamp": 2016,
+              "content": "你们去看一下56月"
+            },
+            {
+              "start_timestamp": 2016,
+              "end_timestamp": 2017,
+              "content": "5月份"
+            },
+            {
+              "start_timestamp": 2017,
+              "end_timestamp": 2018,
+              "content": "6月份"
+            },
+            {
+              "start_timestamp": 2018,
+              "end_timestamp": 2018,
+              "content": "7月份"
+            },
+            {
+              "start_timestamp": 2018,
+              "end_timestamp": 2019,
+              "content": "科技啊"
+            },
+            {
+              "start_timestamp": 2019,
+              "end_timestamp": 2023,
+              "content": "CPOPCB半导体有多少根"
+            },
+            {
+              "start_timestamp": 2027,
+              "end_timestamp": 2029,
+              "content": "你们去找一下"
+            },
+            {
+              "start_timestamp": 2029,
+              "end_timestamp": 2033,
+              "content": "就是我我我我你们这相当于一个作业哈"
+            },
+            {
+              "start_timestamp": 2036,
+              "end_timestamp": 2037,
+              "content": "相当于一个作业"
+            },
+            {
+              "start_timestamp": 2037,
+              "end_timestamp": 2039,
+              "content": "你们去看一下4月份"
+            },
+            {
+              "start_timestamp": 2039,
+              "end_timestamp": 2039,
+              "content": "5月份"
+            },
+            {
+              "start_timestamp": 2039,
+              "end_timestamp": 2042,
+              "content": "6月份那几个月高位震荡"
+            },
+            {
+              "start_timestamp": 2042,
+              "end_timestamp": 2045,
+              "content": "出现了多少根空方炮图形"
+            },
+            {
+              "start_timestamp": 2045,
+              "end_timestamp": 2047,
+              "content": "空方炮啊"
+            },
+            {
+              "start_timestamp": 2047,
+              "end_timestamp": 2048,
+              "content": "这个属于作业"
+            },
+            {
+              "start_timestamp": 2048,
+              "end_timestamp": 2050,
+              "content": "你们自己去看好多根"
+            },
+            {
+              "start_timestamp": 2050,
+              "end_timestamp": 2052,
+              "content": "我我印象中至少四五根"
+            },
+            {
+              "start_timestamp": 2052,
+              "end_timestamp": 2053,
+              "content": "那么好"
+            },
+            {
+              "start_timestamp": 2053,
+              "end_timestamp": 2054,
+              "content": "我刚才说了"
+            },
+            {
+              "start_timestamp": 2054,
+              "end_timestamp": 2058,
+              "content": "趋势既然是由各种各样的日K图形组合"
+            },
+            {
+              "start_timestamp": 2058,
+              "end_timestamp": 2061,
+              "content": "我们就来聊一下什么样的趋势"
+            },
+            {
+              "start_timestamp": 2061,
+              "end_timestamp": 2064,
+              "content": "会有什么样的预期"
+            },
+            {
+              "start_timestamp": 2064,
+              "end_timestamp": 2068,
+              "content": "哎标题各图的预期"
+            },
+            {
+              "start_timestamp": 2068,
+              "end_timestamp": 2070,
+              "content": "第一个"
+            },
+            {
+              "start_timestamp": 2072,
+              "end_timestamp": 2073,
+              "content": "双底"
+            },
+            {
+              "start_timestamp": 2081,
+              "end_timestamp": 2083,
+              "content": "画起来像个屁股一样哈"
+            },
+            {
+              "start_timestamp": 2083,
+              "end_timestamp": 2085,
+              "content": "双这个就叫双底"
+            },
+            {
+              "start_timestamp": 2085,
+              "end_timestamp": 2088,
+              "content": "调整反弹再调整"
+            },
+            {
+              "start_timestamp": 2088,
+              "end_timestamp": 2090,
+              "content": "反弹出现了两个相对的低点"
+            },
+            {
+              "start_timestamp": 2090,
+              "end_timestamp": 2092,
+              "content": "它们大致位置差不多"
+            },
+            {
+              "start_timestamp": 2092,
+              "end_timestamp": 2095,
+              "content": "这也是当下市场正在走的一个双底"
+            },
+            {
+              "start_timestamp": 2095,
+              "end_timestamp": 2097,
+              "content": "你们去看一下今天的指数"
+            },
+            {
+              "start_timestamp": 2097,
+              "end_timestamp": 2099,
+              "content": "跟前办一个月前的那个指数"
+            },
+            {
+              "start_timestamp": 2099,
+              "end_timestamp": 2101,
+              "content": "是不是一个形成一个双底预期哈"
+            },
+            {
+              "start_timestamp": 2101,
+              "end_timestamp": 2105,
+              "content": "预期双底之后"
+            },
+            {
+              "start_timestamp": 2105,
+              "end_timestamp": 2110,
+              "content": "如果说突破了前面这个反弹的高度"
+            },
+            {
+              "start_timestamp": 2112,
+              "end_timestamp": 2114,
+              "content": "突破了这一个点"
+            },
+            {
+              "start_timestamp": 2114,
+              "end_timestamp": 2115,
+              "content": "然后回踩"
+            },
+            {
+              "start_timestamp": 2115,
+              "end_timestamp": 2117,
+              "content": "这个就叫有效突破"
+            },
+            {
+              "start_timestamp": 2117,
+              "end_timestamp": 2118,
+              "content": "看涨"
+            },
+            {
+              "start_timestamp": 2120,
+              "end_timestamp": 2122,
+              "content": "这个叫双底"
+            },
+            {
+              "start_timestamp": 2123,
+              "end_timestamp": 2125,
+              "content": "这后面不是双底啊"
+            },
+            {
+              "start_timestamp": 2125,
+              "end_timestamp": 2126,
+              "content": "就只有这个叫双底"
+            },
+            {
+              "start_timestamp": 2126,
+              "end_timestamp": 2127,
+              "content": "突破"
+            },
+            {
+              "start_timestamp": 2127,
+              "end_timestamp": 2128,
+              "content": "上去回踩再上涨"
+            },
+            {
+              "start_timestamp": 2128,
+              "end_timestamp": 2130,
+              "content": "这个叫双底确认"
+            },
+            {
+              "start_timestamp": 2130,
+              "end_timestamp": 2131,
+              "content": "右边叫双底确认"
+            },
+            {
+              "start_timestamp": 2131,
+              "end_timestamp": 2132,
+              "content": "这个才叫双底"
+            },
+            {
+              "start_timestamp": 2132,
+              "end_timestamp": 2136,
+              "content": "同理双顶"
+            },
+            {
+              "start_timestamp": 2145,
+              "end_timestamp": 2146,
+              "content": "是不是一样的"
+            },
+            {
+              "start_timestamp": 2146,
+              "end_timestamp": 2147,
+              "content": "反过来嘛"
+            },
+            {
+              "start_timestamp": 2147,
+              "end_timestamp": 2149,
+              "content": "双双底双顶"
+            },
+            {
+              "start_timestamp": 2150,
+              "end_timestamp": 2153,
+              "content": "这个是叫双"
+            },
+            {
+              "start_timestamp": 2156,
+              "end_timestamp": 2158,
+              "content": "啊他写错字了"
+            },
+            {
+              "start_timestamp": 2158,
+              "end_timestamp": 2160,
+              "content": "双顶这个就叫双顶"
+            },
+            {
+              "start_timestamp": 2160,
+              "end_timestamp": 2161,
+              "content": "反过来的看跌"
+            },
+            {
+              "start_timestamp": 2161,
+              "end_timestamp": 2162,
+              "content": "明白了吗"
+            },
+            {
+              "start_timestamp": 2162,
+              "end_timestamp": 2164,
+              "content": "看跌这是第一点"
+            },
+            {
+              "start_timestamp": 2164,
+              "end_timestamp": 2168,
+              "content": "第二个三底啊"
+            },
+            {
+              "start_timestamp": 2168,
+              "end_timestamp": 2173,
+              "content": "第二个3D同理三"
+            },
+            {
+              "start_timestamp": 2176,
+              "end_timestamp": 2179,
+              "content": "顶跟上面的图形是一样的"
+            },
+            {
+              "start_timestamp": 2179,
+              "end_timestamp": 2181,
+              "content": "我就不画全部画了啊"
+            },
+            {
+              "start_timestamp": 2181,
+              "end_timestamp": 2184,
+              "content": "一根趋势压力位"
+            },
+            {
+              "start_timestamp": 2185,
+              "end_timestamp": 2190,
+              "content": "一次两次三次向上突破"
+            },
+            {
+              "start_timestamp": 2191,
+              "end_timestamp": 2192,
+              "content": "向上突破"
+            },
+            {
+              "start_timestamp": 2192,
+              "end_timestamp": 2193,
+              "content": "这个就叫突破"
+            },
+            {
+              "start_timestamp": 2193,
+              "end_timestamp": 2197,
+              "content": "然后这个叫突破之后的回踩啊"
+            },
+            {
+              "start_timestamp": 2197,
+              "end_timestamp": 2199,
+              "content": "这个叫突破之后的回踩"
+            },
+            {
+              "start_timestamp": 2199,
+              "end_timestamp": 2201,
+              "content": "山底山顶我就不画了"
+            },
+            {
+              "start_timestamp": 2201,
+              "end_timestamp": 2202,
+              "content": "一样的哈"
+            },
+            {
+              "start_timestamp": 2202,
+              "end_timestamp": 2205,
+              "content": "这是第二个"
+            },
+            {
+              "start_timestamp": 2205,
+              "end_timestamp": 2206,
+              "content": "第三个"
+            },
+            {
+              "start_timestamp": 2209,
+              "end_timestamp": 2212,
+              "content": "头肩"
+            },
+            {
+              "start_timestamp": 2213,
+              "end_timestamp": 2213,
+              "content": "顶"
+            },
+            {
+              "start_timestamp": 2216,
+              "end_timestamp": 2216,
+              "content": "头肩顶"
+            },
+            {
+              "start_timestamp": 2216,
+              "end_timestamp": 2218,
+              "content": "这里有一点点难度"
+            },
+            {
+              "start_timestamp": 2218,
+              "end_timestamp": 2220,
+              "content": "看清楚一个板块"
+            },
+            {
+              "start_timestamp": 2220,
+              "end_timestamp": 2224,
+              "content": "一个个股调整反弹再调整"
+            },
+            {
+              "start_timestamp": 2224,
+              "end_timestamp": 2227,
+              "content": "而且杀穿了第一个低点"
+            },
+            {
+              "start_timestamp": 2227,
+              "end_timestamp": 2229,
+              "content": "这个是第一个低点啊"
+            },
+            {
+              "start_timestamp": 2229,
+              "end_timestamp": 2232,
+              "content": "这里第二个低点反弹回"
+            },
+            {
+              "start_timestamp": 2232,
+              "end_timestamp": 2235,
+              "content": "反弹到大概跟前面这个高点差不多的位置"
+            },
+            {
+              "start_timestamp": 2235,
+              "end_timestamp": 2238,
+              "content": "调整调整到这个低点"
+            },
+            {
+              "start_timestamp": 2238,
+              "end_timestamp": 2242,
+              "content": "大概跟这个低点差不多的一个位置再向上涨"
+            },
+            {
+              "start_timestamp": 2242,
+              "end_timestamp": 2245,
+              "content": "这个就叫头肩底"
+            },
+            {
+              "start_timestamp": 2245,
+              "end_timestamp": 2248,
+              "content": "头肩底"
+            },
+            {
+              "start_timestamp": 2248,
+              "end_timestamp": 2252,
+              "content": "那么这个就是现在这里有一个技术型的名字"
+            },
+            {
+              "start_timestamp": 2252,
+              "end_timestamp": 2254,
+              "content": "叫做"
+            },
+            {
+              "start_timestamp": 2255,
+              "end_timestamp": 2257,
+              "content": "仅限"
+            },
+            {
+              "start_timestamp": 2258,
+              "end_timestamp": 2263,
+              "content": "哈哈调整反弹到一个压力位再杀"
+            },
+            {
+              "start_timestamp": 2263,
+              "end_timestamp": 2264,
+              "content": "杀了一个新低"
+            },
+            {
+              "start_timestamp": 2264,
+              "end_timestamp": 2269,
+              "content": "反弹到前面这个压力位再调再杀再额再冲"
+            },
+            {
+              "start_timestamp": 2269,
+              "end_timestamp": 2271,
+              "content": "这个就叫头肩底"
+            },
+            {
+              "start_timestamp": 2271,
+              "end_timestamp": 2274,
+              "content": "头肩这个应该是底啊"
+            },
+            {
+              "start_timestamp": 2275,
+              "end_timestamp": 2279,
+              "content": "头肩底反过来呢"
+            },
+            {
+              "start_timestamp": 2279,
+              "end_timestamp": 2281,
+              "content": "头肩顶嘛我就不画了"
+            },
+            {
+              "start_timestamp": 2281,
+              "end_timestamp": 2282,
+              "content": "一样的哈"
+            },
+            {
+              "start_timestamp": 2282,
+              "end_timestamp": 2284,
+              "content": "大概就是这个意思"
+            },
+            {
+              "start_timestamp": 2285,
+              "end_timestamp": 2286,
+              "content": "上冲下杀"
+            },
+            {
+              "start_timestamp": 2286,
+              "end_timestamp": 2288,
+              "content": "上冲下沙"
+            },
+            {
+              "start_timestamp": 2288,
+              "end_timestamp": 2290,
+              "content": "上冲下沙"
+            },
+            {
+              "start_timestamp": 2290,
+              "end_timestamp": 2291,
+              "content": "是不是一样的"
+            },
+            {
+              "start_timestamp": 2291,
+              "end_timestamp": 2292,
+              "content": "反过来诶"
+            },
+            {
+              "start_timestamp": 2292,
+              "end_timestamp": 2293,
+              "content": "就跟个三字"
+            },
+            {
+              "start_timestamp": 2293,
+              "end_timestamp": 2294,
+              "content": "也叫三字形图"
+            },
+            {
+              "start_timestamp": 2295,
+              "end_timestamp": 2297,
+              "content": "三字啊"
+            },
+            {
+              "start_timestamp": 2297,
+              "end_timestamp": 2301,
+              "content": "大山的山跟这个图其实是反过来的"
+            },
+            {
+              "start_timestamp": 2301,
+              "end_timestamp": 2305,
+              "content": "你把这个颈线画到这个也不就是这个吗"
+            },
+            {
+              "start_timestamp": 2306,
+              "end_timestamp": 2307,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 2308,
+              "end_timestamp": 2311,
+              "content": "大概就是这个位置叫颈线"
+            },
+            {
+              "start_timestamp": 2311,
+              "end_timestamp": 2314,
+              "content": "这个是第三个啊"
+            },
+            {
+              "start_timestamp": 2314,
+              "end_timestamp": 2318,
+              "content": "那么中间这里双底三底"
+            },
+            {
+              "start_timestamp": 2318,
+              "end_timestamp": 2320,
+              "content": "还有N字底"
+            },
+            {
+              "start_timestamp": 2320,
+              "end_timestamp": 2321,
+              "content": "你们自己去研究"
+            },
+            {
+              "start_timestamp": 2321,
+              "end_timestamp": 2323,
+              "content": "就叫复合底"
+            },
+            {
+              "start_timestamp": 2323,
+              "end_timestamp": 2324,
+              "content": "这是第三点"
+            },
+            {
+              "start_timestamp": 2324,
+              "end_timestamp": 2325,
+              "content": "头肩底"
+            },
+            {
+              "start_timestamp": 2325,
+              "end_timestamp": 2326,
+              "content": "头肩顶"
+            },
+            {
+              "start_timestamp": 2326,
+              "end_timestamp": 2330,
+              "content": "第最后一个叫做圆弧"
+            },
+            {
+              "start_timestamp": 2330,
+              "end_timestamp": 2332,
+              "content": "圆弧"
+            },
+            {
+              "start_timestamp": 2334,
+              "end_timestamp": 2338,
+              "content": "圆弧就是走势整体平滑"
+            },
+            {
+              "start_timestamp": 2338,
+              "end_timestamp": 2340,
+              "content": "它没有连续的明显的反弹"
+            },
+            {
+              "start_timestamp": 2340,
+              "end_timestamp": 2341,
+              "content": "它很平滑"
+            },
+            {
+              "start_timestamp": 2341,
+              "end_timestamp": 2346,
+              "content": "连续下跌再连续反弹"
+            },
+            {
+              "start_timestamp": 2346,
+              "end_timestamp": 2347,
+              "content": "圆"
+            },
+            {
+              "start_timestamp": 2350,
+              "end_timestamp": 2351,
+              "content": "圆弧"
+            },
+            {
+              "start_timestamp": 2354,
+              "end_timestamp": 2355,
+              "content": "底啊"
+            },
+            {
+              "start_timestamp": 2355,
+              "end_timestamp": 2357,
+              "content": "这个就叫圆弧底啊"
+            },
+            {
+              "start_timestamp": 2357,
+              "end_timestamp": 2359,
+              "content": "就很圆润的一个下跌"
+            },
+            {
+              "start_timestamp": 2359,
+              "end_timestamp": 2361,
+              "content": "这种其实很少见"
+            },
+            {
+              "start_timestamp": 2361,
+              "end_timestamp": 2363,
+              "content": "没有那么多漂亮的圆弧的啊"
+            },
+            {
+              "start_timestamp": 2363,
+              "end_timestamp": 2366,
+              "content": "大部分都是这种复杂N字底"
+            },
+            {
+              "start_timestamp": 2366,
+              "end_timestamp": 2368,
+              "content": "双底三底或者头肩底"
+            },
+            {
+              "start_timestamp": 2368,
+              "end_timestamp": 2369,
+              "content": "大部分都是这一种哈"
+            },
+            {
+              "start_timestamp": 2369,
+              "end_timestamp": 2371,
+              "content": "那么像圆弧底其实很少见"
+            },
+            {
+              "start_timestamp": 2371,
+              "end_timestamp": 2374,
+              "content": "同理还有一个圆弧顶"
+            },
+            {
+              "start_timestamp": 2376,
+              "end_timestamp": 2377,
+              "content": "明白吧"
+            },
+            {
+              "start_timestamp": 2377,
+              "end_timestamp": 2378,
+              "content": "同理啊"
+            },
+            {
+              "start_timestamp": 2378,
+              "end_timestamp": 2381,
+              "content": "圆弧底看看涨"
+            },
+            {
+              "start_timestamp": 2381,
+              "end_timestamp": 2386,
+              "content": "它反弹反弹到前面这个压力位之后回踩"
+            },
+            {
+              "start_timestamp": 2387,
+              "end_timestamp": 2388,
+              "content": "然后再上涨"
+            },
+            {
+              "start_timestamp": 2388,
+              "end_timestamp": 2389,
+              "content": "看涨"
+            },
+            {
+              "start_timestamp": 2391,
+              "end_timestamp": 2394,
+              "content": "那么这个就是这样看"
+            },
+            {
+              "start_timestamp": 2395,
+              "end_timestamp": 2396,
+              "content": "看得清吗"
+            },
+            {
+              "start_timestamp": 2396,
+              "end_timestamp": 2399,
+              "content": "这就是今天要讲的所有内容"
+            },
+            {
+              "start_timestamp": 2399,
+              "end_timestamp": 2402,
+              "content": "第一点我们聊了K线是如何产生的"
+            },
+            {
+              "start_timestamp": 2402,
+              "end_timestamp": 2405,
+              "content": "从他的开盘价开始聊起"
+            },
+            {
+              "start_timestamp": 2405,
+              "end_timestamp": 2408,
+              "content": "然后到阴线怎么产生的"
+            },
+            {
+              "start_timestamp": 2408,
+              "end_timestamp": 2410,
+              "content": "再到长上影"
+            },
+            {
+              "start_timestamp": 2410,
+              "end_timestamp": 2411,
+              "content": "长下影十字星"
+            },
+            {
+              "start_timestamp": 2411,
+              "end_timestamp": 2413,
+              "content": "再到一字板"
+            },
+            {
+              "start_timestamp": 2413,
+              "end_timestamp": 2414,
+              "content": "T字板"
+            },
+            {
+              "start_timestamp": 2414,
+              "end_timestamp": 2415,
+              "content": "再到缺口"
+            },
+            {
+              "start_timestamp": 2415,
+              "end_timestamp": 2419,
+              "content": "这是第一个最基础的单日K的图形"
+            },
+            {
+              "start_timestamp": 2419,
+              "end_timestamp": 2426,
+              "content": "第二个我们聊了进阶的最基础的日K组合"
+            },
+            {
+              "start_timestamp": 2427,
+              "end_timestamp": 2428,
+              "content": "阳包阴"
+            },
+            {
+              "start_timestamp": 2428,
+              "end_timestamp": 2431,
+              "content": "阴包阳N字型反包"
+            },
+            {
+              "start_timestamp": 2431,
+              "end_timestamp": 2433,
+              "content": "还有倒N字型反包"
+            },
+            {
+              "start_timestamp": 2433,
+              "end_timestamp": 2435,
+              "content": "第三个就是多方炮"
+            },
+            {
+              "start_timestamp": 2435,
+              "end_timestamp": 2439,
+              "content": "空方炮以及多叠多方炮"
+            },
+            {
+              "start_timestamp": 2439,
+              "end_timestamp": 2442,
+              "content": "多叠空方炮也叫双碟嘛"
+            },
+            {
+              "start_timestamp": 2442,
+              "end_timestamp": 2444,
+              "content": "还有人叫叠叠"
+            },
+            {
+              "start_timestamp": 2444,
+              "end_timestamp": 2446,
+              "content": "我觉得叠叠有点难听哈"
+            },
+            {
+              "start_timestamp": 2446,
+              "end_timestamp": 2447,
+              "content": "嗯我就要多叠多方炮"
+            },
+            {
+              "start_timestamp": 2447,
+              "end_timestamp": 2453,
+              "content": "其实意思就是多个多方炮重叠在一起就要多叠"
+            },
+            {
+              "start_timestamp": 2453,
+              "end_timestamp": 2456,
+              "content": "那么下一个就是红三兵和三只乌鸦"
+            },
+            {
+              "start_timestamp": 2456,
+              "end_timestamp": 2458,
+              "content": "也是基础的一个技术型指标"
+            },
+            {
+              "start_timestamp": 2458,
+              "end_timestamp": 2461,
+              "content": "技术型日K也很简单"
+            },
+            {
+              "start_timestamp": 2461,
+              "end_timestamp": 2462,
+              "content": "红三兵看涨"
+            },
+            {
+              "start_timestamp": 2462,
+              "end_timestamp": 2465,
+              "content": "绿那个三只乌鸦看跌"
+            },
+            {
+              "start_timestamp": 2466,
+              "end_timestamp": 2470,
+              "content": "第三点我们聊了压力和支撑力"
+            },
+            {
+              "start_timestamp": 2470,
+              "end_timestamp": 2472,
+              "content": "以及它们的原理啊"
+            },
+            {
+              "start_timestamp": 2472,
+              "end_timestamp": 2475,
+              "content": "我们用了两个那个案例来解析"
+            },
+            {
+              "start_timestamp": 2475,
+              "end_timestamp": 2477,
+              "content": "第一个是运动员的成绩"
+            },
+            {
+              "start_timestamp": 2477,
+              "end_timestamp": 2478,
+              "content": "第二个是台阶"
+            },
+            {
+              "start_timestamp": 2478,
+              "end_timestamp": 2480,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 2480,
+              "end_timestamp": 2483,
+              "content": "最后一点我们聊了趋势是如何产生的"
+            },
+            {
+              "start_timestamp": 2483,
+              "end_timestamp": 2489,
+              "content": "趋势是由各种小级别日K这里面啊"
+            },
+            {
+              "start_timestamp": 2490,
+              "end_timestamp": 2492,
+              "content": "他可能是你看在这里"
+            },
+            {
+              "start_timestamp": 2492,
+              "end_timestamp": 2498,
+              "content": "底部它可能是多个多个那个多方炮"
+            },
+            {
+              "start_timestamp": 2499,
+              "end_timestamp": 2501,
+              "content": "好几个多方炮重叠在一起"
+            },
+            {
+              "start_timestamp": 2501,
+              "end_timestamp": 2504,
+              "content": "它就它这个股价就反弹上去了"
+            },
+            {
+              "start_timestamp": 2504,
+              "end_timestamp": 2506,
+              "content": "好几个多方炮涨上去了"
+            },
+            {
+              "start_timestamp": 2506,
+              "end_timestamp": 2506,
+              "content": "明白吗"
+            },
+            {
+              "start_timestamp": 2506,
+              "end_timestamp": 2509,
+              "content": "他这个是小级别组合在一起"
+            },
+            {
+              "start_timestamp": 2509,
+              "end_timestamp": 2510,
+              "content": "它就变成了大级别"
+            },
+            {
+              "start_timestamp": 2510,
+              "end_timestamp": 2513,
+              "content": "也就形成了趋势"
+            },
+            {
+              "start_timestamp": 2514,
+              "end_timestamp": 2516,
+              "content": "那么趋势我们聊了几个图形"
+            },
+            {
+              "start_timestamp": 2516,
+              "end_timestamp": 2518,
+              "content": "第一个是双底双顶"
+            },
+            {
+              "start_timestamp": 2518,
+              "end_timestamp": 2521,
+              "content": "第二个是山底山顶"
+            },
+            {
+              "start_timestamp": 2521,
+              "end_timestamp": 2523,
+              "content": "第三个是N字顶"
+            },
+            {
+              "start_timestamp": 2523,
+              "end_timestamp": 2525,
+              "content": "N字底"
+            },
+            {
+              "start_timestamp": 2525,
+              "end_timestamp": 2527,
+              "content": "第四个是头肩底"
+            },
+            {
+              "start_timestamp": 2527,
+              "end_timestamp": 2531,
+              "content": "头肩底还有头肩顶"
+            },
+            {
+              "start_timestamp": 2531,
+              "end_timestamp": 2534,
+              "content": "第四最后一个就是圆弧"
+            },
+            {
+              "start_timestamp": 2534,
+              "end_timestamp": 2536,
+              "content": "圆弧底和圆弧顶"
+            },
+            {
+              "start_timestamp": 2536,
+              "end_timestamp": 2540,
+              "content": "那么这里内所有内容都讲完了"
+            },
+            {
+              "start_timestamp": 2540,
+              "end_timestamp": 2542,
+              "content": "所有要记录的东西"
+            },
+            {
+              "start_timestamp": 2542,
+              "end_timestamp": 2544,
+              "content": "我这个图给大家放远一点"
+            },
+            {
+              "start_timestamp": 2544,
+              "end_timestamp": 2545,
+              "content": "给大家看啊"
+            },
+            {
+              "start_timestamp": 2545,
+              "end_timestamp": 2548,
+              "content": "你们自己去总结归纳学习"
+            },
+            {
+              "start_timestamp": 2548,
+              "end_timestamp": 2551,
+              "content": "或者你们看到有什么疑问的都可以问"
+            },
+            {
+              "start_timestamp": 2551,
+              "end_timestamp": 2553,
+              "content": "我就是你觉得哎呀"
+            },
+            {
+              "start_timestamp": 2553,
+              "end_timestamp": 2554,
+              "content": "哪一些图形你不确定是怎么样的"
+            },
+            {
+              "start_timestamp": 2554,
+              "end_timestamp": 2556,
+              "content": "或者你看到某一个图形"
+            },
+            {
+              "start_timestamp": 2556,
+              "end_timestamp": 2557,
+              "content": "它后面都是长的"
+            },
+            {
+              "start_timestamp": 2557,
+              "end_timestamp": 2558,
+              "content": "都可以来聊"
+            },
+            {
+              "start_timestamp": 2559,
+              "end_timestamp": 2560,
+              "content": "这里注意啊"
+            },
+            {
+              "start_timestamp": 2560,
+              "end_timestamp": 2565,
+              "content": "我问了第一个啧作业"
+            },
+            {
+              "start_timestamp": 2566,
+              "end_timestamp": 2570,
+              "content": "各位群友作业自己去找板块"
+            },
+            {
+              "start_timestamp": 2570,
+              "end_timestamp": 2572,
+              "content": "有没有这样的图形"
+            },
+            {
+              "start_timestamp": 2572,
+              "end_timestamp": 2575,
+              "content": "这几个图形找板块对应"
+            },
+            {
+              "start_timestamp": 2576,
+              "end_timestamp": 2577,
+              "content": "第二个例子"
+            },
+            {
+              "start_timestamp": 2577,
+              "end_timestamp": 2580,
+              "content": "有没有更好的例子来诠释"
+            },
+            {
+              "start_timestamp": 2580,
+              "end_timestamp": 2585,
+              "content": "压力和支撑力是怎么样入互互互为转变的"
+            },
+            {
+              "start_timestamp": 2585,
+              "end_timestamp": 2587,
+              "content": "如果你没有更好的例子啊"
+            },
+            {
+              "start_timestamp": 2587,
+              "end_timestamp": 2588,
+              "content": "可以跟我说"
+            },
+            {
+              "start_timestamp": 2588,
+              "end_timestamp": 2592,
+              "content": "这个就是今年今天的两个小作业"
+            },
+            {
+              "start_timestamp": 2592,
+              "end_timestamp": 2593,
+              "content": "那么好吧"
+            },
+            {
+              "start_timestamp": 2593,
+              "end_timestamp": 2595,
+              "content": "今天的一个内容就讲到这里"
+            },
+            {
+              "start_timestamp": 2595,
+              "end_timestamp": 2600,
+              "content": "如果说大家觉得权哥讲的内容OK"
+            },
+            {
+              "start_timestamp": 2602,
+              "end_timestamp": 2604,
+              "content": "如果说大家觉得讲的还可以啊"
+            },
+            {
+              "start_timestamp": 2604,
+              "end_timestamp": 2607,
+              "content": "那就在感谢大家的一键三连"
+            },
+            {
+              "start_timestamp": 2607,
+              "end_timestamp": 2609,
+              "content": "如果说大家觉得哪里讲的不行"
+            },
+            {
+              "start_timestamp": 2609,
+              "end_timestamp": 2610,
+              "content": "那就在评论区跟我讨论"
+            },
+            {
+              "start_timestamp": 2610,
+              "end_timestamp": 2613,
+              "content": "那么最终最后还是讲一下一个例子"
+            },
+            {
+              "start_timestamp": 2613,
+              "end_timestamp": 2616,
+              "content": "一个作业一定要发在评论区上"
+            },
+            {
+              "start_timestamp": 2616,
+              "end_timestamp": 2617,
+              "content": "我这样才我才能看得到啊"
+            },
+            {
+              "start_timestamp": 2617,
+              "end_timestamp": 2621,
+              "content": "我们才能更进行更深层次的一个探讨"
+            },
+            {
+              "start_timestamp": 2621,
+              "end_timestamp": 2624,
+              "content": "那么今天的一个内容讲到这里就结束了"
+            },
+            {
+              "start_timestamp": 2624,
+              "end_timestamp": 2624,
+              "content": "关注巨玄"
+            },
+            {
+              "start_timestamp": 2624,
+              "end_timestamp": 2625,
+              "content": "我们明天再见"
+            }
+          ],
+          "timestamp": 1
+        }
+      ]
+    },
+    "stid": "0",
+    "status": 0,
+    "like_num": 0,
+    "dislike_num": 0
+  }
+}

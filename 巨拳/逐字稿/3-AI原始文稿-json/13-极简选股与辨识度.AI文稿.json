@@ -1,0 +1,2675 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "code": 1,
+    "model_result": {
+      "result_type": 0,
+      "summary": "",
+      "outline": [],
+      "subtitle": [
+        {
+          "title": "",
+          "part_subtitle": [
+            {
+              "start_timestamp": 1,
+              "end_timestamp": 4,
+              "content": "前面很多群友在评论区都问了我一个问题啊"
+            },
+            {
+              "start_timestamp": 8,
+              "end_timestamp": 12,
+              "content": "所以今天我就花20分钟的时间跟大家聊一下"
+            },
+            {
+              "start_timestamp": 12,
+              "end_timestamp": 14,
+              "content": "我个人的一个选股思路"
+            },
+            {
+              "start_timestamp": 14,
+              "end_timestamp": 16,
+              "content": "选股方法"
+            },
+            {
+              "start_timestamp": 16,
+              "end_timestamp": 19,
+              "content": "那么在开始之前先问大家一个问题"
+            },
+            {
+              "start_timestamp": 19,
+              "end_timestamp": 23,
+              "content": "你们是否有自己独特的选股思路啊"
+            },
+            {
+              "start_timestamp": 23,
+              "end_timestamp": 28,
+              "content": "你们是否认真思考过自己的选股办法"
+            },
+            {
+              "start_timestamp": 28,
+              "end_timestamp": 30,
+              "content": "是是否是正确的"
+            },
+            {
+              "start_timestamp": 30,
+              "end_timestamp": 32,
+              "content": "如果大家有想过啊"
+            },
+            {
+              "start_timestamp": 32,
+              "end_timestamp": 35,
+              "content": "有自己的独特选股思路"
+            },
+            {
+              "start_timestamp": 35,
+              "end_timestamp": 37,
+              "content": "可以扣个一啊"
+            },
+            {
+              "start_timestamp": 37,
+              "end_timestamp": 39,
+              "content": "如果你们没有认真研究过这个问题"
+            },
+            {
+              "start_timestamp": 39,
+              "end_timestamp": 41,
+              "content": "可以扣个二"
+            },
+            {
+              "start_timestamp": 41,
+              "end_timestamp": 42,
+              "content": "我们先对大家啊"
+            },
+            {
+              "start_timestamp": 42,
+              "end_timestamp": 45,
+              "content": "对自己有一个基础的认知啊"
+            },
+            {
+              "start_timestamp": 45,
+              "end_timestamp": 48,
+              "content": "如果说你确实没有考虑过这个方面的问题"
+            },
+            {
+              "start_timestamp": 48,
+              "end_timestamp": 49,
+              "content": "更有甚者啊"
+            },
+            {
+              "start_timestamp": 49,
+              "end_timestamp": 51,
+              "content": "他们的选股直接就是抄作业"
+            },
+            {
+              "start_timestamp": 51,
+              "end_timestamp": 52,
+              "content": "看到别人买什么"
+            },
+            {
+              "start_timestamp": 52,
+              "end_timestamp": 54,
+              "content": "第二天就去接"
+            },
+            {
+              "start_timestamp": 54,
+              "end_timestamp": 59,
+              "content": "那你们想一下这种残长此以往能做大吗"
+            },
+            {
+              "start_timestamp": 59,
+              "end_timestamp": 61,
+              "content": "能做出来吗"
+            },
+            {
+              "start_timestamp": 61,
+              "end_timestamp": 62,
+              "content": "我觉得可能比较难的哈"
+            },
+            {
+              "start_timestamp": 62,
+              "end_timestamp": 69,
+              "content": "这个选股属于交易系统中比较重要的一环"
+            },
+            {
+              "start_timestamp": 69,
+              "end_timestamp": 71,
+              "content": "如果说连这个都需要抄作业"
+            },
+            {
+              "start_timestamp": 71,
+              "end_timestamp": 73,
+              "content": "我觉得可能比较可惜哈"
+            },
+            {
+              "start_timestamp": 73,
+              "end_timestamp": 75,
+              "content": "比较可惜"
+            },
+            {
+              "start_timestamp": 75,
+              "end_timestamp": 77,
+              "content": "那么今天先看一下"
+            },
+            {
+              "start_timestamp": 77,
+              "end_timestamp": 80,
+              "content": "大家看一下我写的这个标题啊"
+            },
+            {
+              "start_timestamp": 80,
+              "end_timestamp": 85,
+              "content": "以辨识度为核心的极简选股技巧"
+            },
+            {
+              "start_timestamp": 85,
+              "end_timestamp": 87,
+              "content": "括号超短啊"
+            },
+            {
+              "start_timestamp": 87,
+              "end_timestamp": 88,
+              "content": "那么就跟超短有关的"
+            },
+            {
+              "start_timestamp": 88,
+              "end_timestamp": 94,
+              "content": "那么其实这个思路跟长线跟波段"
+            },
+            {
+              "start_timestamp": 94,
+              "end_timestamp": 97,
+              "content": "中短线都是可以用上的"
+            },
+            {
+              "start_timestamp": 97,
+              "end_timestamp": 100,
+              "content": "那你我把这个括号改成中线"
+            },
+            {
+              "start_timestamp": 100,
+              "end_timestamp": 102,
+              "content": "短线长线其实是一样的"
+            },
+            {
+              "start_timestamp": 102,
+              "end_timestamp": 104,
+              "content": "最核心的那几个字是什么"
+            },
+            {
+              "start_timestamp": 106,
+              "end_timestamp": 107,
+              "content": "辨识度"
+            },
+            {
+              "start_timestamp": 107,
+              "end_timestamp": 107,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 107,
+              "end_timestamp": 110,
+              "content": "这三个字是最核心的东西啊"
+            },
+            {
+              "start_timestamp": 110,
+              "end_timestamp": 113,
+              "content": "我我我我直接题目就写的是辨识度嘛"
+            },
+            {
+              "start_timestamp": 113,
+              "end_timestamp": 114,
+              "content": "那么问题来了哈"
+            },
+            {
+              "start_timestamp": 114,
+              "end_timestamp": 117,
+              "content": "第一个什么叫辨识度"
+            },
+            {
+              "start_timestamp": 118,
+              "end_timestamp": 121,
+              "content": "大家想一下什么叫辨识度啊"
+            },
+            {
+              "start_timestamp": 121,
+              "end_timestamp": 123,
+              "content": "就每个人可能都有自己的理解"
+            },
+            {
+              "start_timestamp": 123,
+              "end_timestamp": 125,
+              "content": "我给大家聊一下我的理解哈"
+            },
+            {
+              "start_timestamp": 125,
+              "end_timestamp": 130,
+              "content": "辨识度就是只要一想到某一个方向"
+            },
+            {
+              "start_timestamp": 130,
+              "end_timestamp": 133,
+              "content": "马上就能想到它"
+            },
+            {
+              "start_timestamp": 134,
+              "end_timestamp": 136,
+              "content": "你们想一下这句话能理解吗"
+            },
+            {
+              "start_timestamp": 136,
+              "end_timestamp": 138,
+              "content": "就是只要我一说"
+            },
+            {
+              "start_timestamp": 138,
+              "end_timestamp": 140,
+              "content": "例如我们说我们说白酒"
+            },
+            {
+              "start_timestamp": 140,
+              "end_timestamp": 142,
+              "content": "你们第一个想到什么哦"
+            },
+            {
+              "start_timestamp": 142,
+              "end_timestamp": 144,
+              "content": "你们你们想一下"
+            },
+            {
+              "start_timestamp": 144,
+              "end_timestamp": 145,
+              "content": "你们如果说要要喝白酒"
+            },
+            {
+              "start_timestamp": 145,
+              "end_timestamp": 147,
+              "content": "你们第一个想到什么啊"
+            },
+            {
+              "start_timestamp": 147,
+              "end_timestamp": 153,
+              "content": "如果说你们要额那个买一个光伏光伏太阳能板"
+            },
+            {
+              "start_timestamp": 153,
+              "end_timestamp": 156,
+              "content": "你们会想到什么啊"
+            },
+            {
+              "start_timestamp": 156,
+              "end_timestamp": 159,
+              "content": "这个就是你们脑脑海中的稀缺性"
+            },
+            {
+              "start_timestamp": 159,
+              "end_timestamp": 161,
+              "content": "如果说某一个企业哈"
+            },
+            {
+              "start_timestamp": 161,
+              "end_timestamp": 163,
+              "content": "在我刚才问出那个问题的时候"
+            },
+            {
+              "start_timestamp": 163,
+              "end_timestamp": 164,
+              "content": "你们马上想到他了"
+            },
+            {
+              "start_timestamp": 164,
+              "end_timestamp": 168,
+              "content": "说明他的他就在你脑海中是具有稀缺性的"
+            },
+            {
+              "start_timestamp": 168,
+              "end_timestamp": 170,
+              "content": "具具有那个辨识度的"
+            },
+            {
+              "start_timestamp": 171,
+              "end_timestamp": 172,
+              "content": "我把它写下来哈"
+            },
+            {
+              "start_timestamp": 172,
+              "end_timestamp": 174,
+              "content": "在我的理解中"
+            },
+            {
+              "start_timestamp": 174,
+              "end_timestamp": 176,
+              "content": "什么叫辨识度"
+            },
+            {
+              "start_timestamp": 176,
+              "end_timestamp": 179,
+              "content": "就是第一时间想到"
+            },
+            {
+              "start_timestamp": 183,
+              "end_timestamp": 186,
+              "content": "我的视频可能会节奏会比较慢"
+            },
+            {
+              "start_timestamp": 186,
+              "end_timestamp": 188,
+              "content": "这个我更喜欢娓娓道来的感觉"
+            },
+            {
+              "start_timestamp": 188,
+              "end_timestamp": 192,
+              "content": "所以很多东西我都是边说边写啊"
+            },
+            {
+              "start_timestamp": 197,
+              "end_timestamp": 199,
+              "content": "啊第一时间想到"
+            },
+            {
+              "start_timestamp": 199,
+              "end_timestamp": 203,
+              "content": "那么在生活中其实有很多很多有辨识度的公司"
+            },
+            {
+              "start_timestamp": 203,
+              "end_timestamp": 204,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 204,
+              "end_timestamp": 206,
+              "content": "那我再问大家"
+            },
+            {
+              "start_timestamp": 206,
+              "end_timestamp": 208,
+              "content": "如果说喜欢自驾啊"
+            },
+            {
+              "start_timestamp": 208,
+              "end_timestamp": 212,
+              "content": "喜欢那种通过自驾自己放松自己"
+            },
+            {
+              "start_timestamp": 212,
+              "end_timestamp": 213,
+              "content": "开车的一个过程"
+            },
+            {
+              "start_timestamp": 213,
+              "end_timestamp": 216,
+              "content": "那你们第一个想到的是什么车企啊"
+            },
+            {
+              "start_timestamp": 216,
+              "end_timestamp": 217,
+              "content": "啊你们自己去想啊"
+            },
+            {
+              "start_timestamp": 217,
+              "end_timestamp": 218,
+              "content": "那我再问"
+            },
+            {
+              "start_timestamp": 218,
+              "end_timestamp": 221,
+              "content": "如果你们想买显卡"
+            },
+            {
+              "start_timestamp": 221,
+              "end_timestamp": 224,
+              "content": "你们会买什么显卡啊"
+            },
+            {
+              "start_timestamp": 224,
+              "end_timestamp": 226,
+              "content": "这个都叫辨识度"
+            },
+            {
+              "start_timestamp": 226,
+              "end_timestamp": 226,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 226,
+              "end_timestamp": 229,
+              "content": "如果当我们每个人在思考"
+            },
+            {
+              "start_timestamp": 229,
+              "end_timestamp": 231,
+              "content": "我们要买一个东西"
+            },
+            {
+              "start_timestamp": 231,
+              "end_timestamp": 233,
+              "content": "或者要做一个事情"
+            },
+            {
+              "start_timestamp": 233,
+              "end_timestamp": 236,
+              "content": "第一个是第一时间就能想到他"
+            },
+            {
+              "start_timestamp": 236,
+              "end_timestamp": 240,
+              "content": "那么那个他对应的企业就成功了啊"
+            },
+            {
+              "start_timestamp": 240,
+              "end_timestamp": 242,
+              "content": "这个就叫辨识度"
+            },
+            {
+              "start_timestamp": 243,
+              "end_timestamp": 246,
+              "content": "第二个什么叫稀缺性"
+            },
+            {
+              "start_timestamp": 246,
+              "end_timestamp": 250,
+              "content": "其实在稀缺性是辨识度啊"
+            },
+            {
+              "start_timestamp": 250,
+              "end_timestamp": 254,
+              "content": "他们其实可能你把他们画一个等号也可以"
+            },
+            {
+              "start_timestamp": 254,
+              "end_timestamp": 258,
+              "content": "只是说辨识度我通过文字来讲很模糊"
+            },
+            {
+              "start_timestamp": 258,
+              "end_timestamp": 264,
+              "content": "但是我把它改成稀缺性就很清晰了"
+            },
+            {
+              "start_timestamp": 264,
+              "end_timestamp": 266,
+              "content": "什么叫稀缺性啊"
+            },
+            {
+              "start_timestamp": 266,
+              "end_timestamp": 268,
+              "content": "独一无二"
+            },
+            {
+              "start_timestamp": 268,
+              "end_timestamp": 269,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 269,
+              "end_timestamp": 276,
+              "content": "稀缺到极致这两个字稀缺到极致就是独一无二"
+            },
+            {
+              "start_timestamp": 276,
+              "end_timestamp": 280,
+              "content": "我们中国的这个文文字真的是博大精深啊"
+            },
+            {
+              "start_timestamp": 282,
+              "end_timestamp": 287,
+              "content": "独一无二啊"
+            },
+            {
+              "start_timestamp": 287,
+              "end_timestamp": 290,
+              "content": "这个就叫稀缺性好"
+            },
+            {
+              "start_timestamp": 290,
+              "end_timestamp": 293,
+              "content": "那其实理解起来可能跟辨识度相似"
+            },
+            {
+              "start_timestamp": 293,
+              "end_timestamp": 294,
+              "content": "也比较像哈"
+            },
+            {
+              "start_timestamp": 294,
+              "end_timestamp": 295,
+              "content": "独一无二"
+            },
+            {
+              "start_timestamp": 295,
+              "end_timestamp": 296,
+              "content": "我举个例子哈"
+            },
+            {
+              "start_timestamp": 296,
+              "end_timestamp": 298,
+              "content": "在几年前"
+            },
+            {
+              "start_timestamp": 298,
+              "end_timestamp": 304,
+              "content": "我们我们那个中国现在最大的一个手机厂"
+            },
+            {
+              "start_timestamp": 304,
+              "end_timestamp": 305,
+              "content": "叫什么"
+            },
+            {
+              "start_timestamp": 305,
+              "end_timestamp": 305,
+              "content": "华为嘛"
+            },
+            {
+              "start_timestamp": 305,
+              "end_timestamp": 306,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 306,
+              "end_timestamp": 309,
+              "content": "那么华为当年在外面啊"
+            },
+            {
+              "start_timestamp": 309,
+              "end_timestamp": 311,
+              "content": "在外面被被那个打压"
+            },
+            {
+              "start_timestamp": 311,
+              "end_timestamp": 314,
+              "content": "有一个产品叫做逆变器"
+            },
+            {
+              "start_timestamp": 314,
+              "end_timestamp": 318,
+              "content": "逆变器普通话不是很标准"
+            },
+            {
+              "start_timestamp": 318,
+              "end_timestamp": 319,
+              "content": "逆变器"
+            },
+            {
+              "start_timestamp": 319,
+              "end_timestamp": 323,
+              "content": "那么华为的那边其实被封禁"
+            },
+            {
+              "start_timestamp": 323,
+              "end_timestamp": 324,
+              "content": "被打压的"
+            },
+            {
+              "start_timestamp": 324,
+              "end_timestamp": 328,
+              "content": "你们去想一下这背后利好什么"
+            },
+            {
+              "start_timestamp": 328,
+              "end_timestamp": 330,
+              "content": "利好什么啊"
+            },
+            {
+              "start_timestamp": 330,
+              "end_timestamp": 336,
+              "content": "利好没有被打压的那一个最大的逆变器企业"
+            },
+            {
+              "start_timestamp": 336,
+              "end_timestamp": 341,
+              "content": "叫过叫做什么阳光"
+            },
+            {
+              "start_timestamp": 342,
+              "end_timestamp": 344,
+              "content": "我写个叉叉吧好吧"
+            },
+            {
+              "start_timestamp": 344,
+              "end_timestamp": 346,
+              "content": "这个案例我聊过很多次"
+            },
+            {
+              "start_timestamp": 346,
+              "end_timestamp": 349,
+              "content": "那么华为当时逆变器被封了"
+            },
+            {
+              "start_timestamp": 350,
+              "end_timestamp": 353,
+              "content": "在国外只有这一个是最大的"
+            },
+            {
+              "start_timestamp": 353,
+              "end_timestamp": 358,
+              "content": "于是他在那一年一年翻了十倍"
+            },
+            {
+              "start_timestamp": 358,
+              "end_timestamp": 361,
+              "content": "这个就是我记忆深刻的一个案例啊"
+            },
+            {
+              "start_timestamp": 361,
+              "end_timestamp": 364,
+              "content": "这个也是我很喜欢用来聊稀缺性的一个案例啊"
+            },
+            {
+              "start_timestamp": 364,
+              "end_timestamp": 369,
+              "content": "就是独一无二不可替代"
+            },
+            {
+              "start_timestamp": 369,
+              "end_timestamp": 373,
+              "content": "那么这一只这一个票当年翻了十倍"
+            },
+            {
+              "start_timestamp": 373,
+              "end_timestamp": 375,
+              "content": "那么大家能不能理解我什么意思呢"
+            },
+            {
+              "start_timestamp": 375,
+              "end_timestamp": 378,
+              "content": "啊这个就是稀缺性啊"
+            },
+            {
+              "start_timestamp": 378,
+              "end_timestamp": 381,
+              "content": "你在想到某一件事情的时候"
+            },
+            {
+              "start_timestamp": 381,
+              "end_timestamp": 384,
+              "content": "马上就想到他或者他是独一无二的"
+            },
+            {
+              "start_timestamp": 384,
+              "end_timestamp": 386,
+              "content": "稀缺性极强"
+            },
+            {
+              "start_timestamp": 386,
+              "end_timestamp": 390,
+              "content": "那么好我用了两个问题聊了这个关于辨识度啊"
+            },
+            {
+              "start_timestamp": 390,
+              "end_timestamp": 393,
+              "content": "这那跟选股有什么关系啊"
+            },
+            {
+              "start_timestamp": 393,
+              "end_timestamp": 395,
+              "content": "跟选股有什么关系啊"
+            },
+            {
+              "start_timestamp": 395,
+              "end_timestamp": 396,
+              "content": "大家有没有复过盘啊"
+            },
+            {
+              "start_timestamp": 396,
+              "end_timestamp": 399,
+              "content": "在短线中还有付过盘的"
+            },
+            {
+              "start_timestamp": 399,
+              "end_timestamp": 401,
+              "content": "这里也可以"
+            },
+            {
+              "start_timestamp": 401,
+              "end_timestamp": 403,
+              "content": "这里复过盘的扣个一"
+            },
+            {
+              "start_timestamp": 403,
+              "end_timestamp": 406,
+              "content": "没有复过盘的扣个二啊"
+            },
+            {
+              "start_timestamp": 406,
+              "end_timestamp": 409,
+              "content": "短线中复盘大家复盘是怎么样的啊"
+            },
+            {
+              "start_timestamp": 409,
+              "end_timestamp": 413,
+              "content": "今今天光伏是主线"
+            },
+            {
+              "start_timestamp": 414,
+              "end_timestamp": 415,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 415,
+              "end_timestamp": 416,
+              "content": "光伏是主线"
+            },
+            {
+              "start_timestamp": 416,
+              "end_timestamp": 419,
+              "content": "那么为某一些公众号"
+            },
+            {
+              "start_timestamp": 419,
+              "end_timestamp": 421,
+              "content": "某一些呃自媒体"
+            },
+            {
+              "start_timestamp": 421,
+              "end_timestamp": 424,
+              "content": "他就会把这个光伏的涨停板分类"
+            },
+            {
+              "start_timestamp": 424,
+              "end_timestamp": 425,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 425,
+              "end_timestamp": 427,
+              "content": "把它弄成一个表格"
+            },
+            {
+              "start_timestamp": 430,
+              "end_timestamp": 432,
+              "content": "是不是把它弄成这样的一个表格"
+            },
+            {
+              "start_timestamp": 432,
+              "end_timestamp": 442,
+              "content": "里面有ABCDEFGH等等等等等等啊"
+            },
+            {
+              "start_timestamp": 442,
+              "end_timestamp": 445,
+              "content": "好多只因为他今天是主线嘛"
+            },
+            {
+              "start_timestamp": 445,
+              "end_timestamp": 446,
+              "content": "它涨停了很多支"
+            },
+            {
+              "start_timestamp": 446,
+              "end_timestamp": 447,
+              "content": "那么好"
+            },
+            {
+              "start_timestamp": 447,
+              "end_timestamp": 449,
+              "content": "A是龙头A"
+            },
+            {
+              "start_timestamp": 451,
+              "end_timestamp": 454,
+              "content": "呃主板"
+            },
+            {
+              "start_timestamp": 455,
+              "end_timestamp": 460,
+              "content": "三板括号高度"
+            },
+            {
+              "start_timestamp": 462,
+              "end_timestamp": 463,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 463,
+              "end_timestamp": 464,
+              "content": "高度高度什么意思啊"
+            },
+            {
+              "start_timestamp": 464,
+              "end_timestamp": 466,
+              "content": "就他是最高的那个三板"
+            },
+            {
+              "start_timestamp": 466,
+              "end_timestamp": 468,
+              "content": "最高的涨停板"
+            },
+            {
+              "start_timestamp": 468,
+              "end_timestamp": 477,
+              "content": "好B首板C首版D首版一创业板"
+            },
+            {
+              "start_timestamp": 480,
+              "end_timestamp": 488,
+              "content": "啊创业板F首版居北交所"
+            },
+            {
+              "start_timestamp": 490,
+              "end_timestamp": 492,
+              "content": "啊等等等等"
+            },
+            {
+              "start_timestamp": 492,
+              "end_timestamp": 493,
+              "content": "以此类推"
+            },
+            {
+              "start_timestamp": 494,
+              "end_timestamp": 501,
+              "content": "这个就是常见的一个短线复盘的一个表格啊"
+            },
+            {
+              "start_timestamp": 501,
+              "end_timestamp": 502,
+              "content": "你们应该看过这个的哈"
+            },
+            {
+              "start_timestamp": 502,
+              "end_timestamp": 504,
+              "content": "如果没有看过呃"
+            },
+            {
+              "start_timestamp": 504,
+              "end_timestamp": 506,
+              "content": "我后面会呃"
+            },
+            {
+              "start_timestamp": 506,
+              "end_timestamp": 508,
+              "content": "后面看一下有没有机会给大家分享几个复盘"
+            },
+            {
+              "start_timestamp": 508,
+              "end_timestamp": 511,
+              "content": "那个用的那个平台"
+            },
+            {
+              "start_timestamp": 511,
+              "end_timestamp": 513,
+              "content": "那么大家想一下哈"
+            },
+            {
+              "start_timestamp": 513,
+              "end_timestamp": 515,
+              "content": "你们看到这个表格"
+            },
+            {
+              "start_timestamp": 515,
+              "end_timestamp": 520,
+              "content": "第一个看到的是谁啊哈你们看想一下"
+            },
+            {
+              "start_timestamp": 520,
+              "end_timestamp": 522,
+              "content": "艾玛"
+            },
+            {
+              "start_timestamp": 524,
+              "end_timestamp": 525,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 525,
+              "end_timestamp": 527,
+              "content": "你第一个看到就是A啊"
+            },
+            {
+              "start_timestamp": 527,
+              "end_timestamp": 531,
+              "content": "然后一嘛啊是不是啊"
+            },
+            {
+              "start_timestamp": 531,
+              "end_timestamp": 532,
+              "content": "他第一个创业板"
+            },
+            {
+              "start_timestamp": 532,
+              "end_timestamp": 536,
+              "content": "然后啊可能是某个中军"
+            },
+            {
+              "start_timestamp": 536,
+              "end_timestamp": 538,
+              "content": "就是我说的辨识度啊"
+            },
+            {
+              "start_timestamp": 538,
+              "end_timestamp": 544,
+              "content": "某个最大市值最大成交量的那一个"
+            },
+            {
+              "start_timestamp": 545,
+              "end_timestamp": 547,
+              "content": "因为为什么为什么你会看到它"
+            },
+            {
+              "start_timestamp": 547,
+              "end_timestamp": 550,
+              "content": "因为它的成交量最大啊"
+            },
+            {
+              "start_timestamp": 550,
+              "end_timestamp": 551,
+              "content": "所以你也会看到他"
+            },
+            {
+              "start_timestamp": 551,
+              "end_timestamp": 552,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 552,
+              "end_timestamp": 553,
+              "content": "那么这个复盘的表格"
+            },
+            {
+              "start_timestamp": 553,
+              "end_timestamp": 554,
+              "content": "大家想一下"
+            },
+            {
+              "start_timestamp": 554,
+              "end_timestamp": 555,
+              "content": "我们做短线的人"
+            },
+            {
+              "start_timestamp": 555,
+              "end_timestamp": 556,
+              "content": "第一个看什么"
+            },
+            {
+              "start_timestamp": 556,
+              "end_timestamp": 563,
+              "content": "就是看这种比较特别的比较稀缺的品种"
+            },
+            {
+              "start_timestamp": 563,
+              "end_timestamp": 568,
+              "content": "这个就叫短线的稀缺性"
+            },
+            {
+              "start_timestamp": 569,
+              "end_timestamp": 571,
+              "content": "短线的稀缺性就是我一眼看到"
+            },
+            {
+              "start_timestamp": 571,
+              "end_timestamp": 572,
+              "content": "我就能马上看到他"
+            },
+            {
+              "start_timestamp": 572,
+              "end_timestamp": 577,
+              "content": "你们去看一下BCDF这些"
+            },
+            {
+              "start_timestamp": 577,
+              "end_timestamp": 579,
+              "content": "你你会关注他吗"
+            },
+            {
+              "start_timestamp": 580,
+              "end_timestamp": 583,
+              "content": "里面十几只20几只手板"
+            },
+            {
+              "start_timestamp": 583,
+              "end_timestamp": 586,
+              "content": "主板就就是10cm的手板"
+            },
+            {
+              "start_timestamp": 586,
+              "end_timestamp": 587,
+              "content": "十几20只"
+            },
+            {
+              "start_timestamp": 587,
+              "end_timestamp": 589,
+              "content": "你觉得你会关注他吗"
+            },
+            {
+              "start_timestamp": 589,
+              "end_timestamp": 591,
+              "content": "你第一眼就看到他吗"
+            },
+            {
+              "start_timestamp": 591,
+              "end_timestamp": 593,
+              "content": "我看我不看不到的"
+            },
+            {
+              "start_timestamp": 593,
+              "end_timestamp": 595,
+              "content": "因为太多了"
+            },
+            {
+              "start_timestamp": 595,
+              "end_timestamp": 595,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 595,
+              "end_timestamp": 597,
+              "content": "你太多你就不会关注他"
+            },
+            {
+              "start_timestamp": 599,
+              "end_timestamp": 602,
+              "content": "所以大家能理解什么叫短线中的稀缺性了"
+            },
+            {
+              "start_timestamp": 602,
+              "end_timestamp": 603,
+              "content": "没有啊"
+            },
+            {
+              "start_timestamp": 603,
+              "end_timestamp": 604,
+              "content": "你这一一个复盘表格"
+            },
+            {
+              "start_timestamp": 604,
+              "end_timestamp": 605,
+              "content": "你一做出来"
+            },
+            {
+              "start_timestamp": 605,
+              "end_timestamp": 607,
+              "content": "你们你们自己去找哈"
+            },
+            {
+              "start_timestamp": 607,
+              "end_timestamp": 609,
+              "content": "我我我后面可能会分享一些"
+            },
+            {
+              "start_timestamp": 609,
+              "end_timestamp": 611,
+              "content": "那现在就是这个样子的"
+            },
+            {
+              "start_timestamp": 611,
+              "end_timestamp": 615,
+              "content": "ABCDEFGHIJK啊等等等等等"
+            },
+            {
+              "start_timestamp": 615,
+              "end_timestamp": 617,
+              "content": "二三十只反你第一眼看到什么"
+            },
+            {
+              "start_timestamp": 617,
+              "end_timestamp": 618,
+              "content": "最高的那一个"
+            },
+            {
+              "start_timestamp": 618,
+              "end_timestamp": 621,
+              "content": "最大的那一个最早涨停的等等等等"
+            },
+            {
+              "start_timestamp": 621,
+              "end_timestamp": 623,
+              "content": "那么好"
+            },
+            {
+              "start_timestamp": 623,
+              "end_timestamp": 627,
+              "content": "这个就叫短线中短短短线中的稀缺性"
+            },
+            {
+              "start_timestamp": 627,
+              "end_timestamp": 630,
+              "content": "我们来归纳总结啊"
+            },
+            {
+              "start_timestamp": 630,
+              "end_timestamp": 631,
+              "content": "这个就是最重要的哈"
+            },
+            {
+              "start_timestamp": 631,
+              "end_timestamp": 633,
+              "content": "第三点是最重要的"
+            },
+            {
+              "start_timestamp": 633,
+              "end_timestamp": 634,
+              "content": "我们一个个归纳"
+            },
+            {
+              "start_timestamp": 634,
+              "end_timestamp": 636,
+              "content": "第一"
+            },
+            {
+              "start_timestamp": 638,
+              "end_timestamp": 646,
+              "content": "值即成交量"
+            },
+            {
+              "start_timestamp": 650,
+              "end_timestamp": 651,
+              "content": "市值及成交量"
+            },
+            {
+              "start_timestamp": 653,
+              "end_timestamp": 658,
+              "content": "最大的市值最大的成交量"
+            },
+            {
+              "start_timestamp": 658,
+              "end_timestamp": 660,
+              "content": "我们会重点关注"
+            },
+            {
+              "start_timestamp": 660,
+              "end_timestamp": 661,
+              "content": "为什么"
+            },
+            {
+              "start_timestamp": 661,
+              "end_timestamp": 665,
+              "content": "因为他是整个行业的中军"
+            },
+            {
+              "start_timestamp": 666,
+              "end_timestamp": 667,
+              "content": "就相当于我们打行军"
+            },
+            {
+              "start_timestamp": 667,
+              "end_timestamp": 670,
+              "content": "打仗中那个将军将军在干什么"
+            },
+            {
+              "start_timestamp": 670,
+              "end_timestamp": 672,
+              "content": "我们肯定很重重视的"
+            },
+            {
+              "start_timestamp": 672,
+              "end_timestamp": 674,
+              "content": "你不可能你不不闯"
+            },
+            {
+              "start_timestamp": 674,
+              "end_timestamp": 677,
+              "content": "不推测一下那个将军在想什么的吗"
+            },
+            {
+              "start_timestamp": 677,
+              "end_timestamp": 678,
+              "content": "那你怎么打仗嘛"
+            },
+            {
+              "start_timestamp": 678,
+              "end_timestamp": 679,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 679,
+              "end_timestamp": 680,
+              "content": "你行军打仗"
+            },
+            {
+              "start_timestamp": 680,
+              "end_timestamp": 682,
+              "content": "你肯定要去猜对面的将军在想什么"
+            },
+            {
+              "start_timestamp": 682,
+              "end_timestamp": 686,
+              "content": "这就是市值及成交量啊"
+            },
+            {
+              "start_timestamp": 686,
+              "end_timestamp": 687,
+              "content": "我们要重点关注"
+            },
+            {
+              "start_timestamp": 687,
+              "end_timestamp": 690,
+              "content": "这是第一点啊"
+            },
+            {
+              "start_timestamp": 690,
+              "end_timestamp": 694,
+              "content": "第二个基本面中的稀缺性"
+            },
+            {
+              "start_timestamp": 706,
+              "end_timestamp": 708,
+              "content": "我就直接写稀缺哈"
+            },
+            {
+              "start_timestamp": 708,
+              "end_timestamp": 711,
+              "content": "我们节省一点时间啊"
+            },
+            {
+              "start_timestamp": 711,
+              "end_timestamp": 713,
+              "content": "基本面中的稀缺性"
+            },
+            {
+              "start_timestamp": 713,
+              "end_timestamp": 715,
+              "content": "什么叫基本面的稀缺性"
+            },
+            {
+              "start_timestamp": 715,
+              "end_timestamp": 717,
+              "content": "其实就我该上面问过了"
+            },
+            {
+              "start_timestamp": 717,
+              "end_timestamp": 719,
+              "content": "我们在聊第一点和第二点的时候问过的问题"
+            },
+            {
+              "start_timestamp": 719,
+              "end_timestamp": 721,
+              "content": "你在做一件事情"
+            },
+            {
+              "start_timestamp": 721,
+              "end_timestamp": 722,
+              "content": "你马上想到它"
+            },
+            {
+              "start_timestamp": 722,
+              "end_timestamp": 726,
+              "content": "那么它就在那个行业中具有相当的稀缺性啊"
+            },
+            {
+              "start_timestamp": 726,
+              "end_timestamp": 729,
+              "content": "当然我们这个不要带主观去想法啊"
+            },
+            {
+              "start_timestamp": 729,
+              "end_timestamp": 730,
+              "content": "什么叫主观啊"
+            },
+            {
+              "start_timestamp": 730,
+              "end_timestamp": 734,
+              "content": "就是假如你说你现在开的是这个车哦"
+            },
+            {
+              "start_timestamp": 734,
+              "end_timestamp": 735,
+              "content": "结果我问你这个车"
+            },
+            {
+              "start_timestamp": 735,
+              "end_timestamp": 736,
+              "content": "你马上想到的是这个车"
+            },
+            {
+              "start_timestamp": 736,
+              "end_timestamp": 739,
+              "content": "只能代表它在你心中具有稀缺性"
+            },
+            {
+              "start_timestamp": 739,
+              "end_timestamp": 743,
+              "content": "但是它不能代表在行业中既具有稀缺性"
+            },
+            {
+              "start_timestamp": 743,
+              "end_timestamp": 744,
+              "content": "能理解吗"
+            },
+            {
+              "start_timestamp": 744,
+              "end_timestamp": 746,
+              "content": "哦不能因为你自己开这个车"
+            },
+            {
+              "start_timestamp": 746,
+              "end_timestamp": 747,
+              "content": "所以你觉得它很稀缺"
+            },
+            {
+              "start_timestamp": 747,
+              "end_timestamp": 748,
+              "content": "不是的啊"
+            },
+            {
+              "start_timestamp": 748,
+              "end_timestamp": 749,
+              "content": "要客观一点"
+            },
+            {
+              "start_timestamp": 749,
+              "end_timestamp": 752,
+              "content": "第二点就是基本面中稀缺性啊"
+            },
+            {
+              "start_timestamp": 752,
+              "end_timestamp": 754,
+              "content": "就是我们举个例子"
+            },
+            {
+              "start_timestamp": 754,
+              "end_timestamp": 755,
+              "content": "好像光刻机"
+            },
+            {
+              "start_timestamp": 756,
+              "end_timestamp": 756,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 756,
+              "end_timestamp": 760,
+              "content": "光刻机我们现在一直在说炒国产地摊"
+            },
+            {
+              "start_timestamp": 760,
+              "end_timestamp": 763,
+              "content": "其实目前还还是无法国产地摊地摊的嘛"
+            },
+            {
+              "start_timestamp": 763,
+              "end_timestamp": 764,
+              "content": "还差一点"
+            },
+            {
+              "start_timestamp": 764,
+              "end_timestamp": 764,
+              "content": "是不是"
+            },
+            {
+              "start_timestamp": 764,
+              "end_timestamp": 768,
+              "content": "那么这一个能制作光刻机的企业"
+            },
+            {
+              "start_timestamp": 768,
+              "end_timestamp": 773,
+              "content": "就在基本面中的稀缺性占独一无二的位置"
+            },
+            {
+              "start_timestamp": 773,
+              "end_timestamp": 775,
+              "content": "他就是number one"
+            },
+            {
+              "start_timestamp": 775,
+              "end_timestamp": 775,
+              "content": "明白吧"
+            },
+            {
+              "start_timestamp": 775,
+              "end_timestamp": 777,
+              "content": "因为只有他能做呀"
+            },
+            {
+              "start_timestamp": 777,
+              "end_timestamp": 778,
+              "content": "别人都做不了"
+            },
+            {
+              "start_timestamp": 778,
+              "end_timestamp": 779,
+              "content": "那你必炒他的"
+            },
+            {
+              "start_timestamp": 779,
+              "end_timestamp": 781,
+              "content": "如果如果炒光刻机"
+            },
+            {
+              "start_timestamp": 781,
+              "end_timestamp": 782,
+              "content": "那你不炒他吗"
+            },
+            {
+              "start_timestamp": 782,
+              "end_timestamp": 784,
+              "content": "啊我就举个例子"
+            },
+            {
+              "start_timestamp": 784,
+              "end_timestamp": 785,
+              "content": "你们还可以自己去推"
+            },
+            {
+              "start_timestamp": 786,
+              "end_timestamp": 787,
+              "content": "这是第二点"
+            },
+            {
+              "start_timestamp": 788,
+              "end_timestamp": 789,
+              "content": "第三点"
+            },
+            {
+              "start_timestamp": 790,
+              "end_timestamp": 792,
+              "content": "名字"
+            },
+            {
+              "start_timestamp": 793,
+              "end_timestamp": 796,
+              "content": "中的稀缺性"
+            },
+            {
+              "start_timestamp": 800,
+              "end_timestamp": 801,
+              "content": "名字啊"
+            },
+            {
+              "start_timestamp": 801,
+              "end_timestamp": 803,
+              "content": "企业名字啊"
+            },
+            {
+              "start_timestamp": 803,
+              "end_timestamp": 807,
+              "content": "有没有想过这一个我们A股是有特点的"
+            },
+            {
+              "start_timestamp": 808,
+              "end_timestamp": 812,
+              "content": "熊长牛短波段市场"
+            },
+            {
+              "start_timestamp": 812,
+              "end_timestamp": 813,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 813,
+              "end_timestamp": 817,
+              "content": "他比较少慢牛哦不对我我不能说太太那个啊"
+            },
+            {
+              "start_timestamp": 817,
+              "end_timestamp": 819,
+              "content": "就是大家想一下"
+            },
+            {
+              "start_timestamp": 819,
+              "end_timestamp": 820,
+              "content": "就是整体是震荡吗"
+            },
+            {
+              "start_timestamp": 820,
+              "end_timestamp": 822,
+              "content": "长时间什么3000点"
+            },
+            {
+              "start_timestamp": 822,
+              "end_timestamp": 824,
+              "content": "大家应该也听说过这些"
+            },
+            {
+              "start_timestamp": 824,
+              "end_timestamp": 825,
+              "content": "那么在这个过程中"
+            },
+            {
+              "start_timestamp": 825,
+              "end_timestamp": 828,
+              "content": "短线波段操作是一个很正常的"
+            },
+            {
+              "start_timestamp": 828,
+              "end_timestamp": 831,
+              "content": "有一些短线甚至于会炒名字"
+            },
+            {
+              "start_timestamp": 831,
+              "end_timestamp": 833,
+              "content": "有没有见过的呀"
+            },
+            {
+              "start_timestamp": 833,
+              "end_timestamp": 836,
+              "content": "炒玄学我们不鼓励这样子"
+            },
+            {
+              "start_timestamp": 836,
+              "end_timestamp": 838,
+              "content": "但是确实我们市场确实是有这样子的"
+            },
+            {
+              "start_timestamp": 838,
+              "end_timestamp": 840,
+              "content": "一个炒作啊"
+            },
+            {
+              "start_timestamp": 840,
+              "end_timestamp": 843,
+              "content": "我们单纯聊一下今年明年是什么年呢"
+            },
+            {
+              "start_timestamp": 845,
+              "end_timestamp": 848,
+              "content": "羊年A股有炒生效的一个特点"
+            },
+            {
+              "start_timestamp": 848,
+              "end_timestamp": 849,
+              "content": "有没有听过啊"
+            },
+            {
+              "start_timestamp": 849,
+              "end_timestamp": 851,
+              "content": "炒生效啊"
+            },
+            {
+              "start_timestamp": 851,
+              "end_timestamp": 852,
+              "content": "炒蛇炒龙"
+            },
+            {
+              "start_timestamp": 852,
+              "end_timestamp": 855,
+              "content": "那么明年羊年有没有想过"
+            },
+            {
+              "start_timestamp": 855,
+              "end_timestamp": 858,
+              "content": "我们A股有多少只羊字的啊"
+            },
+            {
+              "start_timestamp": 858,
+              "end_timestamp": 861,
+              "content": "你们可以问一下豆包哈"
+            },
+            {
+              "start_timestamp": 861,
+              "end_timestamp": 863,
+              "content": "只有两只"
+            },
+            {
+              "start_timestamp": 866,
+              "end_timestamp": 869,
+              "content": "A股带阳字的只有两只"
+            },
+            {
+              "start_timestamp": 869,
+              "end_timestamp": 875,
+              "content": "这个在生效炒作过程中是什么极强的稀缺性"
+            },
+            {
+              "start_timestamp": 875,
+              "end_timestamp": 878,
+              "content": "不是你就是我懂了吗"
+            },
+            {
+              "start_timestamp": 878,
+              "end_timestamp": 880,
+              "content": "如果说未来真的吵你"
+            },
+            {
+              "start_timestamp": 880,
+              "end_timestamp": 883,
+              "content": "你请问你们觉得这两只会不会吵啊"
+            },
+            {
+              "start_timestamp": 883,
+              "end_timestamp": 885,
+              "content": "我我我我我并不是推荐"
+            },
+            {
+              "start_timestamp": 885,
+              "end_timestamp": 885,
+              "content": "我"
+            },
+            {
+              "start_timestamp": 885,
+              "end_timestamp": 887,
+              "content": "只是分享你们去思考一下"
+            },
+            {
+              "start_timestamp": 887,
+              "end_timestamp": 889,
+              "content": "你们先想吵不吵"
+            },
+            {
+              "start_timestamp": 889,
+              "end_timestamp": 890,
+              "content": "如果吵的话"
+            },
+            {
+              "start_timestamp": 890,
+              "end_timestamp": 892,
+              "content": "会不会吵他们"
+            },
+            {
+              "start_timestamp": 892,
+              "end_timestamp": 892,
+              "content": "那不吵"
+            },
+            {
+              "start_timestamp": 892,
+              "end_timestamp": 894,
+              "content": "他们还能吵啥呀"
+            },
+            {
+              "start_timestamp": 894,
+              "end_timestamp": 897,
+              "content": "一共就两只能理解吧"
+            },
+            {
+              "start_timestamp": 897,
+              "end_timestamp": 899,
+              "content": "还有龙字辈的"
+            },
+            {
+              "start_timestamp": 899,
+              "end_timestamp": 900,
+              "content": "羊字辈的"
+            },
+            {
+              "start_timestamp": 900,
+              "end_timestamp": 902,
+              "content": "马字辈的等等等等"
+            },
+            {
+              "start_timestamp": 902,
+              "end_timestamp": 906,
+              "content": "你们都可以去思考一下名字自带的稀缺性"
+            },
+            {
+              "start_timestamp": 906,
+              "end_timestamp": 906,
+              "content": "第四个"
+            },
+            {
+              "start_timestamp": 910,
+              "end_timestamp": 912,
+              "content": "涨停时间"
+            },
+            {
+              "start_timestamp": 921,
+              "end_timestamp": 924,
+              "content": "早啊涨停时间早"
+            },
+            {
+              "start_timestamp": 924,
+              "end_timestamp": 926,
+              "content": "涨停时间越早"
+            },
+            {
+              "start_timestamp": 926,
+              "end_timestamp": 928,
+              "content": "我们关注它越多"
+            },
+            {
+              "start_timestamp": 928,
+              "end_timestamp": 930,
+              "content": "我们越关注它啊"
+            },
+            {
+              "start_timestamp": 930,
+              "end_timestamp": 932,
+              "content": "就像右面这个表格"
+            },
+            {
+              "start_timestamp": 932,
+              "end_timestamp": 937,
+              "content": "你在BCDF啊"
+            },
+            {
+              "start_timestamp": 937,
+              "end_timestamp": 940,
+              "content": "我们去除掉A去除掉E这个创业板的"
+            },
+            {
+              "start_timestamp": 940,
+              "end_timestamp": 943,
+              "content": "去除掉北交所的BCDF"
+            },
+            {
+              "start_timestamp": 943,
+              "end_timestamp": 945,
+              "content": "你们会关注谁啊"
+            },
+            {
+              "start_timestamp": 946,
+              "end_timestamp": 947,
+              "content": "B嘛"
+            },
+            {
+              "start_timestamp": 947,
+              "end_timestamp": 949,
+              "content": "因为它最早涨停嘛"
+            },
+            {
+              "start_timestamp": 949,
+              "end_timestamp": 949,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 949,
+              "end_timestamp": 950,
+              "content": "越早涨停"
+            },
+            {
+              "start_timestamp": 950,
+              "end_timestamp": 952,
+              "content": "那肯定地位稍微高一点嘛"
+            },
+            {
+              "start_timestamp": 952,
+              "end_timestamp": 953,
+              "content": "也合理"
+            },
+            {
+              "start_timestamp": 953,
+              "end_timestamp": 954,
+              "content": "是不是"
+            },
+            {
+              "start_timestamp": 954,
+              "end_timestamp": 959,
+              "content": "你打仗有没有听说过一个词叫先登啊"
+            },
+            {
+              "start_timestamp": 960,
+              "end_timestamp": 962,
+              "content": "先登"
+            },
+            {
+              "start_timestamp": 965,
+              "end_timestamp": 965,
+              "content": "先登啊"
+            },
+            {
+              "start_timestamp": 965,
+              "end_timestamp": 966,
+              "content": "就是行军打仗"
+            },
+            {
+              "start_timestamp": 966,
+              "end_timestamp": 967,
+              "content": "我们要打攻坚战"
+            },
+            {
+              "start_timestamp": 967,
+              "end_timestamp": 969,
+              "content": "要攻破一个城楼"
+            },
+            {
+              "start_timestamp": 969,
+              "end_timestamp": 973,
+              "content": "是不是要拿梯子架到那个藤那个城楼上"
+            },
+            {
+              "start_timestamp": 973,
+              "end_timestamp": 974,
+              "content": "然后爬"
+            },
+            {
+              "start_timestamp": 974,
+              "end_timestamp": 977,
+              "content": "要派出很多士兵去爬梯子"
+            },
+            {
+              "start_timestamp": 977,
+              "end_timestamp": 980,
+              "content": "最早登上城门的叫先登"
+            },
+            {
+              "start_timestamp": 980,
+              "end_timestamp": 982,
+              "content": "那么你们想一下"
+            },
+            {
+              "start_timestamp": 982,
+              "end_timestamp": 985,
+              "content": "先登是不是属于大公之一啊"
+            },
+            {
+              "start_timestamp": 985,
+              "end_timestamp": 987,
+              "content": "啊大功"
+            },
+            {
+              "start_timestamp": 988,
+              "end_timestamp": 990,
+              "content": "大功一件啊"
+            },
+            {
+              "start_timestamp": 990,
+              "end_timestamp": 992,
+              "content": "大功啊"
+            },
+            {
+              "start_timestamp": 992,
+              "end_timestamp": 993,
+              "content": "这个就是大功"
+            },
+            {
+              "start_timestamp": 993,
+              "end_timestamp": 995,
+              "content": "这就是先登啊"
+            },
+            {
+              "start_timestamp": 995,
+              "end_timestamp": 999,
+              "content": "在短线中先先那个最早涨停的就叫先登"
+            },
+            {
+              "start_timestamp": 999,
+              "end_timestamp": 1001,
+              "content": "就你可以理解为先登"
+            },
+            {
+              "start_timestamp": 1001,
+              "end_timestamp": 1003,
+              "content": "明明明白吗"
+            },
+            {
+              "start_timestamp": 1003,
+              "end_timestamp": 1004,
+              "content": "你你统一样"
+            },
+            {
+              "start_timestamp": 1004,
+              "end_timestamp": 1004,
+              "content": "其他都一样的"
+            },
+            {
+              "start_timestamp": 1004,
+              "end_timestamp": 1005,
+              "content": "都是10cm的"
+            },
+            {
+              "start_timestamp": 1005,
+              "end_timestamp": 1006,
+              "content": "那我肯定涨停"
+            },
+            {
+              "start_timestamp": 1006,
+              "end_timestamp": 1008,
+              "content": "越早越好啊"
+            },
+            {
+              "start_timestamp": 1008,
+              "end_timestamp": 1011,
+              "content": "这个就是最常规的一个逻辑推理嘛"
+            },
+            {
+              "start_timestamp": 1011,
+              "end_timestamp": 1012,
+              "content": "这是第四点"
+            },
+            {
+              "start_timestamp": 1012,
+              "end_timestamp": 1014,
+              "content": "第五点"
+            },
+            {
+              "start_timestamp": 1016,
+              "end_timestamp": 1018,
+              "content": "高度"
+            },
+            {
+              "start_timestamp": 1021,
+              "end_timestamp": 1023,
+              "content": "第五点高度"
+            },
+            {
+              "start_timestamp": 1023,
+              "end_timestamp": 1025,
+              "content": "这一点需要解释吗"
+            },
+            {
+              "start_timestamp": 1025,
+              "end_timestamp": 1026,
+              "content": "各位群友呵"
+            },
+            {
+              "start_timestamp": 1026,
+              "end_timestamp": 1027,
+              "content": "还需要解释吗"
+            },
+            {
+              "start_timestamp": 1027,
+              "end_timestamp": 1029,
+              "content": "全都是首版"
+            },
+            {
+              "start_timestamp": 1029,
+              "end_timestamp": 1030,
+              "content": "就他一个三板"
+            },
+            {
+              "start_timestamp": 1030,
+              "end_timestamp": 1033,
+              "content": "这个A你不告你告诉我"
+            },
+            {
+              "start_timestamp": 1033,
+              "end_timestamp": 1036,
+              "content": "你第二天你不看他还能看什么"
+            },
+            {
+              "start_timestamp": 1037,
+              "end_timestamp": 1041,
+              "content": "是不是全都是1米71米八的"
+            },
+            {
+              "start_timestamp": 1041,
+              "end_timestamp": 1042,
+              "content": "然后里面站个2米的"
+            },
+            {
+              "start_timestamp": 1042,
+              "end_timestamp": 1044,
+              "content": "请问你请问各位球友"
+            },
+            {
+              "start_timestamp": 1044,
+              "end_timestamp": 1046,
+              "content": "你们会关注不到2米的那个人吗"
+            },
+            {
+              "start_timestamp": 1046,
+              "end_timestamp": 1049,
+              "content": "啊不可能的嘛"
+            },
+            {
+              "start_timestamp": 1049,
+              "end_timestamp": 1050,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 1050,
+              "end_timestamp": 1051,
+              "content": "不是不是说别的"
+            },
+            {
+              "start_timestamp": 1051,
+              "end_timestamp": 1053,
+              "content": "就是你走在路上"
+            },
+            {
+              "start_timestamp": 1053,
+              "end_timestamp": 1054,
+              "content": "一群狼"
+            },
+            {
+              "start_timestamp": 1054,
+              "end_timestamp": 1056,
+              "content": "一群1米1米七"
+            },
+            {
+              "start_timestamp": 1056,
+              "end_timestamp": 1057,
+              "content": "1米8"
+            },
+            {
+              "start_timestamp": 1057,
+              "end_timestamp": 1060,
+              "content": "1米8的旁边站一个2米几的"
+            },
+            {
+              "start_timestamp": 1060,
+              "end_timestamp": 1062,
+              "content": "怎么可能看不到这个2米几的啊"
+            },
+            {
+              "start_timestamp": 1062,
+              "end_timestamp": 1064,
+              "content": "不可能的嘛"
+            },
+            {
+              "start_timestamp": 1064,
+              "end_timestamp": 1066,
+              "content": "这就是短线中的高度"
+            },
+            {
+              "start_timestamp": 1066,
+              "end_timestamp": 1070,
+              "content": "那么这里需要扩展一下啊"
+            },
+            {
+              "start_timestamp": 1071,
+              "end_timestamp": 1073,
+              "content": "短线中的高度分为两种"
+            },
+            {
+              "start_timestamp": 1073,
+              "end_timestamp": 1075,
+              "content": "第一个是总高"
+            },
+            {
+              "start_timestamp": 1077,
+              "end_timestamp": 1080,
+              "content": "总高度也叫总容"
+            },
+            {
+              "start_timestamp": 1084,
+              "end_timestamp": 1086,
+              "content": "啊总高总容"
+            },
+            {
+              "start_timestamp": 1086,
+              "end_timestamp": 1088,
+              "content": "第二个叫做"
+            },
+            {
+              "start_timestamp": 1089,
+              "end_timestamp": 1092,
+              "content": "阶段性就叫做阶段性啊"
+            },
+            {
+              "start_timestamp": 1092,
+              "end_timestamp": 1094,
+              "content": "阶段性隆"
+            },
+            {
+              "start_timestamp": 1098,
+              "end_timestamp": 1100,
+              "content": "第二个叫阶段性融"
+            },
+            {
+              "start_timestamp": 1100,
+              "end_timestamp": 1101,
+              "content": "什么叫整容啊"
+            },
+            {
+              "start_timestamp": 1101,
+              "end_timestamp": 1104,
+              "content": "就是他可能第一波他先涨了一波啊"
+            },
+            {
+              "start_timestamp": 1104,
+              "end_timestamp": 1105,
+              "content": "四个板"
+            },
+            {
+              "start_timestamp": 1105,
+              "end_timestamp": 1105,
+              "content": "五个板"
+            },
+            {
+              "start_timestamp": 1105,
+              "end_timestamp": 1108,
+              "content": "然后他调整两天再涨一波"
+            },
+            {
+              "start_timestamp": 1108,
+              "end_timestamp": 1110,
+              "content": "这个叫整容"
+            },
+            {
+              "start_timestamp": 1110,
+              "end_timestamp": 1113,
+              "content": "那么阶段性龙就是第一波啊"
+            },
+            {
+              "start_timestamp": 1113,
+              "end_timestamp": 1116,
+              "content": "这个龙头总龙没还在涨的时候"
+            },
+            {
+              "start_timestamp": 1116,
+              "end_timestamp": 1117,
+              "content": "它没有涨"
+            },
+            {
+              "start_timestamp": 1117,
+              "end_timestamp": 1121,
+              "content": "结果龙总龙头啊涨第二波的时候啊"
+            },
+            {
+              "start_timestamp": 1121,
+              "end_timestamp": 1122,
+              "content": "这个龙头带着涨"
+            },
+            {
+              "start_timestamp": 1122,
+              "end_timestamp": 1124,
+              "content": "这个叫阶段性融"
+            },
+            {
+              "start_timestamp": 1124,
+              "end_timestamp": 1124,
+              "content": "明白吗"
+            },
+            {
+              "start_timestamp": 1124,
+              "end_timestamp": 1126,
+              "content": "我画个图吧"
+            },
+            {
+              "start_timestamp": 1126,
+              "end_timestamp": 1129,
+              "content": "第一波调整第二波"
+            },
+            {
+              "start_timestamp": 1129,
+              "end_timestamp": 1132,
+              "content": "然后他这个只涨了这一波能理解吗"
+            },
+            {
+              "start_timestamp": 1133,
+              "end_timestamp": 1137,
+              "content": "啊这个上面这个图叫总龙啊"
+            },
+            {
+              "start_timestamp": 1137,
+              "end_timestamp": 1139,
+              "content": "一直一个票它先涨"
+            },
+            {
+              "start_timestamp": 1139,
+              "end_timestamp": 1141,
+              "content": "然后调整两天它涨"
+            },
+            {
+              "start_timestamp": 1141,
+              "end_timestamp": 1145,
+              "content": "第二波是因为这个阶段性龙跟着它一起涨"
+            },
+            {
+              "start_timestamp": 1145,
+              "end_timestamp": 1146,
+              "content": "那么这个叫阶段性龙头"
+            },
+            {
+              "start_timestamp": 1146,
+              "end_timestamp": 1148,
+              "content": "这个叫总龙头"
+            },
+            {
+              "start_timestamp": 1148,
+              "end_timestamp": 1152,
+              "content": "那么高度大概就要分为总龙头和阶段性龙头"
+            },
+            {
+              "start_timestamp": 1152,
+              "end_timestamp": 1154,
+              "content": "也就是你必须要看那个最高的"
+            },
+            {
+              "start_timestamp": 1154,
+              "end_timestamp": 1157,
+              "content": "他可能不是连板最高啊"
+            },
+            {
+              "start_timestamp": 1157,
+              "end_timestamp": 1158,
+              "content": "这个是第一个总龙头"
+            },
+            {
+              "start_timestamp": 1158,
+              "end_timestamp": 1160,
+              "content": "第二个你要看阶段性最高的"
+            },
+            {
+              "start_timestamp": 1160,
+              "end_timestamp": 1161,
+              "content": "就是你今天复盘"
+            },
+            {
+              "start_timestamp": 1161,
+              "end_timestamp": 1163,
+              "content": "你看到他这个可能是阶段性龙头"
+            },
+            {
+              "start_timestamp": 1163,
+              "end_timestamp": 1164,
+              "content": "明白吗"
+            },
+            {
+              "start_timestamp": 1164,
+              "end_timestamp": 1166,
+              "content": "这个是高度啊"
+            },
+            {
+              "start_timestamp": 1167,
+              "end_timestamp": 1169,
+              "content": "第六个"
+            },
+            {
+              "start_timestamp": 1172,
+              "end_timestamp": 1175,
+              "content": "in涨幅"
+            },
+            {
+              "start_timestamp": 1180,
+              "end_timestamp": 1188,
+              "content": "区别啊涨幅区别带来的稀缺性啊"
+            },
+            {
+              "start_timestamp": 1188,
+              "end_timestamp": 1189,
+              "content": "涨幅区别带来稀缺性"
+            },
+            {
+              "start_timestamp": 1189,
+              "end_timestamp": 1193,
+              "content": "我们我们都知道A股有主板"
+            },
+            {
+              "start_timestamp": 1193,
+              "end_timestamp": 1194,
+              "content": "创业板"
+            },
+            {
+              "start_timestamp": 1194,
+              "end_timestamp": 1196,
+              "content": "科创板"
+            },
+            {
+              "start_timestamp": 1196,
+              "end_timestamp": 1201,
+              "content": "北交所以及上市的无涨跌幅限制的次新股"
+            },
+            {
+              "start_timestamp": 1201,
+              "end_timestamp": 1202,
+              "content": "新股等等啊"
+            },
+            {
+              "start_timestamp": 1202,
+              "end_timestamp": 1205,
+              "content": "啊那么你们想一下他们背后的代表"
+            },
+            {
+              "start_timestamp": 1205,
+              "end_timestamp": 1210,
+              "content": "是不是10%就涨十个点的"
+            },
+            {
+              "start_timestamp": 1210,
+              "end_timestamp": 1212,
+              "content": "涨20个点的"
+            },
+            {
+              "start_timestamp": 1212,
+              "end_timestamp": 1213,
+              "content": "这个镜头好晃"
+            },
+            {
+              "start_timestamp": 1213,
+              "end_timestamp": 1215,
+              "content": "等一下啊"
+            },
+            {
+              "start_timestamp": 1215,
+              "end_timestamp": 1216,
+              "content": "涨20个点的"
+            },
+            {
+              "start_timestamp": 1216,
+              "end_timestamp": 1218,
+              "content": "涨30个点的"
+            },
+            {
+              "start_timestamp": 1218,
+              "end_timestamp": 1222,
+              "content": "还有啊这种那个无穷大的啊"
+            },
+            {
+              "start_timestamp": 1222,
+              "end_timestamp": 1224,
+              "content": "就是无穷大的就不设涨跌幅"
+            },
+            {
+              "start_timestamp": 1224,
+              "end_timestamp": 1225,
+              "content": "你们想一下啊"
+            },
+            {
+              "start_timestamp": 1225,
+              "end_timestamp": 1228,
+              "content": "就像我这里画的主板"
+            },
+            {
+              "start_timestamp": 1228,
+              "end_timestamp": 1229,
+              "content": "我们关注到了啊"
+            },
+            {
+              "start_timestamp": 1229,
+              "end_timestamp": 1230,
+              "content": "涨停板"
+            },
+            {
+              "start_timestamp": 1230,
+              "end_timestamp": 1232,
+              "content": "最早涨停的首板"
+            },
+            {
+              "start_timestamp": 1232,
+              "end_timestamp": 1235,
+              "content": "我关注到了创业板"
+            },
+            {
+              "start_timestamp": 1236,
+              "end_timestamp": 1237,
+              "content": "科创板"
+            },
+            {
+              "start_timestamp": 1237,
+              "end_timestamp": 1239,
+              "content": "北交所"
+            },
+            {
+              "start_timestamp": 1239,
+              "end_timestamp": 1240,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 1240,
+              "end_timestamp": 1243,
+              "content": "也会看到对应的稀缺性啊"
+            },
+            {
+              "start_timestamp": 1243,
+              "end_timestamp": 1244,
+              "content": "举个例子"
+            },
+            {
+              "start_timestamp": 1244,
+              "end_timestamp": 1247,
+              "content": "有十只主板"
+            },
+            {
+              "start_timestamp": 1249,
+              "end_timestamp": 1255,
+              "content": "只有一只20cm的啊"
+            },
+            {
+              "start_timestamp": 1255,
+              "end_timestamp": 1259,
+              "content": "灵芝30cm的"
+            },
+            {
+              "start_timestamp": 1259,
+              "end_timestamp": 1261,
+              "content": "你们会关注这只20cm的吗"
+            },
+            {
+              "start_timestamp": 1262,
+              "end_timestamp": 1263,
+              "content": "也会嘛"
+            },
+            {
+              "start_timestamp": 1263,
+              "end_timestamp": 1264,
+              "content": "是不是"
+            },
+            {
+              "start_timestamp": 1264,
+              "end_timestamp": 1267,
+              "content": "这不也叫稀缺性吗"
+            },
+            {
+              "start_timestamp": 1267,
+              "end_timestamp": 1268,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 1268,
+              "end_timestamp": 1270,
+              "content": "我们在一眼富诶"
+            },
+            {
+              "start_timestamp": 1270,
+              "end_timestamp": 1272,
+              "content": "十只股票里面"
+            },
+            {
+              "start_timestamp": 1272,
+              "end_timestamp": 1275,
+              "content": "11只股票里面十只是10cm的"
+            },
+            {
+              "start_timestamp": 1275,
+              "end_timestamp": 1277,
+              "content": "只有一只是20cm的"
+            },
+            {
+              "start_timestamp": 1277,
+              "end_timestamp": 1278,
+              "content": "那么你们想一下"
+            },
+            {
+              "start_timestamp": 1278,
+              "end_timestamp": 1280,
+              "content": "如果第二天这个板块再次爆发"
+            },
+            {
+              "start_timestamp": 1280,
+              "end_timestamp": 1281,
+              "content": "这只20cm"
+            },
+            {
+              "start_timestamp": 1281,
+              "end_timestamp": 1283,
+              "content": "它是不是好大的空间啊"
+            },
+            {
+              "start_timestamp": 1283,
+              "end_timestamp": 1285,
+              "content": "啊那个性价比更高啊"
+            },
+            {
+              "start_timestamp": 1285,
+              "end_timestamp": 1288,
+              "content": "什么弹性更大就会有人去关注"
+            },
+            {
+              "start_timestamp": 1289,
+              "end_timestamp": 1290,
+              "content": "懂了吗"
+            },
+            {
+              "start_timestamp": 1290,
+              "end_timestamp": 1293,
+              "content": "这也是稀缺性"
+            },
+            {
+              "start_timestamp": 1293,
+              "end_timestamp": 1297,
+              "content": "那么这里一共聊了六个稀缺性啊"
+            },
+            {
+              "start_timestamp": 1297,
+              "end_timestamp": 1299,
+              "content": "其实还有一些的啊"
+            },
+            {
+              "start_timestamp": 1299,
+              "end_timestamp": 1302,
+              "content": "还有一些你们都可以自己去拓展"
+            },
+            {
+              "start_timestamp": 1302,
+              "end_timestamp": 1307,
+              "content": "我聊的这些是我在实战过程中最常见"
+            },
+            {
+              "start_timestamp": 1307,
+              "end_timestamp": 1310,
+              "content": "最常用的"
+            },
+            {
+              "start_timestamp": 1310,
+              "end_timestamp": 1311,
+              "content": "好吧"
+            },
+            {
+              "start_timestamp": 1311,
+              "end_timestamp": 1313,
+              "content": "那么今天聊了"
+            },
+            {
+              "start_timestamp": 1313,
+              "end_timestamp": 1316,
+              "content": "重点聊的就是关于这个选股的一个方法啊"
+            },
+            {
+              "start_timestamp": 1316,
+              "end_timestamp": 1319,
+              "content": "当然当然我这里聊的是极简"
+            },
+            {
+              "start_timestamp": 1319,
+              "end_timestamp": 1321,
+              "content": "各位群友聊的是极简"
+            },
+            {
+              "start_timestamp": 1321,
+              "end_timestamp": 1324,
+              "content": "选股其实要涉及到手法"
+            },
+            {
+              "start_timestamp": 1324,
+              "end_timestamp": 1326,
+              "content": "你要把它把手法带上去"
+            },
+            {
+              "start_timestamp": 1326,
+              "end_timestamp": 1328,
+              "content": "图形要不要选板块"
+            },
+            {
+              "start_timestamp": 1328,
+              "end_timestamp": 1330,
+              "content": "要不要选啊这些"
+            },
+            {
+              "start_timestamp": 1330,
+              "end_timestamp": 1333,
+              "content": "然后个股的一个成交量要不要选等等等等"
+            },
+            {
+              "start_timestamp": 1333,
+              "end_timestamp": 1334,
+              "content": "很多啊"
+            },
+            {
+              "start_timestamp": 1334,
+              "end_timestamp": 1338,
+              "content": "我只是把这个辨识度范为核心"
+            },
+            {
+              "start_timestamp": 1338,
+              "end_timestamp": 1341,
+              "content": "专门聊一期为以核心"
+            },
+            {
+              "start_timestamp": 1341,
+              "end_timestamp": 1345,
+              "content": "而以辨识度为核心的极简选股方法"
+            },
+            {
+              "start_timestamp": 1345,
+              "end_timestamp": 1347,
+              "content": "这也是一种思考"
+            },
+            {
+              "start_timestamp": 1347,
+              "end_timestamp": 1351,
+              "content": "整个交易体系的一种不错的开拓思路"
+            },
+            {
+              "start_timestamp": 1351,
+              "end_timestamp": 1354,
+              "content": "你未来所有的一个思考方向"
+            },
+            {
+              "start_timestamp": 1354,
+              "end_timestamp": 1357,
+              "content": "你就从辨识度思考my有没有辨识度脉"
+            },
+            {
+              "start_timestamp": 1357,
+              "end_timestamp": 1358,
+              "content": "有没有辨识度拿"
+            },
+            {
+              "start_timestamp": 1358,
+              "end_timestamp": 1360,
+              "content": "有没有辨识度等等等等"
+            },
+            {
+              "start_timestamp": 1360,
+              "end_timestamp": 1364,
+              "content": "都可以通过今天这一个分享去扩展出去"
+            },
+            {
+              "start_timestamp": 1366,
+              "end_timestamp": 1366,
+              "content": "好吧"
+            },
+            {
+              "start_timestamp": 1366,
+              "end_timestamp": 1369,
+              "content": "那么今天一个选股"
+            },
+            {
+              "start_timestamp": 1369,
+              "end_timestamp": 1372,
+              "content": "超短选股分享到这里就结束了"
+            },
+            {
+              "start_timestamp": 1372,
+              "end_timestamp": 1375,
+              "content": "如果说大家觉得有所帮助啊"
+            },
+            {
+              "start_timestamp": 1375,
+              "end_timestamp": 1377,
+              "content": "感谢大家的一键三连"
+            },
+            {
+              "start_timestamp": 1377,
+              "end_timestamp": 1379,
+              "content": "那么如果说大家觉得还有什么疑问"
+            },
+            {
+              "start_timestamp": 1379,
+              "end_timestamp": 1382,
+              "content": "也欢迎大家在评论区可以发出来"
+            },
+            {
+              "start_timestamp": 1382,
+              "end_timestamp": 1383,
+              "content": "我们共同探讨"
+            },
+            {
+              "start_timestamp": 1383,
+              "end_timestamp": 1386,
+              "content": "那么今天的一个分享到这里就结束了"
+            },
+            {
+              "start_timestamp": 1386,
+              "end_timestamp": 1387,
+              "content": "关注就选"
+            },
+            {
+              "start_timestamp": 1387,
+              "end_timestamp": 1388,
+              "content": "我们下次再见"
+            }
+          ],
+          "timestamp": 1
+        }
+      ]
+    },
+    "stid": "0",
+    "status": 0,
+    "like_num": 0,
+    "dislike_num": 0
+  }
+}

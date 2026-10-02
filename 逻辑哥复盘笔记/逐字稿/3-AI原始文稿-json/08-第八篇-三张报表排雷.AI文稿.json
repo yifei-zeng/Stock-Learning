@@ -1,0 +1,5063 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "code": 0,
+    "model_result": {
+      "result_type": 2,
+      "summary": "通过三张表（利润表、资产负债表、现金流量表）交叉分析公司财务健康，关注盈利质量、现金流真实性、负债与应收账款风险，结合毛利率、ROE等指标评估经营能力，强调财报用于避雷而非预测涨跌，警惕高商誉、异常负债及审计风险，助力投资者快速识别财务雷区并优化决策。",
+      "outline": [
+        {
+          "title": "三表速判公司风险与价值",
+          "part_outline": [
+            {
+              "timestamp": 28,
+              "content": "三张表速读：利润表看盈利结构，资产负债表查家底风险，现金流量表验现金流真实性"
+            },
+            {
+              "timestamp": 109,
+              "content": "财报核心功能：排雷识别风险，非预测涨跌工具，需结合多期趋势与行业对比分析"
+            },
+            {
+              "timestamp": 205,
+              "content": "关键风险信号：应收账款过高、存货积压、现金流断裂易引发企业破产危机"
+            }
+          ],
+          "timestamp": 1
+        },
+        {
+          "title": "财报三表交叉分析公司风险",
+          "part_outline": [
+            {
+              "timestamp": 656,
+              "content": " 核心分析公司资金来源与去向，关注应付账款体现议价能力"
+            },
+            {
+              "timestamp": 718,
+              "content": " 现金流表最真实，区分投资扩张与短期融资风险，警惕持续输血"
+            },
+            {
+              "timestamp": 870,
+              "content": " 三表交叉验证盈利质量，应收账款与现金流同步增长为关键"
+            }
+          ],
+          "timestamp": 601
+        },
+        {
+          "title": "财报三表八项指标排雷分析",
+          "part_outline": [
+            {
+              "timestamp": 1228,
+              "content": " 关注毛利率趋势与净利率稳定性，警惕盈利质量波动"
+            },
+            {
+              "timestamp": 1322,
+              "content": " 应收账款激增与现金流背离，识别资金挪用或暴雷风险"
+            },
+            {
+              "timestamp": 1640,
+              "content": " 审计保留意见及信披违规信号，严防SST风险与财务异常"
+            }
+          ],
+          "timestamp": 1200
+        },
+        {
+          "title": "财报排雷需多期分析避风险",
+          "part_outline": [
+            {
+              "timestamp": 1824,
+              "content": " 财报需多期分析至少3年，关注连续亏损与负债率变化"
+            },
+            {
+              "timestamp": 1841,
+              "content": " 科技股高负债率需警惕重资产模式，评估研发投入与造血能力"
+            },
+            {
+              "timestamp": 1855,
+              "content": " 财报核心功能是规避风险，需判断题材阶段及持有策略"
+            }
+          ],
+          "timestamp": 1800
+        }
+      ],
+      "subtitle": [
+        {
+          "title": "",
+          "part_subtitle": [
+            {
+              "start_timestamp": 0,
+              "end_timestamp": 0,
+              "content": "大家好"
+            },
+            {
+              "start_timestamp": 0,
+              "end_timestamp": 1,
+              "content": "我是你们的逻辑哥"
+            },
+            {
+              "start_timestamp": 1,
+              "end_timestamp": 5,
+              "content": "那么今天进入认知税系列第八期三张表"
+            },
+            {
+              "start_timestamp": 5,
+              "end_timestamp": 7,
+              "content": "看懂一家公司财报从来不是用来预测的"
+            },
+            {
+              "start_timestamp": 7,
+              "end_timestamp": 9,
+              "content": "而是用来排雷啊"
+            },
+            {
+              "start_timestamp": 9,
+              "end_timestamp": 12,
+              "content": "什么时间点我去选择看财报对吧"
+            },
+            {
+              "start_timestamp": 12,
+              "end_timestamp": 17,
+              "content": "那么一般性来说是147十这四个月看财报啊"
+            },
+            {
+              "start_timestamp": 17,
+              "end_timestamp": 19,
+              "content": "重点的财报内容肯定要盯一盯的"
+            },
+            {
+              "start_timestamp": 19,
+              "end_timestamp": 20,
+              "content": "那么为什么要看财报"
+            },
+            {
+              "start_timestamp": 20,
+              "end_timestamp": 24,
+              "content": "首先这个市场还是认点基本面的啊"
+            },
+            {
+              "start_timestamp": 24,
+              "end_timestamp": 26,
+              "content": "不是说任何时候都只聊情绪对吧"
+            },
+            {
+              "start_timestamp": 26,
+              "end_timestamp": 28,
+              "content": "好歹我还聊聊基本面啊"
+            },
+            {
+              "start_timestamp": 28,
+              "end_timestamp": 30,
+              "content": "基本面对市场的这种反馈还是比较重要的"
+            },
+            {
+              "start_timestamp": 30,
+              "end_timestamp": 32,
+              "content": "那么本期工具三张表"
+            },
+            {
+              "start_timestamp": 32,
+              "end_timestamp": 33,
+              "content": "各自回答什么"
+            },
+            {
+              "start_timestamp": 33,
+              "end_timestamp": 36,
+              "content": "八个关键性的指标以及三类排列信号"
+            },
+            {
+              "start_timestamp": 36,
+              "end_timestamp": 39,
+              "content": "以及四步快速的读速啊"
+            },
+            {
+              "start_timestamp": 39,
+              "end_timestamp": 40,
+              "content": "速通流程"
+            },
+            {
+              "start_timestamp": 40,
+              "end_timestamp": 43,
+              "content": "以及说财报它不能够体现的内容"
+            },
+            {
+              "start_timestamp": 43,
+              "end_timestamp": 46,
+              "content": "那么逻辑歌复盘比及所有内容"
+            },
+            {
+              "start_timestamp": 46,
+              "end_timestamp": 49,
+              "content": "均基于公开整统计与学术研究整理"
+            },
+            {
+              "start_timestamp": 49,
+              "end_timestamp": 50,
+              "content": "仅供投资者教育"
+            },
+            {
+              "start_timestamp": 50,
+              "end_timestamp": 52,
+              "content": "不构成任何的投资建议"
+            },
+            {
+              "start_timestamp": 53,
+              "end_timestamp": 54,
+              "content": "不点评任何具体公司"
+            },
+            {
+              "start_timestamp": 54,
+              "end_timestamp": 58,
+              "content": "只教你在10分钟以内怎么快速判断一家公司"
+            },
+            {
+              "start_timestamp": 58,
+              "end_timestamp": 60,
+              "content": "它到底值还是不值得继续看"
+            },
+            {
+              "start_timestamp": 60,
+              "end_timestamp": 64,
+              "content": "那么这一期把财报从过去你们觉得是天书"
+            },
+            {
+              "start_timestamp": 64,
+              "end_timestamp": 65,
+              "content": "我做成一张检查表"
+            },
+            {
+              "start_timestamp": 65,
+              "end_timestamp": 66,
+              "content": "三张表"
+            },
+            {
+              "start_timestamp": 66,
+              "end_timestamp": 67,
+              "content": "利润表"
+            },
+            {
+              "start_timestamp": 67,
+              "end_timestamp": 68,
+              "content": "资产负债表以及现金流量表"
+            },
+            {
+              "start_timestamp": 68,
+              "end_timestamp": 69,
+              "content": "各自管什么"
+            },
+            {
+              "start_timestamp": 69,
+              "end_timestamp": 70,
+              "content": "八个指标"
+            },
+            {
+              "start_timestamp": 70,
+              "end_timestamp": 71,
+              "content": "四个看盈利质量"
+            },
+            {
+              "start_timestamp": 71,
+              "end_timestamp": 73,
+              "content": "四个看风险以及排列信号"
+            },
+            {
+              "start_timestamp": 73,
+              "end_timestamp": 75,
+              "content": "三类信号看到就该停下来"
+            },
+            {
+              "start_timestamp": 75,
+              "end_timestamp": 77,
+              "content": "想清楚到底是什么逻辑"
+            },
+            {
+              "start_timestamp": 77,
+              "end_timestamp": 80,
+              "content": "比方说有朋友说哎这个创新药反馈是什么"
+            },
+            {
+              "start_timestamp": 80,
+              "end_timestamp": 80,
+              "content": "对吧"
+            },
+            {
+              "start_timestamp": 80,
+              "end_timestamp": 81,
+              "content": "这个PCB当中反馈是什么"
+            },
+            {
+              "start_timestamp": 81,
+              "end_timestamp": 83,
+              "content": "这个这个叫什么来着"
+            },
+            {
+              "start_timestamp": 83,
+              "end_timestamp": 84,
+              "content": "大金融方向哎"
+            },
+            {
+              "start_timestamp": 84,
+              "end_timestamp": 86,
+              "content": "我重点应该盯什么反馈都会不一样啊"
+            },
+            {
+              "start_timestamp": 86,
+              "end_timestamp": 90,
+              "content": "每家公司所代表的它所处的行业"
+            },
+            {
+              "start_timestamp": 90,
+              "end_timestamp": 93,
+              "content": "以及他当下所处的位置都会不同"
+            },
+            {
+              "start_timestamp": 93,
+              "end_timestamp": 95,
+              "content": "那么10分钟速读四步流程可以简"
+            },
+            {
+              "start_timestamp": 95,
+              "end_timestamp": 99,
+              "content": "可以去反复抄袭并且验证的检查清单"
+            },
+            {
+              "start_timestamp": 99,
+              "end_timestamp": 101,
+              "content": "三个不能是财报"
+            },
+            {
+              "start_timestamp": 101,
+              "end_timestamp": 102,
+              "content": "能干什么"
+            },
+            {
+              "start_timestamp": 102,
+              "end_timestamp": 102,
+              "content": "不能干什么"
+            },
+            {
+              "start_timestamp": 102,
+              "end_timestamp": 104,
+              "content": "一次性都给你讲清楚"
+            },
+            {
+              "start_timestamp": 104,
+              "end_timestamp": 106,
+              "content": "第11页和第20一页可以截图"
+            },
+            {
+              "start_timestamp": 106,
+              "end_timestamp": 108,
+              "content": "那是你能够带走并且复制的东西"
+            },
+            {
+              "start_timestamp": 108,
+              "end_timestamp": 109,
+              "content": "那么关于财报"
+            },
+            {
+              "start_timestamp": 109,
+              "end_timestamp": 110,
+              "content": "先纠正大家三个误区"
+            },
+            {
+              "start_timestamp": 110,
+              "end_timestamp": 113,
+              "content": "第一财报能够预测涨跌"
+            },
+            {
+              "start_timestamp": 113,
+              "end_timestamp": 115,
+              "content": "这句话谁跟你说的"
+            },
+            {
+              "start_timestamp": 115,
+              "end_timestamp": 116,
+              "content": "你让他滚出去"
+            },
+            {
+              "start_timestamp": 116,
+              "end_timestamp": 119,
+              "content": "财报从来就不能够去预测涨跌"
+            },
+            {
+              "start_timestamp": 119,
+              "end_timestamp": 121,
+              "content": "好的财报不代表明天就能涨"
+            },
+            {
+              "start_timestamp": 121,
+              "end_timestamp": 124,
+              "content": "坏的不代表着明天就跌"
+            },
+            {
+              "start_timestamp": 124,
+              "end_timestamp": 125,
+              "content": "财报是排雷"
+            },
+            {
+              "start_timestamp": 125,
+              "end_timestamp": 127,
+              "content": "而不是你择是工具"
+            },
+            {
+              "start_timestamp": 127,
+              "end_timestamp": 130,
+              "content": "那么误区二净利润高就是好公司"
+            },
+            {
+              "start_timestamp": 130,
+              "end_timestamp": 131,
+              "content": "净利润是观点"
+            },
+            {
+              "start_timestamp": 131,
+              "end_timestamp": 133,
+              "content": "现金流是事实"
+            },
+            {
+              "start_timestamp": 133,
+              "end_timestamp": 134,
+              "content": "两者要长期"
+            },
+            {
+              "start_timestamp": 134,
+              "end_timestamp": 135,
+              "content": "如果长期背离"
+            },
+            {
+              "start_timestamp": 135,
+              "end_timestamp": 137,
+              "content": "那才是你真正要看的东西"
+            },
+            {
+              "start_timestamp": 137,
+              "end_timestamp": 140,
+              "content": "现金流的公司它现金流越大"
+            },
+            {
+              "start_timestamp": 140,
+              "end_timestamp": 142,
+              "content": "也就意味着它接下来能开展新的业务"
+            },
+            {
+              "start_timestamp": 142,
+              "end_timestamp": 145,
+              "content": "能够在现有的情况下推动自己"
+            },
+            {
+              "start_timestamp": 146,
+              "end_timestamp": 149,
+              "content": "那么财报是有朋友说哎我看一期财报就够了"
+            },
+            {
+              "start_timestamp": 149,
+              "end_timestamp": 150,
+              "content": "我不用看过去"
+            },
+            {
+              "start_timestamp": 150,
+              "end_timestamp": 151,
+              "content": "为什么我们要讲环比"
+            },
+            {
+              "start_timestamp": 151,
+              "end_timestamp": 153,
+              "content": "为什么要讲同比对吧"
+            },
+            {
+              "start_timestamp": 153,
+              "end_timestamp": 157,
+              "content": "为什么要对比过去几年和现在的盈利情况"
+            },
+            {
+              "start_timestamp": 157,
+              "end_timestamp": 159,
+              "content": "那么财报至少要看3年"
+            },
+            {
+              "start_timestamp": 159,
+              "end_timestamp": 160,
+              "content": "看趋势"
+            },
+            {
+              "start_timestamp": 160,
+              "end_timestamp": 162,
+              "content": "再对照同行看位置"
+            },
+            {
+              "start_timestamp": 162,
+              "end_timestamp": 163,
+              "content": "同类公司同类型的"
+            },
+            {
+              "start_timestamp": 163,
+              "end_timestamp": 166,
+              "content": "比方说我都是做这个PCB的"
+            },
+            {
+              "start_timestamp": 166,
+              "end_timestamp": 169,
+              "content": "为什么A这个公司非常牛"
+            },
+            {
+              "start_timestamp": 169,
+              "end_timestamp": 170,
+              "content": "为什么我不够牛"
+            },
+            {
+              "start_timestamp": 170,
+              "end_timestamp": 173,
+              "content": "是我的净利润不强"
+            },
+            {
+              "start_timestamp": 173,
+              "end_timestamp": 175,
+              "content": "还是我主营业务不是当下市场的热点"
+            },
+            {
+              "start_timestamp": 175,
+              "end_timestamp": 177,
+              "content": "那么这期不会教你预测涨跌"
+            },
+            {
+              "start_timestamp": 177,
+              "end_timestamp": 179,
+              "content": "只会教你在10分钟内去判断"
+            },
+            {
+              "start_timestamp": 179,
+              "end_timestamp": 181,
+              "content": "这家公司到底值不值得看啊"
+            },
+            {
+              "start_timestamp": 181,
+              "end_timestamp": 182,
+              "content": "这条视频呢可能稍微会稍微长一点"
+            },
+            {
+              "start_timestamp": 182,
+              "end_timestamp": 183,
+              "content": "我屁话比较多"
+            },
+            {
+              "start_timestamp": 183,
+              "end_timestamp": 186,
+              "content": "那么三张表各自管什么"
+            },
+            {
+              "start_timestamp": 186,
+              "end_timestamp": 187,
+              "content": "很多人啊"
+            },
+            {
+              "start_timestamp": 187,
+              "end_timestamp": 188,
+              "content": "没事"
+            },
+            {
+              "start_timestamp": 188,
+              "end_timestamp": 189,
+              "content": "就是哎你说这个财报放了啊"
+            },
+            {
+              "start_timestamp": 189,
+              "end_timestamp": 192,
+              "content": "他到底怎么怎么样记住我们去看三张表"
+            },
+            {
+              "start_timestamp": 192,
+              "end_timestamp": 194,
+              "content": "一是利润表"
+            },
+            {
+              "start_timestamp": 194,
+              "end_timestamp": 196,
+              "content": "这段时间他赚了多少"
+            },
+            {
+              "start_timestamp": 196,
+              "end_timestamp": 198,
+              "content": "第二个是资产负债表"
+            },
+            {
+              "start_timestamp": 198,
+              "end_timestamp": 201,
+              "content": "某一时间节点家底到底如何"
+            },
+            {
+              "start_timestamp": 201,
+              "end_timestamp": 203,
+              "content": "现金流量表是钱真的来了吗"
+            },
+            {
+              "start_timestamp": 203,
+              "end_timestamp": 205,
+              "content": "它的关键在哪"
+            },
+            {
+              "start_timestamp": 205,
+              "end_timestamp": 207,
+              "content": "是我当下手上有没有钱"
+            },
+            {
+              "start_timestamp": 207,
+              "end_timestamp": 210,
+              "content": "也就是我的应收账款多不多"
+            },
+            {
+              "start_timestamp": 210,
+              "end_timestamp": 214,
+              "content": "应收账款这个地方是会拖死一家公司的"
+            },
+            {
+              "start_timestamp": 214,
+              "end_timestamp": 216,
+              "content": "比方说我欠你啊"
+            },
+            {
+              "start_timestamp": 216,
+              "end_timestamp": 218,
+              "content": "我欠你100个亿"
+            },
+            {
+              "start_timestamp": 219,
+              "end_timestamp": 221,
+              "content": "你手头上总资产也就200个亿"
+            },
+            {
+              "start_timestamp": 221,
+              "end_timestamp": 222,
+              "content": "我欠你100个亿"
+            },
+            {
+              "start_timestamp": 222,
+              "end_timestamp": 223,
+              "content": "什么时候还不知道"
+            },
+            {
+              "start_timestamp": 223,
+              "end_timestamp": 224,
+              "content": "你找我还兄弟"
+            },
+            {
+              "start_timestamp": 224,
+              "end_timestamp": 225,
+              "content": "我没钱"
+            },
+            {
+              "start_timestamp": 225,
+              "end_timestamp": 226,
+              "content": "你告诉我就像恒大一样"
+            },
+            {
+              "start_timestamp": 226,
+              "end_timestamp": 230,
+              "content": "所以之前出现过大批量的做这个叫什么来着呃"
+            },
+            {
+              "start_timestamp": 230,
+              "end_timestamp": 232,
+              "content": "做像园林啊"
+            },
+            {
+              "start_timestamp": 232,
+              "end_timestamp": 233,
+              "content": "像基建类的公司"
+            },
+            {
+              "start_timestamp": 233,
+              "end_timestamp": 234,
+              "content": "建材类的公司"
+            },
+            {
+              "start_timestamp": 234,
+              "end_timestamp": 238,
+              "content": "为什么出现大批量的被动性的破产"
+            },
+            {
+              "start_timestamp": 238,
+              "end_timestamp": 240,
+              "content": "就是因为现金流量宝回不来"
+            },
+            {
+              "start_timestamp": 240,
+              "end_timestamp": 241,
+              "content": "没有钱"
+            },
+            {
+              "start_timestamp": 241,
+              "end_timestamp": 243,
+              "content": "欠你钱的那家公司还不起"
+            },
+            {
+              "start_timestamp": 243,
+              "end_timestamp": 245,
+              "content": "那也就意味着你在市场上没有竞争力"
+            },
+            {
+              "start_timestamp": 245,
+              "end_timestamp": 247,
+              "content": "那么这三张表必须交叉验证单"
+            },
+            {
+              "start_timestamp": 247,
+              "end_timestamp": 249,
+              "content": "看一张必然被骗"
+            },
+            {
+              "start_timestamp": 249,
+              "end_timestamp": 251,
+              "content": "不要只看他现在赚了多少钱"
+            },
+            {
+              "start_timestamp": 251,
+              "end_timestamp": 252,
+              "content": "我要看他的负债"
+            },
+            {
+              "start_timestamp": 252,
+              "end_timestamp": 253,
+              "content": "要看他现金流"
+            },
+            {
+              "start_timestamp": 253,
+              "end_timestamp": 255,
+              "content": "那么三张表回答的是不同的问题"
+            },
+            {
+              "start_timestamp": 255,
+              "end_timestamp": 258,
+              "content": "首先利润表是回答的是一段时间内"
+            },
+            {
+              "start_timestamp": 258,
+              "end_timestamp": 260,
+              "content": "这段时间赚了多少钱"
+            },
+            {
+              "start_timestamp": 260,
+              "end_timestamp": 263,
+              "content": "收入成本利润分别各各自是多少"
+            },
+            {
+              "start_timestamp": 263,
+              "end_timestamp": 264,
+              "content": "这个可信度啊"
+            },
+            {
+              "start_timestamp": 264,
+              "end_timestamp": 266,
+              "content": "中等中等可信度"
+            },
+            {
+              "start_timestamp": 266,
+              "end_timestamp": 269,
+              "content": "资产负债表在某一时间节点内"
+            },
+            {
+              "start_timestamp": 269,
+              "end_timestamp": 271,
+              "content": "这家资公司的家底怎么样"
+            },
+            {
+              "start_timestamp": 271,
+              "end_timestamp": 272,
+              "content": "资产多少"
+            },
+            {
+              "start_timestamp": 272,
+              "end_timestamp": 273,
+              "content": "负债多少"
+            },
+            {
+              "start_timestamp": 273,
+              "end_timestamp": 275,
+              "content": "也是含估计的"
+            },
+            {
+              "start_timestamp": 275,
+              "end_timestamp": 277,
+              "content": "最不能够骗你的地方是什么"
+            },
+            {
+              "start_timestamp": 277,
+              "end_timestamp": 278,
+              "content": "现金流量表"
+            },
+            {
+              "start_timestamp": 278,
+              "end_timestamp": 279,
+              "content": "有没有钱"
+            },
+            {
+              "start_timestamp": 279,
+              "end_timestamp": 283,
+              "content": "赚了钱有没有进口袋里啊"
+            },
+            {
+              "start_timestamp": 283,
+              "end_timestamp": 285,
+              "content": "这个地方能明白吗"
+            },
+            {
+              "start_timestamp": 285,
+              "end_timestamp": 287,
+              "content": "没事给你鸡哥上上人气"
+            },
+            {
+              "start_timestamp": 287,
+              "end_timestamp": 290,
+              "content": "来记住一段时间内钱真的进来了"
+            },
+            {
+              "start_timestamp": 290,
+              "end_timestamp": 292,
+              "content": "经营投资筹资到底如何"
+            },
+            {
+              "start_timestamp": 292,
+              "end_timestamp": 294,
+              "content": "高难度情况在这啊"
+            },
+            {
+              "start_timestamp": 294,
+              "end_timestamp": 296,
+              "content": "他演示不了"
+            },
+            {
+              "start_timestamp": 296,
+              "end_timestamp": 296,
+              "content": "所以记住"
+            },
+            {
+              "start_timestamp": 297,
+              "end_timestamp": 302,
+              "content": "只有现金流量表才是相对最难修饰的一章"
+            },
+            {
+              "start_timestamp": 302,
+              "end_timestamp": 303,
+              "content": "前面的部分你讲的哎"
+            },
+            {
+              "start_timestamp": 303,
+              "end_timestamp": 307,
+              "content": "我我这个这段时间利润可能有多少钱对吧"
+            },
+            {
+              "start_timestamp": 307,
+              "end_timestamp": 309,
+              "content": "预估毛估估多少钱"
+            },
+            {
+              "start_timestamp": 309,
+              "end_timestamp": 312,
+              "content": "但是有没有记住有没有记不记得之前出现过"
+            },
+            {
+              "start_timestamp": 312,
+              "end_timestamp": 314,
+              "content": "就是我利润啊"
+            },
+            {
+              "start_timestamp": 314,
+              "end_timestamp": 317,
+              "content": "这个预估是赚三个亿"
+            },
+            {
+              "start_timestamp": 317,
+              "end_timestamp": 318,
+              "content": "预估三个亿"
+            },
+            {
+              "start_timestamp": 318,
+              "end_timestamp": 320,
+              "content": "预估三个亿"
+            },
+            {
+              "start_timestamp": 320,
+              "end_timestamp": 322,
+              "content": "实际亏损来"
+            },
+            {
+              "start_timestamp": 322,
+              "end_timestamp": 323,
+              "content": "有没有遇到过"
+            },
+            {
+              "start_timestamp": 323,
+              "end_timestamp": 324,
+              "content": "那这种雷爆出来之后"
+            },
+            {
+              "start_timestamp": 324,
+              "end_timestamp": 326,
+              "content": "你你就没有两个地板"
+            },
+            {
+              "start_timestamp": 326,
+              "end_timestamp": 326,
+              "content": "你出不来的"
+            },
+            {
+              "start_timestamp": 326,
+              "end_timestamp": 327,
+              "content": "就这种雷出来之后"
+            },
+            {
+              "start_timestamp": 327,
+              "end_timestamp": 329,
+              "content": "你两个地板做好准备就好了"
+            },
+            {
+              "start_timestamp": 329,
+              "end_timestamp": 330,
+              "content": "所以不要去看它预估"
+            },
+            {
+              "start_timestamp": 330,
+              "end_timestamp": 332,
+              "content": "你要看他现金流量表"
+            },
+            {
+              "start_timestamp": 332,
+              "end_timestamp": 333,
+              "content": "当下有没有钱"
+            },
+            {
+              "start_timestamp": 333,
+              "end_timestamp": 335,
+              "content": "我实质上落地的钱多不多"
+            },
+            {
+              "start_timestamp": 335,
+              "end_timestamp": 336,
+              "content": "这是关键"
+            },
+            {
+              "start_timestamp": 336,
+              "end_timestamp": 339,
+              "content": "那么利润表我们要看清楚他赚了多少"
+            },
+            {
+              "start_timestamp": 339,
+              "end_timestamp": 340,
+              "content": "以及这个多少有多少"
+            },
+            {
+              "start_timestamp": 340,
+              "end_timestamp": 342,
+              "content": "实实在在的东西能够落地的"
+            },
+            {
+              "start_timestamp": 342,
+              "end_timestamp": 343,
+              "content": "从营业利润"
+            },
+            {
+              "start_timestamp": 343,
+              "end_timestamp": 345,
+              "content": "营业收入到净利润"
+            },
+            {
+              "start_timestamp": 345,
+              "end_timestamp": 346,
+              "content": "每一层都在漏"
+            },
+            {
+              "start_timestamp": 346,
+              "end_timestamp": 347,
+              "content": "那么营业收入"
+            },
+            {
+              "start_timestamp": 347,
+              "end_timestamp": 349,
+              "content": "营业成本等于毛利啊"
+            },
+            {
+              "start_timestamp": 349,
+              "end_timestamp": 351,
+              "content": "然后在三费一减去"
+            },
+            {
+              "start_timestamp": 351,
+              "end_timestamp": 354,
+              "content": "这个最后啊叫做经非经常期损益"
+            },
+            {
+              "start_timestamp": 354,
+              "end_timestamp": 356,
+              "content": "最后等于这个叫什么呢"
+            },
+            {
+              "start_timestamp": 356,
+              "end_timestamp": 356,
+              "content": "净利润"
+            },
+            {
+              "start_timestamp": 356,
+              "end_timestamp": 357,
+              "content": "营业收入"
+            },
+            {
+              "start_timestamp": 357,
+              "end_timestamp": 358,
+              "content": "我们看的增速"
+            },
+            {
+              "start_timestamp": 358,
+              "end_timestamp": 361,
+              "content": "要去看它增速来源到底是因为涨价催化"
+            },
+            {
+              "start_timestamp": 361,
+              "end_timestamp": 366,
+              "content": "还是因为你单纯的公司自身的量起来了"
+            },
+            {
+              "start_timestamp": 366,
+              "end_timestamp": 369,
+              "content": "如果像哎现在我们看到AI硬件相关的"
+            },
+            {
+              "start_timestamp": 369,
+              "end_timestamp": 371,
+              "content": "包括未来可能会出现的AI软件相关啊"
+            },
+            {
+              "start_timestamp": 371,
+              "end_timestamp": 372,
+              "content": "AI应用相关的"
+            },
+            {
+              "start_timestamp": 372,
+              "end_timestamp": 375,
+              "content": "它出来的是我的量"
+            },
+            {
+              "start_timestamp": 375,
+              "end_timestamp": 376,
+              "content": "是看AI应用"
+            },
+            {
+              "start_timestamp": 376,
+              "end_timestamp": 379,
+              "content": "我的价是看谁是看软件啊"
+            },
+            {
+              "start_timestamp": 379,
+              "end_timestamp": 381,
+              "content": "是看硬件端"
+            },
+            {
+              "start_timestamp": 381,
+              "end_timestamp": 384,
+              "content": "那么看趋势是要去看到他突然跳升或者跳降"
+            },
+            {
+              "start_timestamp": 384,
+              "end_timestamp": 385,
+              "content": "都要追问原因"
+            },
+            {
+              "start_timestamp": 385,
+              "end_timestamp": 387,
+              "content": "就为什么他赚钱是因为产品赚钱"
+            },
+            {
+              "start_timestamp": 387,
+              "end_timestamp": 389,
+              "content": "还是因为它主营业务新拓展啊"
+            },
+            {
+              "start_timestamp": 389,
+              "end_timestamp": 390,
+              "content": "新拓了新的业务"
+            },
+            {
+              "start_timestamp": 390,
+              "end_timestamp": 394,
+              "content": "比方说之前有一家公司做这个特种钢材的"
+            },
+            {
+              "start_timestamp": 395,
+              "end_timestamp": 400,
+              "content": "在19年之后切入到了这个叫什么碳酸锂赛道"
+            },
+            {
+              "start_timestamp": 400,
+              "end_timestamp": 401,
+              "content": "20年之后"
+            },
+            {
+              "start_timestamp": 401,
+              "end_timestamp": 405,
+              "content": "它整个盈利增长率就是20年之后啊"
+            },
+            {
+              "start_timestamp": 405,
+              "end_timestamp": 406,
+              "content": "到21年开始"
+            },
+            {
+              "start_timestamp": 406,
+              "end_timestamp": 409,
+              "content": "整个的净利润增长来自于什么"
+            },
+            {
+              "start_timestamp": 409,
+              "end_timestamp": 410,
+              "content": "来自于参真理"
+            },
+            {
+              "start_timestamp": 410,
+              "end_timestamp": 411,
+              "content": "就主营业我不动"
+            },
+            {
+              "start_timestamp": 411,
+              "end_timestamp": 412,
+              "content": "一年还赚两个亿"
+            },
+            {
+              "start_timestamp": 412,
+              "end_timestamp": 415,
+              "content": "但是我在22年赚了36个亿"
+            },
+            {
+              "start_timestamp": 415,
+              "end_timestamp": 418,
+              "content": "23年哦"
+            },
+            {
+              "start_timestamp": 418,
+              "end_timestamp": 420,
+              "content": "21年赚了36个亿"
+            },
+            {
+              "start_timestamp": 420,
+              "end_timestamp": 421,
+              "content": "22年的时候赚了60个亿"
+            },
+            {
+              "start_timestamp": 421,
+              "end_timestamp": 424,
+              "content": "来你告诉我这家公司主营业务来什么"
+            },
+            {
+              "start_timestamp": 424,
+              "end_timestamp": 426,
+              "content": "它就变成了碳酸锂一样的"
+            },
+            {
+              "start_timestamp": 426,
+              "end_timestamp": 428,
+              "content": "你要看接下来每家公司不同啊"
+            },
+            {
+              "start_timestamp": 428,
+              "end_timestamp": 430,
+              "content": "记住去研稍微看一下"
+            },
+            {
+              "start_timestamp": 430,
+              "end_timestamp": 431,
+              "content": "还有一个三费"
+            },
+            {
+              "start_timestamp": 431,
+              "end_timestamp": 434,
+              "content": "就销售管理和财务费用占比是否异常"
+            },
+            {
+              "start_timestamp": 434,
+              "end_timestamp": 436,
+              "content": "像我们看金融类的公司"
+            },
+            {
+              "start_timestamp": 436,
+              "end_timestamp": 439,
+              "content": "比方说你们现在啊遇到了类似于酒方对吧"
+            },
+            {
+              "start_timestamp": 439,
+              "end_timestamp": 441,
+              "content": "像这些公司呢"
+            },
+            {
+              "start_timestamp": 441,
+              "end_timestamp": 443,
+              "content": "它的销售占比费用非常高"
+            },
+            {
+              "start_timestamp": 443,
+              "end_timestamp": 444,
+              "content": "管理费用相对一般"
+            },
+            {
+              "start_timestamp": 444,
+              "end_timestamp": 445,
+              "content": "财务费用也相对一般"
+            },
+            {
+              "start_timestamp": 445,
+              "end_timestamp": 449,
+              "content": "它最主要的部分来自于销售部分"
+            },
+            {
+              "start_timestamp": 449,
+              "end_timestamp": 453,
+              "content": "就各位你们因为炒股炒到现在对吧"
+            },
+            {
+              "start_timestamp": 453,
+              "end_timestamp": 456,
+              "content": "总是有这个啊某某某某客户经理啊"
+            },
+            {
+              "start_timestamp": 456,
+              "end_timestamp": 457,
+              "content": "某某啊"
+            },
+            {
+              "start_timestamp": 457,
+              "end_timestamp": 458,
+              "content": "某某这个投资公司啊"
+            },
+            {
+              "start_timestamp": 458,
+              "end_timestamp": 460,
+              "content": "就讲他是某某券对吧"
+            },
+            {
+              "start_timestamp": 460,
+              "end_timestamp": 462,
+              "content": "那么这一部分人他都属于销售"
+            },
+            {
+              "start_timestamp": 462,
+              "end_timestamp": 464,
+              "content": "销售人员占比会非常的高"
+            },
+            {
+              "start_timestamp": 464,
+              "end_timestamp": 465,
+              "content": "一般性销售费用"
+            },
+            {
+              "start_timestamp": 465,
+              "end_timestamp": 469,
+              "content": "应该是会占到整个企业营收的14%左右"
+            },
+            {
+              "start_timestamp": 469,
+              "end_timestamp": 472,
+              "content": "14%到20%"
+            },
+            {
+              "start_timestamp": 472,
+              "end_timestamp": 474,
+              "content": "整体性的销售费用在这"
+            },
+            {
+              "start_timestamp": 474,
+              "end_timestamp": 477,
+              "content": "那么这家公司假使他赚80个亿"
+            },
+            {
+              "start_timestamp": 477,
+              "end_timestamp": 478,
+              "content": "他赚80个亿"
+            },
+            {
+              "start_timestamp": 478,
+              "end_timestamp": 481,
+              "content": "他可能销售成本20个亿"
+            },
+            {
+              "start_timestamp": 481,
+              "end_timestamp": 482,
+              "content": "理解了吧"
+            },
+            {
+              "start_timestamp": 482,
+              "end_timestamp": 483,
+              "content": "销售成本可能是20亿"
+            },
+            {
+              "start_timestamp": 483,
+              "end_timestamp": 485,
+              "content": "这个地方你要想清楚"
+            },
+            {
+              "start_timestamp": 485,
+              "end_timestamp": 486,
+              "content": "那么还有一个非经常性损益"
+            },
+            {
+              "start_timestamp": 486,
+              "end_timestamp": 487,
+              "content": "比方说卖资产"
+            },
+            {
+              "start_timestamp": 487,
+              "end_timestamp": 488,
+              "content": "政府补助"
+            },
+            {
+              "start_timestamp": 488,
+              "end_timestamp": 491,
+              "content": "比方说这个现在不是对美关税问题吗"
+            },
+            {
+              "start_timestamp": 491,
+              "end_timestamp": 492,
+              "content": "对吧"
+            },
+            {
+              "start_timestamp": 492,
+              "end_timestamp": 494,
+              "content": "哎美国退税"
+            },
+            {
+              "start_timestamp": 494,
+              "end_timestamp": 495,
+              "content": "这也会出现这种情况"
+            },
+            {
+              "start_timestamp": 495,
+              "end_timestamp": 498,
+              "content": "那这一块撑起来利润不不算数"
+            },
+            {
+              "start_timestamp": 498,
+              "end_timestamp": 501,
+              "content": "但是呢能够刺激一下当时的股价"
+            },
+            {
+              "start_timestamp": 501,
+              "end_timestamp": 503,
+              "content": "确实如果确确实很低对吧"
+            },
+            {
+              "start_timestamp": 503,
+              "end_timestamp": 504,
+              "content": "我退税退了"
+            },
+            {
+              "start_timestamp": 504,
+              "end_timestamp": 507,
+              "content": "这个比方说我一年总共就能赚两个亿"
+            },
+            {
+              "start_timestamp": 507,
+              "end_timestamp": 510,
+              "content": "我退税退了这个一个多亿"
+            },
+            {
+              "start_timestamp": 510,
+              "end_timestamp": 511,
+              "content": "那我是不是就起来了"
+            },
+            {
+              "start_timestamp": 511,
+              "end_timestamp": 513,
+              "content": "这就不一样了"
+            },
+            {
+              "start_timestamp": 513,
+              "end_timestamp": 514,
+              "content": "那么记住"
+            },
+            {
+              "start_timestamp": 514,
+              "end_timestamp": 516,
+              "content": "扣非净利润才是一家公司"
+            },
+            {
+              "start_timestamp": 516,
+              "end_timestamp": 519,
+              "content": "靠主业真正能够赚到的钱"
+            },
+            {
+              "start_timestamp": 519,
+              "end_timestamp": 521,
+              "content": "这是你在后续的过程当中去了解清楚了"
+            },
+            {
+              "start_timestamp": 521,
+              "end_timestamp": 523,
+              "content": "那么还有一个资产负债表"
+            },
+            {
+              "start_timestamp": 523,
+              "end_timestamp": 526,
+              "content": "加底以及加底当中有多少是虚的恒等式"
+            },
+            {
+              "start_timestamp": 526,
+              "end_timestamp": 528,
+              "content": "这资产等于负债减去所有者权益"
+            },
+            {
+              "start_timestamp": 528,
+              "end_timestamp": 530,
+              "content": "然后呢左边的钱去哪儿了"
+            },
+            {
+              "start_timestamp": 530,
+              "end_timestamp": 532,
+              "content": "右边是来哪儿"
+            },
+            {
+              "start_timestamp": 532,
+              "end_timestamp": 533,
+              "content": "从哪儿来"
+            },
+            {
+              "start_timestamp": 533,
+              "end_timestamp": 536,
+              "content": "那么货币资金是现在我账上有多少钱"
+            },
+            {
+              "start_timestamp": 536,
+              "end_timestamp": 537,
+              "content": "有多少现金在啊"
+            },
+            {
+              "start_timestamp": 537,
+              "end_timestamp": 540,
+              "content": "我能够维持我公司运营"
+            },
+            {
+              "start_timestamp": 540,
+              "end_timestamp": 541,
+              "content": "这是必然需要的"
+            },
+            {
+              "start_timestamp": 541,
+              "end_timestamp": 542,
+              "content": "现金流"
+            },
+            {
+              "start_timestamp": 542,
+              "end_timestamp": 543,
+              "content": "应收账款是卖出去"
+            },
+            {
+              "start_timestamp": 543,
+              "end_timestamp": 544,
+              "content": "但没有收回来的钱"
+            },
+            {
+              "start_timestamp": 544,
+              "end_timestamp": 547,
+              "content": "我要看应收账款的公司来自于哪里"
+            },
+            {
+              "start_timestamp": 547,
+              "end_timestamp": 549,
+              "content": "比方说如果你卖是谁呢"
+            },
+            {
+              "start_timestamp": 549,
+              "end_timestamp": 550,
+              "content": "恒大欠你钱"
+            },
+            {
+              "start_timestamp": 550,
+              "end_timestamp": 552,
+              "content": "你就不用想着还了"
+            },
+            {
+              "start_timestamp": 552,
+              "end_timestamp": 553,
+              "content": "还不了了对吧"
+            },
+            {
+              "start_timestamp": 553,
+              "end_timestamp": 554,
+              "content": "你就存债权"
+            },
+            {
+              "start_timestamp": 554,
+              "end_timestamp": 555,
+              "content": "从21年到现在"
+            },
+            {
+              "start_timestamp": 555,
+              "end_timestamp": 558,
+              "content": "恒大欠的钱还了还了几家"
+            },
+            {
+              "start_timestamp": 558,
+              "end_timestamp": 559,
+              "content": "还有一个是存货啊"
+            },
+            {
+              "start_timestamp": 559,
+              "end_timestamp": 561,
+              "content": "这个存货要去考虑"
+            },
+            {
+              "start_timestamp": 561,
+              "end_timestamp": 562,
+              "content": "比方说之前的像江波"
+            },
+            {
+              "start_timestamp": 562,
+              "end_timestamp": 563,
+              "content": "像德明这些"
+            },
+            {
+              "start_timestamp": 563,
+              "end_timestamp": 565,
+              "content": "它大批量囤货"
+            },
+            {
+              "start_timestamp": 565,
+              "end_timestamp": 567,
+              "content": "存货的点在哪"
+            },
+            {
+              "start_timestamp": 567,
+              "end_timestamp": 568,
+              "content": "就在存储芯片上"
+            },
+            {
+              "start_timestamp": 568,
+              "end_timestamp": 569,
+              "content": "那么去库存"
+            },
+            {
+              "start_timestamp": 569,
+              "end_timestamp": 570,
+              "content": "当库存转"
+            },
+            {
+              "start_timestamp": 570,
+              "end_timestamp": 571,
+              "content": "就库存转换之后"
+            },
+            {
+              "start_timestamp": 571,
+              "end_timestamp": 573,
+              "content": "当你价格上涨"
+            },
+            {
+              "start_timestamp": 573,
+              "end_timestamp": 574,
+              "content": "你的库里东西越多"
+            },
+            {
+              "start_timestamp": 574,
+              "end_timestamp": 575,
+              "content": "你这家公司越值钱"
+            },
+            {
+              "start_timestamp": 575,
+              "end_timestamp": 577,
+              "content": "因为每天它都在涨"
+            },
+            {
+              "start_timestamp": 577,
+              "end_timestamp": 579,
+              "content": "这叫做存货"
+            },
+            {
+              "start_timestamp": 579,
+              "end_timestamp": 580,
+              "content": "如果你存货周期"
+            },
+            {
+              "start_timestamp": 580,
+              "end_timestamp": 582,
+              "content": "你的价格在向下掉"
+            },
+            {
+              "start_timestamp": 582,
+              "end_timestamp": 584,
+              "content": "你的产品主营产品在向下掉"
+            },
+            {
+              "start_timestamp": 584,
+              "end_timestamp": 585,
+              "content": "你存货越多"
+            },
+            {
+              "start_timestamp": 585,
+              "end_timestamp": 587,
+              "content": "对你来说压力越大"
+            },
+            {
+              "start_timestamp": 587,
+              "end_timestamp": 588,
+              "content": "因为你的钱不能变现"
+            },
+            {
+              "start_timestamp": 588,
+              "end_timestamp": 590,
+              "content": "每天都在贬值"
+            },
+            {
+              "start_timestamp": 590,
+              "end_timestamp": 594,
+              "content": "那么商业性质收购溢价以及最容易暴雷的一项"
+            },
+            {
+              "start_timestamp": 594,
+              "end_timestamp": 596,
+              "content": "比方说这个地方哦"
+            },
+            {
+              "start_timestamp": 596,
+              "end_timestamp": 599,
+              "content": "大家感受度可能比较多的地方在什么呢"
+            },
+            {
+              "start_timestamp": 599,
+              "end_timestamp": 601,
+              "content": "某家公司的这个董事长高管"
+            },
+            {
+              "start_timestamp": 601,
+              "end_timestamp": 606,
+              "content": "突然之间行政监管突然间被采取刑事措施"
+            },
+            {
+              "start_timestamp": 606,
+              "end_timestamp": 608,
+              "content": "那这个地方就是一个很大的雷"
+            },
+            {
+              "start_timestamp": 608,
+              "end_timestamp": 610,
+              "content": "比方说像西贝对吧"
+            },
+            {
+              "start_timestamp": 610,
+              "end_timestamp": 615,
+              "content": "像这个钟薛高之前出现的问题"
+            },
+            {
+              "start_timestamp": 615,
+              "end_timestamp": 618,
+              "content": "都是因为跟他对于对客户"
+            },
+            {
+              "start_timestamp": 618,
+              "end_timestamp": 620,
+              "content": "对消费者的不满"
+            },
+            {
+              "start_timestamp": 620,
+              "end_timestamp": 621,
+              "content": "导致舆情发酵"
+            },
+            {
+              "start_timestamp": 621,
+              "end_timestamp": 622,
+              "content": "那转过来"
+            },
+            {
+              "start_timestamp": 622,
+              "end_timestamp": 624,
+              "content": "以谁家公司为例"
+            },
+            {
+              "start_timestamp": 624,
+              "end_timestamp": 625,
+              "content": "以蜜雪冰城为例"
+            },
+            {
+              "start_timestamp": 625,
+              "end_timestamp": 628,
+              "content": "他在河南郑州大"
+            },
+            {
+              "start_timestamp": 628,
+              "end_timestamp": 630,
+              "content": "当时发大水对吧"
+            },
+            {
+              "start_timestamp": 630,
+              "end_timestamp": 632,
+              "content": "河南郑州暴雨的情况之下"
+            },
+            {
+              "start_timestamp": 632,
+              "end_timestamp": 633,
+              "content": "捐款捐赠"
+            },
+            {
+              "start_timestamp": 633,
+              "end_timestamp": 636,
+              "content": "导致蜜雪在整个的舆情"
+            },
+            {
+              "start_timestamp": 636,
+              "end_timestamp": 640,
+              "content": "网络舆情上风评一下好转"
+            },
+            {
+              "start_timestamp": 641,
+              "end_timestamp": 642,
+              "content": "包括说后来315说"
+            },
+            {
+              "start_timestamp": 642,
+              "end_timestamp": 644,
+              "content": "这个蜜雪用隔夜的这个柠檬"
+            },
+            {
+              "start_timestamp": 644,
+              "end_timestamp": 648,
+              "content": "当时反馈什么蜜雪什么样"
+            },
+            {
+              "start_timestamp": 648,
+              "end_timestamp": 649,
+              "content": "我能不知道吗"
+            },
+            {
+              "start_timestamp": 649,
+              "end_timestamp": 649,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 649,
+              "end_timestamp": 652,
+              "content": "他收我四块钱一杯的柠檬水"
+            },
+            {
+              "start_timestamp": 652,
+              "end_timestamp": 653,
+              "content": "我还要什么"
+            },
+            {
+              "start_timestamp": 653,
+              "end_timestamp": 656,
+              "content": "就类似的这种评价本身"
+            },
+            {
+              "start_timestamp": 656,
+              "end_timestamp": 658,
+              "content": "用户对他的感受就会不一样"
+            },
+            {
+              "start_timestamp": 658,
+              "end_timestamp": 660,
+              "content": "但当然也影响到了他的相遇嘛对吧"
+            },
+            {
+              "start_timestamp": 660,
+              "end_timestamp": 662,
+              "content": "这个还要去讲一下的"
+            },
+            {
+              "start_timestamp": 662,
+              "end_timestamp": 664,
+              "content": "那么负债和权益端当中"
+            },
+            {
+              "start_timestamp": 664,
+              "end_timestamp": 666,
+              "content": "我们是要去知道钱从哪儿来过去"
+            },
+            {
+              "start_timestamp": 666,
+              "end_timestamp": 667,
+              "content": "我们讲的钱去哪儿了"
+            },
+            {
+              "start_timestamp": 667,
+              "end_timestamp": 668,
+              "content": "几张表"
+            },
+            {
+              "start_timestamp": 668,
+              "end_timestamp": 669,
+              "content": "讲清楚钱从哪儿来"
+            },
+            {
+              "start_timestamp": 669,
+              "end_timestamp": 671,
+              "content": "有息的有息负债"
+            },
+            {
+              "start_timestamp": 671,
+              "end_timestamp": 672,
+              "content": "短期借款"
+            },
+            {
+              "start_timestamp": 672,
+              "end_timestamp": 673,
+              "content": "长期借款"
+            },
+            {
+              "start_timestamp": 673,
+              "end_timestamp": 674,
+              "content": "这是真正要还的钱"
+            },
+            {
+              "start_timestamp": 674,
+              "end_timestamp": 676,
+              "content": "那么应付账款是占用上游的钱"
+            },
+            {
+              "start_timestamp": 676,
+              "end_timestamp": 678,
+              "content": "议价能力的体现"
+            },
+            {
+              "start_timestamp": 678,
+              "end_timestamp": 679,
+              "content": "我欠你的钱越多"
+            },
+            {
+              "start_timestamp": 679,
+              "end_timestamp": 681,
+              "content": "说明我的议价能力越强"
+            },
+            {
+              "start_timestamp": 681,
+              "end_timestamp": 685,
+              "content": "这边表现出来最核心的就是现在的商超"
+            },
+            {
+              "start_timestamp": 685,
+              "end_timestamp": 689,
+              "content": "最核心的就是我们讲的平台商超来"
+            },
+            {
+              "start_timestamp": 689,
+              "end_timestamp": 693,
+              "content": "他对于上游端的议价能力是非常强的周期"
+            },
+            {
+              "start_timestamp": 693,
+              "end_timestamp": 696,
+              "content": "比方说像小米周期应该是65天"
+            },
+            {
+              "start_timestamp": 696,
+              "end_timestamp": 699,
+              "content": "然后像普通的这个大型商超"
+            },
+            {
+              "start_timestamp": 699,
+              "end_timestamp": 702,
+              "content": "应一般也是60天到90天这个区间"
+            },
+            {
+              "start_timestamp": 702,
+              "end_timestamp": 705,
+              "content": "所以最后的部分才属于所有者权益"
+            },
+            {
+              "start_timestamp": 705,
+              "end_timestamp": 708,
+              "content": "一家公司要真正的牛"
+            },
+            {
+              "start_timestamp": 708,
+              "end_timestamp": 709,
+              "content": "他一定会欠上游钱"
+            },
+            {
+              "start_timestamp": 709,
+              "end_timestamp": 711,
+              "content": "一定会去欠上游钱"
+            },
+            {
+              "start_timestamp": 711,
+              "end_timestamp": 713,
+              "content": "但是下游的钱不一定会去现"
+            },
+            {
+              "start_timestamp": 713,
+              "end_timestamp": 715,
+              "content": "不一定下游不一定欠他钱"
+            },
+            {
+              "start_timestamp": 715,
+              "end_timestamp": 716,
+              "content": "理解吧"
+            },
+            {
+              "start_timestamp": 716,
+              "end_timestamp": 718,
+              "content": "他更多的是欠上游的钱"
+            },
+            {
+              "start_timestamp": 718,
+              "end_timestamp": 720,
+              "content": "所以记住了这家公司不"
+            },
+            {
+              "start_timestamp": 720,
+              "end_timestamp": 722,
+              "content": "就看他应付账款多不多"
+            },
+            {
+              "start_timestamp": 722,
+              "end_timestamp": 724,
+              "content": "应付账款越多越牛逼"
+            },
+            {
+              "start_timestamp": 724,
+              "end_timestamp": 727,
+              "content": "另外一个是我们讲的现金流量表"
+            },
+            {
+              "start_timestamp": 727,
+              "end_timestamp": 729,
+              "content": "这也是最不容易去欺骗你的一张表"
+            },
+            {
+              "start_timestamp": 729,
+              "end_timestamp": 733,
+              "content": "那么经营活动是主业带来的现金进出"
+            },
+            {
+              "start_timestamp": 733,
+              "end_timestamp": 734,
+              "content": "这是核心"
+            },
+            {
+              "start_timestamp": 734,
+              "end_timestamp": 736,
+              "content": "长期为证"
+            },
+            {
+              "start_timestamp": 736,
+              "end_timestamp": 739,
+              "content": "才具备着长期造血的自我能力"
+            },
+            {
+              "start_timestamp": 739,
+              "end_timestamp": 740,
+              "content": "投资活动是买设备"
+            },
+            {
+              "start_timestamp": 740,
+              "end_timestamp": 741,
+              "content": "买公司"
+            },
+            {
+              "start_timestamp": 741,
+              "end_timestamp": 741,
+              "content": "买理财"
+            },
+            {
+              "start_timestamp": 741,
+              "end_timestamp": 743,
+              "content": "扩张期为负很正常"
+            },
+            {
+              "start_timestamp": 743,
+              "end_timestamp": 746,
+              "content": "但是要真真切切看到回报很简单"
+            },
+            {
+              "start_timestamp": 746,
+              "end_timestamp": 747,
+              "content": "一件事情"
+            },
+            {
+              "start_timestamp": 747,
+              "end_timestamp": 748,
+              "content": "我买了设备"
+            },
+            {
+              "start_timestamp": 748,
+              "end_timestamp": 751,
+              "content": "我的设备是为了新未来的新增业务"
+            },
+            {
+              "start_timestamp": 751,
+              "end_timestamp": 754,
+              "content": "还是为了当下单纯自己哎我口嗨一搏对吧"
+            },
+            {
+              "start_timestamp": 754,
+              "end_timestamp": 757,
+              "content": "我为了中间从我这个公司赚点钱出去"
+            },
+            {
+              "start_timestamp": 757,
+              "end_timestamp": 758,
+              "content": "这是不一样的"
+            },
+            {
+              "start_timestamp": 758,
+              "end_timestamp": 760,
+              "content": "买公司要去买什么"
+            },
+            {
+              "start_timestamp": 760,
+              "end_timestamp": 761,
+              "content": "买新的"
+            },
+            {
+              "start_timestamp": 761,
+              "end_timestamp": 766,
+              "content": "比方说过去曾经有过做这个叫什么来着呃"
+            },
+            {
+              "start_timestamp": 766,
+              "end_timestamp": 769,
+              "content": "做服装的企业对吧"
+            },
+            {
+              "start_timestamp": 769,
+              "end_timestamp": 771,
+              "content": "做女装的企业买了什么"
+            },
+            {
+              "start_timestamp": 771,
+              "end_timestamp": 772,
+              "content": "买了MCN"
+            },
+            {
+              "start_timestamp": 772,
+              "end_timestamp": 774,
+              "content": "买了MCN机构对吧"
+            },
+            {
+              "start_timestamp": 774,
+              "end_timestamp": 776,
+              "content": "去买了元宇宙相关公司"
+            },
+            {
+              "start_timestamp": 776,
+              "end_timestamp": 777,
+              "content": "买了自媒体相关公司"
+            },
+            {
+              "start_timestamp": 777,
+              "end_timestamp": 780,
+              "content": "比方说曾经的礼拜六对吧"
+            },
+            {
+              "start_timestamp": 780,
+              "end_timestamp": 782,
+              "content": "曾经的星期六现在改名叫遥望"
+            },
+            {
+              "start_timestamp": 782,
+              "end_timestamp": 783,
+              "content": "他买的是哪些"
+            },
+            {
+              "start_timestamp": 783,
+              "end_timestamp": 786,
+              "content": "他是不是就从过去的服装这条线"
+            },
+            {
+              "start_timestamp": 786,
+              "end_timestamp": 788,
+              "content": "转向到了网红经济"
+            },
+            {
+              "start_timestamp": 788,
+              "end_timestamp": 791,
+              "content": "亦或者现在很多唉之前做家居的买芯片"
+            },
+            {
+              "start_timestamp": 791,
+              "end_timestamp": 792,
+              "content": "半导体公司"
+            },
+            {
+              "start_timestamp": 792,
+              "end_timestamp": 794,
+              "content": "它是不是也带来了一波爆发"
+            },
+            {
+              "start_timestamp": 794,
+              "end_timestamp": 796,
+              "content": "股价带来的爆发"
+            },
+            {
+              "start_timestamp": 796,
+              "end_timestamp": 797,
+              "content": "那么可以理解为两个点"
+            },
+            {
+              "start_timestamp": 797,
+              "end_timestamp": 801,
+              "content": "第一他确实想去做新增业务啊"
+            },
+            {
+              "start_timestamp": 801,
+              "end_timestamp": 802,
+              "content": "想去收入对吧"
+            },
+            {
+              "start_timestamp": 802,
+              "end_timestamp": 805,
+              "content": "我的业务主营业务曾经不曾经的主营业务"
+            },
+            {
+              "start_timestamp": 805,
+              "end_timestamp": 806,
+              "content": "现在不行了"
+            },
+            {
+              "start_timestamp": 806,
+              "end_timestamp": 808,
+              "content": "第二条是为了市值管理"
+            },
+            {
+              "start_timestamp": 808,
+              "end_timestamp": 810,
+              "content": "两个地方两个地方"
+            },
+            {
+              "start_timestamp": 810,
+              "end_timestamp": 812,
+              "content": "第二个为了市值管理"
+            },
+            {
+              "start_timestamp": 812,
+              "end_timestamp": 815,
+              "content": "所以我们要区分它真正能够赚钱还是怎么着"
+            },
+            {
+              "start_timestamp": 815,
+              "end_timestamp": 816,
+              "content": "要去看到未来了"
+            },
+            {
+              "start_timestamp": 816,
+              "end_timestamp": 818,
+              "content": "扩张期为付很正常"
+            },
+            {
+              "start_timestamp": 818,
+              "end_timestamp": 819,
+              "content": "但是要看得到回报"
+            },
+            {
+              "start_timestamp": 819,
+              "end_timestamp": 821,
+              "content": "然后筹资活动到底是借钱还钱"
+            },
+            {
+              "start_timestamp": 821,
+              "end_timestamp": 822,
+              "content": "分红或融资"
+            },
+            {
+              "start_timestamp": 822,
+              "end_timestamp": 824,
+              "content": "长期靠筹资输血"
+            },
+            {
+              "start_timestamp": 824,
+              "end_timestamp": 826,
+              "content": "每天我没钱了"
+            },
+            {
+              "start_timestamp": 826,
+              "end_timestamp": 828,
+              "content": "我就就找银行借啊"
+            },
+            {
+              "start_timestamp": 828,
+              "end_timestamp": 829,
+              "content": "就抵押对吧"
+            },
+            {
+              "start_timestamp": 829,
+              "end_timestamp": 833,
+              "content": "或者是找这个上市融资"
+            },
+            {
+              "start_timestamp": 833,
+              "end_timestamp": 835,
+              "content": "那么如果长期筹资输血"
+            },
+            {
+              "start_timestamp": 835,
+              "end_timestamp": 837,
+              "content": "就要去警惕他"
+            },
+            {
+              "start_timestamp": 837,
+              "end_timestamp": 839,
+              "content": "可能st还不起钱"
+            },
+            {
+              "start_timestamp": 839,
+              "end_timestamp": 840,
+              "content": "到时候就会崩"
+            },
+            {
+              "start_timestamp": 840,
+              "end_timestamp": 842,
+              "content": "股权质押是会有一个雷的"
+            },
+            {
+              "start_timestamp": 842,
+              "end_timestamp": 844,
+              "content": "你要还得起钱"
+            },
+            {
+              "start_timestamp": 844,
+              "end_timestamp": 845,
+              "content": "你股价上去了"
+            },
+            {
+              "start_timestamp": 845,
+              "end_timestamp": 845,
+              "content": "自然而然"
+            },
+            {
+              "start_timestamp": 845,
+              "end_timestamp": 849,
+              "content": "哎我这个质押我自己赎回一部分的股票对吧"
+            },
+            {
+              "start_timestamp": 849,
+              "end_timestamp": 850,
+              "content": "我向市场上卖掉一些股票"
+            },
+            {
+              "start_timestamp": 850,
+              "end_timestamp": 851,
+              "content": "我就回来了"
+            },
+            {
+              "start_timestamp": 851,
+              "end_timestamp": 855,
+              "content": "但是如果他长期无法造血"
+            },
+            {
+              "start_timestamp": 855,
+              "end_timestamp": 857,
+              "content": "并且股权疯狂质押"
+            },
+            {
+              "start_timestamp": 857,
+              "end_timestamp": 858,
+              "content": "你前面买设备"
+            },
+            {
+              "start_timestamp": 858,
+              "end_timestamp": 859,
+              "content": "买公司出现过"
+            },
+            {
+              "start_timestamp": 859,
+              "end_timestamp": 860,
+              "content": "我跟你讲过的"
+            },
+            {
+              "start_timestamp": 860,
+              "end_timestamp": 862,
+              "content": "就是有些上市公司之前干过这种事情"
+            },
+            {
+              "start_timestamp": 862,
+              "end_timestamp": 865,
+              "content": "就把公司都把公司都抵押掉了"
+            },
+            {
+              "start_timestamp": 865,
+              "end_timestamp": 868,
+              "content": "然后借钱去买"
+            },
+            {
+              "start_timestamp": 868,
+              "end_timestamp": 869,
+              "content": "那就会出现问题"
+            },
+            {
+              "start_timestamp": 869,
+              "end_timestamp": 870,
+              "content": "最后记住了"
+            },
+            {
+              "start_timestamp": 870,
+              "end_timestamp": 872,
+              "content": "净利润是观点"
+            },
+            {
+              "start_timestamp": 872,
+              "end_timestamp": 874,
+              "content": "而经营现金流是事实"
+            },
+            {
+              "start_timestamp": 874,
+              "end_timestamp": 876,
+              "content": "如果一家公司"
+            },
+            {
+              "start_timestamp": 876,
+              "end_timestamp": 878,
+              "content": "如果一家公司长期盈利"
+            },
+            {
+              "start_timestamp": 878,
+              "end_timestamp": 879,
+              "content": "连年盈利"
+            },
+            {
+              "start_timestamp": 879,
+              "end_timestamp": 882,
+              "content": "但是他现金流却长期为负或者远低于净利润"
+            },
+            {
+              "start_timestamp": 882,
+              "end_timestamp": 886,
+              "content": "那么它的利润大概率就是账面数字"
+            },
+            {
+              "start_timestamp": 886,
+              "end_timestamp": 887,
+              "content": "应收账款收不回来"
+            },
+            {
+              "start_timestamp": 887,
+              "end_timestamp": 888,
+              "content": "他还把并表了"
+            },
+            {
+              "start_timestamp": 888,
+              "end_timestamp": 889,
+              "content": "理解吧"
+            },
+            {
+              "start_timestamp": 889,
+              "end_timestamp": 892,
+              "content": "那么三张表必须交叉去验证"
+            },
+            {
+              "start_timestamp": 892,
+              "end_timestamp": 894,
+              "content": "应收账款是不是同步营收涨"
+            },
+            {
+              "start_timestamp": 894,
+              "end_timestamp": 896,
+              "content": "那么应收涨80%"
+            },
+            {
+              "start_timestamp": 896,
+              "end_timestamp": 901,
+              "content": "卖出去的货收不回来钱有问题的"
+            },
+            {
+              "start_timestamp": 901,
+              "end_timestamp": 904,
+              "content": "第二个经现金流是不是同步"
+            },
+            {
+              "start_timestamp": 904,
+              "end_timestamp": 907,
+              "content": "因为正常来说我们说账期60天"
+            },
+            {
+              "start_timestamp": 907,
+              "end_timestamp": 909,
+              "content": "60天左右是这样"
+            },
+            {
+              "start_timestamp": 909,
+              "end_timestamp": 910,
+              "content": "60~90天啊"
+            },
+            {
+              "start_timestamp": 910,
+              "end_timestamp": 911,
+              "content": "正常来说"
+            },
+            {
+              "start_timestamp": 911,
+              "end_timestamp": 913,
+              "content": "现在国内的公司基本上60天的账期"
+            },
+            {
+              "start_timestamp": 913,
+              "end_timestamp": 917,
+              "content": "那你你每每个季度的报表"
+            },
+            {
+              "start_timestamp": 917,
+              "end_timestamp": 918,
+              "content": "你给我的时候是一个季度"
+            },
+            {
+              "start_timestamp": 918,
+              "end_timestamp": 920,
+              "content": "一个季度半年半年半年一年的给我"
+            },
+            {
+              "start_timestamp": 920,
+              "end_timestamp": 922,
+              "content": "那你中间欠他一年的钱"
+            },
+            {
+              "start_timestamp": 922,
+              "end_timestamp": 926,
+              "content": "怎么可能这家公司不去找人要的"
+            },
+            {
+              "start_timestamp": 926,
+              "end_timestamp": 927,
+              "content": "这种就是有问题的"
+            },
+            {
+              "start_timestamp": 927,
+              "end_timestamp": 927,
+              "content": "你知道吧"
+            },
+            {
+              "start_timestamp": 927,
+              "end_timestamp": 929,
+              "content": "就这个东西你要了解清楚"
+            },
+            {
+              "start_timestamp": 929,
+              "end_timestamp": 932,
+              "content": "然后经营活动现金流是不是同步利润涨"
+            },
+            {
+              "start_timestamp": 932,
+              "end_timestamp": 933,
+              "content": "但现金流不涨"
+            },
+            {
+              "start_timestamp": 933,
+              "end_timestamp": 935,
+              "content": "利润的质量存疑"
+            },
+            {
+              "start_timestamp": 935,
+              "end_timestamp": 936,
+              "content": "赚的钱不对"
+            },
+            {
+              "start_timestamp": 937,
+              "end_timestamp": 938,
+              "content": "你告诉我"
+            },
+            {
+              "start_timestamp": 938,
+              "end_timestamp": 939,
+              "content": "你赚赚个3000万"
+            },
+            {
+              "start_timestamp": 939,
+              "end_timestamp": 941,
+              "content": "然后我一看你银行卡"
+            },
+            {
+              "start_timestamp": 941,
+              "end_timestamp": 943,
+              "content": "银行卡里面只有200万"
+            },
+            {
+              "start_timestamp": 943,
+              "end_timestamp": 944,
+              "content": "你给我吹牛逼呢"
+            },
+            {
+              "start_timestamp": 944,
+              "end_timestamp": 945,
+              "content": "两剩下2800去哪了"
+            },
+            {
+              "start_timestamp": 945,
+              "end_timestamp": 948,
+              "content": "你说兄弟这2800确实有点对吧"
+            },
+            {
+              "start_timestamp": 948,
+              "end_timestamp": 948,
+              "content": "我没要回来"
+            },
+            {
+              "start_timestamp": 948,
+              "end_timestamp": 949,
+              "content": "没要回来"
+            },
+            {
+              "start_timestamp": 949,
+              "end_timestamp": 950,
+              "content": "不叫净利润"
+            },
+            {
+              "start_timestamp": 950,
+              "end_timestamp": 951,
+              "content": "不叫利润"
+            },
+            {
+              "start_timestamp": 951,
+              "end_timestamp": 954,
+              "content": "就是说所以说它利润可能会有"
+            },
+            {
+              "start_timestamp": 954,
+              "end_timestamp": 954,
+              "content": "然后呢"
+            },
+            {
+              "start_timestamp": 954,
+              "end_timestamp": 957,
+              "content": "另外一个是有息负债是不是也在涨账上"
+            },
+            {
+              "start_timestamp": 957,
+              "end_timestamp": 960,
+              "content": "有钱还在大量借钱"
+            },
+            {
+              "start_timestamp": 960,
+              "end_timestamp": 961,
+              "content": "大存大贷"
+            },
+            {
+              "start_timestamp": 961,
+              "end_timestamp": 963,
+              "content": "就要追问你在干什么"
+            },
+            {
+              "start_timestamp": 963,
+              "end_timestamp": 964,
+              "content": "你在做"
+            },
+            {
+              "start_timestamp": 964,
+              "end_timestamp": 966,
+              "content": "你在拿着你现金流去做"
+            },
+            {
+              "start_timestamp": 966,
+              "end_timestamp": 967,
+              "content": "做这个叫什么呃"
+            },
+            {
+              "start_timestamp": 967,
+              "end_timestamp": 969,
+              "content": "做理财对吧"
+            },
+            {
+              "start_timestamp": 969,
+              "end_timestamp": 972,
+              "content": "你的存款利息是一定是明显低于贷款利息的"
+            },
+            {
+              "start_timestamp": 973,
+              "end_timestamp": 976,
+              "content": "那你告诉我你为什么要做这件事情"
+            },
+            {
+              "start_timestamp": 976,
+              "end_timestamp": 977,
+              "content": "要解释清楚"
+            },
+            {
+              "start_timestamp": 977,
+              "end_timestamp": 980,
+              "content": "然后是存货营收是不是同同步"
+            },
+            {
+              "start_timestamp": 980,
+              "end_timestamp": 983,
+              "content": "如果说存货比营收涨的还快"
+            },
+            {
+              "start_timestamp": 983,
+              "end_timestamp": 985,
+              "content": "那么说明你卖不动"
+            },
+            {
+              "start_timestamp": 985,
+              "end_timestamp": 986,
+              "content": "你套牢了啊"
+            },
+            {
+              "start_timestamp": 986,
+              "end_timestamp": 987,
+              "content": "大量囤货"
+            },
+            {
+              "start_timestamp": 987,
+              "end_timestamp": 988,
+              "content": "比方说就像我妈啊"
+            },
+            {
+              "start_timestamp": 988,
+              "end_timestamp": 989,
+              "content": "开个奶茶店"
+            },
+            {
+              "start_timestamp": 989,
+              "end_timestamp": 991,
+              "content": "大量囤货对吧"
+            },
+            {
+              "start_timestamp": 991,
+              "end_timestamp": 994,
+              "content": "每每每天奶茶店奶茶没卖多少啊"
+            },
+            {
+              "start_timestamp": 994,
+              "end_timestamp": 995,
+              "content": "囤货囤的很多"
+            },
+            {
+              "start_timestamp": 995,
+              "end_timestamp": 997,
+              "content": "这就说明卖不动低价风险"
+            },
+            {
+              "start_timestamp": 997,
+              "end_timestamp": 1000,
+              "content": "而且这家店一定是不赚钱的"
+            },
+            {
+              "start_timestamp": 1000,
+              "end_timestamp": 1002,
+              "content": "所以记住单看一张表"
+            },
+            {
+              "start_timestamp": 1002,
+              "end_timestamp": 1003,
+              "content": "看不出问题"
+            },
+            {
+              "start_timestamp": 1003,
+              "end_timestamp": 1005,
+              "content": "这张表给我截图"
+            },
+            {
+              "start_timestamp": 1005,
+              "end_timestamp": 1006,
+              "content": "记住这张表一定要截图"
+            },
+            {
+              "start_timestamp": 1006,
+              "end_timestamp": 1008,
+              "content": "自己去对比好"
+            },
+            {
+              "start_timestamp": 1008,
+              "end_timestamp": 1009,
+              "content": "除了这一部分以外"
+            },
+            {
+              "start_timestamp": 1009,
+              "end_timestamp": 1010,
+              "content": "那么我们就要讲八个关键性指标"
+            },
+            {
+              "start_timestamp": 1010,
+              "end_timestamp": 1013,
+              "content": "怎么去看盈利质量和风险"
+            },
+            {
+              "start_timestamp": 1013,
+              "end_timestamp": 1013,
+              "content": "盈利质量"
+            },
+            {
+              "start_timestamp": 1013,
+              "end_timestamp": 1014,
+              "content": "毛利率以及净利率"
+            },
+            {
+              "start_timestamp": 1014,
+              "end_timestamp": 1016,
+              "content": "包括OE净现比"
+            },
+            {
+              "start_timestamp": 1016,
+              "end_timestamp": 1019,
+              "content": "风险资产唉收益率这些每个指标都要看趋势"
+            },
+            {
+              "start_timestamp": 1019,
+              "end_timestamp": 1019,
+              "content": "不要看单点"
+            },
+            {
+              "start_timestamp": 1019,
+              "end_timestamp": 1021,
+              "content": "绝对的数字没有意义"
+            },
+            {
+              "start_timestamp": 1021,
+              "end_timestamp": 1023,
+              "content": "要对比同行和过去历史数据"
+            },
+            {
+              "start_timestamp": 1023,
+              "end_timestamp": 1028,
+              "content": "那么我们向下来哎H看到八个指标速查表截图"
+            },
+            {
+              "start_timestamp": 1028,
+              "end_timestamp": 1030,
+              "content": "首先我们来看毛利率"
+            },
+            {
+              "start_timestamp": 1030,
+              "end_timestamp": 1031,
+              "content": "这个地方怎么看"
+            },
+            {
+              "start_timestamp": 1031,
+              "end_timestamp": 1034,
+              "content": "怎么算营收减成本加营收啊"
+            },
+            {
+              "start_timestamp": 1034,
+              "end_timestamp": 1035,
+              "content": "这个除啊"
+            },
+            {
+              "start_timestamp": 1035,
+              "end_timestamp": 1037,
+              "content": "这个是除不是加除以啊"
+            },
+            {
+              "start_timestamp": 1037,
+              "end_timestamp": 1039,
+              "content": "这个干看着比较那个有点尴尬"
+            },
+            {
+              "start_timestamp": 1039,
+              "end_timestamp": 1040,
+              "content": "有点像加号"
+            },
+            {
+              "start_timestamp": 1040,
+              "end_timestamp": 1043,
+              "content": "那么关注点是趋势和同行对比"
+            },
+            {
+              "start_timestamp": 1043,
+              "end_timestamp": 1044,
+              "content": "我怎么样"
+            },
+            {
+              "start_timestamp": 1044,
+              "end_timestamp": 1044,
+              "content": "过去如何"
+            },
+            {
+              "start_timestamp": 1044,
+              "end_timestamp": 1047,
+              "content": "我和现在同行对比怎么样"
+            },
+            {
+              "start_timestamp": 1047,
+              "end_timestamp": 1049,
+              "content": "第二个净利率也是要去看是否稳定"
+            },
+            {
+              "start_timestamp": 1049,
+              "end_timestamp": 1053,
+              "content": "那么roe这边净资产就净利润除以净资产"
+            },
+            {
+              "start_timestamp": 1053,
+              "end_timestamp": 1055,
+              "content": "我要长期大于15%比较优啊"
+            },
+            {
+              "start_timestamp": 1055,
+              "end_timestamp": 1058,
+              "content": "净现比就现金流我持续小于一"
+            },
+            {
+              "start_timestamp": 1058,
+              "end_timestamp": 1059,
+              "content": "那么就会有问题"
+            },
+            {
+              "start_timestamp": 1061,
+              "end_timestamp": 1063,
+              "content": "持续小于也就我现金流100万"
+            },
+            {
+              "start_timestamp": 1063,
+              "end_timestamp": 1065,
+              "content": "我净利润1000万"
+            },
+            {
+              "start_timestamp": 1065,
+              "end_timestamp": 1066,
+              "content": "你小于0.1了"
+            },
+            {
+              "start_timestamp": 1066,
+              "end_timestamp": 1068,
+              "content": "你告诉我这家公司是不是有问题"
+            },
+            {
+              "start_timestamp": 1068,
+              "end_timestamp": 1070,
+              "content": "我钱去哪了哦"
+            },
+            {
+              "start_timestamp": 1070,
+              "end_timestamp": 1071,
+              "content": "你净利润有3000万"
+            },
+            {
+              "start_timestamp": 1071,
+              "end_timestamp": 1073,
+              "content": "他妈到手就2000就200万"
+            },
+            {
+              "start_timestamp": 1073,
+              "end_timestamp": 1074,
+              "content": "你告诉我怎么花钱"
+            },
+            {
+              "start_timestamp": 1074,
+              "end_timestamp": 1077,
+              "content": "能不能维系公司生存都是个问题了"
+            },
+            {
+              "start_timestamp": 1077,
+              "end_timestamp": 1078,
+              "content": "然后资产负债率"
+            },
+            {
+              "start_timestamp": 1078,
+              "end_timestamp": 1080,
+              "content": "总负债除以总资产"
+            },
+            {
+              "start_timestamp": 1080,
+              "end_timestamp": 1082,
+              "content": "行业差异会很大啊"
+            },
+            {
+              "start_timestamp": 1082,
+              "end_timestamp": 1084,
+              "content": "像这个重资产的企业"
+            },
+            {
+              "start_timestamp": 1084,
+              "end_timestamp": 1087,
+              "content": "可能说这一块会比较比较那个什么"
+            },
+            {
+              "start_timestamp": 1087,
+              "end_timestamp": 1089,
+              "content": "像轻资产的MCN相关的啊"
+            },
+            {
+              "start_timestamp": 1089,
+              "end_timestamp": 1091,
+              "content": "这种自媒体相关软件类的公司"
+            },
+            {
+              "start_timestamp": 1091,
+              "end_timestamp": 1095,
+              "content": "它可能资产负债负债率没那么高"
+            },
+            {
+              "start_timestamp": 1095,
+              "end_timestamp": 1097,
+              "content": "最大的是什么"
+            },
+            {
+              "start_timestamp": 1097,
+              "end_timestamp": 1099,
+              "content": "曾经过去我们讲过地产行业"
+            },
+            {
+              "start_timestamp": 1099,
+              "end_timestamp": 1101,
+              "content": "地产行业"
+            },
+            {
+              "start_timestamp": 1101,
+              "end_timestamp": 1102,
+              "content": "现在的汽车行业"
+            },
+            {
+              "start_timestamp": 1102,
+              "end_timestamp": 1105,
+              "content": "它的资产负债率负债表是很高的"
+            },
+            {
+              "start_timestamp": 1105,
+              "end_timestamp": 1106,
+              "content": "然后呢流动比率"
+            },
+            {
+              "start_timestamp": 1106,
+              "end_timestamp": 1108,
+              "content": "流动资产除以流动性负债"
+            },
+            {
+              "start_timestamp": 1108,
+              "end_timestamp": 1110,
+              "content": "就短期偿还能力"
+            },
+            {
+              "start_timestamp": 1110,
+              "end_timestamp": 1112,
+              "content": "短期我比方说现在手上有个五个亿对吧"
+            },
+            {
+              "start_timestamp": 1112,
+              "end_timestamp": 1114,
+              "content": "我短期负债那两个亿我还得起"
+            },
+            {
+              "start_timestamp": 1114,
+              "end_timestamp": 1117,
+              "content": "如果你短债是五个亿"
+            },
+            {
+              "start_timestamp": 1117,
+              "end_timestamp": 1118,
+              "content": "我手上只有两个亿"
+            },
+            {
+              "start_timestamp": 1118,
+              "end_timestamp": 1120,
+              "content": "那兄弟剩下的三个亿怎么找"
+            },
+            {
+              "start_timestamp": 1120,
+              "end_timestamp": 1121,
+              "content": "找银行又去借啊"
+            },
+            {
+              "start_timestamp": 1121,
+              "end_timestamp": 1121,
+              "content": "继续融资"
+            },
+            {
+              "start_timestamp": 1121,
+              "end_timestamp": 1122,
+              "content": "这个是有问题的"
+            },
+            {
+              "start_timestamp": 1122,
+              "end_timestamp": 1127,
+              "content": "应收账款的周期一般性来说我们正常来说哦"
+            },
+            {
+              "start_timestamp": 1127,
+              "end_timestamp": 1128,
+              "content": "普普遍性的啊"
+            },
+            {
+              "start_timestamp": 1128,
+              "end_timestamp": 1132,
+              "content": "普遍性的基本上120天以上就有问题的"
+            },
+            {
+              "start_timestamp": 1132,
+              "end_timestamp": 1135,
+              "content": "120天以上有鬼"
+            },
+            {
+              "start_timestamp": 1136,
+              "end_timestamp": 1139,
+              "content": "正常来说你的周转期如果30天以下"
+            },
+            {
+              "start_timestamp": 1139,
+              "end_timestamp": 1141,
+              "content": "那么说明企业经营非常好"
+            },
+            {
+              "start_timestamp": 1141,
+              "end_timestamp": 1144,
+              "content": "30天以下说明企业经营非常好"
+            },
+            {
+              "start_timestamp": 1144,
+              "end_timestamp": 1145,
+              "content": "这是我收钱又快对吧"
+            },
+            {
+              "start_timestamp": 1145,
+              "end_timestamp": 1148,
+              "content": "我钱我的货一出去钱就回来了"
+            },
+            {
+              "start_timestamp": 1148,
+              "end_timestamp": 1149,
+              "content": "比方说我今天给的货"
+            },
+            {
+              "start_timestamp": 1149,
+              "end_timestamp": 1150,
+              "content": "下个礼拜你就把钱给我了"
+            },
+            {
+              "start_timestamp": 1150,
+              "end_timestamp": 1152,
+              "content": "我整整个就到我账上了"
+            },
+            {
+              "start_timestamp": 1152,
+              "end_timestamp": 1153,
+              "content": "知识会不一样的"
+            },
+            {
+              "start_timestamp": 1153,
+              "end_timestamp": 1155,
+              "content": "那么如果你放了120天以上"
+            },
+            {
+              "start_timestamp": 1155,
+              "end_timestamp": 1156,
+              "content": "就是我今天出的货"
+            },
+            {
+              "start_timestamp": 1156,
+              "end_timestamp": 1158,
+              "content": "今天给给客户出的货"
+            },
+            {
+              "start_timestamp": 1158,
+              "end_timestamp": 1160,
+              "content": "我半年以后才收得到钱"
+            },
+            {
+              "start_timestamp": 1160,
+              "end_timestamp": 1161,
+              "content": "那么在这半年期间"
+            },
+            {
+              "start_timestamp": 1161,
+              "end_timestamp": 1164,
+              "content": "但凡出现某些偶发性的事件"
+            },
+            {
+              "start_timestamp": 1164,
+              "end_timestamp": 1165,
+              "content": "我企业是否能够经营得下去"
+            },
+            {
+              "start_timestamp": 1165,
+              "end_timestamp": 1168,
+              "content": "尤其是经过口罩那一波之后"
+            },
+            {
+              "start_timestamp": 1168,
+              "end_timestamp": 1169,
+              "content": "你是扛不住的"
+            },
+            {
+              "start_timestamp": 1169,
+              "end_timestamp": 1171,
+              "content": "半年的现金流必须在账上"
+            },
+            {
+              "start_timestamp": 1171,
+              "end_timestamp": 1173,
+              "content": "就我账上必须要有半年的现金流"
+            },
+            {
+              "start_timestamp": 1173,
+              "end_timestamp": 1175,
+              "content": "我要让公司活得下去"
+            },
+            {
+              "start_timestamp": 1175,
+              "end_timestamp": 1176,
+              "content": "那么商誉除以净资产"
+            },
+            {
+              "start_timestamp": 1176,
+              "end_timestamp": 1177,
+              "content": "这个地方呢"
+            },
+            {
+              "start_timestamp": 1177,
+              "end_timestamp": 1181,
+              "content": "这占比高就会出现计提风险呃"
+            },
+            {
+              "start_timestamp": 1181,
+              "end_timestamp": 1183,
+              "content": "最典型的就是IP经济"
+            },
+            {
+              "start_timestamp": 1183,
+              "end_timestamp": 1185,
+              "content": "最典型的就是IP经济"
+            },
+            {
+              "start_timestamp": 1185,
+              "end_timestamp": 1187,
+              "content": "像明星某一家明星"
+            },
+            {
+              "start_timestamp": 1187,
+              "end_timestamp": 1187,
+              "content": "某一个明星"
+            },
+            {
+              "start_timestamp": 1187,
+              "end_timestamp": 1188,
+              "content": "他明星工作室"
+            },
+            {
+              "start_timestamp": 1188,
+              "end_timestamp": 1190,
+              "content": "他最大的部分就来自于商誉"
+            },
+            {
+              "start_timestamp": 1190,
+              "end_timestamp": 1192,
+              "content": "他没有净资产啊"
+            },
+            {
+              "start_timestamp": 1192,
+              "end_timestamp": 1193,
+              "content": "资资产没多少"
+            },
+            {
+              "start_timestamp": 1193,
+              "end_timestamp": 1194,
+              "content": "最主要的就在这"
+            },
+            {
+              "start_timestamp": 1194,
+              "end_timestamp": 1196,
+              "content": "比方说比方说像文章对吧"
+            },
+            {
+              "start_timestamp": 1196,
+              "end_timestamp": 1198,
+              "content": "本来这个IP非常牛逼对吧"
+            },
+            {
+              "start_timestamp": 1198,
+              "end_timestamp": 1200,
+              "content": "中国好男人啊"
+            },
+            {
+              "start_timestamp": 1200,
+              "end_timestamp": 1202,
+              "content": "这个全名好老公"
+            },
+            {
+              "start_timestamp": 1202,
+              "end_timestamp": 1204,
+              "content": "我忘了她叫什么来着"
+            },
+            {
+              "start_timestamp": 1204,
+              "end_timestamp": 1206,
+              "content": "裸婚时代里边的那个对吧"
+            },
+            {
+              "start_timestamp": 1206,
+              "end_timestamp": 1208,
+              "content": "那么她当时一句"
+            },
+            {
+              "start_timestamp": 1208,
+              "end_timestamp": 1210,
+              "content": "当时出现出轨"
+            },
+            {
+              "start_timestamp": 1210,
+              "end_timestamp": 1213,
+              "content": "整个IP直接崩掉一样的"
+            },
+            {
+              "start_timestamp": 1213,
+              "end_timestamp": 1217,
+              "content": "就是这个地方要去注意是否会出现减值风险"
+            },
+            {
+              "start_timestamp": 1217,
+              "end_timestamp": 1219,
+              "content": "一定一定要注意啊"
+            },
+            {
+              "start_timestamp": 1219,
+              "end_timestamp": 1221,
+              "content": "如果一家公司是靠董事长"
+            },
+            {
+              "start_timestamp": 1221,
+              "end_timestamp": 1223,
+              "content": "比方像像比方说像追密"
+            },
+            {
+              "start_timestamp": 1223,
+              "end_timestamp": 1225,
+              "content": "比方说像追觅对吧"
+            },
+            {
+              "start_timestamp": 1225,
+              "end_timestamp": 1228,
+              "content": "如果像追觅这个故事很炸的"
+            },
+            {
+              "start_timestamp": 1228,
+              "end_timestamp": 1229,
+              "content": "他靠人在讲故事"
+            },
+            {
+              "start_timestamp": 1229,
+              "end_timestamp": 1231,
+              "content": "他实质上落地不高"
+            },
+            {
+              "start_timestamp": 1231,
+              "end_timestamp": 1234,
+              "content": "那你就要注意他伤愈减值可能性"
+            },
+            {
+              "start_timestamp": 1234,
+              "end_timestamp": 1237,
+              "content": "然后盈利质量我们怎么看四个指标"
+            },
+            {
+              "start_timestamp": 1237,
+              "end_timestamp": 1238,
+              "content": "第一毛利率要看趋势"
+            },
+            {
+              "start_timestamp": 1238,
+              "end_timestamp": 1239,
+              "content": "不能看单点"
+            },
+            {
+              "start_timestamp": 1239,
+              "end_timestamp": 1240,
+              "content": "不能只看当下啊"
+            },
+            {
+              "start_timestamp": 1240,
+              "end_timestamp": 1241,
+              "content": "但盈利率怎么高"
+            },
+            {
+              "start_timestamp": 1241,
+              "end_timestamp": 1243,
+              "content": "我过去要要做一个对比"
+            },
+            {
+              "start_timestamp": 1243,
+              "end_timestamp": 1244,
+              "content": "要做一整个的对比"
+            },
+            {
+              "start_timestamp": 1244,
+              "end_timestamp": 1246,
+              "content": "然后净利率是看稳定性"
+            },
+            {
+              "start_timestamp": 1246,
+              "end_timestamp": 1247,
+              "content": "忽高忽低"
+            },
+            {
+              "start_timestamp": 1247,
+              "end_timestamp": 1250,
+              "content": "说明主营业务的盈利能力不持续不稳定啊"
+            },
+            {
+              "start_timestamp": 1250,
+              "end_timestamp": 1252,
+              "content": "你昨天赚个3000万啊"
+            },
+            {
+              "start_timestamp": 1252,
+              "end_timestamp": 1253,
+              "content": "不是你去年赚个3000万"
+            },
+            {
+              "start_timestamp": 1253,
+              "end_timestamp": 1255,
+              "content": "今年你赚个200万"
+            },
+            {
+              "start_timestamp": 1255,
+              "end_timestamp": 1258,
+              "content": "这么典型有问题的玩呢"
+            },
+            {
+              "start_timestamp": 1258,
+              "end_timestamp": 1258,
+              "content": "这是我哎"
+            },
+            {
+              "start_timestamp": 1258,
+              "end_timestamp": 1259,
+              "content": "我告诉你"
+            },
+            {
+              "start_timestamp": 1259,
+              "end_timestamp": 1260,
+              "content": "我s st了"
+            },
+            {
+              "start_timestamp": 1260,
+              "end_timestamp": 1260,
+              "content": "我又回来了"
+            },
+            {
+              "start_timestamp": 1260,
+              "end_timestamp": 1261,
+              "content": "像谁呢"
+            },
+            {
+              "start_timestamp": 1261,
+              "end_timestamp": 1263,
+              "content": "当年有一家公司叫s st西域"
+            },
+            {
+              "start_timestamp": 1263,
+              "end_timestamp": 1264,
+              "content": "现在还是叫西域啊"
+            },
+            {
+              "start_timestamp": 1264,
+              "end_timestamp": 1265,
+              "content": "s st西域"
+            },
+            {
+              "start_timestamp": 1265,
+              "end_timestamp": 1267,
+              "content": "你去看看他们家从21年上市"
+            },
+            {
+              "start_timestamp": 1267,
+              "end_timestamp": 1269,
+              "content": "2021年上市之后"
+            },
+            {
+              "start_timestamp": 1269,
+              "end_timestamp": 1270,
+              "content": "一年以后就退市"
+            },
+            {
+              "start_timestamp": 1270,
+              "end_timestamp": 1272,
+              "content": "然后退市完了s st以后啊"
+            },
+            {
+              "start_timestamp": 1272,
+              "end_timestamp": 1273,
+              "content": "没有退市啊"
+            },
+            {
+              "start_timestamp": 1273,
+              "end_timestamp": 1273,
+              "content": "ST完了之后"
+            },
+            {
+              "start_timestamp": 1273,
+              "end_timestamp": 1275,
+              "content": "第2年又收回来"
+            },
+            {
+              "start_timestamp": 1275,
+              "end_timestamp": 1276,
+              "content": "第3年又s st"
+            },
+            {
+              "start_timestamp": 1276,
+              "end_timestamp": 1277,
+              "content": "第4年又回来"
+            },
+            {
+              "start_timestamp": 1277,
+              "end_timestamp": 1279,
+              "content": "贼搞笑"
+            },
+            {
+              "start_timestamp": 1279,
+              "end_timestamp": 1281,
+              "content": "就你要想清楚这家你的盈利率"
+            },
+            {
+              "start_timestamp": 1281,
+              "end_timestamp": 1285,
+              "content": "尤其是受到某些特殊行业的特殊事件影响的"
+            },
+            {
+              "start_timestamp": 1285,
+              "end_timestamp": 1286,
+              "content": "这个你要注意一下"
+            },
+            {
+              "start_timestamp": 1286,
+              "end_timestamp": 1287,
+              "content": "然后roe也要看持续性"
+            },
+            {
+              "start_timestamp": 1287,
+              "end_timestamp": 1288,
+              "content": "要看5年"
+            },
+            {
+              "start_timestamp": 1288,
+              "end_timestamp": 1291,
+              "content": "五到10年维持在较高水平才说明这家公司牛逼"
+            },
+            {
+              "start_timestamp": 1291,
+              "end_timestamp": 1294,
+              "content": "有自己足够的护城河出来"
+            },
+            {
+              "start_timestamp": 1294,
+              "end_timestamp": 1295,
+              "content": "净现比是看背离程度"
+            },
+            {
+              "start_timestamp": 1295,
+              "end_timestamp": 1298,
+              "content": "经现金流除以净利润"
+            },
+            {
+              "start_timestamp": 1298,
+              "end_timestamp": 1300,
+              "content": "要持如果持续小于"
+            },
+            {
+              "start_timestamp": 1300,
+              "end_timestamp": 1300,
+              "content": "说明只有利润"
+            },
+            {
+              "start_timestamp": 1300,
+              "end_timestamp": 1301,
+              "content": "没有现金"
+            },
+            {
+              "start_timestamp": 1301,
+              "end_timestamp": 1303,
+              "content": "你这个钱到底去哪儿了"
+            },
+            {
+              "start_timestamp": 1303,
+              "end_timestamp": 1304,
+              "content": "讲清楚"
+            },
+            {
+              "start_timestamp": 1304,
+              "end_timestamp": 1306,
+              "content": "你别到时候就放出去啊"
+            },
+            {
+              "start_timestamp": 1306,
+              "end_timestamp": 1307,
+              "content": "我现金流没有"
+            },
+            {
+              "start_timestamp": 1307,
+              "end_timestamp": 1312,
+              "content": "我每天出去这家公司正常正常做做做事的公司"
+            },
+            {
+              "start_timestamp": 1312,
+              "end_timestamp": 1313,
+              "content": "你现金流没有"
+            },
+            {
+              "start_timestamp": 1313,
+              "end_timestamp": 1314,
+              "content": "你账上没有钱"
+            },
+            {
+              "start_timestamp": 1314,
+              "end_timestamp": 1315,
+              "content": "你干嘛去了"
+            },
+            {
+              "start_timestamp": 1315,
+              "end_timestamp": 1317,
+              "content": "放贷去了"
+            },
+            {
+              "start_timestamp": 1317,
+              "end_timestamp": 1318,
+              "content": "啥事不干"
+            },
+            {
+              "start_timestamp": 1318,
+              "end_timestamp": 1319,
+              "content": "我之前遇到过有一家公司"
+            },
+            {
+              "start_timestamp": 1319,
+              "end_timestamp": 1321,
+              "content": "之前我们去做调研的时候"
+            },
+            {
+              "start_timestamp": 1321,
+              "end_timestamp": 1322,
+              "content": "遇到一家公司"
+            },
+            {
+              "start_timestamp": 1322,
+              "end_timestamp": 1325,
+              "content": "他账上唉说净利润三个亿"
+            },
+            {
+              "start_timestamp": 1325,
+              "end_timestamp": 1326,
+              "content": "真的净利润三个亿"
+            },
+            {
+              "start_timestamp": 1326,
+              "end_timestamp": 1328,
+              "content": "然后呢账上只有2000万"
+            },
+            {
+              "start_timestamp": 1328,
+              "end_timestamp": 1329,
+              "content": "当时就问他了"
+            },
+            {
+              "start_timestamp": 1329,
+              "end_timestamp": 1331,
+              "content": "你这个钱去哪了"
+            },
+            {
+              "start_timestamp": 1331,
+              "end_timestamp": 1333,
+              "content": "他说我这个钱做理财去了"
+            },
+            {
+              "start_timestamp": 1333,
+              "end_timestamp": 1335,
+              "content": "然后我们就问你的理财"
+            },
+            {
+              "start_timestamp": 1335,
+              "end_timestamp": 1336,
+              "content": "回款周期为什么会那么快"
+            },
+            {
+              "start_timestamp": 1336,
+              "end_timestamp": 1337,
+              "content": "就你知道吗"
+            },
+            {
+              "start_timestamp": 1337,
+              "end_timestamp": 1338,
+              "content": "他的账期他三个亿"
+            },
+            {
+              "start_timestamp": 1338,
+              "end_timestamp": 1339,
+              "content": "一个月回来一次"
+            },
+            {
+              "start_timestamp": 1339,
+              "end_timestamp": 1340,
+              "content": "一个月回来一次"
+            },
+            {
+              "start_timestamp": 1340,
+              "end_timestamp": 1340,
+              "content": "你知道吗"
+            },
+            {
+              "start_timestamp": 1340,
+              "end_timestamp": 1342,
+              "content": "一个月或者半个月回来一次"
+            },
+            {
+              "start_timestamp": 1342,
+              "end_timestamp": 1344,
+              "content": "然后后来这家公司暴雷了"
+            },
+            {
+              "start_timestamp": 1344,
+              "end_timestamp": 1345,
+              "content": "干嘛呢"
+            },
+            {
+              "start_timestamp": 1345,
+              "end_timestamp": 1346,
+              "content": "他们家在做过桥"
+            },
+            {
+              "start_timestamp": 1346,
+              "end_timestamp": 1348,
+              "content": "他们家在做过桥"
+            },
+            {
+              "start_timestamp": 1348,
+              "end_timestamp": 1348,
+              "content": "唉"
+            },
+            {
+              "start_timestamp": 1348,
+              "end_timestamp": 1349,
+              "content": "放跟搞放贷"
+            },
+            {
+              "start_timestamp": 1349,
+              "end_timestamp": 1350,
+              "content": "你的吗"
+            },
+            {
+              "start_timestamp": 1350,
+              "end_timestamp": 1353,
+              "content": "准上市公司不准上市公司"
+            },
+            {
+              "start_timestamp": 1353,
+              "end_timestamp": 1355,
+              "content": "当时马上就要上市了"
+            },
+            {
+              "start_timestamp": 1355,
+              "end_timestamp": 1356,
+              "content": "他的钱拿去放贷去了"
+            },
+            {
+              "start_timestamp": 1356,
+              "end_timestamp": 1357,
+              "content": "现金"
+            },
+            {
+              "start_timestamp": 1357,
+              "end_timestamp": 1358,
+              "content": "账上2000万"
+            },
+            {
+              "start_timestamp": 1359,
+              "end_timestamp": 1360,
+              "content": "然后因为这个事情过桥"
+            },
+            {
+              "start_timestamp": 1360,
+              "end_timestamp": 1362,
+              "content": "然后断掉了"
+            },
+            {
+              "start_timestamp": 1362,
+              "end_timestamp": 1364,
+              "content": "中间断掉了"
+            },
+            {
+              "start_timestamp": 1364,
+              "end_timestamp": 1366,
+              "content": "我们就觉得这个是这个公司有问题"
+            },
+            {
+              "start_timestamp": 1366,
+              "end_timestamp": 1368,
+              "content": "你账上的现金不对"
+            },
+            {
+              "start_timestamp": 1368,
+              "end_timestamp": 1369,
+              "content": "然后后来就就就没有去"
+            },
+            {
+              "start_timestamp": 1369,
+              "end_timestamp": 1371,
+              "content": "没有没有去关注这家公司"
+            },
+            {
+              "start_timestamp": 1371,
+              "end_timestamp": 1372,
+              "content": "太吓人了"
+            },
+            {
+              "start_timestamp": 1372,
+              "end_timestamp": 1374,
+              "content": "兄弟你中间断掉了"
+            },
+            {
+              "start_timestamp": 1374,
+              "end_timestamp": 1375,
+              "content": "这是出雷的"
+            },
+            {
+              "start_timestamp": 1375,
+              "end_timestamp": 1379,
+              "content": "就投资人去去搜这个去偿付这一部分"
+            },
+            {
+              "start_timestamp": 1379,
+              "end_timestamp": 1380,
+              "content": "那我有病啊"
+            },
+            {
+              "start_timestamp": 1380,
+              "end_timestamp": 1383,
+              "content": "所以资产负债率要去看行业基准"
+            },
+            {
+              "start_timestamp": 1383,
+              "end_timestamp": 1384,
+              "content": "银行是天然性的高"
+            },
+            {
+              "start_timestamp": 1384,
+              "end_timestamp": 1386,
+              "content": "那么制造业就要看"
+            },
+            {
+              "start_timestamp": 1386,
+              "end_timestamp": 1388,
+              "content": "如果说负债率60%以上"
+            },
+            {
+              "start_timestamp": 1388,
+              "end_timestamp": 1390,
+              "content": "这家公司就有问题"
+            },
+            {
+              "start_timestamp": 1390,
+              "end_timestamp": 1392,
+              "content": "这家公司就一定一定存在问题"
+            },
+            {
+              "start_timestamp": 1392,
+              "end_timestamp": 1393,
+              "content": "能明白吗"
+            },
+            {
+              "start_timestamp": 1393,
+              "end_timestamp": 1398,
+              "content": "制造业基本上在30%到40"
+            },
+            {
+              "start_timestamp": 1398,
+              "end_timestamp": 1400,
+              "content": "这是正常的啊"
+            },
+            {
+              "start_timestamp": 1400,
+              "end_timestamp": 1402,
+              "content": "30~40属于正常的制造业"
+            },
+            {
+              "start_timestamp": 1402,
+              "end_timestamp": 1404,
+              "content": "60%以上就要注意了"
+            },
+            {
+              "start_timestamp": 1404,
+              "end_timestamp": 1406,
+              "content": "银行和地产本身就会很高"
+            },
+            {
+              "start_timestamp": 1406,
+              "end_timestamp": 1408,
+              "content": "你的所有的存款放进银行就属于负债"
+            },
+            {
+              "start_timestamp": 1408,
+              "end_timestamp": 1409,
+              "content": "理解吗"
+            },
+            {
+              "start_timestamp": 1409,
+              "end_timestamp": 1410,
+              "content": "就属于负债"
+            },
+            {
+              "start_timestamp": 1410,
+              "end_timestamp": 1411,
+              "content": "不属于银行的资产啊"
+            },
+            {
+              "start_timestamp": 1411,
+              "end_timestamp": 1412,
+              "content": "就叫负债"
+            },
+            {
+              "start_timestamp": 1412,
+              "end_timestamp": 1415,
+              "content": "那么流动性比例要看短期偿债能力"
+            },
+            {
+              "start_timestamp": 1415,
+              "end_timestamp": 1418,
+              "content": "如果你长期短低于一"
+            },
+            {
+              "start_timestamp": 1418,
+              "end_timestamp": 1418,
+              "content": "说明短期有压力"
+            },
+            {
+              "start_timestamp": 1418,
+              "end_timestamp": 1421,
+              "content": "我手上欠了五个亿对吧"
+            },
+            {
+              "start_timestamp": 1421,
+              "end_timestamp": 1422,
+              "content": "我手上欠了五个亿"
+            },
+            {
+              "start_timestamp": 1422,
+              "end_timestamp": 1424,
+              "content": "但是我现金只有三个"
+            },
+            {
+              "start_timestamp": 1424,
+              "end_timestamp": 1425,
+              "content": "已知说明是有问题的"
+            },
+            {
+              "start_timestamp": 1425,
+              "end_timestamp": 1426,
+              "content": "如果我手上有十个亿"
+            },
+            {
+              "start_timestamp": 1426,
+              "end_timestamp": 1427,
+              "content": "我欠五个亿"
+            },
+            {
+              "start_timestamp": 1427,
+              "end_timestamp": 1428,
+              "content": "这0.5啊无所谓对吧"
+            },
+            {
+              "start_timestamp": 1428,
+              "end_timestamp": 1429,
+              "content": "这个没关系"
+            },
+            {
+              "start_timestamp": 1429,
+              "end_timestamp": 1432,
+              "content": "应收账期数字周期越长"
+            },
+            {
+              "start_timestamp": 1432,
+              "end_timestamp": 1434,
+              "content": "说明卖出去的钱越难收回来"
+            },
+            {
+              "start_timestamp": 1434,
+              "end_timestamp": 1436,
+              "content": "商誉就刚刚讲过"
+            },
+            {
+              "start_timestamp": 1436,
+              "end_timestamp": 1437,
+              "content": "像文章一样啊"
+            },
+            {
+              "start_timestamp": 1437,
+              "end_timestamp": 1441,
+              "content": "像你纯靠某一个人的这个就会不一样"
+            },
+            {
+              "start_timestamp": 1441,
+              "end_timestamp": 1443,
+              "content": "那么排雷信号接下来内容不会太多啊"
+            },
+            {
+              "start_timestamp": 1443,
+              "end_timestamp": 1445,
+              "content": "我就尽快过好吧"
+            },
+            {
+              "start_timestamp": 1445,
+              "end_timestamp": 1447,
+              "content": "三类的排雷信号"
+            },
+            {
+              "start_timestamp": 1447,
+              "end_timestamp": 1451,
+              "content": "首先第一个我们要去看收入质量增速"
+            },
+            {
+              "start_timestamp": 1451,
+              "end_timestamp": 1452,
+              "content": "营收有没有超过净利润"
+            },
+            {
+              "start_timestamp": 1452,
+              "end_timestamp": 1455,
+              "content": "有没有好过资产和存贷信号不等"
+            },
+            {
+              "start_timestamp": 1455,
+              "end_timestamp": 1456,
+              "content": "不等于定罪"
+            },
+            {
+              "start_timestamp": 1456,
+              "end_timestamp": 1458,
+              "content": "但他一定要给我解释清楚"
+            },
+            {
+              "start_timestamp": 1458,
+              "end_timestamp": 1459,
+              "content": "来这个地方自己截个图"
+            },
+            {
+              "start_timestamp": 1459,
+              "end_timestamp": 1461,
+              "content": "截个图"
+            },
+            {
+              "start_timestamp": 1461,
+              "end_timestamp": 1462,
+              "content": "这个地方截个图"
+            },
+            {
+              "start_timestamp": 1462,
+              "end_timestamp": 1464,
+              "content": "然后讲的会比较快啊"
+            },
+            {
+              "start_timestamp": 1464,
+              "end_timestamp": 1464,
+              "content": "基本上差不多"
+            },
+            {
+              "start_timestamp": 1464,
+              "end_timestamp": 1466,
+              "content": "因为前面已经讲过这部分了"
+            },
+            {
+              "start_timestamp": 1466,
+              "end_timestamp": 1467,
+              "content": "就不用再去讲"
+            },
+            {
+              "start_timestamp": 1467,
+              "end_timestamp": 1469,
+              "content": "应收增速远高于营收"
+            },
+            {
+              "start_timestamp": 1469,
+              "end_timestamp": 1471,
+              "content": "说明一个问题"
+            },
+            {
+              "start_timestamp": 1471,
+              "end_timestamp": 1474,
+              "content": "你的钱回款的可能性不够"
+            },
+            {
+              "start_timestamp": 1474,
+              "end_timestamp": 1475,
+              "content": "渠道压货"
+            },
+            {
+              "start_timestamp": 1475,
+              "end_timestamp": 1477,
+              "content": "现金流"
+            },
+            {
+              "start_timestamp": 1477,
+              "end_timestamp": 1478,
+              "content": "我只看一个事情"
+            },
+            {
+              "start_timestamp": 1478,
+              "end_timestamp": 1479,
+              "content": "应收账款的周期是否变长"
+            },
+            {
+              "start_timestamp": 1479,
+              "end_timestamp": 1482,
+              "content": "好比我现在把钱啊"
+            },
+            {
+              "start_timestamp": 1482,
+              "end_timestamp": 1484,
+              "content": "我现在出了货给谁呢"
+            },
+            {
+              "start_timestamp": 1484,
+              "end_timestamp": 1486,
+              "content": "像我假使我现在是家存储公司"
+            },
+            {
+              "start_timestamp": 1486,
+              "end_timestamp": 1487,
+              "content": "我把货出给了苹果"
+            },
+            {
+              "start_timestamp": 1487,
+              "end_timestamp": 1488,
+              "content": "苹果回款"
+            },
+            {
+              "start_timestamp": 1488,
+              "end_timestamp": 1489,
+              "content": "你压我对吧"
+            },
+            {
+              "start_timestamp": 1489,
+              "end_timestamp": 1490,
+              "content": "我能接受"
+            },
+            {
+              "start_timestamp": 1490,
+              "end_timestamp": 1492,
+              "content": "毕竟你的信用值在这里"
+            },
+            {
+              "start_timestamp": 1492,
+              "end_timestamp": 1497,
+              "content": "但是如果我所有大客户像小米呀"
+            },
+            {
+              "start_timestamp": 1497,
+              "end_timestamp": 1498,
+              "content": "像某维啊"
+            },
+            {
+              "start_timestamp": 1498,
+              "end_timestamp": 1500,
+              "content": "像荣耀啊对吧"
+            },
+            {
+              "start_timestamp": 1500,
+              "end_timestamp": 1502,
+              "content": "包括说像这个传音啊"
+            },
+            {
+              "start_timestamp": 1502,
+              "end_timestamp": 1503,
+              "content": "其他等等等等"
+            },
+            {
+              "start_timestamp": 1503,
+              "end_timestamp": 1505,
+              "content": "这些公司全都有压货"
+            },
+            {
+              "start_timestamp": 1505,
+              "end_timestamp": 1506,
+              "content": "那说明有问题了"
+            },
+            {
+              "start_timestamp": 1507,
+              "end_timestamp": 1508,
+              "content": "说明有问题了"
+            },
+            {
+              "start_timestamp": 1508,
+              "end_timestamp": 1510,
+              "content": "我渠道大批量压货"
+            },
+            {
+              "start_timestamp": 1511,
+              "end_timestamp": 1513,
+              "content": "我的大客户大量压我的钱"
+            },
+            {
+              "start_timestamp": 1513,
+              "end_timestamp": 1514,
+              "content": "就说明有问题"
+            },
+            {
+              "start_timestamp": 1514,
+              "end_timestamp": 1515,
+              "content": "什么问题"
+            },
+            {
+              "start_timestamp": 1515,
+              "end_timestamp": 1516,
+              "content": "你的议价能力不够"
+            },
+            {
+              "start_timestamp": 1517,
+              "end_timestamp": 1519,
+              "content": "你如果是做了高端的存储"
+            },
+            {
+              "start_timestamp": 1519,
+              "end_timestamp": 1520,
+              "content": "他敢压你货"
+            },
+            {
+              "start_timestamp": 1520,
+              "end_timestamp": 1521,
+              "content": "老了"
+            },
+            {
+              "start_timestamp": 1521,
+              "end_timestamp": 1522,
+              "content": "断他货"
+            },
+            {
+              "start_timestamp": 1522,
+              "end_timestamp": 1523,
+              "content": "理解吗"
+            },
+            {
+              "start_timestamp": 1523,
+              "end_timestamp": 1524,
+              "content": "他敢压你钱"
+            },
+            {
+              "start_timestamp": 1524,
+              "end_timestamp": 1525,
+              "content": "他敢压款"
+            },
+            {
+              "start_timestamp": 1525,
+              "end_timestamp": 1526,
+              "content": "你就敢断货"
+            },
+            {
+              "start_timestamp": 1526,
+              "end_timestamp": 1529,
+              "content": "但是你如果做的是低端的"
+            },
+            {
+              "start_timestamp": 1529,
+              "end_timestamp": 1530,
+              "content": "他压你款"
+            },
+            {
+              "start_timestamp": 1530,
+              "end_timestamp": 1531,
+              "content": "你没话说"
+            },
+            {
+              "start_timestamp": 1531,
+              "end_timestamp": 1534,
+              "content": "他如果如果假使说我是一家存储"
+            },
+            {
+              "start_timestamp": 1534,
+              "end_timestamp": 1536,
+              "content": "存储的这种中高端的公司"
+            },
+            {
+              "start_timestamp": 1536,
+              "end_timestamp": 1537,
+              "content": "他敢压我"
+            },
+            {
+              "start_timestamp": 1537,
+              "end_timestamp": 1538,
+              "content": "他敢压我款"
+            },
+            {
+              "start_timestamp": 1538,
+              "end_timestamp": 1539,
+              "content": "哼不好意思"
+            },
+            {
+              "start_timestamp": 1539,
+              "end_timestamp": 1541,
+              "content": "打钱给我打了钱"
+            },
+            {
+              "start_timestamp": 1541,
+              "end_timestamp": 1542,
+              "content": "我再给你货"
+            },
+            {
+              "start_timestamp": 1542,
+              "end_timestamp": 1543,
+              "content": "没有钱"
+            },
+            {
+              "start_timestamp": 1543,
+              "end_timestamp": 1545,
+              "content": "我给不了你货"
+            },
+            {
+              "start_timestamp": 1545,
+              "end_timestamp": 1546,
+              "content": "先给钱后给货"
+            },
+            {
+              "start_timestamp": 1546,
+              "end_timestamp": 1549,
+              "content": "这边你一旦先给了他货"
+            },
+            {
+              "start_timestamp": 1549,
+              "end_timestamp": 1550,
+              "content": "他压你款"
+            },
+            {
+              "start_timestamp": 1550,
+              "end_timestamp": 1551,
+              "content": "你公司怎么周转"
+            },
+            {
+              "start_timestamp": 1551,
+              "end_timestamp": 1552,
+              "content": "所以这种情况下"
+            },
+            {
+              "start_timestamp": 1552,
+              "end_timestamp": 1553,
+              "content": "记住议价能力"
+            },
+            {
+              "start_timestamp": 1553,
+              "end_timestamp": 1557,
+              "content": "要看他的护城河构不构成护城河越深的公司"
+            },
+            {
+              "start_timestamp": 1557,
+              "end_timestamp": 1558,
+              "content": "他的回款周期越快"
+            },
+            {
+              "start_timestamp": 1558,
+              "end_timestamp": 1561,
+              "content": "基本上基本上都是先打钱"
+            },
+            {
+              "start_timestamp": 1561,
+              "end_timestamp": 1564,
+              "content": "这在过去口罩期间是出现过的"
+            },
+            {
+              "start_timestamp": 1564,
+              "end_timestamp": 1566,
+              "content": "出现过大批量的公司先打钱"
+            },
+            {
+              "start_timestamp": 1566,
+              "end_timestamp": 1568,
+              "content": "包括说在碳酸里拉升那一波"
+            },
+            {
+              "start_timestamp": 1568,
+              "end_timestamp": 1570,
+              "content": "大批量的公司先打钱"
+            },
+            {
+              "start_timestamp": 1570,
+              "end_timestamp": 1574,
+              "content": "先款后货和先货后款是两个理解吧"
+            },
+            {
+              "start_timestamp": 1574,
+              "end_timestamp": 1578,
+              "content": "这是你应应收的增增增长速度好"
+            },
+            {
+              "start_timestamp": 1578,
+              "end_timestamp": 1582,
+              "content": "净现比这个就像我们刚讲的这个现金流嘛对吧"
+            },
+            {
+              "start_timestamp": 1582,
+              "end_timestamp": 1583,
+              "content": "你还不还得起钱"
+            },
+            {
+              "start_timestamp": 1583,
+              "end_timestamp": 1584,
+              "content": "短期负债率"
+            },
+            {
+              "start_timestamp": 1584,
+              "end_timestamp": 1587,
+              "content": "然后呢资产端的三三个雷周转天数拉长"
+            },
+            {
+              "start_timestamp": 1587,
+              "end_timestamp": 1590,
+              "content": "以及说净资产的偏占"
+            },
+            {
+              "start_timestamp": 1590,
+              "end_timestamp": 1590,
+              "content": "净资产偏高"
+            },
+            {
+              "start_timestamp": 1590,
+              "end_timestamp": 1593,
+              "content": "商誉商誉这一块很重要"
+            },
+            {
+              "start_timestamp": 1593,
+              "end_timestamp": 1595,
+              "content": "就如果我是正儿八经的一家公司"
+            },
+            {
+              "start_timestamp": 1595,
+              "end_timestamp": 1597,
+              "content": "我我不应该靠商誉的"
+            },
+            {
+              "start_timestamp": 1597,
+              "end_timestamp": 1598,
+              "content": "我不应该单纯只靠品牌"
+            },
+            {
+              "start_timestamp": 1598,
+              "end_timestamp": 1599,
+              "content": "商誉"
+            },
+            {
+              "start_timestamp": 1599,
+              "end_timestamp": 1603,
+              "content": "指的一般性指的是我们的品牌的这个议价能力"
+            },
+            {
+              "start_timestamp": 1603,
+              "end_timestamp": 1608,
+              "content": "应收账款金额一定要去给我看清楚资金去向"
+            },
+            {
+              "start_timestamp": 1608,
+              "end_timestamp": 1611,
+              "content": "有些公司干过这种类似的事情"
+            },
+            {
+              "start_timestamp": 1611,
+              "end_timestamp": 1612,
+              "content": "就是中间走一道过桥"
+            },
+            {
+              "start_timestamp": 1612,
+              "end_timestamp": 1614,
+              "content": "上市公司也会干啊"
+            },
+            {
+              "start_timestamp": 1614,
+              "end_timestamp": 1615,
+              "content": "抹不开面子对吧"
+            },
+            {
+              "start_timestamp": 1615,
+              "end_timestamp": 1617,
+              "content": "我走到过桥去拿出去"
+            },
+            {
+              "start_timestamp": 1617,
+              "end_timestamp": 1621,
+              "content": "但是如果查账查账期期间出现这个问题"
+            },
+            {
+              "start_timestamp": 1621,
+              "end_timestamp": 1622,
+              "content": "我告诉你就是一等"
+            },
+            {
+              "start_timestamp": 1622,
+              "end_timestamp": 1624,
+              "content": "如果资金去向不明"
+            },
+            {
+              "start_timestamp": 1624,
+              "end_timestamp": 1625,
+              "content": "那就是新皮违规"
+            },
+            {
+              "start_timestamp": 1626,
+              "end_timestamp": 1628,
+              "content": "记住记住啊"
+            },
+            {
+              "start_timestamp": 1628,
+              "end_timestamp": 1630,
+              "content": "如果去向不明"
+            },
+            {
+              "start_timestamp": 1630,
+              "end_timestamp": 1630,
+              "content": "解释不清楚"
+            },
+            {
+              "start_timestamp": 1630,
+              "end_timestamp": 1631,
+              "content": "那就是信披违规"
+            },
+            {
+              "start_timestamp": 1631,
+              "end_timestamp": 1635,
+              "content": "你该向上市公司股东去展去呈现表现的内容"
+            },
+            {
+              "start_timestamp": 1635,
+              "end_timestamp": 1637,
+              "content": "你没跟我讲清楚"
+            },
+            {
+              "start_timestamp": 1637,
+              "end_timestamp": 1638,
+              "content": "那我就可以跟你讲"
+            },
+            {
+              "start_timestamp": 1638,
+              "end_timestamp": 1639,
+              "content": "你搞内幕"
+            },
+            {
+              "start_timestamp": 1639,
+              "end_timestamp": 1640,
+              "content": "你搞信批违规"
+            },
+            {
+              "start_timestamp": 1640,
+              "end_timestamp": 1642,
+              "content": "该披露的你不披露"
+            },
+            {
+              "start_timestamp": 1642,
+              "end_timestamp": 1644,
+              "content": "那就要被抓的"
+            },
+            {
+              "start_timestamp": 1644,
+              "end_timestamp": 1647,
+              "content": "这个被抓是有可能直接s st的"
+            },
+            {
+              "start_timestamp": 1648,
+              "end_timestamp": 1650,
+              "content": "你以为过去能能这么干"
+            },
+            {
+              "start_timestamp": 1650,
+              "end_timestamp": 1651,
+              "content": "现在不能这么干"
+            },
+            {
+              "start_timestamp": 1651,
+              "end_timestamp": 1653,
+              "content": "信批违规是有可能会被直接s st的"
+            },
+            {
+              "start_timestamp": 1653,
+              "end_timestamp": 1654,
+              "content": "这个雷很大"
+            },
+            {
+              "start_timestamp": 1654,
+              "end_timestamp": 1656,
+              "content": "注意一下好吗"
+            },
+            {
+              "start_timestamp": 1656,
+              "end_timestamp": 1660,
+              "content": "这个这三个问题平时没有什么问题的"
+            },
+            {
+              "start_timestamp": 1660,
+              "end_timestamp": 1661,
+              "content": "但是当它出现问题时候"
+            },
+            {
+              "start_timestamp": 1661,
+              "end_timestamp": 1662,
+              "content": "就是最大的问题"
+            },
+            {
+              "start_timestamp": 1662,
+              "end_timestamp": 1664,
+              "content": "这个雷你顶不住的"
+            },
+            {
+              "start_timestamp": 1664,
+              "end_timestamp": 1665,
+              "content": "那么10分钟速度六成"
+            },
+            {
+              "start_timestamp": 1665,
+              "end_timestamp": 1666,
+              "content": "先看审计"
+            },
+            {
+              "start_timestamp": 1666,
+              "end_timestamp": 1667,
+              "content": "再看三张表"
+            },
+            {
+              "start_timestamp": 1667,
+              "end_timestamp": 1668,
+              "content": "再看八个指标"
+            },
+            {
+              "start_timestamp": 1668,
+              "end_timestamp": 1670,
+              "content": "4分钟以及所有内容相关"
+            },
+            {
+              "start_timestamp": 1670,
+              "end_timestamp": 1672,
+              "content": "差不多记住审计意见"
+            },
+            {
+              "start_timestamp": 1672,
+              "end_timestamp": 1674,
+              "content": "毫无表留才能继续"
+            },
+            {
+              "start_timestamp": 1674,
+              "end_timestamp": 1678,
+              "content": "如果审计意见当中有其他的给我看清楚"
+            },
+            {
+              "start_timestamp": 1678,
+              "end_timestamp": 1680,
+              "content": "他说明说明原因是什么"
+            },
+            {
+              "start_timestamp": 1680,
+              "end_timestamp": 1682,
+              "content": "像有些公司哎"
+            },
+            {
+              "start_timestamp": 1682,
+              "end_timestamp": 1684,
+              "content": "向审计公司跟上市公司审计完之后"
+            },
+            {
+              "start_timestamp": 1684,
+              "end_timestamp": 1687,
+              "content": "说我我保留意见啊"
+            },
+            {
+              "start_timestamp": 1687,
+              "end_timestamp": 1688,
+              "content": "我保留意见"
+            },
+            {
+              "start_timestamp": 1688,
+              "end_timestamp": 1690,
+              "content": "我不签字"
+            },
+            {
+              "start_timestamp": 1690,
+              "end_timestamp": 1692,
+              "content": "你见过审计不签字的吗"
+            },
+            {
+              "start_timestamp": 1692,
+              "end_timestamp": 1694,
+              "content": "兄弟上市公司财报当中"
+            },
+            {
+              "start_timestamp": 1694,
+              "end_timestamp": 1696,
+              "content": "审计公司不签字"
+            },
+            {
+              "start_timestamp": 1696,
+              "end_timestamp": 1700,
+              "content": "因为审计说很清楚的知道这个雷"
+            },
+            {
+              "start_timestamp": 1700,
+              "end_timestamp": 1700,
+              "content": "我他妈顶不住"
+            },
+            {
+              "start_timestamp": 1700,
+              "end_timestamp": 1702,
+              "content": "你别让我签这个字"
+            },
+            {
+              "start_timestamp": 1702,
+              "end_timestamp": 1703,
+              "content": "我顶不住"
+            },
+            {
+              "start_timestamp": 1703,
+              "end_timestamp": 1703,
+              "content": "我不签"
+            },
+            {
+              "start_timestamp": 1703,
+              "end_timestamp": 1705,
+              "content": "我拒绝好"
+            },
+            {
+              "start_timestamp": 1705,
+              "end_timestamp": 1706,
+              "content": "三张表"
+            },
+            {
+              "start_timestamp": 1706,
+              "end_timestamp": 1708,
+              "content": "应收营收存货净利"
+            },
+            {
+              "start_timestamp": 1708,
+              "end_timestamp": 1711,
+              "content": "净利除以现金资金除以有息负债"
+            },
+            {
+              "start_timestamp": 1711,
+              "end_timestamp": 1714,
+              "content": "然后指标3年趋势就八个指标拉3年"
+            },
+            {
+              "start_timestamp": 1714,
+              "end_timestamp": 1717,
+              "content": "记住这些内容要拉3年去看"
+            },
+            {
+              "start_timestamp": 1717,
+              "end_timestamp": 1718,
+              "content": "不要只看一年"
+            },
+            {
+              "start_timestamp": 1718,
+              "end_timestamp": 1719,
+              "content": "然后扫他异常科目"
+            },
+            {
+              "start_timestamp": 1719,
+              "end_timestamp": 1720,
+              "content": "商誉啊"
+            },
+            {
+              "start_timestamp": 1720,
+              "end_timestamp": 1721,
+              "content": "其他应收账款啊"
+            },
+            {
+              "start_timestamp": 1721,
+              "end_timestamp": 1725,
+              "content": "以及说非经常性损益和存货审计意见"
+            },
+            {
+              "start_timestamp": 1725,
+              "end_timestamp": 1727,
+              "content": "千万千万不要去等"
+            },
+            {
+              "start_timestamp": 1727,
+              "end_timestamp": 1728,
+              "content": "不要去审"
+            },
+            {
+              "start_timestamp": 1728,
+              "end_timestamp": 1729,
+              "content": "必须要有标准的"
+            },
+            {
+              "start_timestamp": 1729,
+              "end_timestamp": 1731,
+              "content": "毫无保留才能继续"
+            },
+            {
+              "start_timestamp": 1731,
+              "end_timestamp": 1732,
+              "content": "否则这个就不要看了"
+            },
+            {
+              "start_timestamp": 1732,
+              "end_timestamp": 1734,
+              "content": "后面的东西都跟你没关系"
+            },
+            {
+              "start_timestamp": 1734,
+              "end_timestamp": 1735,
+              "content": "你前面必须给我守得住"
+            },
+            {
+              "start_timestamp": 1735,
+              "end_timestamp": 1737,
+              "content": "否则后面都不用看理解吗"
+            },
+            {
+              "start_timestamp": 1737,
+              "end_timestamp": 1738,
+              "content": "你前面不行"
+            },
+            {
+              "start_timestamp": 1738,
+              "end_timestamp": 1740,
+              "content": "后面就别看了"
+            },
+            {
+              "start_timestamp": 1740,
+              "end_timestamp": 1741,
+              "content": "都告诉你了"
+            },
+            {
+              "start_timestamp": 1741,
+              "end_timestamp": 1744,
+              "content": "兄弟我要都告诉你了"
+            },
+            {
+              "start_timestamp": 1744,
+              "end_timestamp": 1746,
+              "content": "审计公司都持保留意见了"
+            },
+            {
+              "start_timestamp": 1746,
+              "end_timestamp": 1748,
+              "content": "你告诉我还怎么看"
+            },
+            {
+              "start_timestamp": 1748,
+              "end_timestamp": 1753,
+              "content": "然后财报速读当中来这个地方"
+            },
+            {
+              "start_timestamp": 1753,
+              "end_timestamp": 1755,
+              "content": "记住这个地方截图"
+            },
+            {
+              "start_timestamp": 1755,
+              "end_timestamp": 1756,
+              "content": "截下图之后去看"
+            },
+            {
+              "start_timestamp": 1756,
+              "end_timestamp": 1757,
+              "content": "审计好"
+            },
+            {
+              "start_timestamp": 1757,
+              "end_timestamp": 1758,
+              "content": "毫无保留"
+            },
+            {
+              "start_timestamp": 1758,
+              "end_timestamp": 1760,
+              "content": "我能看好"
+            },
+            {
+              "start_timestamp": 1760,
+              "end_timestamp": 1761,
+              "content": "没有长期背离哎"
+            },
+            {
+              "start_timestamp": 1761,
+              "end_timestamp": 1763,
+              "content": "合理区间商誉占比"
+            },
+            {
+              "start_timestamp": 1763,
+              "end_timestamp": 1765,
+              "content": "如果占比高"
+            },
+            {
+              "start_timestamp": 1766,
+              "end_timestamp": 1768,
+              "content": "卡掉存货周期突然拉长"
+            },
+            {
+              "start_timestamp": 1768,
+              "end_timestamp": 1771,
+              "content": "卡掉营收和增速不对"
+            },
+            {
+              "start_timestamp": 1771,
+              "end_timestamp": 1773,
+              "content": "卡掉这家公司不用看了不用看了"
+            },
+            {
+              "start_timestamp": 1773,
+              "end_timestamp": 1774,
+              "content": "不需要了"
+            },
+            {
+              "start_timestamp": 1774,
+              "end_timestamp": 1775,
+              "content": "没必要看了"
+            },
+            {
+              "start_timestamp": 1775,
+              "end_timestamp": 1777,
+              "content": "基本面的东西已经不对了"
+            },
+            {
+              "start_timestamp": 1777,
+              "end_timestamp": 1779,
+              "content": "审计如果出现这个问题"
+            },
+            {
+              "start_timestamp": 1779,
+              "end_timestamp": 1781,
+              "content": "出现这三个问题之后"
+            },
+            {
+              "start_timestamp": 1781,
+              "end_timestamp": 1783,
+              "content": "你审计还跟我表毫无保留意见"
+            },
+            {
+              "start_timestamp": 1783,
+              "end_timestamp": 1785,
+              "content": "那这家这家审计公司有问题的"
+            },
+            {
+              "start_timestamp": 1785,
+              "end_timestamp": 1787,
+              "content": "所以这家公这家审计公司"
+            },
+            {
+              "start_timestamp": 1787,
+              "end_timestamp": 1789,
+              "content": "相关所有上市公司都要拉一遍"
+            },
+            {
+              "start_timestamp": 1789,
+              "end_timestamp": 1791,
+              "content": "这个雷很大"
+            },
+            {
+              "start_timestamp": 1791,
+              "end_timestamp": 1793,
+              "content": "因为之前出现过普华永道"
+            },
+            {
+              "start_timestamp": 1793,
+              "end_timestamp": 1795,
+              "content": "之前普华出现过这个问题"
+            },
+            {
+              "start_timestamp": 1795,
+              "end_timestamp": 1798,
+              "content": "所以后来跟普华所有相关的上市公司"
+            },
+            {
+              "start_timestamp": 1798,
+              "end_timestamp": 1799,
+              "content": "全部去跳掉"
+            },
+            {
+              "start_timestamp": 1799,
+              "end_timestamp": 1800,
+              "content": "理解吗"
+            },
+            {
+              "start_timestamp": 1800,
+              "end_timestamp": 1801,
+              "content": "全部跳掉"
+            },
+            {
+              "start_timestamp": 1802,
+              "end_timestamp": 1805,
+              "content": "你以为呢跟他合作的券商不敢合作了"
+            },
+            {
+              "start_timestamp": 1805,
+              "end_timestamp": 1809,
+              "content": "跟他合作的这个上市公司也不敢合作了"
+            },
+            {
+              "start_timestamp": 1809,
+              "end_timestamp": 1811,
+              "content": "所以那一轮出现过普华相关"
+            },
+            {
+              "start_timestamp": 1811,
+              "end_timestamp": 1814,
+              "content": "所有普华所有相关的公司都跌"
+            },
+            {
+              "start_timestamp": 1814,
+              "end_timestamp": 1815,
+              "content": "没有一家不跌的"
+            },
+            {
+              "start_timestamp": 1815,
+              "end_timestamp": 1816,
+              "content": "你就算再牛逼"
+            },
+            {
+              "start_timestamp": 1816,
+              "end_timestamp": 1817,
+              "content": "这家公司再好"
+            },
+            {
+              "start_timestamp": 1817,
+              "end_timestamp": 1818,
+              "content": "兄弟不好意思"
+            },
+            {
+              "start_timestamp": 1818,
+              "end_timestamp": 1820,
+              "content": "你的这个倍数不对"
+            },
+            {
+              "start_timestamp": 1820,
+              "end_timestamp": 1821,
+              "content": "这是问题"
+            },
+            {
+              "start_timestamp": 1821,
+              "end_timestamp": 1824,
+              "content": "那么财报它不能够预测短期涨跌"
+            },
+            {
+              "start_timestamp": 1824,
+              "end_timestamp": 1825,
+              "content": "只能你不能只看一期"
+            },
+            {
+              "start_timestamp": 1825,
+              "end_timestamp": 1826,
+              "content": "要看要看多期"
+            },
+            {
+              "start_timestamp": 1826,
+              "end_timestamp": 1827,
+              "content": "至少看3年"
+            },
+            {
+              "start_timestamp": 1827,
+              "end_timestamp": 1828,
+              "content": "至少看3年"
+            },
+            {
+              "start_timestamp": 1828,
+              "end_timestamp": 1829,
+              "content": "你现在26年"
+            },
+            {
+              "start_timestamp": 1829,
+              "end_timestamp": 1832,
+              "content": "你看到242526这3年反馈"
+            },
+            {
+              "start_timestamp": 1832,
+              "end_timestamp": 1834,
+              "content": "因为如果两年亏损"
+            },
+            {
+              "start_timestamp": 1834,
+              "end_timestamp": 1836,
+              "content": "连续的亏损你会崩"
+            },
+            {
+              "start_timestamp": 1836,
+              "end_timestamp": 1837,
+              "content": "你会崩掉的"
+            },
+            {
+              "start_timestamp": 1837,
+              "end_timestamp": 1839,
+              "content": "然后不要只看绝对值"
+            },
+            {
+              "start_timestamp": 1839,
+              "end_timestamp": 1840,
+              "content": "要看负债率啊"
+            },
+            {
+              "start_timestamp": 1840,
+              "end_timestamp": 1841,
+              "content": "要看实际的"
+            },
+            {
+              "start_timestamp": 1841,
+              "end_timestamp": 1844,
+              "content": "如果你科技股60%的负债率"
+            },
+            {
+              "start_timestamp": 1844,
+              "end_timestamp": 1845,
+              "content": "兄弟你搞什么重资产"
+            },
+            {
+              "start_timestamp": 1845,
+              "end_timestamp": 1847,
+              "content": "你研发投入什么情况"
+            },
+            {
+              "start_timestamp": 1847,
+              "end_timestamp": 1849,
+              "content": "你你没有造血能力的吗"
+            },
+            {
+              "start_timestamp": 1849,
+              "end_timestamp": 1851,
+              "content": "那么财报能够避开雷"
+            },
+            {
+              "start_timestamp": 1852,
+              "end_timestamp": 1855,
+              "content": "但是不能告诉你在哪能捡钱啊"
+            },
+            {
+              "start_timestamp": 1855,
+              "end_timestamp": 1856,
+              "content": "这个雷肯定能够避开"
+            },
+            {
+              "start_timestamp": 1856,
+              "end_timestamp": 1858,
+              "content": "那么认知税后期的过程当中"
+            },
+            {
+              "start_timestamp": 1858,
+              "end_timestamp": 1859,
+              "content": "后续排期是主线"
+            },
+            {
+              "start_timestamp": 1859,
+              "end_timestamp": 1860,
+              "content": "题材的生命周期"
+            },
+            {
+              "start_timestamp": 1860,
+              "end_timestamp": 1863,
+              "content": "搞清楚你会在第几个阶段进场"
+            },
+            {
+              "start_timestamp": 1863,
+              "end_timestamp": 1866,
+              "content": "那么然后面对是持股还是持币过节"
+            },
+            {
+              "start_timestamp": 1866,
+              "end_timestamp": 1868,
+              "content": "我们要做过往历史统计和决策框架"
+            },
+            {
+              "start_timestamp": 1868,
+              "end_timestamp": 1871,
+              "content": "以及说从0~1搭到搭建一套交易系统"
+            },
+            {
+              "start_timestamp": 1871,
+              "end_timestamp": 1875,
+              "content": "那么前面已经上线了01~077的内容"
+            },
+            {
+              "start_timestamp": 1875,
+              "end_timestamp": 1877,
+              "content": "各位辛苦看到这儿"
+            },
+            {
+              "start_timestamp": 1877,
+              "end_timestamp": 1879,
+              "content": "然后帮你逻辑哥点点关注"
+            },
+            {
+              "start_timestamp": 1879,
+              "end_timestamp": 1881,
+              "content": "上一上人气好吧"
+            },
+            {
+              "start_timestamp": 1881,
+              "end_timestamp": 1882,
+              "content": "各位爱你们"
+            }
+          ],
+          "timestamp": 1
+        }
+      ]
+    },
+    "stid": "8748581402055446017",
+    "status": 0,
+    "like_num": 0,
+    "dislike_num": 0
+  }
+}

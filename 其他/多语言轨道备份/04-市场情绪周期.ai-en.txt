@@ -1,0 +1,715 @@
+视频：顶级干货：股市小白看懂市场情绪！情绪周期，只上龙头！
+轨道：English
+
+[00:00] How to gauge market sentiment.
+[00:02] So, let’s start with an interactive bit:
+[00:04] what ways exist to gauge market sentiment? Do share!
+[00:06] Any bros know? Okay! First bro said: bellwether!
+[00:09] Second one: bro mentioned order book size,
+[00:11] number of limit up stocks!
+[00:13] Third bro looks at bellwethers,
+[00:14] number of limit up stocks per sector,
+[00:16] the index, and, uh, trading volume.
+[00:18] And another bro mentioned the highest board, right?
+[00:20] Number of Limit down Stocks, order book volume at key levels,
+[00:23] A fifty—ah, that A fifty thing
+[00:24] is for a much bigger, macro picture.
+[00:26] And what about yesterday’s limit up gains? Anything else?
+[00:28] Shanghai Composite Index—
+[00:29] yes, the Shanghai Composite Index, right?
+[00:30] The index reflects the overarching sentiment!
+[00:32] I’ve said this before—
+[00:33] everything you all mentioned is spot on. Mmm,
+[00:34] and yesterday’s Limit up Breaks.
+[00:36] Okay— I’ll tackle that question now.
+[00:38] What you all said is spot on—no issues there;
+[00:40] all of those things
+[00:41] can serve as indicators for gauging market sentiment.
+[00:44] but we need to classify them
+[00:45] and sort out which is primary, right?
+[00:47] So, first off: how do we gauge sentiment?
+[00:50] Just now, when we were talking about themes,
+[00:52] right? That shift in a theme’s strength—
+[00:54] doesn’t THAT tie in with shifts in market sentiment?
+[00:57] Yep! In fact, there ARE many methods that are fastest,
+[00:59] most direct, and most fundamental,
+[01:00] right? So TODAY, we’ll cover those very methods.
+[01:02] Just now, when we were talking about those overnight order
+[01:04] and the shifts in topic
+[01:05] strength, isn't that, at its core, a shift in market sentiment?
+[01:08] Can themes and sentiment be separated?
+[01:10] Sometimes, they just can’t be, right?
+[01:12] So, for method one:
+[01:13] judging market sentiment via overnight order—
+[01:16] what does THAT mean?
+[01:17] Today, nine point five billion—the largest buy in block,
+[01:20] the largest overnight one—what does that imply?
+[01:21] It means that at nine fifteen,
+[01:23] market sentiment was quite strong.
+[01:24] Second, at nine twenty five,
+[01:25] two billion—just barely, right?
+[01:27] At least it’s better than your usual days
+[01:29] with no— or rather, no LARGE overnight buy orders, right?
+[01:32] So, all in all,
+[01:33] that call auction period
+[01:34] showed an upward trend that was decent—
+[01:36] but then, compare that to day two:
+[01:37] twelve point two billion
+[01:38] versus eight point four billion, right?
+[01:40] Was the next day’s overnight order stronger than day one’s?
+[01:41] What can we gauge from that?
+[01:42] So, today’s nine fifteen versus my yesterday’s nine fifteen—
+[01:45] isn’t it stronger?
+[01:46] Can we make such calls?
+[01:47] Yes, we can, right?
+[01:48] Okay! Now, look—by nine twenty five,
+[01:49] it’s down to just one billion;
+[01:50] the max buy order has dropped to one billion.
+[01:52] So, what does that one point five billion signify?
+[01:54] nine twenty five is weaker than yesterday—
+[01:56] see that contrast pop out?
+[01:58] Your nine fifteen was even feistier than my yesterday’s—
+[02:00] yet now, it’s
+[02:00] weaker than my yesterday’s nine twenty five!
+[02:02] So that gap widens even more,
+[02:04] which means the sentiment in the auction
+[02:05] shifted from strong to weak quite sharply, right?
+[02:08] So, this is the first method:
+[02:09] gauging market sentiment via overnight order flow.
+[02:11] Now, what’s number one?
+[02:12] Max overnight orders gauge market mood, right?
+[02:14] And second? The number of stocks with plus one billion yuan
+[02:17] in limit up orders—
+[02:18] for instance, at nine fifteen, fourteen stocks showed up;
+[02:20] that means this day is a tad stronger than that other one,
+[02:23] right?
+[02:23] This is the number of stocks with orders over one hundred M.
+[02:25] At nine fifteen, let’s compare; then at nine twenty,
+[02:28] At nine twenty five—yeah,
+[02:29] nine twenty five—let’s compare again:
+[02:31] nine stocks, then six—today’s weaker than yesterday, right?
+[02:34] So, there are two ways to compare.
+[02:37] First, compare it against itself—
+[02:39] nine twenty five versus nine fifteen, right?
+[02:43] Second? Compare it to yesterday, to recent days.
+[02:47] See, on this day, at nine fifteen, how many stocks did I have?
+[02:51] Eighteen firms.
+[02:52] But by nine twenty five, I had only nine left—halved! Halved!
+[02:56] Plus, all things considered,
+[02:57] the largest overnight order shrank a lot, too.
+[03:00] So, sentiment weakened.
+[03:01] Then, let’s compare this day—here, there were fourteen firms,
+[03:05] and later, how many did that become?
+[03:07] Six firms. So, is today’s shift weaker than yesterday’s?
+[03:09] Eighteen firms dropped to nine—halved!
+[03:11] Then fourteen dropped to six—
+[03:12] that’s MORE than half,
+[03:13] right?
+[03:14] Even more than half!
+[03:15] So, today’s sentiment might be even weaker than yesterday’s.
+[03:18] This is how we gauge it via this method.
+[03:19] These are those over one hundred million.
+[03:20] That’s the count of stocks hitting one or more limit ups.
+[03:23] Third? The bellwether!
+[03:25] Its importance ranks high up there.
+[03:27] Okay, let’s stick with that:
+[03:28] the sentiment bellwether—
+[03:29] this is how you gauge things via that sentiment bellwether.
+[03:31] What else can you add,
+[03:32] though? The leaders of each sector
+[03:35] can serve as sector bellwethers—
+[03:37] and that’s super important, too.
+[03:39] Say you follow some sector—
+[03:41] will that theme gain steam, or weaken?
+[03:43] So, pop that sector’s leader in there and give it a look.
+[03:47] If at open, it surges sky high,
+[03:48] then other stuff, like those main stream themes, right?
+[03:51] when the mainstream themes you all follow
+[03:52] weaken, that one might just become
+[03:54] today’s new theme that draws in capital.
+[03:56] So, that’s the logic there,
+[03:57] okay? This is the third part:
+[03:58] sentiment bellwether—
+[03:59] plus using the top dog in a theme
+[04:00] as THAT theme’s bellwether to watch for shifts in sentiment,
+[04:03] got it?
+[04:03] So, what’s number four?
+[04:04] So, let’s start with the indices—
+[04:06] indices and volume are part of that sentiment, too.
+[04:08] You all must have studied bits of *The Art of War*, right?
+[04:11] What was that one line again—
+[04:12] what was its gist,
+[04:13] roughly?
+[04:13] Namely: win BEFORE the battle even starts,
+[04:15] so that WHEN you fight, you secure a better chance of winning.
+[04:17] So, making a game plan means that before the market opens,
+[04:19] you map things out—
+[04:20] then the opening auction sends you those signals.
+[04:22] What you expect to happen next will, in large part, play out
+[04:26] just as you foresaw.
+[04:28] On Friday, we expected
+[04:28] three thousand three hundred and seventy two
+[04:29] to be a poor open—
+[04:30] it opened ABOVE
+[04:30] three thousand three hundred and seventy three,
+[04:32] then weakened later, right?
+[04:33] Did it pan out as you expected?
+[04:34] Get it, folks?
+[04:35] So, for the index: if it trades above a key level with volume,
+[04:39] and doesn't show selling pressure,
+[04:41] then the day's market should be quite good—
+[04:44] a fine chance to make a move.
+[04:46] So, what do you just need to guard against?
+[04:47] Guard against opening high and closing low.
+[04:49] Opening high and closing low— that’s SO common
+[04:51] in A shares, SO common!
+[04:52] You all have likely seen this countless times.
+[04:54] Even with volume in pre market,
+[04:55] even opening ABOVE that key level,
+[04:56] it still spikes then pullsback!
+[04:58] or it opens right near or below a key level,
+[05:00] spikes, then falls right back down.
+[05:02] So, index and volume are also metrics for gauging sentiment.
+[05:05] And then, there are those sectors folks talk about!
+[05:07] So, once you enter a trade, how do you hedge against risk?
+[05:09] I mean, stocks in A shares
+[05:10] opening high and closing low is SO common!
+[05:11] Often, if it gaps up at a key level
+[05:13] and the dollar volume is huge,
+[05:15] we tend to play it safe.
+[05:17] Once some clear signals show up intra day
+[05:18] and confirm it won’t face selling pressure today,
+[05:20] ONLY then do we make our move.
+[05:21] Because often, back in the day, when we made a move,
+[05:23] seeing a high open in the auction,
+[05:25] plus volume, we’d think it was about to launch an assault.
+[05:28] After getting duped many times, folks develop this habit.
+[05:31] If A shares gap up too high,
+[05:32] watch it first; wait for it to pull back—
+[05:33] once that pullback shows solid support,
+[05:35] it will strengthen again,
+[05:36] then you hop on board.
+[05:36] But if it confirms selling pressure today, then you stay away.
+[05:39] How to know it won’t show selling pressure?
+[05:41] Well, that truly comes only after a long period
+[05:43] of honing your skills.
+[05:44] Okay.
+[05:45] Selling pressure!
+[05:46] Let me just pick one at random
+[05:47] and see if its Daily K line shows any selling pressure.
+[05:50] So THIS would count as selling pressure, right? On this day,
+[05:53] it opened SO high,
+[05:53] then opened high and close low— in spots like these,
+[05:56] don't get fooled!
+[05:57] And this day saw selling pressure, too, right?
+[05:58] Mmm—surged then pulledback; that’s selling pressure.
+[06:00] Back then, right? Full of ambition,
+[06:02] all fired up—eager to stage that comeback—
+[06:04] but in spots like these, you dive in,
+[06:06] and BAM!—you get served a huge bowl of losses.
+[06:09] This is selling pressure—yep, selling pressure—
+[06:11] since it opened way too high!
+[06:12] For A shares, even a one point open counts as high,
+[06:14] and this day? It opened at two point five points—WAY too high!
+[06:17] This day saw selling pressure too,
+[06:18] but in such cases, with DeepSeek hype brewing over the break,
+[06:21] that dip was *actually* an opportunity—
+[06:22] the Index gave you the prime chance to hop on board, right?
+[06:24] Opening high and closing low is quite common—
+[06:26] once you’ve seen it a few times, you’ll get the feel for it.
+[06:28] Okay, enough digressing—let’s get back on track.
+[06:30] Point five? My bro just said it:
+[06:32] Number of Limit down Stocks—that’s judged intraday.
+[06:35] Let’s look at this first:
+[06:36] some assessments from the call auction period—
+[06:38] yeah, these are ALL for the call auction period;
+[06:39] let’s categorize them: call auction.
+[06:41] So, this is what to watch during the call auction period—
+[06:43] these things right here;
+[06:44] plus, some items can be viewed
+[06:45] both in the auction AND intraday.
+[06:46] What else is there?
+[06:47] As you all just said—things
+[06:48] like the number of stocks up/down, right?
+[06:50] Yesterday’s limit ups, gains, and yesterday’s limit up break—
+[06:52] so for this bit, take a look: during the call auction period,
+[06:55] as we just said, you need to gauge THESE things, right?
+[06:57] Seems like SO much work—BUT that’s just a small part!
+[07:00] So, sort them: out of twenty two stocks
+[07:02] that saw a Limit up Break yesterday,
+[07:04] only three gapped higher today, right?
+[07:05] So, once you have a rough take on that Limit up Break realm,
+[07:08] what might be fitting for today?
+[07:10] Is it ripe for a Limit up Streak Break reversal, right?
+[07:12] What else is there here?
+[07:13] Well, the Limit down Pool—yesterday,
+[07:14] twenty stocks hit their limit down,
+[07:16] but only ONE gapped higher today.
+[07:17] That tells you something about the recovery, right?
+[07:19] No, wait—include the Limit up Streak Break Pool!
+[07:22] My bad there—made a slip—include that pool, right?
+[07:24] Okay,
+[07:24] so what else should we look at?
+[07:26] Limit up Break Pool,
+[07:27] Limit down Pool,
+[07:28] Limit up Streak Break Pool—
+[07:29] what else?
+[07:30] So, at minimum, check these three sectors first
+[07:33] for their next day recovery;
+[07:35] if they rebound broadly, that signals sentiment is improving,
+[07:38] right?
+[07:39] So, if there’s lots of negative feedback the next day,
+[07:41] that means sentiment is quite poor, right?
+[07:42] That’s their feedback.
+[07:43] So, who else is there?
+[07:44] Point six: those common metrics folks talk about,
+[07:46] right? Common metrics,
+[07:48] like the consecutive limit up advancement rate, say?
+[07:50] Limit up opening premium rate, and what else?
+[07:53] You have to watch these two, right?
+[07:54] Like, say, after a stock hits its daily limit up—
+[07:56] say, the multi day limit up tier—what’s its premium like?
+[07:58] Wasn’t it quite poor on Friday?
+[07:59] Has the height dropped to three boards?
+[08:00] Right?
+[08:00] So, there are also those multi day gainers—
+[08:02] what else? Should we factor in
+[08:03] the height of that multi day gainer ladder, too?
+[08:05] That’s one aspect of sentiment; then, what’s number seven?
+[08:08] Number seven: intraday metrics—
+[08:10] comparison of limit up vs. limit down stocks,
+[08:13] and of advancing vs. declining issues.
+[08:16] So, via these seven data points,
+[08:18] you can quite well grasp
+[08:19] what, exactly? The shifts in market sentiment!
+[08:21] Now THAT is some real methodology, right?
+[08:24] Others won’t tell you this much!
+[08:25] Mmm, yes— we’ll flesh out the specifics and application later,
+[08:28] okay?
+[08:28] since for each point here, as you all saw,
+[08:30] we just covered those two, right?
+[08:32] We covered those two—spent ages on them, even!—
+[08:33] and we still haven’t fully fleshed it out,
+[08:35] including the sentiment bellwether… mhm, yeah—
+[08:36] take a look, folks:
+[08:37] isn’t that a shift that happens within a single day?
+[08:39] Is this today’s situation?
+[08:40] What else must you do?
+[08:42] You also need to compare it against recent days.
+[08:45] What does that mean?
+[08:45] So, when looking at themes, do you first check this day,
+[08:47] then this day, and this day—
+[08:48] making a comparison each day?
+[08:50] Then, who’s strongest today? And who will be strong tomorrow?
+[08:52] How did that theme from the day before yesterday fare?
+[08:53] All can be compared.
+[08:54] So, say you take today’s sentiment—
+[08:55] what it’s roughly like—
+[08:56] and compare it to the day before yesterday,
+[08:58] then compare it to the day after tomorrow.
+[08:59] Just compare these things.
+[09:00] So what is that?
+[09:02] The patterns of theme play or sentiment shifts—
+[09:05] don’t they all lead to this stage,
+[09:07] all coming together?
+[09:09] Get it?
+[09:10] Once you nail this work,
+[09:11] you can then truly grasp how themes play out
+[09:13] and how sentiment shifts.
+[09:15] Why can I pinpoint if tomorrow will open at a low point,
+[09:18] or, you know, see a strong rebound, or just open flat?
+[09:20] it all builds up bit by bit via these shifts in detail,
+[09:24] get it?
+[09:24] Lots of details!
+[09:25] Say, yesterday at nine fifty,
+[09:27] I had thirty stocks hitting the limit up; today, at nine fifty,
+[09:30] I have only twenty five—only twenty—only ten left!
+[09:32] So, sentiment’s shifting from strong to weak, right?
+[09:35] Half an hour’s gone by—right?
+[09:36] So you need to focus; it’s not like
+[09:38] you have to check ALL this stuff each day.
+[09:40] During the call auction period, check these two, right?
+[09:42] Take a peek at the sentiment bellwether—
+[09:43] just a quick glance, yeah?
+[09:44] Take a quick peek—since that’s ten seconds, right?
+[09:46] Hmm, ten seconds is a bit tough—
+[09:47] let’s say thirty seconds;
+[09:48] thirty seconds to size it up should be fine,
+[09:50] yeah? A glance at the auction, correct?
+[09:52] Okay? It’s not that you have to spot every single thing,
+[09:55] every single detail; early on,
+[09:56] just focus on some key points—
+[09:58] those you MUST see: one, two, and three—right?
+[10:00] Must check number four and number five—
+[10:02] glance over them to get a rough feel.
+[10:03] Then for number six, intra day, when you have spare time,
+[10:05] take a quick glance at number seven, right?
+[10:06] So for number seven, just give it a quick glance—
+[10:08] this doesn't mean you have to figure everything out
+[10:10] during the call auction period;
+[10:11] just focus on the first three things before it, okay?
+[10:13] by the time you finish looking,
+[10:14] the stock you wanted to buy is already limit up, right?
+[10:16] This takes practice!
+[10:16] I mean, I’ve laid out the methodology for you
+[10:18] all—back in my early days,
+[10:19] with this much stuff,
+[10:20] I couldn’t figure it out either, you know?
+[10:21] Early on, I might check this first, then this, then this—
+[10:23] and once I got the hang of that,
+[10:25] I’d slowly ramp up the difficulty for myself,
+[10:26] right?
+[10:27] Gradually ramp up the difficulty: I’d check this, then that,
+[10:29] to make my assessments more well rounded,
+[10:31] right?
+[10:31] Mmm— the nine AM call auction period isn’t just five minutes;
+[10:33] from nine twenty five to nine thirty,
+[10:34] you have to gauge SO many things!
+[10:36] It runs from nine fifteen to nine thirty—fifteen minutes—
+[10:38] so what happens in those first ten minutes?
+[10:39] Sense the shifts throughout that whole call auction period,
+[10:42] right? In fact,
+[10:43] even then, you start following these things— their changes—
+[10:46] and you begin to perceive them.
+[10:47] Then, from nine twenty five to nine thirty—
+[10:49] that five minute window—
+[10:50] that’s for summing up and setting the tone,
+[10:52] i.e., a way to gauge market sentiment,
+[10:54] okay?
+[10:55] Today, I covered that; what comes next is all about practice.
+[10:57] Of course— I didn’t finish—
+[10:58] many of you bros/buddies might not have a great foundation.
+[11:01] But for this stuff, first, get a framework—
+[11:03] just get that framework down,
+[11:04] okay?
+[11:04] So, not only did I teach you those core points,
+[11:07] I also gave you the methodology to master them,
+[11:09] okay?
+[11:10] THIS is what sets you apart from others—
+[11:12] this stuff is SO valuable,
+[11:13] okay?
+[11:13] Okay! So for today’s stuff,
+[11:14] if you got it, type six in the chat—type six!
+[11:16] And today, I’ll elaborate on that a bit more—
+[11:18] elaborate some more,
+[11:19] okay?
+[11:21] So, how do we find those sentiment bellwether?
+[11:23] What’s the first category?
+[11:25] The highest board, right?
+[11:26] That highest board stock—
+[11:27] can it ... let me just type this—
+[11:28] can it serve as a market sentiment bellwether? Right?
+[11:31] So, the bullish bellwether—easy to categorize, right?
+[11:33] Is the bullish bellwether the highest board?
+[11:35] Is it? Okay,
+[11:36] how about this—I’ll quiz you all right now!
+[11:38] Which stocks can act as that bullish bellwether?
+[11:41] Let’s interact: which stocks can act as a bullish bellwether?
+[11:45] Brainstorming—through brainstorming, the answer emerges!
+[11:47] Consecutive board height,
+[11:48] top board, limit down board—core ones!
+[11:49] Top board, largest buy order block on a top board,
+[11:51] sector leading high board stocks, and theme capacity!
+[11:53] Ground to sky limit ups ...
+[11:54] wait, limit ups aren't right! The highest board—
+[11:57] yes!
+[11:57] So for bullish bellwether,
+[11:58] why would you look at the number of themed limit ups?!
+[12:01] That bullish bellwether is a specific stock—
+[12:04] yep, a specific stock—
+[12:05] and most of you got that right!
+[12:06] Right?
+[12:06] First, the top board, right?
+[12:08] That top board
+[12:09] serves as a guide for the overall market’s speculative
+[12:12] upside potential.
+[12:13] Right?
+[12:13] So, we must watch the feedback from the top board,
+[12:15] right? Right? And number two?
+[12:16] That’d be the Limit down to limit up, no?
+[12:18] Limit down to limit up
+[12:19] is that super extreme display of sentiment—
+[12:21] if that stock then gives some positive feedback the next day,
+[12:23] man, the profit potential just explodes!
+[12:25] If you get a Limit down to limit up,
+[12:27] THEN snag another zhang ting ban , man,
+[12:29] that short term sentiment will SOAR, right?!
+[12:31] Limit down to limit up—then who else?
+[12:33] The largest buy order block, correct?
+[12:35] Just now, as we were parsing market sentiment,
+[12:38] does the market’s largest buy order determine anything?
+[12:42] it dictates the market’s overall mood—stuff like that, right?
+[12:46] What else? Well, take those demon stocks—
+[12:48] yeah, those work, too!
+[12:49] Maybe at some point, their Limit up Streak Break, right?
+[12:51] But then they bounce back the very next day.
+[12:54] Such cases can serve as a bullish bellwether,
+[12:56] okay? A bullish bellwether—
+[12:57] THAT’s a bullish one.
+[12:57] So, what about the bearish bellwether?
+[12:59] Come on, what about the bearish one?
+[13:01] So, what are some bearish bellwether stocks?
+[13:03] Hey, type it out—do they match up?
+[13:05] Okay! “Limit up to Limit down” counts as one;
+[13:06] largest limit down order block counts as one;
+[13:07] yep, highest board limit up streak break counts as one—
+[13:08] yep, high level limit up streak break—
+[13:09] yep, they all mean the same thing, really.
+[13:11] Panic dumping of the leading stock, Limit up to Limit down—
+[13:13] well, that doesn't mean you CAN'T be a bull;
+[13:14] can't you just stay neutral?
+[13:15] Must you go short—be a short seller? Right?
+[13:17] Not necessarily!
+[13:19] Yep! You guys have pretty much covered it—
+[13:20] so, what are the short sellers’ markers? “
+[13:21] Limit up to Limit down” counts as one, right?
+[13:22] And once that happens today,
+[13:23] how it plays out tomorrow is CRUCIAL!
+[13:24] After that Limit up to Limit down,
+[13:26] if you then throw in some panic dumping,
+[13:27] wouldn’t my sentiment just GG? Right? For bearish bellwether—
+[13:29] Limit up to Limit down—what else is there?
+[13:31] The largest Limit down order size, no?
+[13:33] Order blocks, right?
+[13:34] And what else?
+[13:34] High level Limit up Streak Break, yes?
+[13:36] It’s not always what?
+[13:37] It’s not always the highest board—
+[13:39] nope!
+[13:39] There IS a highest board, yes,
+[13:40] but it’s not NECESSARILY the one whose streak breaks!
+[13:42] For instance, what situation?
+[13:43] Say, my top board *is* indeed
+[13:45] pushing new highs, right?
+[13:46] But yesterday, there should have been a matchup
+[13:48] at the same level—
+[13:48] for instance, today
+[13:49] my highest board is a seven to eight attempt,
+[13:50] but yesterday, I had a six board stock
+[13:52] that was in that same tier,
+[13:53] and that one broke its streak.
+[13:54] That six board break stock?
+[13:55] That’s a High level Limit up Streak Break,
+[13:56] which can serve as a bearish bellwether—
+[13:57] meaning, it doesn't HAVE to be the *highest* level break
+[13:59] to be one,
+[13:59] okay?
+[14:00] So, a high level limit up streak break
+[14:01] serves as that bearish bellwether, right?
+[14:03] Of course, there are also some A shape kill stocks,
+[14:04] right?
+[14:05] be it the leading stock of an A shape kill,
+[14:06] or say, the biggest limit
+[14:07] down from such an A shape kill, right?
+[14:08] Because sometimes, stocks that hit two or three straight
+[14:10] limit downs
+[14:11] also serve as a bearish bellwether,
+[14:12] okay?
+[14:13] Take Xiangyang Automobile Bearing company, limited,
+[14:15] for instance—
+[14:15] during its drop, on this very day here,
+[14:17] it served as a bearish bellwether,
+[14:19] okay?
+[14:19] since its feedback—
+[14:20] since, in the short term, isn’t it sort of a ... what?
+[14:22] counts as a popular core—or, demon stocks, you could say?
+[14:25] Because “demon stocks”—
+[14:25] well, maybe not that—but it IS a leading stock,
+[14:27] or a demon stock, or a core one—
+[14:29] yeah, a core stock, right?
+[14:30] It counts as a core stock.
+[14:31] Such a drop yields huge negative feedback
+[14:33] for market sentiment.
+[14:35] On this day, its Limit up Streak Break,
+[14:36] right? After that break, it becomes a bellwether—right?
+[14:38] Day one, no board watch;
+[14:39] day two, it can still serve as a bearish bellwether, okay?
+[14:41] Yep, you can do that!
+[14:42] If I didn't jot it down back
+[14:43] then, maybe other, more representative stocks popped up,
+[14:46] but in such cases, it's fine,
+[14:47] okay?
+[14:48] So THAT’s the leading stock of an A shape kill—
+[14:50] it can serve as a bearish bellwether,
+[14:52] okay?
+[14:52] These are some basic rules
+[14:53] for picking a sentiment bellwether.
+[14:55] But early on, what do these amount to?
+[14:56] Like, say, some standards—right—
+[14:58] the leaders of each and every thematic sector
+[15:02] can also serve as bullish and bearish bellwether.
+[15:06] If it hit a limit up yesterday, right?
+[15:07] It can serve as the bullish bellwether for that theme;
+[15:09] if it hit limit down yesterday,
+[15:11] it becomes the bearish bellwether for that entire theme—
+[15:13] that’s the gist of it!
+[15:14] So, say, when you’re trading robot stocks,
+[15:15] you can always treat Xiangyang Automobile Bearing company,
+[15:18] limited
+[15:18] as a bullish bellwether—
+[15:19] so, as what, exactly?
+[15:20] a robot bellwether— you can treat it as such all along, right?
+[15:24] When Xiangyang Automobile Bearing company, limited's Limit up
+[15:25] Streak Break happened,
+[15:25] who picked up the slack? Wasn't it
+[15:26] Jiangsu NanFang Precision company, limited?
+[15:27] So, Jiangsu NanFang Precision company, limited became—
+[15:29] during this wave, right here—yeah?
+[15:30] Two boards popped up,
+[15:31] making it the bullish bellwether for robots,
+[15:34] correct?
+[15:34] But on Friday,
+[15:34] check out Jiangsu NanFang Precision company, limited—
+[15:36] it gapped down.
+[15:37] Oh— no.
+[15:37] Thursday—a low open,
+[15:38] then the robot sector got slammed—GG, right?
+[15:41] So, for each theme, doesn’t the leader also define something—
+[15:45] namely, that theme’s sentiment, or its direction,
+[15:47] right?
+[15:48] Do you all get it now?
+[15:49] Why the bellwether is so crucial?
+[15:51] Because it reflects and shows!
+[15:53] Okay, let me break it down even more clearly.
+[15:57] Why bellwethers matter!
+[16:01] Because it reflects and shows!
+[16:08] the actual state of that theme;
+[16:11] it guides that theme.
+[16:13] First off, it reflects things, right?
+[16:17] When your whole theme weakens,
+[16:19] your bellwether may get suppressed—
+[16:20] get it?
+[16:21] It reflects and shows the theme’s true state.
+[16:23] Second, say at the open,
+[16:24] you just force it—”I’ll slam it to a limit
+[16:26] up!”—to spur that theme’s rebound; that DOES guide the theme.
+[16:29] It might then spur others to rebound,
+[16:31] right?
+[16:31] But usually, that’s tough—
+[16:32] like a small horse pulling a heavy cart, right?
+[16:34] Say, when the trend’s against you,
+[16:35] for one stock to do this—
+[16:36] like a small horse pulling a heavy cart—
+[16:38] it likely won’t succeed.
+[16:39] But take, say, Xiangyang Automobile Bearing company, limited—
+[16:41] when it cashes out,
+[16:42] it all happens in one fell swoop, right?
+[16:44] When it leads them to cash out, that force is crystal clear.
+[16:49] When you see Xiangyang Automobile Bearing company, limited
+[16:51] cash out like that,
+[16:52] the whole theme’s over, right?
+[16:53] Such cash outs—
+[16:53] like with Guizhou Zhongyida company, limited on Friday,
+[16:55] yeah?
+[16:56] Aren’t they all cases of such “substitute” unwinding,
+[16:57] right?
+[16:58] Got it? When a sentiment bellwether says, “
+[17:00] I shall buck the trend and save you all!”—
+[17:03] well, best to trust it less, or not at all, right?
+[17:06] Trust it less, or not at all.
+[17:07] But if a bellwether leads the charge to cash out,
+[17:10] THAT’S for real—
+[17:11] you MUST trust that! Got it?
+[17:13] Because when the overall market is weak,
+[17:14] if a leading stock—a bellwether stock for a theme—
+[17:16] tries to rescue the whole theme,
+[17:17] it’s like a small horse pulling a heavy cart;
+[17:19] it’s bound to fail.
+[17:20] So, in such cases, that’s usually a sell point:
+[17:22] the theme weakens,
+[17:23] yet the leading stock bucks the trend,
+[17:25] and your laggard stock gets pulled up— THAT’s a sell point,
+[17:28] okay?
+[17:28] But when a theme weakens,
+[17:30] hey, that theme’s bellwether stocks go GG, too,
+[17:32] right? When they tank like THAT,
+[17:34] no doubt about it—
+[17:34] that's time to cash out.
+[17:36] Simple as that.
+[17:37] So! If that sounded good, drop a six!
+[17:38] Drop a six if you liked it, okay?
+[17:40] Today, I covered how to gauge market sentiment—
+[17:42] plus, last time, I went over themes and how to spot them.
+[17:46] So, that means the whole framework is in place—
+[17:49] meaning, our general framework for watching the market
+[17:51] is now set.
+[17:53] So, going forward, be sure to watch my daily videos
+[17:56] to see how I apply this—
+[17:57] then internalize it as your own,
+[17:59] okay?
+[18:00] Mmm, sure—this kind of skill comes from diligent training,
+[18:04] day in and day out, for over eight hours each day.
+[18:08] For you all to grasp all of this within one month—
+[18:11] via these eight lessons—
+[18:12] well, that’s tough, okay?
+[18:14] The methodology’s been given to you all.
+[18:15] From then on, it’s really all up to you guys,
+[18:17] okay?
+[18:18] But of course, I’ll do my best to help you all master this—
+[18:22] I’ve already taught you the methods!
+[18:24] Let me go over the methodology again—
+[18:26] yeah, the methodology, okay?
+[18:27] How to put this into practice—
+[18:29] truth be told, this isn’t the place for that.
+[18:31] So, how do you do it?
+[18:32] Whip up an SOP process for yourselves.
+[18:34] From nine fifteen to nine thirty, what do I do?
+[18:37] List it out—one, two, three, four, five—
+[18:40] write it all down.
+[18:41] For instance, what do I do at nine fifteen?
+[18:43] Snap a screenshot—take ten seconds for that,
+[18:46] get it snapped in ten seconds.
+[18:48] Okay. So, nine fifteen—no, nine o'clock to nine fifteen—
+[18:51] fifteen seconds are taken up, right?
+[18:54] Those fifteen seconds are now accounted for.
+[18:55] So, what’s next for the next five seconds?
+[18:57] Okay! Check the sentiment bellwether—at nine fifteen,
+[18:59] snag a screenshot of that sentiment bellwether chart, too.
+[19:03] Longs, short sellers—how did they open?
+[19:04] You need a metric for that—
+[19:05] how long might that take?
+[19:06] Say, thirty seconds—
+[19:07] thirty seconds,
+[19:08] since you have to key in those numbers, right?
+[19:10] thirty seconds.
+[19:11] Thirty seconds—meaning, you should map out
+[19:13] every single second of that call auction period:
+[19:16] what to watch for and what info to grab,
+[19:19] got it?
+[19:20] Once you get to this point, there’s basically nothing
+[19:22] you can’t handle—it’s all about how skilled you become.
+[19:24] Early on, pare down your tasks—since you can’t keep up,
+[19:27] just do less.
+[19:28] First, I’ll snap a pic for this fifteen second task
+[19:30] and figure out what’s up
+[19:31] with those bullish and bearish bellwether.
+[19:33] Once nine twenty hits, snap another pic in ten seconds,
+[19:36] right? Then at nine twenty five,
+[19:38] grab one more in fifteen seconds—
+[19:41] build an SOP! Get it?
+[19:43] That’s all for today—just touching on it. Now,
+[19:45] if you’re earnest and truly wish to master stocks and trade
+[19:47] well, then make up a spreadsheet yourself.
+[19:49] Between nine fifteen and nine thirty—
+[19:51] within those fifteen minutes—
+[19:52] Every ten seconds—or even every second—
+[19:54] map out what you need to do,
+[19:55] what info to grab, and which bits of that info are useful.
+[19:58] This method—no one’s ever laid it out, right?
+[20:00] Well, now that I have, go try it out yourselves!
+[20:02] Y’all say the hands on part is tough, right?
+[20:04] You say that hands on stuff is hard, don’t you?
+[20:07] That’s the core of hands on practice!
+[20:09] but today, we’ve broadened that market
+[20:10] watching content and methodology
+[20:12] out to a much wider scope.
+[20:13] So, practice these things, observe them—
+[20:15] okay? Practice them, observe them—
+[20:17] and through that gradual process of mastery,
+[20:19] what will the market board look like to you in the end?
+[20:22] The market reads as clear as palm lines;
+[20:24] each stock, as distinct as fingers.
+[20:27] There! That’s a peerless technique!
+[20:29] Stuff like SOPs—
+[20:30] those ARE peerless techniques,
+[20:31] okay?

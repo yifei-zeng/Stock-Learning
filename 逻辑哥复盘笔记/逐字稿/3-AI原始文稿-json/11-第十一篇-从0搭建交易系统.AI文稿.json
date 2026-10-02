@@ -1,0 +1,2292 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "code": 0,
+    "model_result": {
+      "result_type": 2,
+      "summary": "从0搭建完整交易系统的方法，涵盖定位、标的池筛选、买入/止损/止盈规则及复盘迭代七组件，强调一致性执行、期望值计算、样本验证与规则优化，通过22页模板辅助实践，帮助用户建立可复现决策流程，持续迭代系统以提升认知并减少主观失误。",
+      "outline": [
+        {
+          "title": "构建七组件交易系统框架",
+          "part_outline": [
+            {
+              "timestamp": 14,
+              "content": "系统需七组件：定位、标的池、买入条件等全流程框架"
+            },
+            {
+              "timestamp": 37,
+              "content": "有策略≠有系统，系统强调决策顺序与复盘迭代"
+            },
+            {
+              "timestamp": 94,
+              "content": "标的池精准筛选，控制数量并明确退出标准"
+            }
+          ],
+          "timestamp": 1
+        },
+        {
+          "title": "高胜率需结合执行与回测",
+          "part_outline": [
+            {
+              "timestamp": 454,
+              "content": "胜率高不等于盈利需确保执行与市场适应性"
+            },
+            {
+              "timestamp": 518,
+              "content": "系统规则需贴合真实人性避免极端操作矛盾"
+            },
+            {
+              "timestamp": 713,
+              "content": "必须明确进场与出场规则避免策略冲突并迭代验证"
+            }
+          ],
+          "timestamp": 454
+        }
+      ],
+      "subtitle": [
+        {
+          "title": "",
+          "part_subtitle": [
+            {
+              "start_timestamp": 0,
+              "end_timestamp": 4,
+              "content": "各位这是第一期的收官之作啊"
+            },
+            {
+              "start_timestamp": 4,
+              "end_timestamp": 6,
+              "content": "第一季认知税系列"
+            },
+            {
+              "start_timestamp": 6,
+              "end_timestamp": 7,
+              "content": "第一季收官之作"
+            },
+            {
+              "start_timestamp": 7,
+              "end_timestamp": 9,
+              "content": "把前面时期所有讲过的东西"
+            },
+            {
+              "start_timestamp": 9,
+              "end_timestamp": 11,
+              "content": "装进一个能跑的流程当中去"
+            },
+            {
+              "start_timestamp": 11,
+              "end_timestamp": 14,
+              "content": "从0~1搭建起你一套交易系统"
+            },
+            {
+              "start_timestamp": 14,
+              "end_timestamp": 15,
+              "content": "不是策略"
+            },
+            {
+              "start_timestamp": 15,
+              "end_timestamp": 17,
+              "content": "是你决策的顺序"
+            },
+            {
+              "start_timestamp": 17,
+              "end_timestamp": 18,
+              "content": "七个必备的组件"
+            },
+            {
+              "start_timestamp": 18,
+              "end_timestamp": 21,
+              "content": "三步去做以及公式判断能不能用"
+            },
+            {
+              "start_timestamp": 21,
+              "end_timestamp": 23,
+              "content": "以及三个常见的缺陷"
+            },
+            {
+              "start_timestamp": 23,
+              "end_timestamp": 25,
+              "content": "一张七步搭建的模板"
+            },
+            {
+              "start_timestamp": 25,
+              "end_timestamp": 27,
+              "content": "跟着我往下去看"
+            },
+            {
+              "start_timestamp": 27,
+              "end_timestamp": 28,
+              "content": "首先第一期"
+            },
+            {
+              "start_timestamp": 28,
+              "end_timestamp": 30,
+              "content": "我们把这期这十期内容"
+            },
+            {
+              "start_timestamp": 30,
+              "end_timestamp": 31,
+              "content": "全部装进一个流程里面去"
+            },
+            {
+              "start_timestamp": 31,
+              "end_timestamp": 35,
+              "content": "七个组件怎么验证常见的缺陷以及其不搭建"
+            },
+            {
+              "start_timestamp": 35,
+              "end_timestamp": 37,
+              "content": "以及全季回顾"
+            },
+            {
+              "start_timestamp": 37,
+              "end_timestamp": 40,
+              "content": "22页是这一期的收尾成品"
+            },
+            {
+              "start_timestamp": 40,
+              "end_timestamp": 41,
+              "content": "建议截图保存"
+            },
+            {
+              "start_timestamp": 42,
+              "end_timestamp": 46,
+              "content": "那么我们就来聊一聊有策略不等于有系统"
+            },
+            {
+              "start_timestamp": 46,
+              "end_timestamp": 47,
+              "content": "策略回答的是买什么"
+            },
+            {
+              "start_timestamp": 47,
+              "end_timestamp": 50,
+              "content": "而系统回答的是每一步先做什么"
+            },
+            {
+              "start_timestamp": 50,
+              "end_timestamp": 52,
+              "content": "大部分人都有策略啊"
+            },
+            {
+              "start_timestamp": 52,
+              "end_timestamp": 53,
+              "content": "各种各样的策略对吧"
+            },
+            {
+              "start_timestamp": 53,
+              "end_timestamp": 54,
+              "content": "看多策略啊"
+            },
+            {
+              "start_timestamp": 54,
+              "end_timestamp": 55,
+              "content": "做多什么什么东西"
+            },
+            {
+              "start_timestamp": 55,
+              "end_timestamp": 57,
+              "content": "但是没有交易系统"
+            },
+            {
+              "start_timestamp": 57,
+              "end_timestamp": 59,
+              "content": "每一次的决策都是临时性的"
+            },
+            {
+              "start_timestamp": 59,
+              "end_timestamp": 62,
+              "content": "有策略是我知道有好几种有效的买法"
+            },
+            {
+              "start_timestamp": 62,
+              "end_timestamp": 64,
+              "content": "甚至很多朋友知道多种"
+            },
+            {
+              "start_timestamp": 64,
+              "end_timestamp": 68,
+              "content": "有系统是从看到机会到平仓再到复盘"
+            },
+            {
+              "start_timestamp": 68,
+              "end_timestamp": 72,
+              "content": "每一步都清楚地知道先做什么后做什么"
+            },
+            {
+              "start_timestamp": 72,
+              "end_timestamp": 75,
+              "content": "这一期呢把前面实习的内容全部串联起来"
+            },
+            {
+              "start_timestamp": 75,
+              "end_timestamp": 78,
+              "content": "给你一个能够自己填完的系统框架"
+            },
+            {
+              "start_timestamp": 78,
+              "end_timestamp": 80,
+              "content": "跟着我向下去看"
+            },
+            {
+              "start_timestamp": 80,
+              "end_timestamp": 83,
+              "content": "首先系统当中最关键的七个组件"
+            },
+            {
+              "start_timestamp": 83,
+              "end_timestamp": 86,
+              "content": "少一个你的系统都跑不出来"
+            },
+            {
+              "start_timestamp": 86,
+              "end_timestamp": 88,
+              "content": "第一定位你是谁"
+            },
+            {
+              "start_timestamp": 88,
+              "end_timestamp": 91,
+              "content": "您哪位你的钱是什么属性"
+            },
+            {
+              "start_timestamp": 91,
+              "end_timestamp": 93,
+              "content": "第二个标的池"
+            },
+            {
+              "start_timestamp": 93,
+              "end_timestamp": 94,
+              "content": "你只在这些里面选"
+            },
+            {
+              "start_timestamp": 94,
+              "end_timestamp": 96,
+              "content": "你不要说全市场选股"
+            },
+            {
+              "start_timestamp": 96,
+              "end_timestamp": 97,
+              "content": "你又不是量化"
+            },
+            {
+              "start_timestamp": 97,
+              "end_timestamp": 98,
+              "content": "你又不是神"
+            },
+            {
+              "start_timestamp": 98,
+              "end_timestamp": 100,
+              "content": "买入条件是什么情况下才动手"
+            },
+            {
+              "start_timestamp": 100,
+              "end_timestamp": 101,
+              "content": "仓位规则"
+            },
+            {
+              "start_timestamp": 101,
+              "end_timestamp": 102,
+              "content": "每次下多大的注"
+            },
+            {
+              "start_timestamp": 102,
+              "end_timestamp": 103,
+              "content": "止损规则"
+            },
+            {
+              "start_timestamp": 103,
+              "end_timestamp": 104,
+              "content": "什么情况下认错"
+            },
+            {
+              "start_timestamp": 104,
+              "end_timestamp": 105,
+              "content": "止盈规则"
+            },
+            {
+              "start_timestamp": 105,
+              "end_timestamp": 107,
+              "content": "什么情况下收钱"
+            },
+            {
+              "start_timestamp": 108,
+              "end_timestamp": 110,
+              "content": "来跟着我向下去聊"
+            },
+            {
+              "start_timestamp": 110,
+              "end_timestamp": 114,
+              "content": "看清楚这七个组件分别对应的是定位标的池"
+            },
+            {
+              "start_timestamp": 114,
+              "end_timestamp": 117,
+              "content": "以及买入条件和仓位规则"
+            },
+            {
+              "start_timestamp": 117,
+              "end_timestamp": 118,
+              "content": "止损规则"
+            },
+            {
+              "start_timestamp": 118,
+              "end_timestamp": 118,
+              "content": "执行规则"
+            },
+            {
+              "start_timestamp": 118,
+              "end_timestamp": 119,
+              "content": "复盘迭代"
+            },
+            {
+              "start_timestamp": 119,
+              "end_timestamp": 122,
+              "content": "这七期这七个组件前面实际都已经讲过了"
+            },
+            {
+              "start_timestamp": 122,
+              "end_timestamp": 128,
+              "content": "而这一期做的是把他们做成流水线工作很简单"
+            },
+            {
+              "start_timestamp": 128,
+              "end_timestamp": 130,
+              "content": "内容非常非常简单"
+            },
+            {
+              "start_timestamp": 130,
+              "end_timestamp": 131,
+              "content": "组件一定位"
+            },
+            {
+              "start_timestamp": 131,
+              "end_timestamp": 133,
+              "content": "你要定位清楚你的资金属性"
+            },
+            {
+              "start_timestamp": 133,
+              "end_timestamp": 133,
+              "content": "你是谁"
+            },
+            {
+              "start_timestamp": 133,
+              "end_timestamp": 135,
+              "content": "你的资金属性"
+            },
+            {
+              "start_timestamp": 135,
+              "end_timestamp": 137,
+              "content": "你能不能够承受住这个连续亏损"
+            },
+            {
+              "start_timestamp": 137,
+              "end_timestamp": 141,
+              "content": "典型的定位错误是白天要上班"
+            },
+            {
+              "start_timestamp": 141,
+              "end_timestamp": 142,
+              "content": "只能晚上看一眼账户"
+            },
+            {
+              "start_timestamp": 142,
+              "end_timestamp": 147,
+              "content": "却选择了一套需要全天盯盘的超短线打法"
+            },
+            {
+              "start_timestamp": 147,
+              "end_timestamp": 149,
+              "content": "这个不是纪律性问题"
+            },
+            {
+              "start_timestamp": 149,
+              "end_timestamp": 150,
+              "content": "这个是你的定位"
+            },
+            {
+              "start_timestamp": 150,
+              "end_timestamp": 153,
+              "content": "从第一期当中已经说的很清楚了"
+            },
+            {
+              "start_timestamp": 153,
+              "end_timestamp": 155,
+              "content": "你的能力范畴在哪里"
+            },
+            {
+              "start_timestamp": 155,
+              "end_timestamp": 156,
+              "content": "你就给我做什么事"
+            },
+            {
+              "start_timestamp": 156,
+              "end_timestamp": 158,
+              "content": "有多大能力吃多啊"
+            },
+            {
+              "start_timestamp": 158,
+              "end_timestamp": 160,
+              "content": "吃多大碗的饭"
+            },
+            {
+              "start_timestamp": 160,
+              "end_timestamp": 162,
+              "content": "第二个标的尺"
+            },
+            {
+              "start_timestamp": 162,
+              "end_timestamp": 164,
+              "content": "你写死你的标准"
+            },
+            {
+              "start_timestamp": 165,
+              "end_timestamp": 167,
+              "content": "你不要去选出这些好票"
+            },
+            {
+              "start_timestamp": 168,
+              "end_timestamp": 169,
+              "content": "好票很多"
+            },
+            {
+              "start_timestamp": 169,
+              "end_timestamp": 170,
+              "content": "你选不过来"
+            },
+            {
+              "start_timestamp": 170,
+              "end_timestamp": 175,
+              "content": "你要做的是把你从上千个5000个的选择当中"
+            },
+            {
+              "start_timestamp": 175,
+              "end_timestamp": 176,
+              "content": "收窄到30个"
+            },
+            {
+              "start_timestamp": 176,
+              "end_timestamp": 178,
+              "content": "收窄到50个"
+            },
+            {
+              "start_timestamp": 178,
+              "end_timestamp": 180,
+              "content": "写死标准市值"
+            },
+            {
+              "start_timestamp": 180,
+              "end_timestamp": 182,
+              "content": "流动性板块基本面底线"
+            },
+            {
+              "start_timestamp": 182,
+              "end_timestamp": 184,
+              "content": "初始条件是什么时候把他踢出去"
+            },
+            {
+              "start_timestamp": 184,
+              "end_timestamp": 186,
+              "content": "爻写死"
+            },
+            {
+              "start_timestamp": 186,
+              "end_timestamp": 187,
+              "content": "什么情况下我不关注了"
+            },
+            {
+              "start_timestamp": 187,
+              "end_timestamp": 188,
+              "content": "什么情况下我不看了"
+            },
+            {
+              "start_timestamp": 188,
+              "end_timestamp": 189,
+              "content": "数量的上限"
+            },
+            {
+              "start_timestamp": 189,
+              "end_timestamp": 191,
+              "content": "池子再大等于没有池子"
+            },
+            {
+              "start_timestamp": 191,
+              "end_timestamp": 193,
+              "content": "建议控制在50~100个区间啊"
+            },
+            {
+              "start_timestamp": 193,
+              "end_timestamp": 196,
+              "content": "50~100这个区间足矣了"
+            },
+            {
+              "start_timestamp": 196,
+              "end_timestamp": 197,
+              "content": "太多了"
+            },
+            {
+              "start_timestamp": 197,
+              "end_timestamp": 200,
+              "content": "那么排雷用财报检查清单方向"
+            },
+            {
+              "start_timestamp": 200,
+              "end_timestamp": 204,
+              "content": "用第九期的题材级别去判断它的内容"
+            },
+            {
+              "start_timestamp": 204,
+              "end_timestamp": 205,
+              "content": "标的词是质量"
+            },
+            {
+              "start_timestamp": 205,
+              "end_timestamp": 206,
+              "content": "其当中的内容落点"
+            },
+            {
+              "start_timestamp": 206,
+              "end_timestamp": 208,
+              "content": "先排雷再看方向"
+            },
+            {
+              "start_timestamp": 208,
+              "end_timestamp": 210,
+              "content": "最后剩下来的就是你的备选池"
+            },
+            {
+              "start_timestamp": 210,
+              "end_timestamp": 212,
+              "content": "我们习惯性用什么还记得吗"
+            },
+            {
+              "start_timestamp": 212,
+              "end_timestamp": 214,
+              "content": "来买入条件"
+            },
+            {
+              "start_timestamp": 214,
+              "end_timestamp": 218,
+              "content": "记住买入条件是有朋友说啊"
+            },
+            {
+              "start_timestamp": 218,
+              "end_timestamp": 219,
+              "content": "我掉的差不多了对吧"
+            },
+            {
+              "start_timestamp": 219,
+              "end_timestamp": 220,
+              "content": "感觉要启动了"
+            },
+            {
+              "start_timestamp": 220,
+              "end_timestamp": 221,
+              "content": "无法判断"
+            },
+            {
+              "start_timestamp": 221,
+              "end_timestamp": 223,
+              "content": "而且无法复盘来"
+            },
+            {
+              "start_timestamp": 223,
+              "end_timestamp": 226,
+              "content": "另外回踩某均线不做不破"
+            },
+            {
+              "start_timestamp": 226,
+              "end_timestamp": 227,
+              "content": "放量主线位破位"
+            },
+            {
+              "start_timestamp": 227,
+              "end_timestamp": 230,
+              "content": "每一条都要判断是否满足条件"
+            },
+            {
+              "start_timestamp": 230,
+              "end_timestamp": 233,
+              "content": "你们手上现在所有的工具就是用来辅助这一块"
+            },
+            {
+              "start_timestamp": 233,
+              "end_timestamp": 237,
+              "content": "记住检验方法是你什么时候买入条件"
+            },
+            {
+              "start_timestamp": 237,
+              "end_timestamp": 238,
+              "content": "拿给一个完全不懂股票的人看"
+            },
+            {
+              "start_timestamp": 238,
+              "end_timestamp": 240,
+              "content": "他看完之后不知道该不该买"
+            },
+            {
+              "start_timestamp": 240,
+              "end_timestamp": 243,
+              "content": "那么这条条件就不符理解吗"
+            },
+            {
+              "start_timestamp": 243,
+              "end_timestamp": 246,
+              "content": "就是把你的买入条件列清楚"
+            },
+            {
+              "start_timestamp": 247,
+              "end_timestamp": 251,
+              "content": "让一个什么都不懂的人看能不能买"
+            },
+            {
+              "start_timestamp": 251,
+              "end_timestamp": 253,
+              "content": "比方说你老婆不懂股票"
+            },
+            {
+              "start_timestamp": 253,
+              "end_timestamp": 255,
+              "content": "你写完之后他能不能看懂"
+            },
+            {
+              "start_timestamp": 255,
+              "end_timestamp": 256,
+              "content": "他能看懂"
+            },
+            {
+              "start_timestamp": 256,
+              "end_timestamp": 257,
+              "content": "说明好可以去做"
+            },
+            {
+              "start_timestamp": 257,
+              "end_timestamp": 258,
+              "content": "这条条件是可以去做的"
+            },
+            {
+              "start_timestamp": 258,
+              "end_timestamp": 260,
+              "content": "这个条件是OK的"
+            },
+            {
+              "start_timestamp": 260,
+              "end_timestamp": 261,
+              "content": "如果他看不懂"
+            },
+            {
+              "start_timestamp": 261,
+              "end_timestamp": 263,
+              "content": "那说明你条件还不到位"
+            },
+            {
+              "start_timestamp": 263,
+              "end_timestamp": 268,
+              "content": "再补一条条件必须不满足就不做"
+            },
+            {
+              "start_timestamp": 268,
+              "end_timestamp": 269,
+              "content": "这一期讲过了"
+            },
+            {
+              "start_timestamp": 269,
+              "end_timestamp": 271,
+              "content": "绝大多数的亏损不是做错了"
+            },
+            {
+              "start_timestamp": 271,
+              "end_timestamp": 273,
+              "content": "而是本不应该做的时候去做了"
+            },
+            {
+              "start_timestamp": 273,
+              "end_timestamp": 275,
+              "content": "明显已经告诉你要冲高回落"
+            },
+            {
+              "start_timestamp": 275,
+              "end_timestamp": 276,
+              "content": "你告诉我哥"
+            },
+            {
+              "start_timestamp": 276,
+              "end_timestamp": 277,
+              "content": "我相信i believe you"
+            },
+            {
+              "start_timestamp": 277,
+              "end_timestamp": 278,
+              "content": "是啊"
+            },
+            {
+              "start_timestamp": 278,
+              "end_timestamp": 279,
+              "content": "我相信你"
+            },
+            {
+              "start_timestamp": 279,
+              "end_timestamp": 280,
+              "content": "别相信我"
+            },
+            {
+              "start_timestamp": 280,
+              "end_timestamp": 282,
+              "content": "你自己冲你自己的锅"
+            },
+            {
+              "start_timestamp": 282,
+              "end_timestamp": 284,
+              "content": "别往我身上背"
+            },
+            {
+              "start_timestamp": 284,
+              "end_timestamp": 286,
+              "content": "组建456是止仓位"
+            },
+            {
+              "start_timestamp": 286,
+              "end_timestamp": 287,
+              "content": "止损和止盈"
+            },
+            {
+              "start_timestamp": 287,
+              "end_timestamp": 289,
+              "content": "单笔的风险最大"
+            },
+            {
+              "start_timestamp": 289,
+              "end_timestamp": 291,
+              "content": "同时持仓最低的现金比例"
+            },
+            {
+              "start_timestamp": 291,
+              "end_timestamp": 292,
+              "content": "这个都讲过"
+            },
+            {
+              "start_timestamp": 292,
+              "end_timestamp": 294,
+              "content": "然后再是止损规则"
+            },
+            {
+              "start_timestamp": 294,
+              "end_timestamp": 295,
+              "content": "一天最多止损几次"
+            },
+            {
+              "start_timestamp": 295,
+              "end_timestamp": 297,
+              "content": "我止损触发之后应该怎么定"
+            },
+            {
+              "start_timestamp": 297,
+              "end_timestamp": 299,
+              "content": "然后是止盈规则"
+            },
+            {
+              "start_timestamp": 299,
+              "end_timestamp": 301,
+              "content": "这三条是一个整体仓位"
+            },
+            {
+              "start_timestamp": 301,
+              "end_timestamp": 303,
+              "content": "决定你能亏多少"
+            },
+            {
+              "start_timestamp": 303,
+              "end_timestamp": 304,
+              "content": "止损决定你什么时候认错"
+            },
+            {
+              "start_timestamp": 304,
+              "end_timestamp": 306,
+              "content": "止盈决定你什么时候收钱"
+            },
+            {
+              "start_timestamp": 306,
+              "end_timestamp": 308,
+              "content": "有兄弟数学的说哎我还没涨"
+            },
+            {
+              "start_timestamp": 308,
+              "end_timestamp": 309,
+              "content": "没赚够对吧"
+            },
+            {
+              "start_timestamp": 309,
+              "end_timestamp": 311,
+              "content": "我赚够3000万就收手"
+            },
+            {
+              "start_timestamp": 311,
+              "end_timestamp": 312,
+              "content": "你能赚够3000万吗"
+            },
+            {
+              "start_timestamp": 312,
+              "end_timestamp": 314,
+              "content": "到达那个时间点的时候"
+            },
+            {
+              "start_timestamp": 314,
+              "end_timestamp": 314,
+              "content": "有兄弟说我翻红了"
+            },
+            {
+              "start_timestamp": 314,
+              "end_timestamp": 315,
+              "content": "我回本了就走"
+            },
+            {
+              "start_timestamp": 315,
+              "end_timestamp": 318,
+              "content": "他有可能就每次都在你回本线附近"
+            },
+            {
+              "start_timestamp": 318,
+              "end_timestamp": 319,
+              "content": "就要上不上"
+            },
+            {
+              "start_timestamp": 319,
+              "end_timestamp": 320,
+              "content": "要下不下的"
+            },
+            {
+              "start_timestamp": 320,
+              "end_timestamp": 322,
+              "content": "那么组建期就是复盘迭代"
+            },
+            {
+              "start_timestamp": 322,
+              "end_timestamp": 324,
+              "content": "五段式的复盘"
+            },
+            {
+              "start_timestamp": 324,
+              "end_timestamp": 326,
+              "content": "四部的周复盘迭代规则"
+            },
+            {
+              "start_timestamp": 327,
+              "end_timestamp": 328,
+              "content": "而不是改情绪"
+            },
+            {
+              "start_timestamp": 328,
+              "end_timestamp": 330,
+              "content": "没有第七个组件"
+            },
+            {
+              "start_timestamp": 330,
+              "end_timestamp": 332,
+              "content": "前面六个会慢慢慢慢失效"
+            },
+            {
+              "start_timestamp": 332,
+              "end_timestamp": 334,
+              "content": "市场会改变"
+            },
+            {
+              "start_timestamp": 334,
+              "end_timestamp": 335,
+              "content": "你的规则不会变"
+            },
+            {
+              "start_timestamp": 335,
+              "end_timestamp": 339,
+              "content": "复盘迭代是整套系统当中唯一会进化的部分"
+            },
+            {
+              "start_timestamp": 339,
+              "end_timestamp": 341,
+              "content": "你的复盘一定要迭代"
+            },
+            {
+              "start_timestamp": 341,
+              "end_timestamp": 343,
+              "content": "你不能说我现在复盘是什么"
+            },
+            {
+              "start_timestamp": 343,
+              "end_timestamp": 346,
+              "content": "未来的复盘还是一样不一样"
+            },
+            {
+              "start_timestamp": 346,
+              "end_timestamp": 348,
+              "content": "那么系统怎么验证"
+            },
+            {
+              "start_timestamp": 348,
+              "end_timestamp": 350,
+              "content": "搭建完你的系统之后"
+            },
+            {
+              "start_timestamp": 350,
+              "end_timestamp": 350,
+              "content": "第一关一致性"
+            },
+            {
+              "start_timestamp": 350,
+              "end_timestamp": 352,
+              "content": "你能不能每次都执行"
+            },
+            {
+              "start_timestamp": 352,
+              "end_timestamp": 353,
+              "content": "第二步是你的期望值"
+            },
+            {
+              "start_timestamp": 353,
+              "end_timestamp": 355,
+              "content": "从数学上来看"
+            },
+            {
+              "start_timestamp": 355,
+              "end_timestamp": 356,
+              "content": "统计上它能不能赚钱"
+            },
+            {
+              "start_timestamp": 356,
+              "end_timestamp": 360,
+              "content": "样本量你有没有足够的足够多的验证次数"
+            },
+            {
+              "start_timestamp": 360,
+              "end_timestamp": 364,
+              "content": "然后三关都过才叫一套能用的交易系统"
+            },
+            {
+              "start_timestamp": 364,
+              "end_timestamp": 367,
+              "content": "没有人这么教你去列自己交易系统吧"
+            },
+            {
+              "start_timestamp": 367,
+              "end_timestamp": 370,
+              "content": "我一点点讲给你听"
+            },
+            {
+              "start_timestamp": 370,
+              "end_timestamp": 371,
+              "content": "第一关一致性"
+            },
+            {
+              "start_timestamp": 371,
+              "end_timestamp": 373,
+              "content": "一个60分的执行100次"
+            },
+            {
+              "start_timestamp": 373,
+              "end_timestamp": 376,
+              "content": "胜过90分的系统执行十次"
+            },
+            {
+              "start_timestamp": 376,
+              "end_timestamp": 377,
+              "content": "因为在执行的过程当中"
+            },
+            {
+              "start_timestamp": 377,
+              "end_timestamp": 379,
+              "content": "我能够去回溯找到自己问题"
+            },
+            {
+              "start_timestamp": 379,
+              "end_timestamp": 382,
+              "content": "系统最重名最重要的属性不是聪明"
+            },
+            {
+              "start_timestamp": 382,
+              "end_timestamp": 383,
+              "content": "嘟嘟很聪明"
+            },
+            {
+              "start_timestamp": 383,
+              "end_timestamp": 387,
+              "content": "但是他的他的系统就完全是有问题的"
+            },
+            {
+              "start_timestamp": 387,
+              "end_timestamp": 387,
+              "content": "这个好"
+            },
+            {
+              "start_timestamp": 387,
+              "end_timestamp": 388,
+              "content": "今天用这个"
+            },
+            {
+              "start_timestamp": 388,
+              "end_timestamp": 389,
+              "content": "明天那个好"
+            },
+            {
+              "start_timestamp": 389,
+              "end_timestamp": 390,
+              "content": "用那个来"
+            },
+            {
+              "start_timestamp": 390,
+              "end_timestamp": 391,
+              "content": "为什么难"
+            },
+            {
+              "start_timestamp": 391,
+              "end_timestamp": 393,
+              "content": "每次破例都会带来一次"
+            },
+            {
+              "start_timestamp": 393,
+              "end_timestamp": 396,
+              "content": "这次不一样的合理化来修正"
+            },
+            {
+              "start_timestamp": 396,
+              "end_timestamp": 398,
+              "content": "检验方法是连续20笔交易"
+            },
+            {
+              "start_timestamp": 398,
+              "end_timestamp": 401,
+              "content": "有没有一笔是规则之外的"
+            },
+            {
+              "start_timestamp": 401,
+              "end_timestamp": 402,
+              "content": "我都看不懂"
+            },
+            {
+              "start_timestamp": 402,
+              "end_timestamp": 403,
+              "content": "我去做它"
+            },
+            {
+              "start_timestamp": 403,
+              "end_timestamp": 404,
+              "content": "你都看不懂"
+            },
+            {
+              "start_timestamp": 404,
+              "end_timestamp": 405,
+              "content": "你做它干什么"
+            },
+            {
+              "start_timestamp": 405,
+              "end_timestamp": 406,
+              "content": "破解的方式"
+            },
+            {
+              "start_timestamp": 406,
+              "end_timestamp": 408,
+              "content": "把规则贴在屏幕旁边"
+            },
+            {
+              "start_timestamp": 408,
+              "end_timestamp": 409,
+              "content": "破例就记一笔"
+            },
+            {
+              "start_timestamp": 409,
+              "end_timestamp": 412,
+              "content": "这一笔是记你自己的小黑本和小红本"
+            },
+            {
+              "start_timestamp": 412,
+              "end_timestamp": 416,
+              "content": "小红本记录是你做得好的部分"
+            },
+            {
+              "start_timestamp": 416,
+              "end_timestamp": 418,
+              "content": "小黑本就相当于我们有个错题本啊"
+            },
+            {
+              "start_timestamp": 418,
+              "end_timestamp": 421,
+              "content": "你一定是要有个错题本出来去回溯"
+            },
+            {
+              "start_timestamp": 421,
+              "end_timestamp": 423,
+              "content": "你的成绩怎么提升"
+            },
+            {
+              "start_timestamp": 423,
+              "end_timestamp": 425,
+              "content": "像上学时候一样"
+            },
+            {
+              "start_timestamp": 425,
+              "end_timestamp": 426,
+              "content": "把它当成一个事儿去干"
+            },
+            {
+              "start_timestamp": 426,
+              "end_timestamp": 429,
+              "content": "不要当成我满足个人交易欲望"
+            },
+            {
+              "start_timestamp": 429,
+              "end_timestamp": 432,
+              "content": "那么认知偏差不能够被消除"
+            },
+            {
+              "start_timestamp": 432,
+              "end_timestamp": 434,
+              "content": "但是能够被规则约束"
+            },
+            {
+              "start_timestamp": 434,
+              "end_timestamp": 438,
+              "content": "而一致性就是这套约束生效的证据"
+            },
+            {
+              "start_timestamp": 438,
+              "end_timestamp": 439,
+              "content": "是否能够达标"
+            },
+            {
+              "start_timestamp": 439,
+              "end_timestamp": 441,
+              "content": "第二关就是你的期望值"
+            },
+            {
+              "start_timestamp": 441,
+              "end_timestamp": 444,
+              "content": "你期待自己赚什么高胜率低"
+            },
+            {
+              "start_timestamp": 444,
+              "end_timestamp": 444,
+              "content": "盈亏比"
+            },
+            {
+              "start_timestamp": 444,
+              "end_timestamp": 447,
+              "content": "那么盈亏小低胜率高"
+            },
+            {
+              "start_timestamp": 447,
+              "end_timestamp": 451,
+              "content": "盈亏比记住最典型的是胜率很好啊"
+            },
+            {
+              "start_timestamp": 451,
+              "end_timestamp": 452,
+              "content": "盈亏比也还行"
+            },
+            {
+              "start_timestamp": 452,
+              "end_timestamp": 454,
+              "content": "但是你期望值是负的"
+            },
+            {
+              "start_timestamp": 454,
+              "end_timestamp": 457,
+              "content": "为什么胜率高不等于赚钱"
+            },
+            {
+              "start_timestamp": 457,
+              "end_timestamp": 459,
+              "content": "想没想清楚这个事儿就高"
+            },
+            {
+              "start_timestamp": 459,
+              "end_timestamp": 461,
+              "content": "胜率为什么不赚钱"
+            },
+            {
+              "start_timestamp": 461,
+              "end_timestamp": 463,
+              "content": "有没有朋友有这个疑问"
+            },
+            {
+              "start_timestamp": 463,
+              "end_timestamp": 465,
+              "content": "因为你的期望值是个负数"
+            },
+            {
+              "start_timestamp": 465,
+              "end_timestamp": 466,
+              "content": "理解了吗"
+            },
+            {
+              "start_timestamp": 466,
+              "end_timestamp": 468,
+              "content": "你高胜率今天做了"
+            },
+            {
+              "start_timestamp": 468,
+              "end_timestamp": 469,
+              "content": "明天明天就走"
+            },
+            {
+              "start_timestamp": 469,
+              "end_timestamp": 471,
+              "content": "结果呢情况会如何"
+            },
+            {
+              "start_timestamp": 471,
+              "end_timestamp": 474,
+              "content": "高胜率不等于能赚钱"
+            },
+            {
+              "start_timestamp": 474,
+              "end_timestamp": 476,
+              "content": "因为这套胜率你不一定能够买得进去"
+            },
+            {
+              "start_timestamp": 476,
+              "end_timestamp": 478,
+              "content": "你不一定能做得了"
+            },
+            {
+              "start_timestamp": 478,
+              "end_timestamp": 479,
+              "content": "这是关键点"
+            },
+            {
+              "start_timestamp": 480,
+              "end_timestamp": 484,
+              "content": "第三个地方叫系统性seven你的样本还够不够"
+            },
+            {
+              "start_timestamp": 484,
+              "end_timestamp": 487,
+              "content": "你至少要有20笔到30笔的实盘回测"
+            },
+            {
+              "start_timestamp": 487,
+              "end_timestamp": 489,
+              "content": "现在基本上大家都满足这个条件"
+            },
+            {
+              "start_timestamp": 489,
+              "end_timestamp": 491,
+              "content": "要去做回测"
+            },
+            {
+              "start_timestamp": 491,
+              "end_timestamp": 492,
+              "content": "要去回溯你的问题了"
+            },
+            {
+              "start_timestamp": 492,
+              "end_timestamp": 495,
+              "content": "朋友环境变了没有"
+            },
+            {
+              "start_timestamp": 495,
+              "end_timestamp": 497,
+              "content": "这套系统在什么样的市场环境下有效"
+            },
+            {
+              "start_timestamp": 497,
+              "end_timestamp": 499,
+              "content": "换到另一种环境是否还成立"
+            },
+            {
+              "start_timestamp": 499,
+              "end_timestamp": 501,
+              "content": "比方说我们做启动突破"
+            },
+            {
+              "start_timestamp": 501,
+              "end_timestamp": 502,
+              "content": "它在行情好的时候"
+            },
+            {
+              "start_timestamp": 502,
+              "end_timestamp": 505,
+              "content": "相对来说还不错的时候会爆发点"
+            },
+            {
+              "start_timestamp": 505,
+              "end_timestamp": 507,
+              "content": "但是如果单边下跌呢"
+            },
+            {
+              "start_timestamp": 507,
+              "end_timestamp": 509,
+              "content": "如果情绪极端呢"
+            },
+            {
+              "start_timestamp": 509,
+              "end_timestamp": 511,
+              "content": "你还秃吗"
+            },
+            {
+              "start_timestamp": 511,
+              "end_timestamp": 514,
+              "content": "你突一个挂一个突一个挂一个聊个锤子"
+            },
+            {
+              "start_timestamp": 515,
+              "end_timestamp": 516,
+              "content": "然后你能执行吗"
+            },
+            {
+              "start_timestamp": 516,
+              "end_timestamp": 518,
+              "content": "规则是写给理想的"
+            },
+            {
+              "start_timestamp": 518,
+              "end_timestamp": 519,
+              "content": "你还是写给真实的"
+            },
+            {
+              "start_timestamp": 519,
+              "end_timestamp": 522,
+              "content": "你写的太反人性"
+            },
+            {
+              "start_timestamp": 522,
+              "end_timestamp": 523,
+              "content": "你觉得我靠我牛逼"
+            },
+            {
+              "start_timestamp": 523,
+              "end_timestamp": 526,
+              "content": "我他妈把我当成一个神不可能的"
+            },
+            {
+              "start_timestamp": 526,
+              "end_timestamp": 528,
+              "content": "你的情绪在那摆着"
+            },
+            {
+              "start_timestamp": 528,
+              "end_timestamp": 529,
+              "content": "你会影响自己"
+            },
+            {
+              "start_timestamp": 529,
+              "end_timestamp": 530,
+              "content": "不要反人性"
+            },
+            {
+              "start_timestamp": 530,
+              "end_timestamp": 534,
+              "content": "你要明确的根据自己实际情况去给我写清楚"
+            },
+            {
+              "start_timestamp": 534,
+              "end_timestamp": 538,
+              "content": "列明白这三问当中有疑问"
+            },
+            {
+              "start_timestamp": 538,
+              "end_timestamp": 539,
+              "content": "答不上来就是草稿阶段"
+            },
+            {
+              "start_timestamp": 539,
+              "end_timestamp": 541,
+              "content": "不要去急着去加大隐藏位"
+            },
+            {
+              "start_timestamp": 541,
+              "end_timestamp": 546,
+              "content": "记住了什么样的情况下做什么样本要足够"
+            },
+            {
+              "start_timestamp": 546,
+              "end_timestamp": 548,
+              "content": "你现在样本是满足的情况"
+            },
+            {
+              "start_timestamp": 548,
+              "end_timestamp": 550,
+              "content": "是否改变这套系统做什么"
+            },
+            {
+              "start_timestamp": 550,
+              "end_timestamp": 551,
+              "content": "什么情况下去做"
+            },
+            {
+              "start_timestamp": 551,
+              "end_timestamp": 552,
+              "content": "你也能够知道"
+            },
+            {
+              "start_timestamp": 552,
+              "end_timestamp": 554,
+              "content": "但是最关键的是你能否执行"
+            },
+            {
+              "start_timestamp": 554,
+              "end_timestamp": 555,
+              "content": "你看罗辑的视频"
+            },
+            {
+              "start_timestamp": 555,
+              "end_timestamp": 556,
+              "content": "看到现在哇"
+            },
+            {
+              "start_timestamp": 556,
+              "end_timestamp": 558,
+              "content": "逻辑哥真牛逼"
+            },
+            {
+              "start_timestamp": 558,
+              "end_timestamp": 559,
+              "content": "我牛不牛逼"
+            },
+            {
+              "start_timestamp": 559,
+              "end_timestamp": 559,
+              "content": "不用你来点"
+            },
+            {
+              "start_timestamp": 559,
+              "end_timestamp": 561,
+              "content": "我就一个问题"
+            },
+            {
+              "start_timestamp": 561,
+              "end_timestamp": 562,
+              "content": "你能不能执行"
+            },
+            {
+              "start_timestamp": 562,
+              "end_timestamp": 564,
+              "content": "能不能做好你自己啊"
+            },
+            {
+              "start_timestamp": 564,
+              "end_timestamp": 565,
+              "content": "真实的你"
+            },
+            {
+              "start_timestamp": 565,
+              "end_timestamp": 567,
+              "content": "你不要给我虚假的你"
+            },
+            {
+              "start_timestamp": 567,
+              "end_timestamp": 569,
+              "content": "你不要每次他妈赚钱跟我说"
+            },
+            {
+              "start_timestamp": 569,
+              "end_timestamp": 570,
+              "content": "亏钱默不作声"
+            },
+            {
+              "start_timestamp": 570,
+              "end_timestamp": 572,
+              "content": "我要清楚的知道你是什么样的人"
+            },
+            {
+              "start_timestamp": 572,
+              "end_timestamp": 574,
+              "content": "最后三个常见的缺陷"
+            },
+            {
+              "start_timestamp": 574,
+              "end_timestamp": 575,
+              "content": "缺陷因只有进场"
+            },
+            {
+              "start_timestamp": 575,
+              "end_timestamp": 577,
+              "content": "没有出场规则之间相互冲突"
+            },
+            {
+              "start_timestamp": 577,
+              "end_timestamp": 579,
+              "content": "而规则写给的是理想的自己"
+            },
+            {
+              "start_timestamp": 579,
+              "end_timestamp": 581,
+              "content": "你一点都不真实"
+            },
+            {
+              "start_timestamp": 581,
+              "end_timestamp": 582,
+              "content": "只有进场规则"
+            },
+            {
+              "start_timestamp": 582,
+              "end_timestamp": 584,
+              "content": "买什么时候买"
+            },
+            {
+              "start_timestamp": 584,
+              "end_timestamp": 586,
+              "content": "买什么要写的很清楚"
+            },
+            {
+              "start_timestamp": 586,
+              "end_timestamp": 588,
+              "content": "然后什么时候卖亏了怎么办"
+            },
+            {
+              "start_timestamp": 588,
+              "end_timestamp": 590,
+              "content": "一片空白"
+            },
+            {
+              "start_timestamp": 590,
+              "end_timestamp": 591,
+              "content": "这是你的缺陷"
+            },
+            {
+              "start_timestamp": 591,
+              "end_timestamp": 593,
+              "content": "你只有买写得很明白"
+            },
+            {
+              "start_timestamp": 593,
+              "end_timestamp": 595,
+              "content": "卖呢写清楚了吗"
+            },
+            {
+              "start_timestamp": 595,
+              "end_timestamp": 597,
+              "content": "而规则有可能会互相冲突"
+            },
+            {
+              "start_timestamp": 597,
+              "end_timestamp": 601,
+              "content": "有兄弟会遇到跌破均线就止损和回调就加仓"
+            },
+            {
+              "start_timestamp": 601,
+              "end_timestamp": 602,
+              "content": "同时都写着"
+            },
+            {
+              "start_timestamp": 602,
+              "end_timestamp": 604,
+              "content": "但当它出现情况的时候"
+            },
+            {
+              "start_timestamp": 604,
+              "end_timestamp": 605,
+              "content": "应该怎么办"
+            },
+            {
+              "start_timestamp": 605,
+              "end_timestamp": 607,
+              "content": "如果你是跌破均线止损"
+            },
+            {
+              "start_timestamp": 607,
+              "end_timestamp": 609,
+              "content": "也就意味着资金没有回流"
+            },
+            {
+              "start_timestamp": 609,
+              "end_timestamp": 610,
+              "content": "如果你要回调加仓"
+            },
+            {
+              "start_timestamp": 610,
+              "end_timestamp": 613,
+              "content": "那么回调之后加仓的点在哪"
+            },
+            {
+              "start_timestamp": 613,
+              "end_timestamp": 617,
+              "content": "是在于资金回流板块带动的情况下才做"
+            },
+            {
+              "start_timestamp": 617,
+              "end_timestamp": 618,
+              "content": "你要做好预选"
+            },
+            {
+              "start_timestamp": 618,
+              "end_timestamp": 621,
+              "content": "另外不要写给理想的自己"
+            },
+            {
+              "start_timestamp": 621,
+              "end_timestamp": 622,
+              "content": "你规则是什么"
+            },
+            {
+              "start_timestamp": 622,
+              "end_timestamp": 623,
+              "content": "我有时间盯盘"
+            },
+            {
+              "start_timestamp": 623,
+              "end_timestamp": 624,
+              "content": "我能够一直看着他"
+            },
+            {
+              "start_timestamp": 624,
+              "end_timestamp": 628,
+              "content": "我能够比较早的发行市场的异动"
+            },
+            {
+              "start_timestamp": 629,
+              "end_timestamp": 630,
+              "content": "但你做不到"
+            },
+            {
+              "start_timestamp": 630,
+              "end_timestamp": 632,
+              "content": "你做不到"
+            },
+            {
+              "start_timestamp": 632,
+              "end_timestamp": 635,
+              "content": "你说我我我靠我我牛逼"
+            },
+            {
+              "start_timestamp": 635,
+              "end_timestamp": 637,
+              "content": "我这个地方我什么什么时间点跟谁谁谁"
+            },
+            {
+              "start_timestamp": 637,
+              "end_timestamp": 638,
+              "content": "怎么怎么说"
+            },
+            {
+              "start_timestamp": 638,
+              "end_timestamp": 641,
+              "content": "兄弟你看你的账户吧"
+            },
+            {
+              "start_timestamp": 641,
+              "end_timestamp": 643,
+              "content": "你别说你什么时候跟人说过"
+            },
+            {
+              "start_timestamp": 643,
+              "end_timestamp": 645,
+              "content": "我遇到很多人啊"
+            },
+            {
+              "start_timestamp": 645,
+              "end_timestamp": 647,
+              "content": "遇到过非常非常多"
+            },
+            {
+              "start_timestamp": 647,
+              "end_timestamp": 651,
+              "content": "从我入这一行开始接触到今接触股票"
+            },
+            {
+              "start_timestamp": 651,
+              "end_timestamp": 652,
+              "content": "到后来入行"
+            },
+            {
+              "start_timestamp": 652,
+              "end_timestamp": 654,
+              "content": "从券商也好"
+            },
+            {
+              "start_timestamp": 654,
+              "end_timestamp": 654,
+              "content": "机构也好"
+            },
+            {
+              "start_timestamp": 654,
+              "end_timestamp": 655,
+              "content": "包括投顾也好"
+            },
+            {
+              "start_timestamp": 655,
+              "end_timestamp": 657,
+              "content": "很多人都问我说过"
+            },
+            {
+              "start_timestamp": 657,
+              "end_timestamp": 657,
+              "content": "老师"
+            },
+            {
+              "start_timestamp": 657,
+              "end_timestamp": 660,
+              "content": "我曾经什么什么时间点跟谁谁谁说过什么票"
+            },
+            {
+              "start_timestamp": 660,
+              "end_timestamp": 661,
+              "content": "我说你别跟我废话"
+            },
+            {
+              "start_timestamp": 661,
+              "end_timestamp": 662,
+              "content": "拿出你的交割单"
+            },
+            {
+              "start_timestamp": 662,
+              "end_timestamp": 664,
+              "content": "别吹这个牛逼"
+            },
+            {
+              "start_timestamp": 664,
+              "end_timestamp": 666,
+              "content": "那这种人是什么理想型的"
+            },
+            {
+              "start_timestamp": 666,
+              "end_timestamp": 669,
+              "content": "自己曾经跟谁谁谁聊过"
+            },
+            {
+              "start_timestamp": 669,
+              "end_timestamp": 672,
+              "content": "但记住把你的方规则全部写下来"
+            },
+            {
+              "start_timestamp": 672,
+              "end_timestamp": 674,
+              "content": "看看出场相关的占了几条"
+            },
+            {
+              "start_timestamp": 674,
+              "end_timestamp": 676,
+              "content": "记住不要理想型"
+            },
+            {
+              "start_timestamp": 676,
+              "end_timestamp": 677,
+              "content": "你不要跟我聊理想化的"
+            },
+            {
+              "start_timestamp": 677,
+              "end_timestamp": 680,
+              "content": "你要明确的认识到自己"
+            },
+            {
+              "start_timestamp": 680,
+              "end_timestamp": 682,
+              "content": "我哪没做好"
+            },
+            {
+              "start_timestamp": 682,
+              "end_timestamp": 684,
+              "content": "我要去回想自己的问题"
+            },
+            {
+              "start_timestamp": 684,
+              "end_timestamp": 687,
+              "content": "比方说有朋友说我次新看的很早啊"
+            },
+            {
+              "start_timestamp": 687,
+              "end_timestamp": 690,
+              "content": "鸡哥跟我聊了这个次新方向有这个可能性对吧"
+            },
+            {
+              "start_timestamp": 690,
+              "end_timestamp": 691,
+              "content": "我就去挖掘"
+            },
+            {
+              "start_timestamp": 691,
+              "end_timestamp": 693,
+              "content": "挖掘完了之后"
+            },
+            {
+              "start_timestamp": 694,
+              "end_timestamp": 696,
+              "content": "在9月16号就裂了"
+            },
+            {
+              "start_timestamp": 696,
+              "end_timestamp": 698,
+              "content": "哎这个次星我都买不了"
+            },
+            {
+              "start_timestamp": 698,
+              "end_timestamp": 699,
+              "content": "转过头"
+            },
+            {
+              "start_timestamp": 699,
+              "end_timestamp": 701,
+              "content": "9月17主板来了"
+            },
+            {
+              "start_timestamp": 701,
+              "end_timestamp": 703,
+              "content": "还是做不了"
+            },
+            {
+              "start_timestamp": 703,
+              "end_timestamp": 705,
+              "content": "为什么以为次新只有688"
+            },
+            {
+              "start_timestamp": 705,
+              "end_timestamp": 707,
+              "content": "只有300"
+            },
+            {
+              "start_timestamp": 707,
+              "end_timestamp": 709,
+              "content": "就这个疑问啊"
+            },
+            {
+              "start_timestamp": 709,
+              "end_timestamp": 712,
+              "content": "另外记住这是常见的缺陷"
+            },
+            {
+              "start_timestamp": 712,
+              "end_timestamp": 713,
+              "content": "好好做事"
+            },
+            {
+              "start_timestamp": 713,
+              "end_timestamp": 715,
+              "content": "缺陷当中只有进场没有出场"
+            },
+            {
+              "start_timestamp": 715,
+              "end_timestamp": 716,
+              "content": "这是问题"
+            },
+            {
+              "start_timestamp": 716,
+              "end_timestamp": 717,
+              "content": "截个图"
+            },
+            {
+              "start_timestamp": 717,
+              "end_timestamp": 722,
+              "content": "记住任何时候都要把从进到出列明白列清楚"
+            },
+            {
+              "start_timestamp": 722,
+              "end_timestamp": 723,
+              "content": "然后呢"
+            },
+            {
+              "start_timestamp": 723,
+              "end_timestamp": 727,
+              "content": "规则当中最大的问题不在于这不是这一个"
+            },
+            {
+              "start_timestamp": 727,
+              "end_timestamp": 731,
+              "content": "是你很容易出现回调和跌破均线止损"
+            },
+            {
+              "start_timestamp": 731,
+              "end_timestamp": 733,
+              "content": "如果回流"
+            },
+            {
+              "start_timestamp": 733,
+              "end_timestamp": 734,
+              "content": "如果资金回流"
+            },
+            {
+              "start_timestamp": 734,
+              "end_timestamp": 736,
+              "content": "也就意味着它是一个回踩点"
+            },
+            {
+              "start_timestamp": 736,
+              "end_timestamp": 739,
+              "content": "不是你的离场点好"
+            },
+            {
+              "start_timestamp": 739,
+              "end_timestamp": 741,
+              "content": "那么七步去建立你的模板"
+            },
+            {
+              "start_timestamp": 741,
+              "end_timestamp": 743,
+              "content": "从定位到复盘"
+            },
+            {
+              "start_timestamp": 743,
+              "end_timestamp": 744,
+              "content": "一步一步的给我填完"
+            },
+            {
+              "start_timestamp": 744,
+              "end_timestamp": 746,
+              "content": "每一步都会给你一个填空填"
+            },
+            {
+              "start_timestamp": 746,
+              "end_timestamp": 748,
+              "content": "填完就是你的系统初稿"
+            },
+            {
+              "start_timestamp": 748,
+              "end_timestamp": 749,
+              "content": "初稿不算数"
+            },
+            {
+              "start_timestamp": 749,
+              "end_timestamp": 751,
+              "content": "再跑20笔"
+            },
+            {
+              "start_timestamp": 751,
+              "end_timestamp": 752,
+              "content": "再迭代这一页"
+            },
+            {
+              "start_timestamp": 752,
+              "end_timestamp": 755,
+              "content": "建议截图保存这个地方"
+            },
+            {
+              "start_timestamp": 755,
+              "end_timestamp": 760,
+              "content": "截图截图定位当中资金属性"
+            },
+            {
+              "start_timestamp": 760,
+              "end_timestamp": 762,
+              "content": "你的钱是怎么个情况"
+            },
+            {
+              "start_timestamp": 762,
+              "end_timestamp": 764,
+              "content": "用多久"
+            },
+            {
+              "start_timestamp": 764,
+              "end_timestamp": 767,
+              "content": "然后盯盘时间能连续扛连亏几次"
+            },
+            {
+              "start_timestamp": 767,
+              "end_timestamp": 769,
+              "content": "标题词当中入池的条件"
+            },
+            {
+              "start_timestamp": 769,
+              "end_timestamp": 772,
+              "content": "初始条件以及数数量上限"
+            },
+            {
+              "start_timestamp": 772,
+              "end_timestamp": 772,
+              "content": "我到底要看多少"
+            },
+            {
+              "start_timestamp": 772,
+              "end_timestamp": 776,
+              "content": "支票买入条件必须同时满足什么仓位"
+            },
+            {
+              "start_timestamp": 776,
+              "end_timestamp": 776,
+              "content": "规则是什么"
+            },
+            {
+              "start_timestamp": 776,
+              "end_timestamp": 777,
+              "content": "止损规则是什么"
+            },
+            {
+              "start_timestamp": 777,
+              "end_timestamp": 778,
+              "content": "止盈规则"
+            },
+            {
+              "start_timestamp": 778,
+              "end_timestamp": 782,
+              "content": "复盘迭代自己至少每个月至少要改一条啊"
+            },
+            {
+              "start_timestamp": 782,
+              "end_timestamp": 784,
+              "content": "至少要改出改出来一条"
+            },
+            {
+              "start_timestamp": 784,
+              "end_timestamp": 786,
+              "content": "最搭建完之后记住三句话"
+            },
+            {
+              "start_timestamp": 786,
+              "end_timestamp": 788,
+              "content": "填完只是开始"
+            },
+            {
+              "start_timestamp": 788,
+              "end_timestamp": 793,
+              "content": "跑完之后再去验收我是否完成了任务"
+            },
+            {
+              "start_timestamp": 793,
+              "end_timestamp": 794,
+              "content": "少即是多"
+            },
+            {
+              "start_timestamp": 794,
+              "end_timestamp": 798,
+              "content": "七条组件当中每个写两到三条"
+            },
+            {
+              "start_timestamp": 798,
+              "end_timestamp": 802,
+              "content": "写完加起来有二三十条的要求和规则了"
+            },
+            {
+              "start_timestamp": 802,
+              "end_timestamp": 804,
+              "content": "你基本上就能够记住"
+            },
+            {
+              "start_timestamp": 804,
+              "end_timestamp": 805,
+              "content": "别写那么多啊"
+            },
+            {
+              "start_timestamp": 805,
+              "end_timestamp": 807,
+              "content": "别写那么多"
+            },
+            {
+              "start_timestamp": 808,
+              "end_timestamp": 809,
+              "content": "写多了之后"
+            },
+            {
+              "start_timestamp": 809,
+              "end_timestamp": 812,
+              "content": "你会选择性的就像看票一样对吧"
+            },
+            {
+              "start_timestamp": 812,
+              "end_timestamp": 812,
+              "content": "你看了20个票"
+            },
+            {
+              "start_timestamp": 812,
+              "end_timestamp": 813,
+              "content": "30个票"
+            },
+            {
+              "start_timestamp": 813,
+              "end_timestamp": 816,
+              "content": "最后你选择能做的只有一个两个"
+            },
+            {
+              "start_timestamp": 816,
+              "end_timestamp": 819,
+              "content": "最后记住先小后大"
+            },
+            {
+              "start_timestamp": 819,
+              "end_timestamp": 821,
+              "content": "确定一致性之后再谈加仓"
+            },
+            {
+              "start_timestamp": 821,
+              "end_timestamp": 822,
+              "content": "你跑顺了"
+            },
+            {
+              "start_timestamp": 822,
+              "end_timestamp": 824,
+              "content": "跑通了再去做什么"
+            },
+            {
+              "start_timestamp": 824,
+              "end_timestamp": 827,
+              "content": "最后系统它的价值不在于让你赚更多"
+            },
+            {
+              "start_timestamp": 827,
+              "end_timestamp": 828,
+              "content": "而是在于让你知道自己"
+            },
+            {
+              "start_timestamp": 828,
+              "end_timestamp": 830,
+              "content": "在明确的知道自己在做什么"
+            },
+            {
+              "start_timestamp": 830,
+              "end_timestamp": 835,
+              "content": "至少每一天我都能够明确自己到底哪做好了"
+            },
+            {
+              "start_timestamp": 835,
+              "end_timestamp": 836,
+              "content": "哪儿没做好"
+            },
+            {
+              "start_timestamp": 836,
+              "end_timestamp": 837,
+              "content": "我可以回溯"
+            },
+            {
+              "start_timestamp": 837,
+              "end_timestamp": 838,
+              "content": "可以找到自己的问题"
+            },
+            {
+              "start_timestamp": 838,
+              "end_timestamp": 842,
+              "content": "这也是我希望未来我带着大家分享的内容"
+            },
+            {
+              "start_timestamp": 842,
+              "end_timestamp": 847,
+              "content": "能够带给你们那么认知税第一季全回顾囊当中"
+            },
+            {
+              "start_timestamp": 847,
+              "end_timestamp": 849,
+              "content": "除了牛市点火器当中"
+            },
+            {
+              "start_timestamp": 849,
+              "end_timestamp": 850,
+              "content": "当前现在不聊"
+            },
+            {
+              "start_timestamp": 850,
+              "end_timestamp": 852,
+              "content": "因为牛市已经爆发过"
+            },
+            {
+              "start_timestamp": 852,
+              "end_timestamp": 855,
+              "content": "那么下一次再去跟你去聊什么呢"
+            },
+            {
+              "start_timestamp": 855,
+              "end_timestamp": 856,
+              "content": "聊五因子啊"
+            },
+            {
+              "start_timestamp": 856,
+              "end_timestamp": 858,
+              "content": "牛市点火器五个内容"
+            },
+            {
+              "start_timestamp": 858,
+              "end_timestamp": 863,
+              "content": "这篇核心点内容有任何问题随时跟我讲"
+            },
+            {
+              "start_timestamp": 863,
+              "end_timestamp": 865,
+              "content": "有不明白的随时再跟我说好吧"
+            },
+            {
+              "start_timestamp": 865,
+              "end_timestamp": 869,
+              "content": "各位以上所有内容这一季到此为止"
+            },
+            {
+              "start_timestamp": 869,
+              "end_timestamp": 870,
+              "content": "但认知税还没有交完"
+            },
+            {
+              "start_timestamp": 870,
+              "end_timestamp": 872,
+              "content": "这一季最想说的就一句话"
+            },
+            {
+              "start_timestamp": 872,
+              "end_timestamp": 875,
+              "content": "散户亏的钱大部分不是交给市场"
+            },
+            {
+              "start_timestamp": 875,
+              "end_timestamp": 879,
+              "content": "而是交给自己的认知盲区"
+            },
+            {
+              "start_timestamp": 879,
+              "end_timestamp": 883,
+              "content": "那么下一季内容当中会把这一套系统拿去跑"
+            },
+            {
+              "start_timestamp": 883,
+              "end_timestamp": 884,
+              "content": "真实场景"
+            },
+            {
+              "start_timestamp": 884,
+              "end_timestamp": 885,
+              "content": "一关一关去验证"
+            },
+            {
+              "start_timestamp": 885,
+              "end_timestamp": 888,
+              "content": "也欢迎在评论区当中留下"
+            },
+            {
+              "start_timestamp": 888,
+              "end_timestamp": 889,
+              "content": "你填完了七模板"
+            },
+            {
+              "start_timestamp": 889,
+              "end_timestamp": 891,
+              "content": "我挑一些大家一起讨论"
+            },
+            {
+              "start_timestamp": 891,
+              "end_timestamp": 893,
+              "content": "如果认为这个系列对你有用"
+            },
+            {
+              "start_timestamp": 893,
+              "end_timestamp": 893,
+              "content": "点个关注"
+            },
+            {
+              "start_timestamp": 893,
+              "end_timestamp": 896,
+              "content": "下一期我们继续向上而行"
+            },
+            {
+              "start_timestamp": 896,
+              "end_timestamp": 899,
+              "content": "也希望在未来时间点"
+            },
+            {
+              "start_timestamp": 899,
+              "end_timestamp": 902,
+              "content": "逻辑哥能陪伴大家更多更长的时间"
+            },
+            {
+              "start_timestamp": 902,
+              "end_timestamp": 904,
+              "content": "给到大家东西好吧"
+            },
+            {
+              "start_timestamp": 904,
+              "end_timestamp": 906,
+              "content": "给大家更多更好的内容好吧"
+            },
+            {
+              "start_timestamp": 906,
+              "end_timestamp": 908,
+              "content": "各位爱你们"
+            }
+          ],
+          "timestamp": 4
+        }
+      ]
+    },
+    "stid": "1403445733868648118",
+    "status": 0,
+    "like_num": 0,
+    "dislike_num": 0
+  }
+}

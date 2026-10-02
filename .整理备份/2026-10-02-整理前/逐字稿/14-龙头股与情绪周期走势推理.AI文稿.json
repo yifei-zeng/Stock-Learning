@@ -1,0 +1,1452 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "code": 0,
+    "model_result": {
+      "result_type": 2,
+      "summary": "龙头股与情绪周期的走势推理，通过案例分析共振、主流板块及情绪容纳品种的形成过程，强调指数与板块的联动性，指出龙头股如何通过连板、爆量等形态带动行情，并需结合市场情绪阶段判断。核心要点包括共振阶段、主流板块筛选及龙头股对情绪周期的反馈作用，建议通过历史案例举一反三提升实战能力。",
+      "outline": [
+        {
+          "title": "龙头股与情绪周期共振分析",
+          "part_outline": [
+            {
+              "timestamp": 113,
+              "content": "龙头股在指数共振阶段伴随板块强势形成正反馈"
+            },
+            {
+              "timestamp": 223,
+              "content": "主流板块与指数同步上涨推动市场整体赚钱效应"
+            },
+            {
+              "timestamp": 316,
+              "content": "情绪周期四阶段通过龙头股与主流方向逐步验证"
+            }
+          ],
+          "timestamp": 1
+        },
+        {
+          "title": "龙头股共振情绪周期主升",
+          "part_outline": [
+            {
+              "timestamp": 468,
+              "content": "龙头股首板启动带动板块与指数共振上涨"
+            },
+            {
+              "timestamp": 518,
+              "content": "爆量弱转强持续涨停与板块情绪完全同步"
+            },
+            {
+              "timestamp": 620,
+              "content": "龙头股断板引发市场调整反映情绪周期阶段"
+            }
+          ],
+          "timestamp": 397
+        }
+      ],
+      "subtitle": [
+        {
+          "title": "",
+          "part_subtitle": [
+            {
+              "start_timestamp": 1,
+              "end_timestamp": 2,
+              "content": "大家应该会发现哈"
+            },
+            {
+              "start_timestamp": 2,
+              "end_timestamp": 7,
+              "content": "每隔一段时间都会有各个阶段的龙头股"
+            },
+            {
+              "start_timestamp": 7,
+              "end_timestamp": 11,
+              "content": "有的龙头股是以短线连板形态产生的"
+            },
+            {
+              "start_timestamp": 11,
+              "end_timestamp": 16,
+              "content": "有的龙头股是以趋势型容量品种产生的啊"
+            },
+            {
+              "start_timestamp": 16,
+              "end_timestamp": 17,
+              "content": "各种走势都有"
+            },
+            {
+              "start_timestamp": 17,
+              "end_timestamp": 20,
+              "content": "那么在过去一段时间啊"
+            },
+            {
+              "start_timestamp": 20,
+              "end_timestamp": 22,
+              "content": "包括咱们的视频评论区也好"
+            },
+            {
+              "start_timestamp": 22,
+              "end_timestamp": 24,
+              "content": "后台私信也好"
+            },
+            {
+              "start_timestamp": 24,
+              "end_timestamp": 25,
+              "content": "我发现一个问题啊"
+            },
+            {
+              "start_timestamp": 25,
+              "end_timestamp": 33,
+              "content": "就是很多群友可能并不能很好的推理出一只龙头股是怎么产生的"
+            },
+            {
+              "start_timestamp": 33,
+              "end_timestamp": 35,
+              "content": "所以今天就来聊一个内容"
+            },
+            {
+              "start_timestamp": 35,
+              "end_timestamp": 40,
+              "content": "关于龙头股和情绪周期的走势推理"
+            },
+            {
+              "start_timestamp": 40,
+              "end_timestamp": 41,
+              "content": "在这个情绪周期内"
+            },
+            {
+              "start_timestamp": 41,
+              "end_timestamp": 45,
+              "content": "龙头股是怎么样一步一步产生的"
+            },
+            {
+              "start_timestamp": 45,
+              "end_timestamp": 47,
+              "content": "我们今天就来推理这个内容"
+            },
+            {
+              "start_timestamp": 47,
+              "end_timestamp": 51,
+              "content": "那么在开始之前先提个醒哈"
+            },
+            {
+              "start_timestamp": 51,
+              "end_timestamp": 54,
+              "content": "呃这个今天的视频会有一个案例"
+            },
+            {
+              "start_timestamp": 54,
+              "end_timestamp": 56,
+              "content": "这个案例先说好"
+            },
+            {
+              "start_timestamp": 56,
+              "end_timestamp": 60,
+              "content": "免责说明我这里打下来吧"
+            },
+            {
+              "start_timestamp": 61,
+              "end_timestamp": 66,
+              "content": "仅为分享分析所用"
+            },
+            {
+              "start_timestamp": 67,
+              "end_timestamp": 74,
+              "content": "哎所用对应案例从未参与啊"
+            },
+            {
+              "start_timestamp": 74,
+              "end_timestamp": 79,
+              "content": "这个大家要知道不是说我做了做了这次这个这个案例"
+            },
+            {
+              "start_timestamp": 79,
+              "end_timestamp": 80,
+              "content": "然后我来吹"
+            },
+            {
+              "start_timestamp": 80,
+              "end_timestamp": 81,
+              "content": "我来说不是的啊"
+            },
+            {
+              "start_timestamp": 81,
+              "end_timestamp": 83,
+              "content": "我从未参与好吧"
+            },
+            {
+              "start_timestamp": 83,
+              "end_timestamp": 86,
+              "content": "然后咱们就来拿这个案例来分析一下"
+            },
+            {
+              "start_timestamp": 87,
+              "end_timestamp": 88,
+              "content": "首先第一个内容"
+            },
+            {
+              "start_timestamp": 88,
+              "end_timestamp": 89,
+              "content": "什么叫共振啊"
+            },
+            {
+              "start_timestamp": 89,
+              "end_timestamp": 92,
+              "content": "啊各位群友有记得呃"
+            },
+            {
+              "start_timestamp": 92,
+              "end_timestamp": 94,
+              "content": "当时我是怎么聊共振的呀"
+            },
+            {
+              "start_timestamp": 94,
+              "end_timestamp": 96,
+              "content": "啊我们先来看指数哈"
+            },
+            {
+              "start_timestamp": 96,
+              "end_timestamp": 100,
+              "content": "我们打开这个创业板指"
+            },
+            {
+              "start_timestamp": 100,
+              "end_timestamp": 102,
+              "content": "大家最好是在电脑前啊"
+            },
+            {
+              "start_timestamp": 102,
+              "end_timestamp": 105,
+              "content": "创业板指我们打开创业板纸之后"
+            },
+            {
+              "start_timestamp": 105,
+              "end_timestamp": 109,
+              "content": "8月是不是见底反弹了一波呀"
+            },
+            {
+              "start_timestamp": 109,
+              "end_timestamp": 113,
+              "content": "在这个阶段我们拉开这一波的创业板指反弹啊"
+            },
+            {
+              "start_timestamp": 113,
+              "end_timestamp": 117,
+              "content": "从2026年8月4日"
+            },
+            {
+              "start_timestamp": 117,
+              "end_timestamp": 122,
+              "content": "创业板指出现底部的第一根大阳线"
+            },
+            {
+              "start_timestamp": 122,
+              "end_timestamp": 123,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 123,
+              "end_timestamp": 125,
+              "content": "然后持续反弹了一波"
+            },
+            {
+              "start_timestamp": 125,
+              "end_timestamp": 128,
+              "content": "大家先不用去管这一波反弹了什么"
+            },
+            {
+              "start_timestamp": 128,
+              "end_timestamp": 130,
+              "content": "我大家这个叫什么"
+            },
+            {
+              "start_timestamp": 130,
+              "end_timestamp": 135,
+              "content": "这里是不是大概率会出现一个很强很强的板块"
+            },
+            {
+              "start_timestamp": 135,
+              "end_timestamp": 136,
+              "content": "能理解吗"
+            },
+            {
+              "start_timestamp": 136,
+              "end_timestamp": 137,
+              "content": "因为指数这么强"
+            },
+            {
+              "start_timestamp": 137,
+              "end_timestamp": 140,
+              "content": "他肯定有一个某一个板块也很强嘛"
+            },
+            {
+              "start_timestamp": 140,
+              "end_timestamp": 141,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 141,
+              "end_timestamp": 145,
+              "content": "那么8月4日是第一根大阳线"
+            },
+            {
+              "start_timestamp": 145,
+              "end_timestamp": 146,
+              "content": "我们会发现啊"
+            },
+            {
+              "start_timestamp": 146,
+              "end_timestamp": 151,
+              "content": "当时有一个这个创新要方向"
+            },
+            {
+              "start_timestamp": 151,
+              "end_timestamp": 153,
+              "content": "8月10日在这里"
+            },
+            {
+              "start_timestamp": 153,
+              "end_timestamp": 157,
+              "content": "这一根是不是我把他拉拉下来一点"
+            },
+            {
+              "start_timestamp": 157,
+              "end_timestamp": 159,
+              "content": "然后这样啊把均线删掉"
+            },
+            {
+              "start_timestamp": 159,
+              "end_timestamp": 163,
+              "content": "大家看看这里最右边这里这个就是8月4号"
+            },
+            {
+              "start_timestamp": 164,
+              "end_timestamp": 170,
+              "content": "各位群友这个叫什么共振共振"
+            },
+            {
+              "start_timestamp": 171,
+              "end_timestamp": 173,
+              "content": "所以什么叫共振"
+            },
+            {
+              "start_timestamp": 174,
+              "end_timestamp": 176,
+              "content": "这里是不是就已经很很明确了"
+            },
+            {
+              "start_timestamp": 176,
+              "end_timestamp": 180,
+              "content": "指数指数大涨"
+            },
+            {
+              "start_timestamp": 180,
+              "end_timestamp": 191,
+              "content": "当天能蹲着或者或者带动指数上涨的板块就叫共振"
+            },
+            {
+              "start_timestamp": 191,
+              "end_timestamp": 194,
+              "content": "那么这一天一般情况上啊"
+            },
+            {
+              "start_timestamp": 194,
+              "end_timestamp": 196,
+              "content": "其他方向也不能跌啊"
+            },
+            {
+              "start_timestamp": 196,
+              "end_timestamp": 198,
+              "content": "就是它可以小幅上涨"
+            },
+            {
+              "start_timestamp": 198,
+              "end_timestamp": 199,
+              "content": "可以不涨不跌"
+            },
+            {
+              "start_timestamp": 199,
+              "end_timestamp": 202,
+              "content": "也可以大涨都可以啊"
+            },
+            {
+              "start_timestamp": 202,
+              "end_timestamp": 204,
+              "content": "但是如果说有个别方向大跌"
+            },
+            {
+              "start_timestamp": 204,
+              "end_timestamp": 206,
+              "content": "然后这边再大涨也不好说是公正"
+            },
+            {
+              "start_timestamp": 209,
+              "end_timestamp": 210,
+              "content": "明白吗"
+            },
+            {
+              "start_timestamp": 210,
+              "end_timestamp": 214,
+              "content": "那么共振理论上就是整个市场你找不到什么缺点"
+            },
+            {
+              "start_timestamp": 214,
+              "end_timestamp": 216,
+              "content": "要成交量有成交量"
+            },
+            {
+              "start_timestamp": 216,
+              "end_timestamp": 220,
+              "content": "然后整体整个市场的一个赚钱效益也很好"
+            },
+            {
+              "start_timestamp": 220,
+              "end_timestamp": 221,
+              "content": "没有说什么光伏在涨"
+            },
+            {
+              "start_timestamp": 221,
+              "end_timestamp": 223,
+              "content": "然后你锂电池在砸没有"
+            },
+            {
+              "start_timestamp": 223,
+              "end_timestamp": 226,
+              "content": "这样子啊就都基本都在涨"
+            },
+            {
+              "start_timestamp": 226,
+              "end_timestamp": 228,
+              "content": "这个比较好定共振"
+            },
+            {
+              "start_timestamp": 228,
+              "end_timestamp": 229,
+              "content": "那么好共振"
+            },
+            {
+              "start_timestamp": 229,
+              "end_timestamp": 230,
+              "content": "我们理解了"
+            },
+            {
+              "start_timestamp": 230,
+              "end_timestamp": 232,
+              "content": "我们再往下推啊"
+            },
+            {
+              "start_timestamp": 232,
+              "end_timestamp": 235,
+              "content": "第二个问题叫什么叫主流哈"
+            },
+            {
+              "start_timestamp": 235,
+              "end_timestamp": 237,
+              "content": "我们再往下推"
+            },
+            {
+              "start_timestamp": 237,
+              "end_timestamp": 245,
+              "content": "我们先看指数在这里是不是持续的连续的慢慢的反弹了一段时间"
+            },
+            {
+              "start_timestamp": 245,
+              "end_timestamp": 248,
+              "content": "从8月4号到8月18号"
+            },
+            {
+              "start_timestamp": 248,
+              "end_timestamp": 250,
+              "content": "这里应该是十"
+            },
+            {
+              "start_timestamp": 250,
+              "end_timestamp": 252,
+              "content": "我算一下五天"
+            },
+            {
+              "start_timestamp": 252,
+              "end_timestamp": 253,
+              "content": "再加五天"
+            },
+            {
+              "start_timestamp": 253,
+              "end_timestamp": 255,
+              "content": "11个交易日"
+            },
+            {
+              "start_timestamp": 255,
+              "end_timestamp": 257,
+              "content": "我们我们写下来吧"
+            },
+            {
+              "start_timestamp": 259,
+              "end_timestamp": 263,
+              "content": "在后面写在这前面写11个好"
+            },
+            {
+              "start_timestamp": 263,
+              "end_timestamp": 270,
+              "content": "这里指数出现了11个交易交易日的一个缓慢反弹"
+            },
+            {
+              "start_timestamp": 270,
+              "end_timestamp": 272,
+              "content": "在这一个指数这么强的背景"
+            },
+            {
+              "start_timestamp": 272,
+              "end_timestamp": 275,
+              "content": "我们是不是可以推理出有一个方向特别强"
+            },
+            {
+              "start_timestamp": 275,
+              "end_timestamp": 278,
+              "content": "刚才说了CRO共振"
+            },
+            {
+              "start_timestamp": 278,
+              "end_timestamp": 279,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 279,
+              "end_timestamp": 280,
+              "content": "CRO共振"
+            },
+            {
+              "start_timestamp": 280,
+              "end_timestamp": 287,
+              "content": "然后呢整体是不是跟指数很像的一个走势啊"
+            },
+            {
+              "start_timestamp": 287,
+              "end_timestamp": 292,
+              "content": "有没有发现它不断的在慢慢加强"
+            },
+            {
+              "start_timestamp": 292,
+              "end_timestamp": 298,
+              "content": "这个就是不断的给指数产生一个正反馈"
+            },
+            {
+              "start_timestamp": 299,
+              "end_timestamp": 302,
+              "content": "因为其他方向整个市场的资金看到哦"
+            },
+            {
+              "start_timestamp": 302,
+              "end_timestamp": 305,
+              "content": "原来你创新要走这么强"
+            },
+            {
+              "start_timestamp": 305,
+              "end_timestamp": 307,
+              "content": "所以我其他也敢做"
+            },
+            {
+              "start_timestamp": 307,
+              "end_timestamp": 309,
+              "content": "整个市场的情绪上扬"
+            },
+            {
+              "start_timestamp": 309,
+              "end_timestamp": 313,
+              "content": "那么这个板块就是什么"
+            },
+            {
+              "start_timestamp": 313,
+              "end_timestamp": 316,
+              "content": "就是主流啊"
+            },
+            {
+              "start_timestamp": 316,
+              "end_timestamp": 322,
+              "content": "就是主流带动带动指数"
+            },
+            {
+              "start_timestamp": 322,
+              "end_timestamp": 328,
+              "content": "带动板块不断产生赚钱效应的方向"
+            },
+            {
+              "start_timestamp": 328,
+              "end_timestamp": 332,
+              "content": "只就叫主流"
+            },
+            {
+              "start_timestamp": 333,
+              "end_timestamp": 334,
+              "content": "能理解吗"
+            },
+            {
+              "start_timestamp": 334,
+              "end_timestamp": 338,
+              "content": "啊你们如果说你们可以自己打开电脑哈"
+            },
+            {
+              "start_timestamp": 338,
+              "end_timestamp": 341,
+              "content": "把这个CRO板块跟这个哎我这样子吧"
+            },
+            {
+              "start_timestamp": 341,
+              "end_timestamp": 342,
+              "content": "稍等我一下"
+            },
+            {
+              "start_timestamp": 342,
+              "end_timestamp": 344,
+              "content": "我把这这个样子好吧"
+            },
+            {
+              "start_timestamp": 347,
+              "end_timestamp": 349,
+              "content": "这咱们这样子看啊"
+            },
+            {
+              "start_timestamp": 349,
+              "end_timestamp": 353,
+              "content": "从8月4日到8月18日"
+            },
+            {
+              "start_timestamp": 353,
+              "end_timestamp": 356,
+              "content": "这个是关于这个是东财的啊"
+            },
+            {
+              "start_timestamp": 357,
+              "end_timestamp": 358,
+              "content": "啊这样子看能看得清吗"
+            },
+            {
+              "start_timestamp": 360,
+              "end_timestamp": 363,
+              "content": "这里啊这一根对应这一根"
+            },
+            {
+              "start_timestamp": 363,
+              "end_timestamp": 364,
+              "content": "第二根"
+            },
+            {
+              "start_timestamp": 364,
+              "end_timestamp": 366,
+              "content": "你看指数是不是还上涨了"
+            },
+            {
+              "start_timestamp": 366,
+              "end_timestamp": 367,
+              "content": "这个也上涨"
+            },
+            {
+              "start_timestamp": 367,
+              "end_timestamp": 370,
+              "content": "第三根指数冲高回落调整"
+            },
+            {
+              "start_timestamp": 370,
+              "end_timestamp": 372,
+              "content": "第四根指数跳空上涨"
+            },
+            {
+              "start_timestamp": 372,
+              "end_timestamp": 373,
+              "content": "大大阳"
+            },
+            {
+              "start_timestamp": 373,
+              "end_timestamp": 376,
+              "content": "此后指数连续涨了几天"
+            },
+            {
+              "start_timestamp": 376,
+              "end_timestamp": 377,
+              "content": "CRO就涨了几天"
+            },
+            {
+              "start_timestamp": 377,
+              "end_timestamp": 379,
+              "content": "这就算公正了"
+            },
+            {
+              "start_timestamp": 379,
+              "end_timestamp": 380,
+              "content": "明白了吧"
+            },
+            {
+              "start_timestamp": 380,
+              "end_timestamp": 383,
+              "content": "好那么这里我们就聊完第二点"
+            },
+            {
+              "start_timestamp": 383,
+              "end_timestamp": 385,
+              "content": "什么叫主流"
+            },
+            {
+              "start_timestamp": 385,
+              "end_timestamp": 387,
+              "content": "那么各位请问大家"
+            },
+            {
+              "start_timestamp": 387,
+              "end_timestamp": 394,
+              "content": "如果说我们把之前研究的那个知识点和现在我们聊的这个结合在一起"
+            },
+            {
+              "start_timestamp": 394,
+              "end_timestamp": 397,
+              "content": "情绪周期分为哪四个阶段"
+            },
+            {
+              "start_timestamp": 397,
+              "end_timestamp": 400,
+              "content": "低位试错主升"
+            },
+            {
+              "start_timestamp": 400,
+              "end_timestamp": 402,
+              "content": "高位震荡主跌"
+            },
+            {
+              "start_timestamp": 402,
+              "end_timestamp": 403,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 403,
+              "end_timestamp": 404,
+              "content": "就这四个阶段"
+            },
+            {
+              "start_timestamp": 405,
+              "end_timestamp": 407,
+              "content": "这不就是一波主升吗"
+            },
+            {
+              "start_timestamp": 407,
+              "end_timestamp": 411,
+              "content": "这就是整个市场的一个主升行情"
+            },
+            {
+              "start_timestamp": 411,
+              "end_timestamp": 412,
+              "content": "反弹周期"
+            },
+            {
+              "start_timestamp": 412,
+              "end_timestamp": 417,
+              "content": "主升行情对应的CIO也是主升周期"
+            },
+            {
+              "start_timestamp": 418,
+              "end_timestamp": 420,
+              "content": "这下能明白了吧"
+            },
+            {
+              "start_timestamp": 420,
+              "end_timestamp": 426,
+              "content": "就整个整个K线是完全共振的好那么我们第二点也聊完了"
+            },
+            {
+              "start_timestamp": 426,
+              "end_timestamp": 429,
+              "content": "最后聊第三点"
+            },
+            {
+              "start_timestamp": 429,
+              "end_timestamp": 431,
+              "content": "龙头股是怎么带动板块的啊"
+            },
+            {
+              "start_timestamp": 431,
+              "end_timestamp": 435,
+              "content": "大家这里一定要注意看一下我是怎么聊的"
+            },
+            {
+              "start_timestamp": 435,
+              "end_timestamp": 439,
+              "content": "我们先以马后炮的形式来分析那一波的牛头"
+            },
+            {
+              "start_timestamp": 439,
+              "end_timestamp": 440,
+              "content": "龙头股"
+            },
+            {
+              "start_timestamp": 440,
+              "end_timestamp": 442,
+              "content": "就是8月4号开始的龙头股"
+            },
+            {
+              "start_timestamp": 442,
+              "end_timestamp": 447,
+              "content": "大家能想得出当时的创新要哪一只是龙头吗"
+            },
+            {
+              "start_timestamp": 447,
+              "end_timestamp": 450,
+              "content": "能不能不能想出来啊"
+            },
+            {
+              "start_timestamp": 450,
+              "end_timestamp": 454,
+              "content": "就这一只这一只是龙头"
+            },
+            {
+              "start_timestamp": 455,
+              "end_timestamp": 458,
+              "content": "再次提醒一下哈"
+            },
+            {
+              "start_timestamp": 458,
+              "end_timestamp": 460,
+              "content": "本案例仅为分析"
+            },
+            {
+              "start_timestamp": 460,
+              "end_timestamp": 462,
+              "content": "仅为分析啊"
+            },
+            {
+              "start_timestamp": 462,
+              "end_timestamp": 466,
+              "content": "并没有我个人并没有参与过任何一点点"
+            },
+            {
+              "start_timestamp": 466,
+              "end_timestamp": 468,
+              "content": "哪怕一块钱都没有参与过"
+            },
+            {
+              "start_timestamp": 468,
+              "end_timestamp": 470,
+              "content": "其纯分析好"
+            },
+            {
+              "start_timestamp": 470,
+              "end_timestamp": 471,
+              "content": "我们看一下这里"
+            },
+            {
+              "start_timestamp": 471,
+              "end_timestamp": 478,
+              "content": "首先这里8月4号这个这个药首板一字板"
+            },
+            {
+              "start_timestamp": 478,
+              "end_timestamp": 483,
+              "content": "当天板块大涨"
+            },
+            {
+              "start_timestamp": 483,
+              "end_timestamp": 485,
+              "content": "指数大涨"
+            },
+            {
+              "start_timestamp": 485,
+              "end_timestamp": 486,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 486,
+              "end_timestamp": 490,
+              "content": "第二天这一个票T字板"
+            },
+            {
+              "start_timestamp": 490,
+              "end_timestamp": 492,
+              "content": "然后T字板还是比较强的嘛"
+            },
+            {
+              "start_timestamp": 492,
+              "end_timestamp": 494,
+              "content": "你看看开盘开了一下"
+            },
+            {
+              "start_timestamp": 494,
+              "end_timestamp": 496,
+              "content": "然后又回封了嘛"
+            },
+            {
+              "start_timestamp": 496,
+              "end_timestamp": 499,
+              "content": "然后这个板块再次上涨"
+            },
+            {
+              "start_timestamp": 499,
+              "end_timestamp": 504,
+              "content": "第三天板块调整这一个核心品种300爆量"
+            },
+            {
+              "start_timestamp": 504,
+              "end_timestamp": 506,
+              "content": "爆量是什么意思啊"
+            },
+            {
+              "start_timestamp": 506,
+              "end_timestamp": 510,
+              "content": "很多人砸了分歧很强烈"
+            },
+            {
+              "start_timestamp": 510,
+              "end_timestamp": 512,
+              "content": "对应的板块是不是也分歧了"
+            },
+            {
+              "start_timestamp": 512,
+              "end_timestamp": 514,
+              "content": "对应的指数对不对"
+            },
+            {
+              "start_timestamp": 514,
+              "end_timestamp": 516,
+              "content": "也开始了震荡"
+            },
+            {
+              "start_timestamp": 516,
+              "end_timestamp": 518,
+              "content": "这就叫共振"
+            },
+            {
+              "start_timestamp": 518,
+              "end_timestamp": 521,
+              "content": "于是在三进士弱闯强之后"
+            },
+            {
+              "start_timestamp": 521,
+              "end_timestamp": 523,
+              "content": "这一个票最终走了几个板"
+            },
+            {
+              "start_timestamp": 523,
+              "end_timestamp": 530,
+              "content": "24677个板与这个板块指数完全共振"
+            },
+            {
+              "start_timestamp": 530,
+              "end_timestamp": 531,
+              "content": "明白了吧"
+            },
+            {
+              "start_timestamp": 531,
+              "end_timestamp": 535,
+              "content": "就像8月7号这个CRIO板块是不是大涨啊"
+            },
+            {
+              "start_timestamp": 535,
+              "end_timestamp": 537,
+              "content": "8月7号"
+            },
+            {
+              "start_timestamp": 539,
+              "end_timestamp": 543,
+              "content": "大家看一下8月7号CRIO指数大涨"
+            },
+            {
+              "start_timestamp": 543,
+              "end_timestamp": 549,
+              "content": "同时这一个它是一个爆亮三啊"
+            },
+            {
+              "start_timestamp": 549,
+              "end_timestamp": 552,
+              "content": "爆量三进四的一个弱转强"
+            },
+            {
+              "start_timestamp": 552,
+              "end_timestamp": 554,
+              "content": "前一天爆量对不对"
+            },
+            {
+              "start_timestamp": 554,
+              "end_timestamp": 556,
+              "content": "烂板第二天高开秒板"
+            },
+            {
+              "start_timestamp": 556,
+              "end_timestamp": 560,
+              "content": "直接带动了整个板块"
+            },
+            {
+              "start_timestamp": 560,
+              "end_timestamp": 563,
+              "content": "板块在带动了整个市场"
+            },
+            {
+              "start_timestamp": 563,
+              "end_timestamp": 568,
+              "content": "它就成为了当时的容量核心啊"
+            },
+            {
+              "start_timestamp": 568,
+              "end_timestamp": 570,
+              "content": "当时的一个情绪核心"
+            },
+            {
+              "start_timestamp": 572,
+              "end_timestamp": 577,
+              "content": "情绪周期的容纳品种啊"
+            },
+            {
+              "start_timestamp": 577,
+              "end_timestamp": 578,
+              "content": "什么意思啊"
+            },
+            {
+              "start_timestamp": 578,
+              "end_timestamp": 584,
+              "content": "就是这一个票这一个标的他反馈了这个板块的情绪"
+            },
+            {
+              "start_timestamp": 584,
+              "end_timestamp": 587,
+              "content": "从而反馈了整个市场的情绪"
+            },
+            {
+              "start_timestamp": 587,
+              "end_timestamp": 590,
+              "content": "这个就叫情绪周期的容纳品种啊"
+            },
+            {
+              "start_timestamp": 590,
+              "end_timestamp": 592,
+              "content": "就是你看这个票"
+            },
+            {
+              "start_timestamp": 592,
+              "end_timestamp": 596,
+              "content": "你基本都可以判断出这个整个市场大概处于哪个情绪阶段"
+            },
+            {
+              "start_timestamp": 596,
+              "end_timestamp": 600,
+              "content": "整个板块处于哪一个阶情绪阶段"
+            },
+            {
+              "start_timestamp": 600,
+              "end_timestamp": 603,
+              "content": "从第一天8月4号启动"
+            },
+            {
+              "start_timestamp": 603,
+              "end_timestamp": 606,
+              "content": "再到啊8月12号"
+            },
+            {
+              "start_timestamp": 606,
+              "end_timestamp": 608,
+              "content": "他是最后一个七版"
+            },
+            {
+              "start_timestamp": 608,
+              "end_timestamp": 610,
+              "content": "然后进入了断板啊"
+            },
+            {
+              "start_timestamp": 610,
+              "end_timestamp": 613,
+              "content": "8月大家看一下8月8月诶"
+            },
+            {
+              "start_timestamp": 614,
+              "end_timestamp": 617,
+              "content": "这里啊8月18号他这里阴线正"
+            },
+            {
+              "start_timestamp": 617,
+              "end_timestamp": 620,
+              "content": "8月18号这个核心品种阴线对不对"
+            },
+            {
+              "start_timestamp": 620,
+              "end_timestamp": 622,
+              "content": "调整了啊"
+            },
+            {
+              "start_timestamp": 622,
+              "end_timestamp": 623,
+              "content": "平开低走"
+            },
+            {
+              "start_timestamp": 623,
+              "end_timestamp": 627,
+              "content": "整个市场下跌啊"
+            },
+            {
+              "start_timestamp": 627,
+              "end_timestamp": 634,
+              "content": "这个就叫做情绪周期内的主升阶段中的情绪容纳品种"
+            },
+            {
+              "start_timestamp": 634,
+              "end_timestamp": 636,
+              "content": "容纳了整个市场的情绪"
+            },
+            {
+              "start_timestamp": 636,
+              "end_timestamp": 641,
+              "content": "大家盯着这个票就可以感受到整个市场情绪怎么样"
+            },
+            {
+              "start_timestamp": 641,
+              "end_timestamp": 645,
+              "content": "其实这个知识内容比较简单的哈"
+            },
+            {
+              "start_timestamp": 645,
+              "end_timestamp": 651,
+              "content": "额重点就是你要把这个呃你们如果说自己并不理解"
+            },
+            {
+              "start_timestamp": 651,
+              "end_timestamp": 653,
+              "content": "你们可以多推几几几个票"
+            },
+            {
+              "start_timestamp": 653,
+              "end_timestamp": 654,
+              "content": "多推几个"
+            },
+            {
+              "start_timestamp": 654,
+              "end_timestamp": 659,
+              "content": "你就去找历史上七版八版的那个标的"
+            },
+            {
+              "start_timestamp": 659,
+              "end_timestamp": 661,
+              "content": "然后把它放到整个板块去看"
+            },
+            {
+              "start_timestamp": 661,
+              "end_timestamp": 663,
+              "content": "再把这个板块跟这个指数去对应"
+            },
+            {
+              "start_timestamp": 663,
+              "end_timestamp": 666,
+              "content": "基本都是八九不离十的"
+            },
+            {
+              "start_timestamp": 666,
+              "end_timestamp": 669,
+              "content": "当然可能个别他炒独立的看不出来啊"
+            },
+            {
+              "start_timestamp": 669,
+              "end_timestamp": 675,
+              "content": "但是大部分能走到七八版的都是超级核心的那种情绪容纳品种"
+            },
+            {
+              "start_timestamp": 675,
+              "end_timestamp": 677,
+              "content": "所以都可以推理出来"
+            },
+            {
+              "start_timestamp": 677,
+              "end_timestamp": 679,
+              "content": "我这里推理过一次"
+            },
+            {
+              "start_timestamp": 679,
+              "end_timestamp": 680,
+              "content": "推理了一只了哈"
+            },
+            {
+              "start_timestamp": 680,
+              "end_timestamp": 682,
+              "content": "我已经推理完这一只了"
+            },
+            {
+              "start_timestamp": 682,
+              "end_timestamp": 686,
+              "content": "各位群友记得记得我之前说的一句话吗"
+            },
+            {
+              "start_timestamp": 686,
+              "end_timestamp": 689,
+              "content": "真正好的学习不是听了啊"
+            },
+            {
+              "start_timestamp": 689,
+              "end_timestamp": 691,
+              "content": "不是听了就结束了"
+            },
+            {
+              "start_timestamp": 691,
+              "end_timestamp": 693,
+              "content": "而是学会举一反三"
+            },
+            {
+              "start_timestamp": 693,
+              "end_timestamp": 695,
+              "content": "我推了一只这一个"
+            },
+            {
+              "start_timestamp": 695,
+              "end_timestamp": 696,
+              "content": "因为为什么"
+            },
+            {
+              "start_timestamp": 696,
+              "end_timestamp": 698,
+              "content": "因为这个是最近的啊"
+            },
+            {
+              "start_timestamp": 698,
+              "end_timestamp": 699,
+              "content": "这个是最近的"
+            },
+            {
+              "start_timestamp": 699,
+              "end_timestamp": 702,
+              "content": "你们往前推能不能找出历史上有多少只啊"
+            },
+            {
+              "start_timestamp": 702,
+              "end_timestamp": 706,
+              "content": "好多只每年都有很多只七七版左右的"
+            },
+            {
+              "start_timestamp": 706,
+              "end_timestamp": 706,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 706,
+              "end_timestamp": 707,
+              "content": "一大堆"
+            },
+            {
+              "start_timestamp": 707,
+              "end_timestamp": 709,
+              "content": "包括前几天也有"
+            },
+            {
+              "start_timestamp": 709,
+              "end_timestamp": 711,
+              "content": "你们就拿这些去反推"
+            },
+            {
+              "start_timestamp": 711,
+              "end_timestamp": 712,
+              "content": "慢慢的推理"
+            },
+            {
+              "start_timestamp": 712,
+              "end_timestamp": 714,
+              "content": "你多推几次对"
+            },
+            {
+              "start_timestamp": 714,
+              "end_timestamp": 715,
+              "content": "多推几次"
+            },
+            {
+              "start_timestamp": 715,
+              "end_timestamp": 717,
+              "content": "按照我今天这个视频的说法"
+            },
+            {
+              "start_timestamp": 717,
+              "end_timestamp": 720,
+              "content": "你就能理解什么叫情绪周期了啊"
+            },
+            {
+              "start_timestamp": 720,
+              "end_timestamp": 721,
+              "content": "这里再补充一点啊"
+            },
+            {
+              "start_timestamp": 721,
+              "end_timestamp": 722,
+              "content": "我刚才说完了"
+            },
+            {
+              "start_timestamp": 722,
+              "end_timestamp": 723,
+              "content": "再补充一点"
+            },
+            {
+              "start_timestamp": 723,
+              "end_timestamp": 726,
+              "content": "有的时候它不一定指数不一定明显的上涨"
+            },
+            {
+              "start_timestamp": 726,
+              "end_timestamp": 727,
+              "content": "它只要不跌"
+            },
+            {
+              "start_timestamp": 727,
+              "end_timestamp": 729,
+              "content": "它哪怕横盘也可以"
+            },
+            {
+              "start_timestamp": 729,
+              "end_timestamp": 732,
+              "content": "重点是看个股龙头"
+            },
+            {
+              "start_timestamp": 732,
+              "end_timestamp": 736,
+              "content": "个股与板块之间的一个关系"
+            },
+            {
+              "start_timestamp": 736,
+              "end_timestamp": 739,
+              "content": "有的时候像情绪外围特别差"
+            },
+            {
+              "start_timestamp": 739,
+              "end_timestamp": 740,
+              "content": "你这个指数确实起不来"
+            },
+            {
+              "start_timestamp": 740,
+              "end_timestamp": 743,
+              "content": "也有也有单独炒板块的也有啊"
+            },
+            {
+              "start_timestamp": 743,
+              "end_timestamp": 746,
+              "content": "这个就是补充"
+            },
+            {
+              "start_timestamp": 746,
+              "end_timestamp": 748,
+              "content": "那么今天的一个分享"
+            },
+            {
+              "start_timestamp": 748,
+              "end_timestamp": 751,
+              "content": "关于龙头股与情绪周期的走势推理"
+            },
+            {
+              "start_timestamp": 751,
+              "end_timestamp": 753,
+              "content": "到这里就差不多结束了"
+            },
+            {
+              "start_timestamp": 753,
+              "end_timestamp": 755,
+              "content": "其实内容很简单啊"
+            },
+            {
+              "start_timestamp": 755,
+              "end_timestamp": 759,
+              "content": "但是大家如果说是我这里先弄个投票"
+            },
+            {
+              "start_timestamp": 759,
+              "end_timestamp": 761,
+              "content": "如果你们听得懂"
+            },
+            {
+              "start_timestamp": 763,
+              "end_timestamp": 766,
+              "content": "扣个一啊"
+            },
+            {
+              "start_timestamp": 766,
+              "end_timestamp": 766,
+              "content": "听得懂"
+            },
+            {
+              "start_timestamp": 766,
+              "end_timestamp": 767,
+              "content": "在这里听得懂的"
+            },
+            {
+              "start_timestamp": 767,
+              "end_timestamp": 768,
+              "content": "扣个一"
+            },
+            {
+              "start_timestamp": 768,
+              "end_timestamp": 769,
+              "content": "如果听不懂的"
+            },
+            {
+              "start_timestamp": 769,
+              "end_timestamp": 770,
+              "content": "扣个二"
+            },
+            {
+              "start_timestamp": 770,
+              "end_timestamp": 773,
+              "content": "如果听得懂或者听不懂的也好"
+            },
+            {
+              "start_timestamp": 773,
+              "end_timestamp": 774,
+              "content": "听不懂的"
+            },
+            {
+              "start_timestamp": 774,
+              "end_timestamp": 774,
+              "content": "你就反复去听"
+            },
+            {
+              "start_timestamp": 774,
+              "end_timestamp": 776,
+              "content": "或者评论区问我"
+            },
+            {
+              "start_timestamp": 776,
+              "end_timestamp": 778,
+              "content": "听得懂的一定要记住"
+            },
+            {
+              "start_timestamp": 778,
+              "end_timestamp": 780,
+              "content": "你听我说你能理解"
+            },
+            {
+              "start_timestamp": 780,
+              "end_timestamp": 781,
+              "content": "你多推几只"
+            },
+            {
+              "start_timestamp": 781,
+              "end_timestamp": 783,
+              "content": "看一下能不能自己推出来"
+            },
+            {
+              "start_timestamp": 783,
+              "end_timestamp": 784,
+              "content": "推理出来了"
+            },
+            {
+              "start_timestamp": 784,
+              "end_timestamp": 790,
+              "content": "那就那那你下一次你基本都能把握到这个龙头股的好吧"
+            },
+            {
+              "start_timestamp": 790,
+              "end_timestamp": 793,
+              "content": "那么今天的一个分享到这里就结束了"
+            },
+            {
+              "start_timestamp": 793,
+              "end_timestamp": 793,
+              "content": "关注剧全"
+            },
+            {
+              "start_timestamp": 793,
+              "end_timestamp": 794,
+              "content": "我们下次再见"
+            }
+          ],
+          "timestamp": 1
+        }
+      ]
+    },
+    "stid": "5616055607220674981",
+    "status": 0,
+    "like_num": 0,
+    "dislike_num": 0
+  }
+}

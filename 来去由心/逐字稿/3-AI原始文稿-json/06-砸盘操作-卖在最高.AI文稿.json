@@ -1,0 +1,2357 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "code": 0,
+    "model_result": {
+      "result_type": 2,
+      "summary": "精准捕捉主力动向与分时走势，关键点位29.8元不破持币，跌破减仓止损，结合缩量回踩、均线支撑、涨停板及周K放量信号操作，强调高抛低吸、逢低吸筹于4.01-4.18区间，灵活运用DC点策略，动态调整仓位以卖在最高并把握低吸机会，规避风险。",
+      "outline": [
+        {
+          "title": "精准识别主力动向，高点减仓操作",
+          "part_outline": [
+            {
+              "timestamp": 22,
+              "content": "关键点位29.8元不跌破为操作基准"
+            },
+            {
+              "timestamp": 47,
+              "content": "分时弱信号出现需择高点减仓离场"
+            },
+            {
+              "timestamp": 172,
+              "content": "尖角波配合均线跌破即清仓止损"
+            }
+          ],
+          "timestamp": 1
+        },
+        {
+          "title": "精准分时操作卖在最高点",
+          "part_outline": [
+            {
+              "timestamp": 481,
+              "content": "成本高位操作受限需冷静等待反抽均线机会"
+            },
+            {
+              "timestamp": 783,
+              "content": "精准识别高点卖出避免爆头实现最高收益"
+            },
+            {
+              "timestamp": 911,
+              "content": "低位支撑平台确认后果断减仓锁定利润"
+            }
+          ],
+          "timestamp": 462
+        }
+      ],
+      "subtitle": [
+        {
+          "title": "",
+          "part_subtitle": [
+            {
+              "start_timestamp": 1,
+              "end_timestamp": 4,
+              "content": "酿制西周涨停对吧"
+            },
+            {
+              "start_timestamp": 4,
+              "end_timestamp": 6,
+              "content": "这就是9cm"
+            },
+            {
+              "start_timestamp": 6,
+              "end_timestamp": 6,
+              "content": "9cm"
+            },
+            {
+              "start_timestamp": 6,
+              "end_timestamp": 8,
+              "content": "不不是20cm"
+            },
+            {
+              "start_timestamp": 8,
+              "end_timestamp": 8,
+              "content": "直接扫板"
+            },
+            {
+              "start_timestamp": 8,
+              "end_timestamp": 11,
+              "content": "这可以扫啊哈"
+            },
+            {
+              "start_timestamp": 11,
+              "end_timestamp": 12,
+              "content": "为什么可以死啊"
+            },
+            {
+              "start_timestamp": 12,
+              "end_timestamp": 13,
+              "content": "那很明显的主力入场了对吧"
+            },
+            {
+              "start_timestamp": 13,
+              "end_timestamp": 16,
+              "content": "量这期之后又要开个可能开个二波"
+            },
+            {
+              "start_timestamp": 16,
+              "end_timestamp": 18,
+              "content": "你直接整一字板了"
+            },
+            {
+              "start_timestamp": 18,
+              "end_timestamp": 21,
+              "content": "应该点分时的好"
+            },
+            {
+              "start_timestamp": 21,
+              "end_timestamp": 22,
+              "content": "这儿啊不好做"
+            },
+            {
+              "start_timestamp": 22,
+              "end_timestamp": 23,
+              "content": "教学了"
+            },
+            {
+              "start_timestamp": 23,
+              "end_timestamp": 25,
+              "content": "就这个地方点位多少"
+            },
+            {
+              "start_timestamp": 25,
+              "end_timestamp": 26,
+              "content": "29块八左右左右吧"
+            },
+            {
+              "start_timestamp": 26,
+              "end_timestamp": 28,
+              "content": "不跌破还是必点哦"
+            },
+            {
+              "start_timestamp": 28,
+              "end_timestamp": 30,
+              "content": "我看周K没问题"
+            },
+            {
+              "start_timestamp": 30,
+              "end_timestamp": 32,
+              "content": "这是个突破形态"
+            },
+            {
+              "start_timestamp": 32,
+              "end_timestamp": 35,
+              "content": "29块八不跌破也是必点好"
+            },
+            {
+              "start_timestamp": 35,
+              "end_timestamp": 37,
+              "content": "直接跌破需要低开吉拉修复"
+            },
+            {
+              "start_timestamp": 37,
+              "end_timestamp": 40,
+              "content": "那不然就没了嗯"
+            },
+            {
+              "start_timestamp": 40,
+              "end_timestamp": 43,
+              "content": "这个直接滴回那个箱体内部了"
+            },
+            {
+              "start_timestamp": 43,
+              "end_timestamp": 45,
+              "content": "然后我看一下"
+            },
+            {
+              "start_timestamp": 45,
+              "end_timestamp": 47,
+              "content": "这是个主力成本附近"
+            },
+            {
+              "start_timestamp": 47,
+              "end_timestamp": 49,
+              "content": "可以拿一拿"
+            },
+            {
+              "start_timestamp": 49,
+              "end_timestamp": 50,
+              "content": "找个高点走吧"
+            },
+            {
+              "start_timestamp": 50,
+              "end_timestamp": 51,
+              "content": "找个高点减"
+            },
+            {
+              "start_timestamp": 51,
+              "end_timestamp": 52,
+              "content": "这个是比较弱的"
+            },
+            {
+              "start_timestamp": 52,
+              "end_timestamp": 53,
+              "content": "比较弱的"
+            },
+            {
+              "start_timestamp": 53,
+              "end_timestamp": 58,
+              "content": "我看这个分时这边杀爆料先出来吧"
+            },
+            {
+              "start_timestamp": 58,
+              "end_timestamp": 59,
+              "content": "找高点先出来"
+            },
+            {
+              "start_timestamp": 59,
+              "end_timestamp": 60,
+              "content": "今天不转墙"
+            },
+            {
+              "start_timestamp": 60,
+              "end_timestamp": 61,
+              "content": "找找高点直接出局"
+            },
+            {
+              "start_timestamp": 61,
+              "end_timestamp": 63,
+              "content": "转强了就可以留一部分仓位"
+            },
+            {
+              "start_timestamp": 63,
+              "end_timestamp": 65,
+              "content": "29块八"
+            },
+            {
+              "start_timestamp": 65,
+              "end_timestamp": 66,
+              "content": "不能跌破均线"
+            },
+            {
+              "start_timestamp": 66,
+              "end_timestamp": 67,
+              "content": "跌破均线就弱了"
+            },
+            {
+              "start_timestamp": 67,
+              "end_timestamp": 69,
+              "content": "跌破经验转弱"
+            },
+            {
+              "start_timestamp": 69,
+              "end_timestamp": 70,
+              "content": "但是这不是个卖点"
+            },
+            {
+              "start_timestamp": 70,
+              "end_timestamp": 72,
+              "content": "等个拉升反抽出局"
+            },
+            {
+              "start_timestamp": 72,
+              "end_timestamp": 74,
+              "content": "不盘能偷一波吗"
+            },
+            {
+              "start_timestamp": 74,
+              "end_timestamp": 75,
+              "content": "啊"
+            },
+            {
+              "start_timestamp": 75,
+              "end_timestamp": 77,
+              "content": "OK加油太快了"
+            },
+            {
+              "start_timestamp": 77,
+              "end_timestamp": 78,
+              "content": "这个地方可以捡到"
+            },
+            {
+              "start_timestamp": 78,
+              "end_timestamp": 80,
+              "content": "哎呀头疼"
+            },
+            {
+              "start_timestamp": 80,
+              "end_timestamp": 82,
+              "content": "直接直接卖一半吧"
+            },
+            {
+              "start_timestamp": 82,
+              "end_timestamp": 83,
+              "content": "卖一半"
+            },
+            {
+              "start_timestamp": 84,
+              "end_timestamp": 84,
+              "content": "Ok"
+            },
+            {
+              "start_timestamp": 85,
+              "end_timestamp": 86,
+              "content": "就这个高点跟这个高点"
+            },
+            {
+              "start_timestamp": 86,
+              "end_timestamp": 88,
+              "content": "基本上是日内最高附近对吧"
+            },
+            {
+              "start_timestamp": 89,
+              "end_timestamp": 91,
+              "content": "嗯这里缩量的呀"
+            },
+            {
+              "start_timestamp": 91,
+              "end_timestamp": 94,
+              "content": "现在关键点位还是29块八"
+            },
+            {
+              "start_timestamp": 94,
+              "end_timestamp": 97,
+              "content": "明后续只要不跌破292 19块八"
+            },
+            {
+              "start_timestamp": 97,
+              "end_timestamp": 98,
+              "content": "趋势就没问题"
+            },
+            {
+              "start_timestamp": 98,
+              "end_timestamp": 100,
+              "content": "好开盘棋了"
+            },
+            {
+              "start_timestamp": 100,
+              "end_timestamp": 101,
+              "content": "看一下"
+            },
+            {
+              "start_timestamp": 101,
+              "end_timestamp": 102,
+              "content": "直接做T吧"
+            },
+            {
+              "start_timestamp": 102,
+              "end_timestamp": 103,
+              "content": "做正T了"
+            },
+            {
+              "start_timestamp": 103,
+              "end_timestamp": 106,
+              "content": "开班吉拉很强的麦上哈"
+            },
+            {
+              "start_timestamp": 109,
+              "end_timestamp": 111,
+              "content": "一顿分析猛如虎"
+            },
+            {
+              "start_timestamp": 111,
+              "end_timestamp": 113,
+              "content": "一看操作零杠五好"
+            },
+            {
+              "start_timestamp": 113,
+              "end_timestamp": 115,
+              "content": "我们看一下怎么操作"
+            },
+            {
+              "start_timestamp": 116,
+              "end_timestamp": 117,
+              "content": "那有真想做弱转强的"
+            },
+            {
+              "start_timestamp": 117,
+              "end_timestamp": 118,
+              "content": "被爆头了"
+            },
+            {
+              "start_timestamp": 118,
+              "end_timestamp": 119,
+              "content": "谁干的呀"
+            },
+            {
+              "start_timestamp": 119,
+              "end_timestamp": 121,
+              "content": "哦那个带量的被爆头了"
+            },
+            {
+              "start_timestamp": 121,
+              "end_timestamp": 123,
+              "content": "被走私进爆头了"
+            },
+            {
+              "start_timestamp": 123,
+              "end_timestamp": 124,
+              "content": "看明天修复吧"
+            },
+            {
+              "start_timestamp": 124,
+              "end_timestamp": 124,
+              "content": "好吧"
+            },
+            {
+              "start_timestamp": 124,
+              "end_timestamp": 126,
+              "content": "今天底仓也别卖了"
+            },
+            {
+              "start_timestamp": 126,
+              "end_timestamp": 127,
+              "content": "没没必要卖了"
+            },
+            {
+              "start_timestamp": 127,
+              "end_timestamp": 128,
+              "content": "那干耗上了"
+            },
+            {
+              "start_timestamp": 129,
+              "end_timestamp": 130,
+              "content": "低开"
+            },
+            {
+              "start_timestamp": 131,
+              "end_timestamp": 133,
+              "content": "这是个涨停板附近啊"
+            },
+            {
+              "start_timestamp": 133,
+              "end_timestamp": 134,
+              "content": "没啥问题"
+            },
+            {
+              "start_timestamp": 135,
+              "end_timestamp": 137,
+              "content": "拉伸OK拉伸就没问题了"
+            },
+            {
+              "start_timestamp": 137,
+              "end_timestamp": 138,
+              "content": "拉伸呃"
+            },
+            {
+              "start_timestamp": 138,
+              "end_timestamp": 140,
+              "content": "在这做减仓吧"
+            },
+            {
+              "start_timestamp": 140,
+              "end_timestamp": 141,
+              "content": "29块八做减仓"
+            },
+            {
+              "start_timestamp": 141,
+              "end_timestamp": 142,
+              "content": "过不去做减仓"
+            },
+            {
+              "start_timestamp": 143,
+              "end_timestamp": 146,
+              "content": "咿呀迪卡吉拉放量的缩量回踩"
+            },
+            {
+              "start_timestamp": 146,
+              "end_timestamp": 150,
+              "content": "这尖角波有资金在砸哎"
+            },
+            {
+              "start_timestamp": 150,
+              "end_timestamp": 151,
+              "content": "等高点出局吧"
+            },
+            {
+              "start_timestamp": 151,
+              "end_timestamp": 153,
+              "content": "尽亏出局了"
+            },
+            {
+              "start_timestamp": 153,
+              "end_timestamp": 154,
+              "content": "这这是个尖角布啊"
+            },
+            {
+              "start_timestamp": 154,
+              "end_timestamp": 157,
+              "content": "尖角布得出的那双彩缺"
+            },
+            {
+              "start_timestamp": 157,
+              "end_timestamp": 159,
+              "content": "能不能缺个底"
+            },
+            {
+              "start_timestamp": 159,
+              "end_timestamp": 160,
+              "content": "跌破低点了"
+            },
+            {
+              "start_timestamp": 160,
+              "end_timestamp": 161,
+              "content": "转弱了"
+            },
+            {
+              "start_timestamp": 161,
+              "end_timestamp": 163,
+              "content": "但凡上均线过不去"
+            },
+            {
+              "start_timestamp": 163,
+              "end_timestamp": 165,
+              "content": "都是出局点"
+            },
+            {
+              "start_timestamp": 166,
+              "end_timestamp": 168,
+              "content": "太弱了"
+            },
+            {
+              "start_timestamp": 168,
+              "end_timestamp": 168,
+              "content": "我的天哪"
+            },
+            {
+              "start_timestamp": 168,
+              "end_timestamp": 170,
+              "content": "天天上影线骗人"
+            },
+            {
+              "start_timestamp": 170,
+              "end_timestamp": 171,
+              "content": "那也上影线"
+            },
+            {
+              "start_timestamp": 171,
+              "end_timestamp": 172,
+              "content": "这也上影线"
+            },
+            {
+              "start_timestamp": 172,
+              "end_timestamp": 174,
+              "content": "该走的"
+            },
+            {
+              "start_timestamp": 174,
+              "end_timestamp": 176,
+              "content": "这个是一个反面按钮"
+            },
+            {
+              "start_timestamp": 177,
+              "end_timestamp": 179,
+              "content": "就这女方跌破成本线就要5000元出局了"
+            },
+            {
+              "start_timestamp": 179,
+              "end_timestamp": 182,
+              "content": "你这个尖角波很头疼"
+            },
+            {
+              "start_timestamp": 182,
+              "end_timestamp": 184,
+              "content": "好清仓吧"
+            },
+            {
+              "start_timestamp": 184,
+              "end_timestamp": 185,
+              "content": "不玩了"
+            },
+            {
+              "start_timestamp": 185,
+              "end_timestamp": 188,
+              "content": "亏九个点"
+            },
+            {
+              "start_timestamp": 189,
+              "end_timestamp": 190,
+              "content": "嗯这里有个什么纪律呢"
+            },
+            {
+              "start_timestamp": 190,
+              "end_timestamp": 193,
+              "content": "就是不及预测票拉升时出局点"
+            },
+            {
+              "start_timestamp": 193,
+              "end_timestamp": 195,
+              "content": "你这一天是一个急拉"
+            },
+            {
+              "start_timestamp": 195,
+              "end_timestamp": 197,
+              "content": "这真的是有人想做修复的"
+            },
+            {
+              "start_timestamp": 197,
+              "end_timestamp": 200,
+              "content": "但是呢这一天对吧"
+            },
+            {
+              "start_timestamp": 200,
+              "end_timestamp": 201,
+              "content": "想做修复的太快了"
+            },
+            {
+              "start_timestamp": 201,
+              "end_timestamp": 203,
+              "content": "这种拉伸就出局点"
+            },
+            {
+              "start_timestamp": 203,
+              "end_timestamp": 207,
+              "content": "那这一天呢也是就是有一个出局机会啊"
+            },
+            {
+              "start_timestamp": 207,
+              "end_timestamp": 210,
+              "content": "这一天相当于是一个尖角波对吧"
+            },
+            {
+              "start_timestamp": 210,
+              "end_timestamp": 211,
+              "content": "尖角波下来"
+            },
+            {
+              "start_timestamp": 211,
+              "end_timestamp": 213,
+              "content": "均线占卜种地方如果被砸出来"
+            },
+            {
+              "start_timestamp": 213,
+              "end_timestamp": 217,
+              "content": "中地方捡破成本减出局好吧"
+            },
+            {
+              "start_timestamp": 220,
+              "end_timestamp": 225,
+              "content": "唉放量等周K月K等周K突破吧"
+            },
+            {
+              "start_timestamp": 225,
+              "end_timestamp": 226,
+              "content": "周可以突破前高再再说吧"
+            },
+            {
+              "start_timestamp": 228,
+              "end_timestamp": 231,
+              "content": "go on1280哈"
+            },
+            {
+              "start_timestamp": 231,
+              "end_timestamp": 233,
+              "content": "1280K又K头破"
+            },
+            {
+              "start_timestamp": 233,
+              "end_timestamp": 235,
+              "content": "扫开扫开扫"
+            },
+            {
+              "start_timestamp": 235,
+              "end_timestamp": 237,
+              "content": "周K刚刚突破"
+            },
+            {
+              "start_timestamp": 237,
+              "end_timestamp": 237,
+              "content": "等一下啊"
+            },
+            {
+              "start_timestamp": 237,
+              "end_timestamp": 239,
+              "content": "周K刚刚突破"
+            },
+            {
+              "start_timestamp": 239,
+              "end_timestamp": 242,
+              "content": "然后回踩1280不破的好吧"
+            },
+            {
+              "start_timestamp": 242,
+              "end_timestamp": 244,
+              "content": "单我在玩鸡毛啊"
+            },
+            {
+              "start_timestamp": 245,
+              "end_timestamp": 246,
+              "content": "这损挂哪儿呢"
+            },
+            {
+              "start_timestamp": 246,
+              "end_timestamp": 248,
+              "content": "这次就挂这吧"
+            },
+            {
+              "start_timestamp": 248,
+              "end_timestamp": 250,
+              "content": "再看一天亮着熄了"
+            },
+            {
+              "start_timestamp": 250,
+              "end_timestamp": 250,
+              "content": "再看一天"
+            },
+            {
+              "start_timestamp": 250,
+              "end_timestamp": 253,
+              "content": "可1280了吗"
+            },
+            {
+              "start_timestamp": 253,
+              "end_timestamp": 255,
+              "content": "1280了吗"
+            },
+            {
+              "start_timestamp": 255,
+              "end_timestamp": 255,
+              "content": "没有啊"
+            },
+            {
+              "start_timestamp": 257,
+              "end_timestamp": 257,
+              "content": "再看一天吧"
+            },
+            {
+              "start_timestamp": 258,
+              "end_timestamp": 261,
+              "content": "两只七接着看"
+            },
+            {
+              "start_timestamp": 263,
+              "end_timestamp": 267,
+              "content": "嗯这个地方可止损"
+            },
+            {
+              "start_timestamp": 267,
+              "end_timestamp": 270,
+              "content": "主要是这根阳线的一个放量"
+            },
+            {
+              "start_timestamp": 270,
+              "end_timestamp": 271,
+              "content": "这根阳线放量"
+            },
+            {
+              "start_timestamp": 271,
+              "end_timestamp": 273,
+              "content": "它的一个底部算是有支撑的"
+            },
+            {
+              "start_timestamp": 273,
+              "end_timestamp": 275,
+              "content": "因为这个地方周可以突破嘛"
+            },
+            {
+              "start_timestamp": 275,
+              "end_timestamp": 280,
+              "content": "所以说就多拿了一下那次这个涨停啊"
+            },
+            {
+              "start_timestamp": 280,
+              "end_timestamp": 281,
+              "content": "大家注意了"
+            },
+            {
+              "start_timestamp": 281,
+              "end_timestamp": 282,
+              "content": "这个不能点持有了"
+            },
+            {
+              "start_timestamp": 282,
+              "end_timestamp": 285,
+              "content": "因为之前有个冲高回落动作"
+            },
+            {
+              "start_timestamp": 285,
+              "end_timestamp": 286,
+              "content": "大概率如果他不能连板"
+            },
+            {
+              "start_timestamp": 286,
+              "end_timestamp": 287,
+              "content": "大概率冲高回落了"
+            },
+            {
+              "start_timestamp": 287,
+              "end_timestamp": 290,
+              "content": "所以说哎拉升是个减仓点好吧"
+            },
+            {
+              "start_timestamp": 290,
+              "end_timestamp": 292,
+              "content": "板了才可以把剩下的仓位拿着"
+            },
+            {
+              "start_timestamp": 293,
+              "end_timestamp": 294,
+              "content": "0.36没有溢价"
+            },
+            {
+              "start_timestamp": 294,
+              "end_timestamp": 296,
+              "content": "我靠看开盘方向吧"
+            },
+            {
+              "start_timestamp": 298,
+              "end_timestamp": 299,
+              "content": "开盘杀"
+            },
+            {
+              "start_timestamp": 301,
+              "end_timestamp": 303,
+              "content": "哎呀好难搏斗呀"
+            },
+            {
+              "start_timestamp": 303,
+              "end_timestamp": 305,
+              "content": "你说人麻了"
+            },
+            {
+              "start_timestamp": 307,
+              "end_timestamp": 309,
+              "content": "哎你说这个你这人干嘛"
+            },
+            {
+              "start_timestamp": 309,
+              "end_timestamp": 313,
+              "content": "哎这这票啊哈哈啊好吧"
+            },
+            {
+              "start_timestamp": 313,
+              "end_timestamp": 315,
+              "content": "这又浪费一个很好的案例啊"
+            },
+            {
+              "start_timestamp": 315,
+              "end_timestamp": 317,
+              "content": "就这个地方底部没有洗破对吧"
+            },
+            {
+              "start_timestamp": 317,
+              "end_timestamp": 319,
+              "content": "没有洗破"
+            },
+            {
+              "start_timestamp": 320,
+              "end_timestamp": 321,
+              "content": "怪我没耐心"
+            },
+            {
+              "start_timestamp": 321,
+              "end_timestamp": 322,
+              "content": "这票还行"
+            },
+            {
+              "start_timestamp": 322,
+              "end_timestamp": 324,
+              "content": "就这个趋势走的还行"
+            },
+            {
+              "start_timestamp": 324,
+              "end_timestamp": 325,
+              "content": "就正常人"
+            },
+            {
+              "start_timestamp": 325,
+              "end_timestamp": 327,
+              "content": "涨停了还在洗啊"
+            },
+            {
+              "start_timestamp": 327,
+              "end_timestamp": 328,
+              "content": "有点颠"
+            },
+            {
+              "start_timestamp": 328,
+              "end_timestamp": 330,
+              "content": "但但能把我肉人吸出去"
+            },
+            {
+              "start_timestamp": 330,
+              "end_timestamp": 332,
+              "content": "没办法好吧"
+            },
+            {
+              "start_timestamp": 334,
+              "end_timestamp": 339,
+              "content": "清了清了这这个肉不该我们吃啊哈"
+            },
+            {
+              "start_timestamp": 343,
+              "end_timestamp": 348,
+              "content": "好走短线的周K走短线的这个爆量"
+            },
+            {
+              "start_timestamp": 348,
+              "end_timestamp": 351,
+              "content": "最先看一下分十啊"
+            },
+            {
+              "start_timestamp": 351,
+              "end_timestamp": 352,
+              "content": "看他分是怎么走的"
+            },
+            {
+              "start_timestamp": 353,
+              "end_timestamp": 355,
+              "content": "天下商冲高地走桥"
+            },
+            {
+              "start_timestamp": 355,
+              "end_timestamp": 357,
+              "content": "午后午后走桥"
+            },
+            {
+              "start_timestamp": 357,
+              "end_timestamp": 359,
+              "content": "这是几点钟啊"
+            },
+            {
+              "start_timestamp": 359,
+              "end_timestamp": 361,
+              "content": "这是11:30"
+            },
+            {
+              "start_timestamp": 361,
+              "end_timestamp": 364,
+              "content": "这午后因为什么消费刺激"
+            },
+            {
+              "start_timestamp": 364,
+              "end_timestamp": 367,
+              "content": "拿身策抢的可能是个便宜老大便宜老大"
+            },
+            {
+              "start_timestamp": 367,
+              "end_timestamp": 369,
+              "content": "当天扫板N扫板"
+            },
+            {
+              "start_timestamp": 369,
+              "end_timestamp": 371,
+              "content": "次日缩量板接着拉"
+            },
+            {
+              "start_timestamp": 371,
+              "end_timestamp": 374,
+              "content": "嗯因为短线嘛我们看分时好一点"
+            },
+            {
+              "start_timestamp": 374,
+              "end_timestamp": 375,
+              "content": "高开四个点"
+            },
+            {
+              "start_timestamp": 375,
+              "end_timestamp": 377,
+              "content": "开盘涨停"
+            },
+            {
+              "start_timestamp": 377,
+              "end_timestamp": 378,
+              "content": "缩量板很强"
+            },
+            {
+              "start_timestamp": 378,
+              "end_timestamp": 379,
+              "content": "现在放量"
+            },
+            {
+              "start_timestamp": 379,
+              "end_timestamp": 382,
+              "content": "这个量能的话还行啊还行"
+            },
+            {
+              "start_timestamp": 383,
+              "end_timestamp": 386,
+              "content": "哥呃"
+            },
+            {
+              "start_timestamp": 386,
+              "end_timestamp": 388,
+              "content": "这种是被爆头兑现了"
+            },
+            {
+              "start_timestamp": 388,
+              "end_timestamp": 389,
+              "content": "我看一下啊"
+            },
+            {
+              "start_timestamp": 389,
+              "end_timestamp": 391,
+              "content": "被爆头兑现了"
+            },
+            {
+              "start_timestamp": 391,
+              "end_timestamp": 392,
+              "content": "早盘缩量板那个炸板是预期的"
+            },
+            {
+              "start_timestamp": 392,
+              "end_timestamp": 394,
+              "content": "但没想到这么弱"
+            },
+            {
+              "start_timestamp": 394,
+              "end_timestamp": 395,
+              "content": "等个反超"
+            },
+            {
+              "start_timestamp": 395,
+              "end_timestamp": 400,
+              "content": "就这种哎呀就这种呃他的判断会比较难一点啊"
+            },
+            {
+              "start_timestamp": 400,
+              "end_timestamp": 401,
+              "content": "需要看整体环境"
+            },
+            {
+              "start_timestamp": 401,
+              "end_timestamp": 403,
+              "content": "我们单看分时的话"
+            },
+            {
+              "start_timestamp": 403,
+              "end_timestamp": 404,
+              "content": "他应该会有个反弹"
+            },
+            {
+              "start_timestamp": 404,
+              "end_timestamp": 405,
+              "content": "反弹责任好吧"
+            },
+            {
+              "start_timestamp": 405,
+              "end_timestamp": 407,
+              "content": "不要在这种地方割了"
+            },
+            {
+              "start_timestamp": 407,
+              "end_timestamp": 409,
+              "content": "但如果说是退潮期这种"
+            },
+            {
+              "start_timestamp": 409,
+              "end_timestamp": 411,
+              "content": "它甚至有可天地板好吧"
+            },
+            {
+              "start_timestamp": 411,
+              "end_timestamp": 412,
+              "content": "那我就按照分数来看"
+            },
+            {
+              "start_timestamp": 412,
+              "end_timestamp": 415,
+              "content": "就假设环境是中性的好吧"
+            },
+            {
+              "start_timestamp": 415,
+              "end_timestamp": 417,
+              "content": "有个反弹"
+            },
+            {
+              "start_timestamp": 417,
+              "end_timestamp": 419,
+              "content": "OK这儿大减减一半"
+            },
+            {
+              "start_timestamp": 420,
+              "end_timestamp": 422,
+              "content": "不过均线清仓"
+            },
+            {
+              "start_timestamp": 422,
+              "end_timestamp": 425,
+              "content": "剩下的看能不能站稳"
+            },
+            {
+              "start_timestamp": 425,
+              "end_timestamp": 427,
+              "content": "OK回封了"
+            },
+            {
+              "start_timestamp": 427,
+              "end_timestamp": 429,
+              "content": "回风就可以拿着了"
+            },
+            {
+              "start_timestamp": 430,
+              "end_timestamp": 433,
+              "content": "好那这个地方回风又被爆头了"
+            },
+            {
+              "start_timestamp": 433,
+              "end_timestamp": 434,
+              "content": "量呢已经爆出来了"
+            },
+            {
+              "start_timestamp": 434,
+              "end_timestamp": 437,
+              "content": "所以这个地方因为他上去过一次嘛"
+            },
+            {
+              "start_timestamp": 437,
+              "end_timestamp": 439,
+              "content": "所以说在均线上方卖掉就可以了"
+            },
+            {
+              "start_timestamp": 440,
+              "end_timestamp": 440,
+              "content": "不会封的"
+            },
+            {
+              "start_timestamp": 440,
+              "end_timestamp": 442,
+              "content": "清仓好"
+            },
+            {
+              "start_timestamp": 442,
+              "end_timestamp": 443,
+              "content": "清了吧"
+            },
+            {
+              "start_timestamp": 445,
+              "end_timestamp": 451,
+              "content": "啊这是非常标准的短线票的处理啊"
+            },
+            {
+              "start_timestamp": 451,
+              "end_timestamp": 452,
+              "content": "非常标准"
+            },
+            {
+              "start_timestamp": 452,
+              "end_timestamp": 454,
+              "content": "哎呦哎我还没分析完呢"
+            },
+            {
+              "start_timestamp": 454,
+              "end_timestamp": 457,
+              "content": "就这个地方给大家分析一下"
+            },
+            {
+              "start_timestamp": 457,
+              "end_timestamp": 462,
+              "content": "首先早盘缩量冲板就是嗯炸板是预期类的"
+            },
+            {
+              "start_timestamp": 462,
+              "end_timestamp": 464,
+              "content": "但这个走弱特别差"
+            },
+            {
+              "start_timestamp": 464,
+              "end_timestamp": 465,
+              "content": "很夸张"
+            },
+            {
+              "start_timestamp": 465,
+              "end_timestamp": 466,
+              "content": "所以说这个地方不要慌张"
+            },
+            {
+              "start_timestamp": 466,
+              "end_timestamp": 469,
+              "content": "等个反抽不上均线再走对吧"
+            },
+            {
+              "start_timestamp": 469,
+              "end_timestamp": 471,
+              "content": "好这减一笔利润链做出来的"
+            },
+            {
+              "start_timestamp": 471,
+              "end_timestamp": 471,
+              "content": "不怕了"
+            },
+            {
+              "start_timestamp": 471,
+              "end_timestamp": 472,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 472,
+              "end_timestamp": 473,
+              "content": "因为当时我们在这买的嘛"
+            },
+            {
+              "start_timestamp": 473,
+              "end_timestamp": 474,
+              "content": "在这种地方做个利润链的话"
+            },
+            {
+              "start_timestamp": 474,
+              "end_timestamp": 476,
+              "content": "基本上到这种地方来了"
+            },
+            {
+              "start_timestamp": 476,
+              "end_timestamp": 478,
+              "content": "嗯没有后顾之忧了"
+            },
+            {
+              "start_timestamp": 478,
+              "end_timestamp": 481,
+              "content": "所以说后面你发挥的空间变大了对吧"
+            },
+            {
+              "start_timestamp": 481,
+              "end_timestamp": 483,
+              "content": "那如果说你成本现在这种地方"
+            },
+            {
+              "start_timestamp": 483,
+              "end_timestamp": 484,
+              "content": "你基本上操作不了"
+            },
+            {
+              "start_timestamp": 484,
+              "end_timestamp": 486,
+              "content": "这个票没法操作好吧"
+            },
+            {
+              "start_timestamp": 486,
+              "end_timestamp": 488,
+              "content": "就没那么冷静好"
+            },
+            {
+              "start_timestamp": 488,
+              "end_timestamp": 489,
+              "content": "这上均线就不用剪了呀"
+            },
+            {
+              "start_timestamp": 489,
+              "end_timestamp": 490,
+              "content": "对不对啊"
+            },
+            {
+              "start_timestamp": 490,
+              "end_timestamp": 491,
+              "content": "冲板的时候"
+            },
+            {
+              "start_timestamp": 491,
+              "end_timestamp": 491,
+              "content": "那可以"
+            },
+            {
+              "start_timestamp": 491,
+              "end_timestamp": 494,
+              "content": "如果说我们呃盯盘标准的话"
+            },
+            {
+              "start_timestamp": 494,
+              "end_timestamp": 496,
+              "content": "这个上板封封死"
+            },
+            {
+              "start_timestamp": 496,
+              "end_timestamp": 498,
+              "content": "因为能看封单吗"
+            },
+            {
+              "start_timestamp": 498,
+              "end_timestamp": 499,
+              "content": "炸板呢也可以减好吧"
+            },
+            {
+              "start_timestamp": 499,
+              "end_timestamp": 500,
+              "content": "可以在板上砸出来的"
+            },
+            {
+              "start_timestamp": 500,
+              "end_timestamp": 502,
+              "content": "不用等到这种地方砸好吧"
+            },
+            {
+              "start_timestamp": 502,
+              "end_timestamp": 504,
+              "content": "呃这个票处理很标准"
+            },
+            {
+              "start_timestamp": 504,
+              "end_timestamp": 505,
+              "content": "次日直接跌停"
+            },
+            {
+              "start_timestamp": 505,
+              "end_timestamp": 507,
+              "content": "开反核吗"
+            },
+            {
+              "start_timestamp": 507,
+              "end_timestamp": 508,
+              "content": "有反核吗"
+            },
+            {
+              "start_timestamp": 508,
+              "end_timestamp": 510,
+              "content": "第一根放量了啊"
+            },
+            {
+              "start_timestamp": 510,
+              "end_timestamp": 511,
+              "content": "第二个哦"
+            },
+            {
+              "start_timestamp": 511,
+              "end_timestamp": 512,
+              "content": "没尿了"
+            },
+            {
+              "start_timestamp": 512,
+              "end_timestamp": 513,
+              "content": "哎哎呀"
+            },
+            {
+              "start_timestamp": 513,
+              "end_timestamp": 514,
+              "content": "看要翘板吗"
+            },
+            {
+              "start_timestamp": 515,
+              "end_timestamp": 522,
+              "content": "很有意思啊哈早盘2分钟翘板跟一笔玩儿吧"
+            },
+            {
+              "start_timestamp": 522,
+              "end_timestamp": 522,
+              "content": "就买1/4"
+            },
+            {
+              "start_timestamp": 522,
+              "end_timestamp": 523,
+              "content": "买了一半啊"
+            },
+            {
+              "start_timestamp": 523,
+              "end_timestamp": 525,
+              "content": "就本来只能买1/4玩的新仓买"
+            },
+            {
+              "start_timestamp": 525,
+              "end_timestamp": 527,
+              "content": "因为我们要做考虑做这个事嘛"
+            },
+            {
+              "start_timestamp": 527,
+              "end_timestamp": 527,
+              "content": "就一半好吧"
+            },
+            {
+              "start_timestamp": 527,
+              "end_timestamp": 528,
+              "content": "还有减仓的事"
+            },
+            {
+              "start_timestamp": 528,
+              "end_timestamp": 532,
+              "content": "一半是一个好"
+            },
+            {
+              "start_timestamp": 532,
+              "end_timestamp": 534,
+              "content": "你这个票彻底走弱了"
+            },
+            {
+              "start_timestamp": 534,
+              "end_timestamp": 535,
+              "content": "量子呢也还好"
+            },
+            {
+              "start_timestamp": 535,
+              "end_timestamp": 538,
+              "content": "那明天呢四个点低开"
+            },
+            {
+              "start_timestamp": 538,
+              "end_timestamp": 539,
+              "content": "那找高点走咯"
+            },
+            {
+              "start_timestamp": 539,
+              "end_timestamp": 539,
+              "content": "好吧"
+            },
+            {
+              "start_timestamp": 539,
+              "end_timestamp": 541,
+              "content": "找高点走"
+            },
+            {
+              "start_timestamp": 543,
+              "end_timestamp": 545,
+              "content": "这是一个乖你哦"
+            },
+            {
+              "start_timestamp": 545,
+              "end_timestamp": 547,
+              "content": "这是个关于你股价距均线很远了"
+            },
+            {
+              "start_timestamp": 547,
+              "end_timestamp": 548,
+              "content": "再等个拐"
+            },
+            {
+              "start_timestamp": 548,
+              "end_timestamp": 549,
+              "content": "你有吗"
+            },
+            {
+              "start_timestamp": 550,
+              "end_timestamp": 552,
+              "content": "没了是吧嗯"
+            },
+            {
+              "start_timestamp": 554,
+              "end_timestamp": 556,
+              "content": "这是个看一下啊"
+            },
+            {
+              "start_timestamp": 556,
+              "end_timestamp": 558,
+              "content": "这很难跌下去"
+            },
+            {
+              "start_timestamp": 558,
+              "end_timestamp": 559,
+              "content": "应该很难跌下去"
+            },
+            {
+              "start_timestamp": 559,
+              "end_timestamp": 562,
+              "content": "拉一拉吧啊"
+            },
+            {
+              "start_timestamp": 562,
+              "end_timestamp": 563,
+              "content": "走了走了走了"
+            },
+            {
+              "start_timestamp": 565,
+              "end_timestamp": 567,
+              "content": "诶还走强了呀"
+            },
+            {
+              "start_timestamp": 567,
+              "end_timestamp": 569,
+              "content": "这个地方为什么没有卖的深水呢"
+            },
+            {
+              "start_timestamp": 569,
+              "end_timestamp": 570,
+              "content": "因为这个地方对吧"
+            },
+            {
+              "start_timestamp": 570,
+              "end_timestamp": 571,
+              "content": "这个平台有支撑的"
+            },
+            {
+              "start_timestamp": 571,
+              "end_timestamp": 574,
+              "content": "所以说他应该是很难跌下去的好吧"
+            },
+            {
+              "start_timestamp": 574,
+              "end_timestamp": 575,
+              "content": "这片手软"
+            },
+            {
+              "start_timestamp": 575,
+              "end_timestamp": 577,
+              "content": "嗯拜拜"
+            },
+            {
+              "start_timestamp": 577,
+              "end_timestamp": 578,
+              "content": "看到没有"
+            },
+            {
+              "start_timestamp": 578,
+              "end_timestamp": 580,
+              "content": "这最后调整过程中都没有铺这个点"
+            },
+            {
+              "start_timestamp": 580,
+              "end_timestamp": 581,
+              "content": "这就是个支撑"
+            },
+            {
+              "start_timestamp": 582,
+              "end_timestamp": 583,
+              "content": "看到没有看到没有"
+            },
+            {
+              "start_timestamp": 583,
+              "end_timestamp": 584,
+              "content": "看到没有"
+            },
+            {
+              "start_timestamp": 584,
+              "end_timestamp": 584,
+              "content": "喏"
+            },
+            {
+              "start_timestamp": 584,
+              "end_timestamp": 586,
+              "content": "就这个平台的个高点好吧"
+            },
+            {
+              "start_timestamp": 587,
+              "end_timestamp": 589,
+              "content": "那现在就走弱了"
+            },
+            {
+              "start_timestamp": 591,
+              "end_timestamp": 595,
+              "content": "售票这一天就真的需要很多的分析吧"
+            },
+            {
+              "start_timestamp": 595,
+              "end_timestamp": 598,
+              "content": "就这一天为什么我们看一下分时"
+            },
+            {
+              "start_timestamp": 598,
+              "end_timestamp": 599,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 599,
+              "end_timestamp": 601,
+              "content": "为什么这个装B啊"
+            },
+            {
+              "start_timestamp": 601,
+              "end_timestamp": 603,
+              "content": "就这天不是在这B的"
+            },
+            {
+              "start_timestamp": 603,
+              "end_timestamp": 604,
+              "content": "就是我们在这个地方B的"
+            },
+            {
+              "start_timestamp": 604,
+              "end_timestamp": 605,
+              "content": "因为这一天他是个便宜老大"
+            },
+            {
+              "start_timestamp": 605,
+              "end_timestamp": 606,
+              "content": "应该是好吧"
+            },
+            {
+              "start_timestamp": 606,
+              "end_timestamp": 609,
+              "content": "我们看什么票是便宜老大吗"
+            },
+            {
+              "start_timestamp": 610,
+              "end_timestamp": 613,
+              "content": "集成电子N24年应该是便宜老大"
+            },
+            {
+              "start_timestamp": 613,
+              "end_timestamp": 614,
+              "content": "应该是便宜老大啊"
+            },
+            {
+              "start_timestamp": 614,
+              "end_timestamp": 616,
+              "content": "寄存电子好"
+            },
+            {
+              "start_timestamp": 616,
+              "end_timestamp": 618,
+              "content": "下一个"
+            },
+            {
+              "start_timestamp": 619,
+              "end_timestamp": 622,
+              "content": "嗯涨停后低开"
+            },
+            {
+              "start_timestamp": 622,
+              "end_timestamp": 627,
+              "content": "真有你的放量放量上影线"
+            },
+            {
+              "start_timestamp": 627,
+              "end_timestamp": 631,
+              "content": "这有资金入场带线洗盘"
+            },
+            {
+              "start_timestamp": 632,
+              "end_timestamp": 637,
+              "content": "可以搜红这所趋势了哦"
+            },
+            {
+              "start_timestamp": 637,
+              "end_timestamp": 639,
+              "content": "这个地方到主人车位附近了"
+            },
+            {
+              "start_timestamp": 639,
+              "end_timestamp": 641,
+              "content": "先买一点点吧"
+            },
+            {
+              "start_timestamp": 642,
+              "end_timestamp": 643,
+              "content": "我要买一半的"
+            },
+            {
+              "start_timestamp": 643,
+              "end_timestamp": 644,
+              "content": "这这减仓才舒服"
+            },
+            {
+              "start_timestamp": 644,
+              "end_timestamp": 645,
+              "content": "哎"
+            },
+            {
+              "start_timestamp": 647,
+              "end_timestamp": 650,
+              "content": "哎呀你说我没有想做教学的"
+            },
+            {
+              "start_timestamp": 650,
+              "end_timestamp": 652,
+              "content": "就这个地方买一个那个2/4仓"
+            },
+            {
+              "start_timestamp": 652,
+              "end_timestamp": 654,
+              "content": "1/4没法减减减仓吗"
+            },
+            {
+              "start_timestamp": 654,
+              "end_timestamp": 655,
+              "content": "这地方肯定要减仓的"
+            },
+            {
+              "start_timestamp": 655,
+              "end_timestamp": 656,
+              "content": "这个方减仓"
+            },
+            {
+              "start_timestamp": 656,
+              "end_timestamp": 657,
+              "content": "那现在没有仓位"
+            },
+            {
+              "start_timestamp": 657,
+              "end_timestamp": 657,
+              "content": "没办法"
+            },
+            {
+              "start_timestamp": 657,
+              "end_timestamp": 660,
+              "content": "那就当我当我剪过了好"
+            },
+            {
+              "start_timestamp": 660,
+              "end_timestamp": 661,
+              "content": "当我减过了我"
+            },
+            {
+              "start_timestamp": 661,
+              "end_timestamp": 664,
+              "content": "我成本钱在这了好吧"
+            },
+            {
+              "start_timestamp": 665,
+              "end_timestamp": 667,
+              "content": "哎上影线低开高走"
+            },
+            {
+              "start_timestamp": 667,
+              "end_timestamp": 668,
+              "content": "我看一下"
+            },
+            {
+              "start_timestamp": 671,
+              "end_timestamp": 673,
+              "content": "嗯冲高回落被爆头了"
+            },
+            {
+              "start_timestamp": 673,
+              "end_timestamp": 674,
+              "content": "先清了吧"
+            },
+            {
+              "start_timestamp": 674,
+              "end_timestamp": 676,
+              "content": "他要清了清了"
+            },
+            {
+              "start_timestamp": 677,
+              "end_timestamp": 682,
+              "content": "那现在这个平台低点在这吧"
+            },
+            {
+              "start_timestamp": 682,
+              "end_timestamp": 684,
+              "content": "好对同方那是七次日"
+            },
+            {
+              "start_timestamp": 684,
+              "end_timestamp": 686,
+              "content": "这就别左侧了"
+            },
+            {
+              "start_timestamp": 686,
+              "end_timestamp": 687,
+              "content": "这个地方为什么敢左侧呢"
+            },
+            {
+              "start_timestamp": 687,
+              "end_timestamp": 691,
+              "content": "因为你你这个票你如果说主力不想做了"
+            },
+            {
+              "start_timestamp": 691,
+              "end_timestamp": 693,
+              "content": "那那你可以把他洗破对吧"
+            },
+            {
+              "start_timestamp": 693,
+              "end_timestamp": 695,
+              "content": "所以说这个地方直接左侧了"
+            },
+            {
+              "start_timestamp": 695,
+              "end_timestamp": 696,
+              "content": "这个地方呢它也还有洗的空间"
+            },
+            {
+              "start_timestamp": 696,
+              "end_timestamp": 697,
+              "content": "所以说这就不要左侧了"
+            },
+            {
+              "start_timestamp": 697,
+              "end_timestamp": 701,
+              "content": "看右侧好等等"
+            },
+            {
+              "start_timestamp": 701,
+              "end_timestamp": 703,
+              "content": "他洗到这种地方来"
+            },
+            {
+              "start_timestamp": 703,
+              "end_timestamp": 704,
+              "content": "OK高开低走"
+            },
+            {
+              "start_timestamp": 704,
+              "end_timestamp": 705,
+              "content": "高开低走"
+            },
+            {
+              "start_timestamp": 705,
+              "end_timestamp": 707,
+              "content": "看一下对"
+            },
+            {
+              "start_timestamp": 707,
+              "end_timestamp": 708,
+              "content": "高开低走"
+            },
+            {
+              "start_timestamp": 709,
+              "end_timestamp": 711,
+              "content": "做竞价盘中拉升被爆头"
+            },
+            {
+              "start_timestamp": 712,
+              "end_timestamp": 713,
+              "content": "接着洗洗吧"
+            },
+            {
+              "start_timestamp": 713,
+              "end_timestamp": 715,
+              "content": "OK这个地方啊"
+            },
+            {
+              "start_timestamp": 715,
+              "end_timestamp": 717,
+              "content": "喏又到这个对吧"
+            },
+            {
+              "start_timestamp": 717,
+              "end_timestamp": 719,
+              "content": "先左侧一点点"
+            },
+            {
+              "start_timestamp": 719,
+              "end_timestamp": 722,
+              "content": "这次呃我说一下只能买1/4的仓位哈"
+            },
+            {
+              "start_timestamp": 722,
+              "end_timestamp": 724,
+              "content": "但是呢因为要做教学嘛"
+            },
+            {
+              "start_timestamp": 724,
+              "end_timestamp": 724,
+              "content": "要做T"
+            },
+            {
+              "start_timestamp": 724,
+              "end_timestamp": 727,
+              "content": "所以说只能买两个两个单位"
+            },
+            {
+              "start_timestamp": 728,
+              "end_timestamp": 729,
+              "content": "掌声在哪里"
+            },
+            {
+              "start_timestamp": 729,
+              "end_timestamp": 730,
+              "content": "可以吧"
+            },
+            {
+              "start_timestamp": 730,
+              "end_timestamp": 732,
+              "content": "还好我买了两个单位"
+            },
+            {
+              "start_timestamp": 732,
+              "end_timestamp": 733,
+              "content": "买两个单位"
+            },
+            {
+              "start_timestamp": 733,
+              "end_timestamp": 736,
+              "content": "这个地方看这个板强不强啊"
+            },
+            {
+              "start_timestamp": 736,
+              "end_timestamp": 737,
+              "content": "强无敌"
+            },
+            {
+              "start_timestamp": 737,
+              "end_timestamp": 739,
+              "content": "明天高溢价4.18啊"
+            },
+            {
+              "start_timestamp": 739,
+              "end_timestamp": 740,
+              "content": "不要被爆头就行了"
+            },
+            {
+              "start_timestamp": 740,
+              "end_timestamp": 743,
+              "content": "不要开到4.18这种位置好吗"
+            },
+            {
+              "start_timestamp": 743,
+              "end_timestamp": 745,
+              "content": "直接开诶"
+            },
+            {
+              "start_timestamp": 745,
+              "end_timestamp": 745,
+              "content": "等一下啊"
+            },
+            {
+              "start_timestamp": 746,
+              "end_timestamp": 748,
+              "content": "我直接开过去了好啊"
+            },
+            {
+              "start_timestamp": 748,
+              "end_timestamp": 749,
+              "content": "现在一个很关键点啊"
+            },
+            {
+              "start_timestamp": 749,
+              "end_timestamp": 751,
+              "content": "开过去了"
+            },
+            {
+              "start_timestamp": 751,
+              "end_timestamp": 752,
+              "content": "盘中只要不明显跌破"
+            },
+            {
+              "start_timestamp": 752,
+              "end_timestamp": 753,
+              "content": "它可能会转趋势"
+            },
+            {
+              "start_timestamp": 753,
+              "end_timestamp": 755,
+              "content": "甚至转短线好吧"
+            },
+            {
+              "start_timestamp": 755,
+              "end_timestamp": 756,
+              "content": "但有个问题"
+            },
+            {
+              "start_timestamp": 756,
+              "end_timestamp": 757,
+              "content": "昨天那么强的一个板"
+            },
+            {
+              "start_timestamp": 757,
+              "end_timestamp": 760,
+              "content": "今天它的溢价只有一个点"
+            },
+            {
+              "start_timestamp": 760,
+              "end_timestamp": 761,
+              "content": "它除非是个大盘子"
+            },
+            {
+              "start_timestamp": 761,
+              "end_timestamp": 763,
+              "content": "不然溢价不会那么低的"
+            },
+            {
+              "start_timestamp": 763,
+              "end_timestamp": 766,
+              "content": "我们看一分K1分K能量的好"
+            },
+            {
+              "start_timestamp": 766,
+              "end_timestamp": 768,
+              "content": "开盘拉升没事了没事了"
+            },
+            {
+              "start_timestamp": 768,
+              "end_timestamp": 769,
+              "content": "开盘拉升啊"
+            },
+            {
+              "start_timestamp": 769,
+              "end_timestamp": 770,
+              "content": "不对呃"
+            },
+            {
+              "start_timestamp": 770,
+              "end_timestamp": 772,
+              "content": "有有事儿有事儿"
+            },
+            {
+              "start_timestamp": 772,
+              "end_timestamp": 774,
+              "content": "这儿开盘均线是向下的"
+            },
+            {
+              "start_timestamp": 774,
+              "end_timestamp": 775,
+              "content": "它有个下探动作"
+            },
+            {
+              "start_timestamp": 775,
+              "end_timestamp": 777,
+              "content": "下探动作下探的很很很低"
+            },
+            {
+              "start_timestamp": 777,
+              "end_timestamp": 779,
+              "content": "所以说这个地方是什么"
+            },
+            {
+              "start_timestamp": 779,
+              "end_timestamp": 782,
+              "content": "相当于是一波很快的下杀之后拉升上去"
+            },
+            {
+              "start_timestamp": 782,
+              "end_timestamp": 783,
+              "content": "这个地方要减"
+            },
+            {
+              "start_timestamp": 783,
+              "end_timestamp": 784,
+              "content": "可能是个高点"
+            },
+            {
+              "start_timestamp": 784,
+              "end_timestamp": 785,
+              "content": "苍蝇搓手走"
+            },
+            {
+              "start_timestamp": 785,
+              "end_timestamp": 787,
+              "content": "这个分析牛逼吧"
+            },
+            {
+              "start_timestamp": 787,
+              "end_timestamp": 789,
+              "content": "我们是不是卖在最高点"
+            },
+            {
+              "start_timestamp": 789,
+              "end_timestamp": 791,
+              "content": "最高点就这么卖出来的"
+            },
+            {
+              "start_timestamp": 791,
+              "end_timestamp": 791,
+              "content": "呃"
+            },
+            {
+              "start_timestamp": 791,
+              "end_timestamp": 795,
+              "content": "OK那这个票还是4.18不破"
+            },
+            {
+              "start_timestamp": 795,
+              "end_timestamp": 796,
+              "content": "转趋势破了呢呢"
+            },
+            {
+              "start_timestamp": 796,
+              "end_timestamp": 797,
+              "content": "那可能要回踩"
+            },
+            {
+              "start_timestamp": 797,
+              "end_timestamp": 799,
+              "content": "回踩到这种地方了"
+            },
+            {
+              "start_timestamp": 799,
+              "end_timestamp": 800,
+              "content": "这种地方好吧"
+            },
+            {
+              "start_timestamp": 800,
+              "end_timestamp": 801,
+              "content": "这是4.03左右"
+            },
+            {
+              "start_timestamp": 801,
+              "end_timestamp": 802,
+              "content": "4.01左右好吧"
+            },
+            {
+              "start_timestamp": 803,
+              "end_timestamp": 804,
+              "content": "Lets go"
+            },
+            {
+              "start_timestamp": 804,
+              "end_timestamp": 806,
+              "content": "4.07"
+            },
+            {
+              "start_timestamp": 806,
+              "end_timestamp": 807,
+              "content": "4.03"
+            },
+            {
+              "start_timestamp": 807,
+              "end_timestamp": 808,
+              "content": "看下啊"
+            },
+            {
+              "start_timestamp": 808,
+              "end_timestamp": 811,
+              "content": "那这里位置要吸吗"
+            },
+            {
+              "start_timestamp": 812,
+              "end_timestamp": 813,
+              "content": "被爆头了"
+            },
+            {
+              "start_timestamp": 813,
+              "end_timestamp": 815,
+              "content": "那先别吸了吧"
+            },
+            {
+              "start_timestamp": 816,
+              "end_timestamp": 819,
+              "content": "4.01左右是那个支撑"
+            },
+            {
+              "start_timestamp": 819,
+              "end_timestamp": 820,
+              "content": "几次都没有跌破"
+            },
+            {
+              "start_timestamp": 820,
+              "end_timestamp": 822,
+              "content": "好跌破一次啊"
+            },
+            {
+              "start_timestamp": 822,
+              "end_timestamp": 823,
+              "content": "这个片子走弱了"
+            },
+            {
+              "start_timestamp": 823,
+              "end_timestamp": 826,
+              "content": "爆大量不一定结束啊"
+            },
+            {
+              "start_timestamp": 826,
+              "end_timestamp": 827,
+              "content": "他可能直接反抛"
+            },
+            {
+              "start_timestamp": 827,
+              "end_timestamp": 830,
+              "content": "真的高开开盘"
+            },
+            {
+              "start_timestamp": 830,
+              "end_timestamp": 832,
+              "content": "你敢拿我就敢看啊"
+            },
+            {
+              "start_timestamp": 832,
+              "end_timestamp": 833,
+              "content": "哈还好你不敢"
+            },
+            {
+              "start_timestamp": 833,
+              "end_timestamp": 837,
+              "content": "我也不敢不玩了吗"
+            },
+            {
+              "start_timestamp": 838,
+              "end_timestamp": 839,
+              "content": "还有牛人啊"
+            },
+            {
+              "start_timestamp": 839,
+              "end_timestamp": 840,
+              "content": "还有牛人点"
+            },
+            {
+              "start_timestamp": 840,
+              "end_timestamp": 842,
+              "content": "那只能洗到这个底部了"
+            },
+            {
+              "start_timestamp": 842,
+              "end_timestamp": 843,
+              "content": "洗到这个底部啊"
+            },
+            {
+              "start_timestamp": 845,
+              "end_timestamp": 847,
+              "content": "被爆头的一个放尿"
+            },
+            {
+              "start_timestamp": 847,
+              "end_timestamp": 848,
+              "content": "这不一定结束啊"
+            },
+            {
+              "start_timestamp": 848,
+              "end_timestamp": 851,
+              "content": "这个如果你单从成本来抄底的话"
+            },
+            {
+              "start_timestamp": 851,
+              "end_timestamp": 853,
+              "content": "算了不抄底了"
+            },
+            {
+              "start_timestamp": 854,
+              "end_timestamp": 855,
+              "content": "OK反包这儿有资金还在做"
+            },
+            {
+              "start_timestamp": 856,
+              "end_timestamp": 859,
+              "content": "这天应该是有B点的"
+            },
+            {
+              "start_timestamp": 859,
+              "end_timestamp": 859,
+              "content": "看有这个最低点"
+            },
+            {
+              "start_timestamp": 859,
+              "end_timestamp": 860,
+              "content": "应该是有B点的"
+            },
+            {
+              "start_timestamp": 860,
+              "end_timestamp": 863,
+              "content": "我们找一找看有B点吗"
+            },
+            {
+              "start_timestamp": 863,
+              "end_timestamp": 865,
+              "content": "这个不太好装B点啊"
+            },
+            {
+              "start_timestamp": 865,
+              "end_timestamp": 866,
+              "content": "再等个反抽出局了"
+            },
+            {
+              "start_timestamp": 866,
+              "end_timestamp": 868,
+              "content": "好吧啊"
+            },
+            {
+              "start_timestamp": 868,
+              "end_timestamp": 868,
+              "content": "这还在洗"
+            },
+            {
+              "start_timestamp": 868,
+              "end_timestamp": 869,
+              "content": "别别玩了"
+            },
+            {
+              "start_timestamp": 870,
+              "end_timestamp": 871,
+              "content": "不玩了"
+            },
+            {
+              "start_timestamp": 871,
+              "end_timestamp": 873,
+              "content": "你怎么还能洗的呢"
+            },
+            {
+              "start_timestamp": 873,
+              "end_timestamp": 875,
+              "content": "不能洗不能洗啊"
+            },
+            {
+              "start_timestamp": 875,
+              "end_timestamp": 876,
+              "content": "这个地方"
+            },
+            {
+              "start_timestamp": 877,
+              "end_timestamp": 881,
+              "content": "好那个我们再复一下盘啊"
+            },
+            {
+              "start_timestamp": 882,
+              "end_timestamp": 883,
+              "content": "粤宏远A地产票"
+            },
+            {
+              "start_timestamp": 883,
+              "end_timestamp": 888,
+              "content": "我靠地产票都能这样做成这个样子好"
+            },
+            {
+              "start_timestamp": 888,
+              "end_timestamp": 891,
+              "content": "这一天是DC对吧"
+            },
+            {
+              "start_timestamp": 891,
+              "end_timestamp": 895,
+              "content": "DC这一天要减仓操作完全没问题"
+            },
+            {
+              "start_timestamp": 895,
+              "end_timestamp": 896,
+              "content": "这个节奏非常非常准啊"
+            },
+            {
+              "start_timestamp": 896,
+              "end_timestamp": 900,
+              "content": "哦这一天又抄底抄进去啊"
+            },
+            {
+              "start_timestamp": 900,
+              "end_timestamp": 900,
+              "content": "这天涨停"
+            },
+            {
+              "start_timestamp": 900,
+              "end_timestamp": 903,
+              "content": "这天呢在最高点减的吧"
+            },
+            {
+              "start_timestamp": 903,
+              "end_timestamp": 904,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 904,
+              "end_timestamp": 905,
+              "content": "这个没有什么马后炮吧"
+            },
+            {
+              "start_timestamp": 905,
+              "end_timestamp": 908,
+              "content": "是不是最高点分怎么分析的对吧"
+            },
+            {
+              "start_timestamp": 908,
+              "end_timestamp": 910,
+              "content": "你均线跟分数不对劲"
+            },
+            {
+              "start_timestamp": 910,
+              "end_timestamp": 911,
+              "content": "然后你再看了一眼就可以"
+            },
+            {
+              "start_timestamp": 911,
+              "end_timestamp": 912,
+              "content": "他去过最低点了"
+            },
+            {
+              "start_timestamp": 912,
+              "end_timestamp": 914,
+              "content": "OK这个地方就是个高点"
+            },
+            {
+              "start_timestamp": 914,
+              "end_timestamp": 916,
+              "content": "直接砸砸一半"
+            },
+            {
+              "start_timestamp": 917,
+              "end_timestamp": 921,
+              "content": "OK这票嗯多学学吧好吧"
+            },
+            {
+              "start_timestamp": 921,
+              "end_timestamp": 922,
+              "content": "今天先给大家分享这么多吧"
+            },
+            {
+              "start_timestamp": 922,
+              "end_timestamp": 923,
+              "content": "看完点赞"
+            },
+            {
+              "start_timestamp": 923,
+              "end_timestamp": 924,
+              "content": "祝大家日宝安拜拜"
+            }
+          ],
+          "timestamp": 1
+        }
+      ]
+    },
+    "stid": "1130251640314719907",
+    "status": 0,
+    "like_num": 0,
+    "dislike_num": 0
+  }
+}

@@ -1,0 +1,2757 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "code": 0,
+    "model_result": {
+      "result_type": 2,
+      "summary": "2011-2025年上证指数节前5日与节后走势统计，指出节后上涨概率66.7%，跳空为关键变量，强调持股或持币决策需结合持仓成本、回撤承受力、假期风险及资金流动性，通过四问自测理性判断，避免盲目跟风，核心在于个人风险管理和自主决策，市场风险自担。",
+      "outline": [
+        {
+          "title": "节前持币或持股需结合自身风险决策",
+          "part_outline": [
+            {
+              "timestamp": 102,
+              "content": "根据个人资金用途和回撤承受能力决策持币或持股"
+            },
+            {
+              "timestamp": 172,
+              "content": "节后首日及5日上涨概率均超66%，但需结合市场位置判断"
+            },
+            {
+              "timestamp": 409,
+              "content": "高位持仓者假期回撤风险显著，仓位与资金流动性影响决策"
+            }
+          ],
+          "timestamp": 1
+        },
+        {
+          "title": "审慎决策持股或持币过节",
+          "part_outline": [
+            {
+              "timestamp": 533,
+              "content": "长期持仓可承受波动，短期需严格控制风险敞口"
+            },
+            {
+              "timestamp": 632,
+              "content": "持股过节需评估回撤容忍度，决策由自身持仓位置和假期风险决定"
+            },
+            {
+              "timestamp": 917,
+              "content": "提前制定节前决策清单，避免情绪化操作与最后一刻犹豫"
+            }
+          ],
+          "timestamp": 525
+        }
+      ],
+      "subtitle": [
+        {
+          "title": "",
+          "part_subtitle": [
+            {
+              "start_timestamp": 0,
+              "end_timestamp": 1,
+              "content": "今天继续讲内容啊"
+            },
+            {
+              "start_timestamp": 1,
+              "end_timestamp": 3,
+              "content": "就是行情这一块我就不会去做复盘了"
+            },
+            {
+              "start_timestamp": 3,
+              "end_timestamp": 4,
+              "content": "反正盘中直播"
+            },
+            {
+              "start_timestamp": 4,
+              "end_timestamp": 6,
+              "content": "包括说陪伴也都给到各位了"
+            },
+            {
+              "start_timestamp": 6,
+              "end_timestamp": 9,
+              "content": "现在进入到认知税的第17"
+            },
+            {
+              "start_timestamp": 9,
+              "end_timestamp": 11,
+              "content": "持股还是持币过节"
+            },
+            {
+              "start_timestamp": 11,
+              "end_timestamp": 13,
+              "content": "那么15年的数据摆在这"
+            },
+            {
+              "start_timestamp": 13,
+              "end_timestamp": 16,
+              "content": "这些内容呢来自于万德万德数据"
+            },
+            {
+              "start_timestamp": 16,
+              "end_timestamp": 19,
+              "content": "以及说这个市场的整个统计啊"
+            },
+            {
+              "start_timestamp": 19,
+              "end_timestamp": 20,
+              "content": "不预测涨跌"
+            },
+            {
+              "start_timestamp": 20,
+              "end_timestamp": 21,
+              "content": "不推荐任何个股"
+            },
+            {
+              "start_timestamp": 21,
+              "end_timestamp": 25,
+              "content": "然后呢只把统计和标和框架讲给你听"
+            },
+            {
+              "start_timestamp": 25,
+              "end_timestamp": 26,
+              "content": "那么15年以来"
+            },
+            {
+              "start_timestamp": 26,
+              "end_timestamp": 28,
+              "content": "2011年到2025年逐年统计"
+            },
+            {
+              "start_timestamp": 28,
+              "end_timestamp": 29,
+              "content": "以及说节后首日上涨概率"
+            },
+            {
+              "start_timestamp": 29,
+              "end_timestamp": 31,
+              "content": "以及节后节前5日上涨概率"
+            },
+            {
+              "start_timestamp": 31,
+              "end_timestamp": 32,
+              "content": "以及次问你的决策"
+            },
+            {
+              "start_timestamp": 32,
+              "end_timestamp": 35,
+              "content": "以及说你可以抄的决策的这个清单"
+            },
+            {
+              "start_timestamp": 35,
+              "end_timestamp": 38,
+              "content": "那么首先第一个这一期把别人怎么说"
+            },
+            {
+              "start_timestamp": 38,
+              "end_timestamp": 40,
+              "content": "换成数据怎么讲"
+            },
+            {
+              "start_timestamp": 40,
+              "end_timestamp": 41,
+              "content": "你不要看别人啊"
+            },
+            {
+              "start_timestamp": 41,
+              "end_timestamp": 42,
+              "content": "别人不是你爸爸"
+            },
+            {
+              "start_timestamp": 42,
+              "end_timestamp": 43,
+              "content": "数据才是真的"
+            },
+            {
+              "start_timestamp": 43,
+              "end_timestamp": 45,
+              "content": "市场15年的数据"
+            },
+            {
+              "start_timestamp": 45,
+              "end_timestamp": 47,
+              "content": "节后五节前5日和节后首日"
+            },
+            {
+              "start_timestamp": 47,
+              "end_timestamp": 49,
+              "content": "节后5日中间摆出来三个效应"
+            },
+            {
+              "start_timestamp": 49,
+              "end_timestamp": 49,
+              "content": "节前偏弱"
+            },
+            {
+              "start_timestamp": 49,
+              "end_timestamp": 50,
+              "content": "节后偏强"
+            },
+            {
+              "start_timestamp": 50,
+              "end_timestamp": 51,
+              "content": "跳空是主要变量"
+            },
+            {
+              "start_timestamp": 51,
+              "end_timestamp": 54,
+              "content": "那么反例18年和24年告诉你"
+            },
+            {
+              "start_timestamp": 54,
+              "end_timestamp": 56,
+              "content": "统计并不是保证"
+            },
+            {
+              "start_timestamp": 56,
+              "end_timestamp": 58,
+              "content": "并能并不能够保证你百分百"
+            },
+            {
+              "start_timestamp": 58,
+              "end_timestamp": 59,
+              "content": "那么决策的试问"
+            },
+            {
+              "start_timestamp": 59,
+              "end_timestamp": 60,
+              "content": "数据出来之后"
+            },
+            {
+              "start_timestamp": 60,
+              "end_timestamp": 63,
+              "content": "真正决定的是你自己的四个问题应该怎么做"
+            },
+            {
+              "start_timestamp": 63,
+              "end_timestamp": 65,
+              "content": "另外落地清单"
+            },
+            {
+              "start_timestamp": 65,
+              "end_timestamp": 67,
+              "content": "那么以上所有整个这篇视频"
+            },
+            {
+              "start_timestamp": 67,
+              "end_timestamp": 70,
+              "content": "所有数据都是上证历史的统计"
+            },
+            {
+              "start_timestamp": 70,
+              "end_timestamp": 72,
+              "content": "不构成对未来的任何预测"
+            },
+            {
+              "start_timestamp": 72,
+              "end_timestamp": 74,
+              "content": "我们只做细化的梳理"
+            },
+            {
+              "start_timestamp": 74,
+              "end_timestamp": 76,
+              "content": "不做任何的预测"
+            },
+            {
+              "start_timestamp": 76,
+              "end_timestamp": 78,
+              "content": "首先第一个每年都要做的两次决策"
+            },
+            {
+              "start_timestamp": 78,
+              "end_timestamp": 80,
+              "content": "在节前的最后几天"
+            },
+            {
+              "start_timestamp": 80,
+              "end_timestamp": 81,
+              "content": "每个人都在问同样一个问题"
+            },
+            {
+              "start_timestamp": 81,
+              "end_timestamp": 84,
+              "content": "到底是持币还是持股过节"
+            },
+            {
+              "start_timestamp": 84,
+              "end_timestamp": 86,
+              "content": "那么绝大多数人的问"
+            },
+            {
+              "start_timestamp": 86,
+              "end_timestamp": 90,
+              "content": "其实都是只是你自己手上持仓的反馈"
+            },
+            {
+              "start_timestamp": 90,
+              "end_timestamp": 91,
+              "content": "那么是什么呢"
+            },
+            {
+              "start_timestamp": 91,
+              "end_timestamp": 92,
+              "content": "听别人的啊"
+            },
+            {
+              "start_timestamp": 92,
+              "end_timestamp": 94,
+              "content": "大V说持股你就持股"
+            },
+            {
+              "start_timestamp": 94,
+              "end_timestamp": 95,
+              "content": "他说持币你就持币"
+            },
+            {
+              "start_timestamp": 95,
+              "end_timestamp": 97,
+              "content": "问题是他的资金属性和你不一样"
+            },
+            {
+              "start_timestamp": 97,
+              "end_timestamp": 99,
+              "content": "另外他到底有没有放钱"
+            },
+            {
+              "start_timestamp": 99,
+              "end_timestamp": 102,
+              "content": "在这个市场你不知道"
+            },
+            {
+              "start_timestamp": 102,
+              "end_timestamp": 105,
+              "content": "第二个看自己你的钱多久要用"
+            },
+            {
+              "start_timestamp": 105,
+              "end_timestamp": 106,
+              "content": "你能扛多少回撤"
+            },
+            {
+              "start_timestamp": 106,
+              "end_timestamp": 108,
+              "content": "你的仓位在哪里"
+            },
+            {
+              "start_timestamp": 108,
+              "end_timestamp": 110,
+              "content": "这才是核心变点"
+            },
+            {
+              "start_timestamp": 110,
+              "end_timestamp": 113,
+              "content": "那么我这一期先把15年的数据列出来"
+            },
+            {
+              "start_timestamp": 113,
+              "end_timestamp": 114,
+              "content": "完整的摆出来"
+            },
+            {
+              "start_timestamp": 114,
+              "end_timestamp": 117,
+              "content": "再给你一套基于你自己的"
+            },
+            {
+              "start_timestamp": 117,
+              "end_timestamp": 119,
+              "content": "或者说属于你自己的判断框架"
+            },
+            {
+              "start_timestamp": 119,
+              "end_timestamp": 121,
+              "content": "看完之后答案你自己出"
+            },
+            {
+              "start_timestamp": 122,
+              "end_timestamp": 124,
+              "content": "2011年到2025年"
+            },
+            {
+              "start_timestamp": 124,
+              "end_timestamp": 126,
+              "content": "整个中间数据啊"
+            },
+            {
+              "start_timestamp": 126,
+              "end_timestamp": 128,
+              "content": "211年节前5日偏弱"
+            },
+            {
+              "start_timestamp": 128,
+              "end_timestamp": 129,
+              "content": "节后首日"
+            },
+            {
+              "start_timestamp": 129,
+              "end_timestamp": 131,
+              "content": "节后5日哎上涨"
+            },
+            {
+              "start_timestamp": 131,
+              "end_timestamp": 134,
+              "content": "那么节前12年到12年"
+            },
+            {
+              "start_timestamp": 134,
+              "end_timestamp": 137,
+              "content": "那一波节前5日和节后首日"
+            },
+            {
+              "start_timestamp": 137,
+              "end_timestamp": 138,
+              "content": "包括说整体性"
+            },
+            {
+              "start_timestamp": 138,
+              "end_timestamp": 139,
+              "content": "那么整个数据来看"
+            },
+            {
+              "start_timestamp": 139,
+              "end_timestamp": 141,
+              "content": "24年这个是极端啊"
+            },
+            {
+              "start_timestamp": 141,
+              "end_timestamp": 142,
+              "content": "24年是极端"
+            },
+            {
+              "start_timestamp": 142,
+              "end_timestamp": 144,
+              "content": "然后呢11年的这个地方也有点"
+            },
+            {
+              "start_timestamp": 144,
+              "end_timestamp": 147,
+              "content": "相对来说其他时候绝大多数的时间点呢"
+            },
+            {
+              "start_timestamp": 147,
+              "end_timestamp": 149,
+              "content": "节后基本上是拉横为主"
+            },
+            {
+              "start_timestamp": 149,
+              "end_timestamp": 152,
+              "content": "但记住记住还要考虑位置啊"
+            },
+            {
+              "start_timestamp": 152,
+              "end_timestamp": 154,
+              "content": "还是要考虑位置"
+            },
+            {
+              "start_timestamp": 154,
+              "end_timestamp": 157,
+              "content": "考虑当时市场环境安全永远是第一位"
+            },
+            {
+              "start_timestamp": 157,
+              "end_timestamp": 159,
+              "content": "那么近3年来说"
+            },
+            {
+              "start_timestamp": 159,
+              "end_timestamp": 160,
+              "content": "节前拉升"
+            },
+            {
+              "start_timestamp": 160,
+              "end_timestamp": 161,
+              "content": "节后也一样拉升"
+            },
+            {
+              "start_timestamp": 161,
+              "end_timestamp": 162,
+              "content": "除了这一天"
+            },
+            {
+              "start_timestamp": 162,
+              "end_timestamp": 163,
+              "content": "2023年啊"
+            },
+            {
+              "start_timestamp": 163,
+              "end_timestamp": 165,
+              "content": "微微下跌对吧"
+            },
+            {
+              "start_timestamp": 165,
+              "end_timestamp": 166,
+              "content": "跳空是核心变量"
+            },
+            {
+              "start_timestamp": 166,
+              "end_timestamp": 168,
+              "content": "那么三个统计关键"
+            },
+            {
+              "start_timestamp": 168,
+              "end_timestamp": 169,
+              "content": "节后上涨"
+            },
+            {
+              "start_timestamp": 169,
+              "end_timestamp": 172,
+              "content": "节前五上涨概率是40%"
+            },
+            {
+              "start_timestamp": 172,
+              "end_timestamp": 174,
+              "content": "节后上涨概率是66.7%啊"
+            },
+            {
+              "start_timestamp": 174,
+              "end_timestamp": 176,
+              "content": "十涨五跌"
+            },
+            {
+              "start_timestamp": 176,
+              "end_timestamp": 179,
+              "content": "结合5日上涨概率也是66.7%"
+            },
+            {
+              "start_timestamp": 179,
+              "end_timestamp": 180,
+              "content": "2/3的比例"
+            },
+            {
+              "start_timestamp": 180,
+              "end_timestamp": 184,
+              "content": "那么节前5日平均上涨幅度在0.89"
+            },
+            {
+              "start_timestamp": 184,
+              "end_timestamp": 185,
+              "content": "这是讲的上证啊"
+            },
+            {
+              "start_timestamp": 185,
+              "end_timestamp": 187,
+              "content": "中位数是-0.96"
+            },
+            {
+              "start_timestamp": 187,
+              "end_timestamp": 189,
+              "content": "最好的是21.37"
+            },
+            {
+              "start_timestamp": 189,
+              "end_timestamp": 191,
+              "content": "也就2024年那一波"
+            },
+            {
+              "start_timestamp": 191,
+              "end_timestamp": 193,
+              "content": "那么结合5日大概率的最差的情况下啊"
+            },
+            {
+              "start_timestamp": 193,
+              "end_timestamp": 194,
+              "content": "就是报瀑布沙"
+            },
+            {
+              "start_timestamp": 194,
+              "end_timestamp": 195,
+              "content": "这是情况"
+            },
+            {
+              "start_timestamp": 195,
+              "end_timestamp": 198,
+              "content": "那么节前为什么会偏弱"
+            },
+            {
+              "start_timestamp": 198,
+              "end_timestamp": 199,
+              "content": "有朋友就会有疑问"
+            },
+            {
+              "start_timestamp": 199,
+              "end_timestamp": 201,
+              "content": "节假效应到底怎么来的对吧"
+            },
+            {
+              "start_timestamp": 201,
+              "end_timestamp": 203,
+              "content": "那我们就给你讲清楚"
+            },
+            {
+              "start_timestamp": 203,
+              "end_timestamp": 206,
+              "content": "那么节假效应主要来自于是资金离场"
+            },
+            {
+              "start_timestamp": 206,
+              "end_timestamp": 207,
+              "content": "假期要用钱要还钱"
+            },
+            {
+              "start_timestamp": 207,
+              "end_timestamp": 209,
+              "content": "部分资金的提现兑现"
+            },
+            {
+              "start_timestamp": 209,
+              "end_timestamp": 213,
+              "content": "观望情绪是外假期当中外部环境的不确定性"
+            },
+            {
+              "start_timestamp": 213,
+              "end_timestamp": 215,
+              "content": "导致增量资金不愿意进来"
+            },
+            {
+              "start_timestamp": 215,
+              "end_timestamp": 217,
+              "content": "第二个地方是避险啊"
+            },
+            {
+              "start_timestamp": 217,
+              "end_timestamp": 220,
+              "content": "第三个点避险休市期间的无法交易"
+            },
+            {
+              "start_timestamp": 220,
+              "end_timestamp": 221,
+              "content": "持有的意愿会下降"
+            },
+            {
+              "start_timestamp": 221,
+              "end_timestamp": 225,
+              "content": "因为对于未未知事件啊"
+            },
+            {
+              "start_timestamp": 225,
+              "end_timestamp": 227,
+              "content": "外表这些风景你不确定"
+            },
+            {
+              "start_timestamp": 227,
+              "end_timestamp": 231,
+              "content": "那么表现是节前通常是缩量偏弱势震荡格局"
+            },
+            {
+              "start_timestamp": 231,
+              "end_timestamp": 232,
+              "content": "这是统计上的倾向"
+            },
+            {
+              "start_timestamp": 232,
+              "end_timestamp": 233,
+              "content": "不是规律"
+            },
+            {
+              "start_timestamp": 233,
+              "end_timestamp": 238,
+              "content": "2024年节前从924爆发拉升上来"
+            },
+            {
+              "start_timestamp": 238,
+              "end_timestamp": 242,
+              "content": "那么现在是不是到了2026年9月22号"
+            },
+            {
+              "start_timestamp": 242,
+              "end_timestamp": 246,
+              "content": "那么讲清楚未来的可能性的变点是什么"
+            },
+            {
+              "start_timestamp": 246,
+              "end_timestamp": 247,
+              "content": "把整个均值拉出去"
+            },
+            {
+              "start_timestamp": 247,
+              "end_timestamp": 250,
+              "content": "单一极端年份会改变整个平均数"
+            },
+            {
+              "start_timestamp": 250,
+              "end_timestamp": 252,
+              "content": "这也是平均数最大的一个痛点"
+            },
+            {
+              "start_timestamp": 252,
+              "end_timestamp": 253,
+              "content": "那么跟大家讲清楚"
+            },
+            {
+              "start_timestamp": 253,
+              "end_timestamp": 256,
+              "content": "其实核心点不管节前还是节后"
+            },
+            {
+              "start_timestamp": 256,
+              "end_timestamp": 257,
+              "content": "无论节前节后"
+            },
+            {
+              "start_timestamp": 257,
+              "end_timestamp": 260,
+              "content": "我只看一个地方赚钱效应"
+            },
+            {
+              "start_timestamp": 260,
+              "end_timestamp": 263,
+              "content": "只看一个地方叫做赚钱效应"
+            },
+            {
+              "start_timestamp": 265,
+              "end_timestamp": 267,
+              "content": "如果你回溯每年的春节"
+            },
+            {
+              "start_timestamp": 267,
+              "end_timestamp": 270,
+              "content": "基本上春节前拿大问题没有什么"
+            },
+            {
+              "start_timestamp": 270,
+              "end_timestamp": 272,
+              "content": "每年的下半年"
+            },
+            {
+              "start_timestamp": 272,
+              "end_timestamp": 277,
+              "content": "除了这一个上半年的这一个什么端午节啊"
+            },
+            {
+              "start_timestamp": 277,
+              "end_timestamp": 279,
+              "content": "中端午节六一"
+            },
+            {
+              "start_timestamp": 279,
+              "end_timestamp": 281,
+              "content": "然后清明其他都还好啊"
+            },
+            {
+              "start_timestamp": 281,
+              "end_timestamp": 282,
+              "content": "其他都还好"
+            },
+            {
+              "start_timestamp": 282,
+              "end_timestamp": 284,
+              "content": "其他日子都还好"
+            },
+            {
+              "start_timestamp": 284,
+              "end_timestamp": 286,
+              "content": "那么节后为什么偏强"
+            },
+            {
+              "start_timestamp": 286,
+              "end_timestamp": 287,
+              "content": "节后资金的回流"
+            },
+            {
+              "start_timestamp": 287,
+              "end_timestamp": 289,
+              "content": "节前离场的资金都回来了对吧"
+            },
+            {
+              "start_timestamp": 289,
+              "end_timestamp": 290,
+              "content": "情绪对修复啊"
+            },
+            {
+              "start_timestamp": 290,
+              "end_timestamp": 292,
+              "content": "假期就是做观望情绪"
+            },
+            {
+              "start_timestamp": 292,
+              "end_timestamp": 294,
+              "content": "有效释放补涨效应"
+            },
+            {
+              "start_timestamp": 294,
+              "end_timestamp": 295,
+              "content": "如果外围走强"
+            },
+            {
+              "start_timestamp": 295,
+              "end_timestamp": 297,
+              "content": "我们其后存在补涨动力"
+            },
+            {
+              "start_timestamp": 297,
+              "end_timestamp": 300,
+              "content": "当然另外一方面是有"
+            },
+            {
+              "start_timestamp": 300,
+              "end_timestamp": 302,
+              "content": "有一波是节后首日下跌的啊"
+            },
+            {
+              "start_timestamp": 302,
+              "end_timestamp": 305,
+              "content": "2019年过年的时候也是二零"
+            },
+            {
+              "start_timestamp": 305,
+              "end_timestamp": 308,
+              "content": "这个2011年也是2014"
+            },
+            {
+              "start_timestamp": 308,
+              "end_timestamp": 310,
+              "content": "2015年也是如此"
+            },
+            {
+              "start_timestamp": 310,
+              "end_timestamp": 312,
+              "content": "反馈会不一样"
+            },
+            {
+              "start_timestamp": 312,
+              "end_timestamp": 315,
+              "content": "那么另外一个两个必须要看的反例"
+            },
+            {
+              "start_timestamp": 315,
+              "end_timestamp": 320,
+              "content": "这一个反例18年整体市场非常差"
+            },
+            {
+              "start_timestamp": 320,
+              "end_timestamp": 322,
+              "content": "节后回来反而下跌"
+            },
+            {
+              "start_timestamp": 323,
+              "end_timestamp": 327,
+              "content": "2024年10月8号一回来高开高开10%"
+            },
+            {
+              "start_timestamp": 327,
+              "end_timestamp": 329,
+              "content": "收盘收涨4.5%"
+            },
+            {
+              "start_timestamp": 329,
+              "end_timestamp": 331,
+              "content": "5日之后连续下跌"
+            },
+            {
+              "start_timestamp": 331,
+              "end_timestamp": 333,
+              "content": "那这是极端性的情况"
+            },
+            {
+              "start_timestamp": 333,
+              "end_timestamp": 335,
+              "content": "这两年胜率是概率幅度才是伤害"
+            },
+            {
+              "start_timestamp": 335,
+              "end_timestamp": 337,
+              "content": "66.7%啊"
+            },
+            {
+              "start_timestamp": 337,
+              "end_timestamp": 339,
+              "content": "3%分之二的比例上升对吧"
+            },
+            {
+              "start_timestamp": 339,
+              "end_timestamp": 339,
+              "content": "听着很好"
+            },
+            {
+              "start_timestamp": 339,
+              "end_timestamp": 342,
+              "content": "但是当那个33.31%旦落在你身上"
+            },
+            {
+              "start_timestamp": 342,
+              "end_timestamp": 345,
+              "content": "所以为什么讲先手打后手"
+            },
+            {
+              "start_timestamp": 345,
+              "end_timestamp": 347,
+              "content": "为什么节前最后一轮的时候"
+            },
+            {
+              "start_timestamp": 347,
+              "end_timestamp": 349,
+              "content": "在节前最后一天会有资金回流"
+            },
+            {
+              "start_timestamp": 349,
+              "end_timestamp": 351,
+              "content": "你的资金的回流回流在哪"
+            },
+            {
+              "start_timestamp": 351,
+              "end_timestamp": 355,
+              "content": "记住节前的最后一天会出现回流"
+            },
+            {
+              "start_timestamp": 356,
+              "end_timestamp": 358,
+              "content": "就是先手打后手"
+            },
+            {
+              "start_timestamp": 358,
+              "end_timestamp": 359,
+              "content": "这个事要跟你讲清楚"
+            },
+            {
+              "start_timestamp": 359,
+              "end_timestamp": 363,
+              "content": "先手打后手是做的是回流"
+            },
+            {
+              "start_timestamp": 363,
+              "end_timestamp": 364,
+              "content": "就在节前最后一天"
+            },
+            {
+              "start_timestamp": 364,
+              "end_timestamp": 366,
+              "content": "比方说哎马上到了这个6月啊"
+            },
+            {
+              "start_timestamp": 366,
+              "end_timestamp": 368,
+              "content": "9月30号对吧"
+            },
+            {
+              "start_timestamp": 368,
+              "end_timestamp": 371,
+              "content": "或者是9月24号就会出现资金回流"
+            },
+            {
+              "start_timestamp": 371,
+              "end_timestamp": 373,
+              "content": "尾盘资金可能性会出现回流"
+            },
+            {
+              "start_timestamp": 373,
+              "end_timestamp": 376,
+              "content": "然后呢先手打后手卡你牌"
+            },
+            {
+              "start_timestamp": 376,
+              "end_timestamp": 377,
+              "content": "你你观望呀"
+            },
+            {
+              "start_timestamp": 377,
+              "end_timestamp": 378,
+              "content": "人家不观望了呀"
+            },
+            {
+              "start_timestamp": 378,
+              "end_timestamp": 381,
+              "content": "人家早上已经就是前一天你摁过了对吧"
+            },
+            {
+              "start_timestamp": 381,
+              "end_timestamp": 384,
+              "content": "那么记住胜率是一个概率性的问题"
+            },
+            {
+              "start_timestamp": 384,
+              "end_timestamp": 386,
+              "content": "幅度才是伤害好"
+            },
+            {
+              "start_timestamp": 386,
+              "end_timestamp": 388,
+              "content": "另外决策四问数据之后"
+            },
+            {
+              "start_timestamp": 388,
+              "end_timestamp": 390,
+              "content": "真正决定你答案的是你自己的四个问题"
+            },
+            {
+              "start_timestamp": 390,
+              "end_timestamp": 392,
+              "content": "首先你的钱用多久"
+            },
+            {
+              "start_timestamp": 392,
+              "end_timestamp": 393,
+              "content": "你拿了什么位置"
+            },
+            {
+              "start_timestamp": 393,
+              "end_timestamp": 394,
+              "content": "跌多少"
+            },
+            {
+              "start_timestamp": 394,
+              "end_timestamp": 394,
+              "content": "你会睡不着"
+            },
+            {
+              "start_timestamp": 394,
+              "end_timestamp": 396,
+              "content": "这个假期到底有多长"
+            },
+            {
+              "start_timestamp": 396,
+              "end_timestamp": 397,
+              "content": "不确定性"
+            },
+            {
+              "start_timestamp": 397,
+              "end_timestamp": 400,
+              "content": "那么我们来看清楚你的资金属性"
+            },
+            {
+              "start_timestamp": 400,
+              "end_timestamp": 403,
+              "content": "如果说三个月内要用任何波动都是风险"
+            },
+            {
+              "start_timestamp": 403,
+              "end_timestamp": 404,
+              "content": "你亏不起啊"
+            },
+            {
+              "start_timestamp": 404,
+              "end_timestamp": 405,
+              "content": "很简单"
+            },
+            {
+              "start_timestamp": 405,
+              "end_timestamp": 406,
+              "content": "你亏不起啊"
+            },
+            {
+              "start_timestamp": 406,
+              "end_timestamp": 407,
+              "content": "持仓结构"
+            },
+            {
+              "start_timestamp": 407,
+              "end_timestamp": 409,
+              "content": "你拿的是高位追的还是低位拿的答案"
+            },
+            {
+              "start_timestamp": 409,
+              "end_timestamp": 410,
+              "content": "答案会完全不一样"
+            },
+            {
+              "start_timestamp": 410,
+              "end_timestamp": 411,
+              "content": "如果你高位追的"
+            },
+            {
+              "start_timestamp": 411,
+              "end_timestamp": 413,
+              "content": "很有可能挂在山上"
+            },
+            {
+              "start_timestamp": 413,
+              "end_timestamp": 413,
+              "content": "你就开始疼了"
+            },
+            {
+              "start_timestamp": 413,
+              "end_timestamp": 414,
+              "content": "就开始犹豫了"
+            },
+            {
+              "start_timestamp": 414,
+              "end_timestamp": 416,
+              "content": "承受度假期如果跌5%"
+            },
+            {
+              "start_timestamp": 416,
+              "end_timestamp": 417,
+              "content": "你会如何"
+            },
+            {
+              "start_timestamp": 417,
+              "end_timestamp": 419,
+              "content": "睡得着和睡不着是两个决策"
+            },
+            {
+              "start_timestamp": 419,
+              "end_timestamp": 420,
+              "content": "你仓位太重啊"
+            },
+            {
+              "start_timestamp": 420,
+              "end_timestamp": 421,
+              "content": "我睡不着"
+            },
+            {
+              "start_timestamp": 421,
+              "end_timestamp": 422,
+              "content": "哥哥我真的睡不着"
+            },
+            {
+              "start_timestamp": 422,
+              "end_timestamp": 425,
+              "content": "你不知道这你不知道这5年我怎么过的"
+            },
+            {
+              "start_timestamp": 425,
+              "end_timestamp": 425,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 425,
+              "end_timestamp": 427,
+              "content": "这是不一样的"
+            },
+            {
+              "start_timestamp": 427,
+              "end_timestamp": 428,
+              "content": "假期的长度"
+            },
+            {
+              "start_timestamp": 428,
+              "end_timestamp": 429,
+              "content": "修饰的时间"
+            },
+            {
+              "start_timestamp": 429,
+              "end_timestamp": 432,
+              "content": "因为外部环境的影响会完全不同"
+            },
+            {
+              "start_timestamp": 432,
+              "end_timestamp": 433,
+              "content": "如果休一天还好"
+            },
+            {
+              "start_timestamp": 433,
+              "end_timestamp": 435,
+              "content": "时间如果越长"
+            },
+            {
+              "start_timestamp": 435,
+              "end_timestamp": 438,
+              "content": "我们的不可控的变量就越多"
+            },
+            {
+              "start_timestamp": 438,
+              "end_timestamp": 439,
+              "content": "这个四问没有标准答案"
+            },
+            {
+              "start_timestamp": 439,
+              "end_timestamp": 441,
+              "content": "别人的答案对你没有用"
+            },
+            {
+              "start_timestamp": 441,
+              "end_timestamp": 444,
+              "content": "核心问题在你身上"
+            },
+            {
+              "start_timestamp": 444,
+              "end_timestamp": 446,
+              "content": "各位想清楚这个疑问"
+            },
+            {
+              "start_timestamp": 446,
+              "end_timestamp": 448,
+              "content": "另外一个是你的钱要用多久"
+            },
+            {
+              "start_timestamp": 448,
+              "end_timestamp": 451,
+              "content": "那么如果你是三个月之内要用"
+            },
+            {
+              "start_timestamp": 451,
+              "end_timestamp": 453,
+              "content": "你随时可能要被抽走"
+            },
+            {
+              "start_timestamp": 453,
+              "end_timestamp": 455,
+              "content": "那么任何回撤都是你真实的损失"
+            },
+            {
+              "start_timestamp": 455,
+              "end_timestamp": 456,
+              "content": "你受不了"
+            },
+            {
+              "start_timestamp": 456,
+              "end_timestamp": 457,
+              "content": "讲个事情"
+            },
+            {
+              "start_timestamp": 457,
+              "end_timestamp": 458,
+              "content": "我身边有个朋友啊"
+            },
+            {
+              "start_timestamp": 458,
+              "end_timestamp": 460,
+              "content": "做做的是BTC"
+            },
+            {
+              "start_timestamp": 460,
+              "end_timestamp": 465,
+              "content": "然后呢这哥们儿呢6月份当时是在6月底"
+            },
+            {
+              "start_timestamp": 465,
+              "end_timestamp": 466,
+              "content": "7月初的时候"
+            },
+            {
+              "start_timestamp": 466,
+              "end_timestamp": 468,
+              "content": "他选择介入"
+            },
+            {
+              "start_timestamp": 468,
+              "end_timestamp": 470,
+              "content": "当时其实那那一轮其实还好"
+            },
+            {
+              "start_timestamp": 470,
+              "end_timestamp": 474,
+              "content": "他的成本基本上是在这个当时6月底"
+            },
+            {
+              "start_timestamp": 474,
+              "end_timestamp": 474,
+              "content": "7月初的时候"
+            },
+            {
+              "start_timestamp": 474,
+              "end_timestamp": 476,
+              "content": "他成本在6万左右啊"
+            },
+            {
+              "start_timestamp": 476,
+              "end_timestamp": 478,
+              "content": "5.5.9到6万这个区间"
+            },
+            {
+              "start_timestamp": 478,
+              "end_timestamp": 480,
+              "content": "现在已经到了8万6"
+            },
+            {
+              "start_timestamp": 480,
+              "end_timestamp": 482,
+              "content": "但是他走在哪一天"
+            },
+            {
+              "start_timestamp": 482,
+              "end_timestamp": 485,
+              "content": "他走在了8月5号还是8月6号"
+            },
+            {
+              "start_timestamp": 485,
+              "end_timestamp": 487,
+              "content": "就在拉升前的那一天"
+            },
+            {
+              "start_timestamp": 487,
+              "end_timestamp": 488,
+              "content": "他在拉升前那一波"
+            },
+            {
+              "start_timestamp": 488,
+              "end_timestamp": 490,
+              "content": "因为什么他要用钱要用钱"
+            },
+            {
+              "start_timestamp": 490,
+              "end_timestamp": 491,
+              "content": "然后结束了"
+            },
+            {
+              "start_timestamp": 491,
+              "end_timestamp": 494,
+              "content": "现在走到了应该是8万6啊"
+            },
+            {
+              "start_timestamp": 494,
+              "end_timestamp": 497,
+              "content": "到现在应该是应该还你还能再高一点"
+            },
+            {
+              "start_timestamp": 497,
+              "end_timestamp": 501,
+              "content": "它的成本在65.9到65.9到六的成本"
+            },
+            {
+              "start_timestamp": 501,
+              "end_timestamp": 505,
+              "content": "现在的价格8.6到8.7"
+            },
+            {
+              "start_timestamp": 505,
+              "end_timestamp": 507,
+              "content": "你告诉我他受得了吗"
+            },
+            {
+              "start_timestamp": 507,
+              "end_timestamp": 509,
+              "content": "他根本受不了"
+            },
+            {
+              "start_timestamp": 509,
+              "end_timestamp": 510,
+              "content": "他现在跟我"
+            },
+            {
+              "start_timestamp": 510,
+              "end_timestamp": 514,
+              "content": "我们在聊这聊聊相关事情的时候"
+            },
+            {
+              "start_timestamp": 514,
+              "end_timestamp": 514,
+              "content": "他跟我说"
+            },
+            {
+              "start_timestamp": 514,
+              "end_timestamp": 516,
+              "content": "如果他的钱不是因为三个月要内"
+            },
+            {
+              "start_timestamp": 516,
+              "end_timestamp": 518,
+              "content": "他不是因为当时要交房租"
+            },
+            {
+              "start_timestamp": 518,
+              "end_timestamp": 519,
+              "content": "他不会走"
+            },
+            {
+              "start_timestamp": 519,
+              "end_timestamp": 519,
+              "content": "对啊"
+            },
+            {
+              "start_timestamp": 519,
+              "end_timestamp": 522,
+              "content": "你要用就可能随时抽走"
+            },
+            {
+              "start_timestamp": 522,
+              "end_timestamp": 525,
+              "content": "而这个地方会有风险"
+            },
+            {
+              "start_timestamp": 525,
+              "end_timestamp": 527,
+              "content": "如果一个年一年以内不用啊"
+            },
+            {
+              "start_timestamp": 527,
+              "end_timestamp": 528,
+              "content": "可以承受阶段性的波动"
+            },
+            {
+              "start_timestamp": 528,
+              "end_timestamp": 529,
+              "content": "但不宜满"
+            },
+            {
+              "start_timestamp": 529,
+              "end_timestamp": 531,
+              "content": "如果说3年以上不用"
+            },
+            {
+              "start_timestamp": 531,
+              "end_timestamp": 532,
+              "content": "那无所谓"
+            },
+            {
+              "start_timestamp": 532,
+              "end_timestamp": 533,
+              "content": "你可以承受的敞口"
+            },
+            {
+              "start_timestamp": 533,
+              "end_timestamp": 534,
+              "content": "风险敞口会很大"
+            },
+            {
+              "start_timestamp": 534,
+              "end_timestamp": 536,
+              "content": "我不在乎他现在如何"
+            },
+            {
+              "start_timestamp": 536,
+              "end_timestamp": 538,
+              "content": "这是之前讲过的铁律"
+            },
+            {
+              "start_timestamp": 538,
+              "end_timestamp": 540,
+              "content": "延续就是保险资金能够躺20年"
+            },
+            {
+              "start_timestamp": 540,
+              "end_timestamp": 543,
+              "content": "而你的钱有可能今年明年交交房租"
+            },
+            {
+              "start_timestamp": 543,
+              "end_timestamp": 544,
+              "content": "你的酒期不相等"
+            },
+            {
+              "start_timestamp": 544,
+              "end_timestamp": 547,
+              "content": "所以代表着你的强度会不一样"
+            },
+            {
+              "start_timestamp": 547,
+              "end_timestamp": 548,
+              "content": "所以不要去轻易的模仿"
+            },
+            {
+              "start_timestamp": 548,
+              "end_timestamp": 550,
+              "content": "尤其再跟你讲一遍啊"
+            },
+            {
+              "start_timestamp": 550,
+              "end_timestamp": 552,
+              "content": "你逻辑哥给你讲的这些内容"
+            },
+            {
+              "start_timestamp": 552,
+              "end_timestamp": 553,
+              "content": "我就这么跟你说"
+            },
+            {
+              "start_timestamp": 553,
+              "end_timestamp": 556,
+              "content": "有很多粉丝去把逻辑跟内容去做对比"
+            },
+            {
+              "start_timestamp": 556,
+              "end_timestamp": 557,
+              "content": "那我告诉你"
+            },
+            {
+              "start_timestamp": 557,
+              "end_timestamp": 561,
+              "content": "你逻辑哥的这一套交易系统"
+            },
+            {
+              "start_timestamp": 561,
+              "end_timestamp": 563,
+              "content": "或者说这一套的内容是A加A加"
+            },
+            {
+              "start_timestamp": 563,
+              "end_timestamp": 568,
+              "content": "级别是能够你你能够模仿能够学习的A加"
+            },
+            {
+              "start_timestamp": 568,
+              "end_timestamp": 571,
+              "content": "那么像你们说的这个养啊"
+            },
+            {
+              "start_timestamp": 571,
+              "end_timestamp": 572,
+              "content": "炒股养家"
+            },
+            {
+              "start_timestamp": 572,
+              "end_timestamp": 574,
+              "content": "或者说其他的这些游资"
+            },
+            {
+              "start_timestamp": 574,
+              "end_timestamp": 579,
+              "content": "他们算S减这个地方不可复制"
+            },
+            {
+              "start_timestamp": 579,
+              "end_timestamp": 582,
+              "content": "而我现在讲的所有内容你可以复制"
+            },
+            {
+              "start_timestamp": 583,
+              "end_timestamp": 584,
+              "content": "我就这么跟你聊"
+            },
+            {
+              "start_timestamp": 584,
+              "end_timestamp": 585,
+              "content": "逻辑跟内容"
+            },
+            {
+              "start_timestamp": 585,
+              "end_timestamp": 586,
+              "content": "你可以拿去复制"
+            },
+            {
+              "start_timestamp": 586,
+              "end_timestamp": 589,
+              "content": "而现在你们所有看到的这一类"
+            },
+            {
+              "start_timestamp": 589,
+              "end_timestamp": 590,
+              "content": "不管是小群也好"
+            },
+            {
+              "start_timestamp": 590,
+              "end_timestamp": 591,
+              "content": "还是谁也好"
+            },
+            {
+              "start_timestamp": 591,
+              "end_timestamp": 593,
+              "content": "这一类的游资内容你学不懂"
+            },
+            {
+              "start_timestamp": 593,
+              "end_timestamp": 594,
+              "content": "你看不懂"
+            },
+            {
+              "start_timestamp": 594,
+              "end_timestamp": 595,
+              "content": "就是你学不明白"
+            },
+            {
+              "start_timestamp": 595,
+              "end_timestamp": 596,
+              "content": "落不了地"
+            },
+            {
+              "start_timestamp": 596,
+              "end_timestamp": 597,
+              "content": "这么跟你聊"
+            },
+            {
+              "start_timestamp": 597,
+              "end_timestamp": 599,
+              "content": "另外同样是持股"
+            },
+            {
+              "start_timestamp": 599,
+              "end_timestamp": 600,
+              "content": "在决策问题当中"
+            },
+            {
+              "start_timestamp": 600,
+              "end_timestamp": 601,
+              "content": "同样是持股位置不同"
+            },
+            {
+              "start_timestamp": 601,
+              "end_timestamp": 603,
+              "content": "风险完全不一样好吧"
+            },
+            {
+              "start_timestamp": 603,
+              "end_timestamp": 605,
+              "content": "先给自己的持仓做个定位"
+            },
+            {
+              "start_timestamp": 605,
+              "end_timestamp": 607,
+              "content": "低位长期你可承受度高"
+            },
+            {
+              "start_timestamp": 607,
+              "end_timestamp": 609,
+              "content": "跌下来也不影响你长期逻辑"
+            },
+            {
+              "start_timestamp": 609,
+              "end_timestamp": 614,
+              "content": "如果你是在中位主线上可承受的度还可以"
+            },
+            {
+              "start_timestamp": 614,
+              "end_timestamp": 617,
+              "content": "就是主线在逻辑就在逻辑在主线依旧还在"
+            },
+            {
+              "start_timestamp": 617,
+              "end_timestamp": 619,
+              "content": "另外一个是高位刚追进去"
+            },
+            {
+              "start_timestamp": 619,
+              "end_timestamp": 621,
+              "content": "你承受度很低"
+            },
+            {
+              "start_timestamp": 621,
+              "end_timestamp": 623,
+              "content": "股票非主线承受度也一样低"
+            },
+            {
+              "start_timestamp": 623,
+              "end_timestamp": 628,
+              "content": "无主线假期消息面如果没有依托你结束成本"
+            },
+            {
+              "start_timestamp": 628,
+              "end_timestamp": 629,
+              "content": "如果在高位回撤"
+            },
+            {
+              "start_timestamp": 629,
+              "end_timestamp": 631,
+              "content": "直接打在你心理价位上"
+            },
+            {
+              "start_timestamp": 631,
+              "end_timestamp": 632,
+              "content": "所以如果你是前面两者的"
+            },
+            {
+              "start_timestamp": 632,
+              "end_timestamp": 633,
+              "content": "无所谓啊"
+            },
+            {
+              "start_timestamp": 633,
+              "end_timestamp": 635,
+              "content": "安安心心过节就好"
+            },
+            {
+              "start_timestamp": 635,
+              "end_timestamp": 637,
+              "content": "那么判断方法很简单"
+            },
+            {
+              "start_timestamp": 637,
+              "end_timestamp": 640,
+              "content": "如果假期期间没有任何的利好"
+            },
+            {
+              "start_timestamp": 640,
+              "end_timestamp": 641,
+              "content": "节后低开"
+            },
+            {
+              "start_timestamp": 641,
+              "end_timestamp": 644,
+              "content": "你手上的还能持有吗"
+            },
+            {
+              "start_timestamp": 644,
+              "end_timestamp": 645,
+              "content": "如果想"
+            },
+            {
+              "start_timestamp": 645,
+              "end_timestamp": 646,
+              "content": "你会怎么做"
+            },
+            {
+              "start_timestamp": 646,
+              "end_timestamp": 646,
+              "content": "如果不想"
+            },
+            {
+              "start_timestamp": 646,
+              "end_timestamp": 649,
+              "content": "那就是你的答案到底是持股还是持币"
+            },
+            {
+              "start_timestamp": 649,
+              "end_timestamp": 650,
+              "content": "由自己来决定"
+            },
+            {
+              "start_timestamp": 650,
+              "end_timestamp": 652,
+              "content": "你手上拿的是什么"
+            },
+            {
+              "start_timestamp": 652,
+              "end_timestamp": 653,
+              "content": "需要明确"
+            },
+            {
+              "start_timestamp": 653,
+              "end_timestamp": 655,
+              "content": "第三问是跌多少"
+            },
+            {
+              "start_timestamp": 655,
+              "end_timestamp": 656,
+              "content": "你会睡不着"
+            },
+            {
+              "start_timestamp": 656,
+              "end_timestamp": 659,
+              "content": "这一问是最直观也是最主观"
+            },
+            {
+              "start_timestamp": 659,
+              "end_timestamp": 662,
+              "content": "或者说最真实的一个问题"
+            },
+            {
+              "start_timestamp": 662,
+              "end_timestamp": 663,
+              "content": "承受度不是数字问题"
+            },
+            {
+              "start_timestamp": 663,
+              "end_timestamp": 665,
+              "content": "是你睡不睡得着觉的问题"
+            },
+            {
+              "start_timestamp": 665,
+              "end_timestamp": 668,
+              "content": "我像你这个年纪能睡得着觉吗"
+            },
+            {
+              "start_timestamp": 668,
+              "end_timestamp": 670,
+              "content": "还记得这句话吗"
+            },
+            {
+              "start_timestamp": 670,
+              "end_timestamp": 672,
+              "content": "我记得汤老师当时在我考研的时候啊"
+            },
+            {
+              "start_timestamp": 672,
+              "end_timestamp": 676,
+              "content": "我把他的声音就是设置成我的闹钟"
+            },
+            {
+              "start_timestamp": 676,
+              "end_timestamp": 680,
+              "content": "我在你这个年纪根本睡不着"
+            },
+            {
+              "start_timestamp": 680,
+              "end_timestamp": 683,
+              "content": "为什么落在A股上"
+            },
+            {
+              "start_timestamp": 683,
+              "end_timestamp": 686,
+              "content": "你跌你扛不住"
+            },
+            {
+              "start_timestamp": 686,
+              "end_timestamp": 688,
+              "content": "你睡不着的原因是什么"
+            },
+            {
+              "start_timestamp": 688,
+              "end_timestamp": 690,
+              "content": "因为你担心你在害怕"
+            },
+            {
+              "start_timestamp": 690,
+              "end_timestamp": 694,
+              "content": "就像那天有朋友拿了这个拿了阿婶啊"
+            },
+            {
+              "start_timestamp": 694,
+              "end_timestamp": 695,
+              "content": "你拿了神股"
+            },
+            {
+              "start_timestamp": 695,
+              "end_timestamp": 696,
+              "content": "你拿着神股"
+            },
+            {
+              "start_timestamp": 696,
+              "end_timestamp": 697,
+              "content": "你跟我说"
+            },
+            {
+              "start_timestamp": 697,
+              "end_timestamp": 698,
+              "content": "你睡不着觉"
+            },
+            {
+              "start_timestamp": 698,
+              "end_timestamp": 699,
+              "content": "拿的是最牛逼的那个"
+            },
+            {
+              "start_timestamp": 699,
+              "end_timestamp": 700,
+              "content": "你睡不着"
+            },
+            {
+              "start_timestamp": 700,
+              "end_timestamp": 701,
+              "content": "你担心的是利润回撤"
+            },
+            {
+              "start_timestamp": 701,
+              "end_timestamp": 703,
+              "content": "你如果担心利润回撤"
+            },
+            {
+              "start_timestamp": 703,
+              "end_timestamp": 704,
+              "content": "你都睡不着"
+            },
+            {
+              "start_timestamp": 704,
+              "end_timestamp": 707,
+              "content": "那你如果亏本的时候呢"
+            },
+            {
+              "start_timestamp": 707,
+              "end_timestamp": 708,
+              "content": "你舍本的时候呢"
+            },
+            {
+              "start_timestamp": 708,
+              "end_timestamp": 710,
+              "content": "你睡不睡得着觉"
+            },
+            {
+              "start_timestamp": 710,
+              "end_timestamp": 711,
+              "content": "你睡不着"
+            },
+            {
+              "start_timestamp": 711,
+              "end_timestamp": 712,
+              "content": "你更睡不着了"
+            },
+            {
+              "start_timestamp": 712,
+              "end_timestamp": 714,
+              "content": "想清楚就跌多少"
+            },
+            {
+              "start_timestamp": 714,
+              "end_timestamp": 715,
+              "content": "你睡不着"
+            },
+            {
+              "start_timestamp": 715,
+              "end_timestamp": 717,
+              "content": "你能承受多少"
+            },
+            {
+              "start_timestamp": 717,
+              "end_timestamp": 717,
+              "content": "亏损之后"
+            },
+            {
+              "start_timestamp": 717,
+              "end_timestamp": 719,
+              "content": "你的决策会变形"
+            },
+            {
+              "start_timestamp": 719,
+              "end_timestamp": 721,
+              "content": "如果假期过不好"
+            },
+            {
+              "start_timestamp": 721,
+              "end_timestamp": 721,
+              "content": "节后情绪化"
+            },
+            {
+              "start_timestamp": 721,
+              "end_timestamp": 722,
+              "content": "那你就不要做了"
+            },
+            {
+              "start_timestamp": 722,
+              "end_timestamp": 724,
+              "content": "你好好你好好过节不行吗"
+            },
+            {
+              "start_timestamp": 724,
+              "end_timestamp": 726,
+              "content": "你什么都不用想不行吗"
+            },
+            {
+              "start_timestamp": 726,
+              "end_timestamp": 727,
+              "content": "这是最关键的"
+            },
+            {
+              "start_timestamp": 727,
+              "end_timestamp": 730,
+              "content": "那么还有一个是假期有多长"
+            },
+            {
+              "start_timestamp": 730,
+              "end_timestamp": 732,
+              "content": "就是你无法交易的时间越久"
+            },
+            {
+              "start_timestamp": 732,
+              "end_timestamp": 734,
+              "content": "累积的不确定性越高"
+            },
+            {
+              "start_timestamp": 734,
+              "end_timestamp": 738,
+              "content": "如果说一个交易修饰修饰可控性相对较高"
+            },
+            {
+              "start_timestamp": 738,
+              "end_timestamp": 741,
+              "content": "如果说唉七个自然日中等"
+            },
+            {
+              "start_timestamp": 741,
+              "end_timestamp": 743,
+              "content": "然后春节可控金最低"
+            },
+            {
+              "start_timestamp": 743,
+              "end_timestamp": 748,
+              "content": "但是春节春节什么时候伤着你了"
+            },
+            {
+              "start_timestamp": 748,
+              "end_timestamp": 749,
+              "content": "春节什么时候伤着你了"
+            },
+            {
+              "start_timestamp": 749,
+              "end_timestamp": 752,
+              "content": "春节之前看反馈市场的发酵"
+            },
+            {
+              "start_timestamp": 752,
+              "end_timestamp": 755,
+              "content": "有没有有没有东西在诶"
+            },
+            {
+              "start_timestamp": 755,
+              "end_timestamp": 756,
+              "content": "给你小东西"
+            },
+            {
+              "start_timestamp": 756,
+              "end_timestamp": 757,
+              "content": "你拿的是不是主线"
+            },
+            {
+              "start_timestamp": 757,
+              "end_timestamp": 760,
+              "content": "所以如果说节后啊"
+            },
+            {
+              "start_timestamp": 760,
+              "end_timestamp": 763,
+              "content": "9月30号开始到10月8号开盘"
+            },
+            {
+              "start_timestamp": 763,
+              "end_timestamp": 764,
+              "content": "这中间有七个交易"
+            },
+            {
+              "start_timestamp": 764,
+              "end_timestamp": 765,
+              "content": "自然日你无法交易"
+            },
+            {
+              "start_timestamp": 765,
+              "end_timestamp": 768,
+              "content": "那么我们再看一下美股当中有几天交易"
+            },
+            {
+              "start_timestamp": 768,
+              "end_timestamp": 772,
+              "content": "来每股一礼拜三晚上交易"
+            },
+            {
+              "start_timestamp": 772,
+              "end_timestamp": 773,
+              "content": "然后这个30号晚上交易"
+            },
+            {
+              "start_timestamp": 773,
+              "end_timestamp": 774,
+              "content": "一号交易对吧"
+            },
+            {
+              "start_timestamp": 774,
+              "end_timestamp": 775,
+              "content": "2号交易"
+            },
+            {
+              "start_timestamp": 775,
+              "end_timestamp": 776,
+              "content": "然后空两天"
+            },
+            {
+              "start_timestamp": 776,
+              "end_timestamp": 778,
+              "content": "5673天"
+            },
+            {
+              "start_timestamp": 778,
+              "end_timestamp": 780,
+              "content": "他一共交易五天"
+            },
+            {
+              "start_timestamp": 780,
+              "end_timestamp": 782,
+              "content": "会不会对你产生影响"
+            },
+            {
+              "start_timestamp": 784,
+              "end_timestamp": 784,
+              "content": "想清楚"
+            },
+            {
+              "start_timestamp": 784,
+              "end_timestamp": 787,
+              "content": "那么产生影响的东西集中在什么地方"
+            },
+            {
+              "start_timestamp": 787,
+              "end_timestamp": 789,
+              "content": "我们就要看他的风向"
+            },
+            {
+              "start_timestamp": 789,
+              "end_timestamp": 791,
+              "content": "三种人三个选择"
+            },
+            {
+              "start_timestamp": 791,
+              "end_timestamp": 792,
+              "content": "短线有杠杆的"
+            },
+            {
+              "start_timestamp": 792,
+              "end_timestamp": 794,
+              "content": "你尤其是拉杠杆的啊"
+            },
+            {
+              "start_timestamp": 794,
+              "end_timestamp": 795,
+              "content": "你杠杆成本是要正常付的"
+            },
+            {
+              "start_timestamp": 795,
+              "end_timestamp": 799,
+              "content": "而且你无法对冲他的这个应对"
+            },
+            {
+              "start_timestamp": 799,
+              "end_timestamp": 802,
+              "content": "他的跳空低开波段做主线结构性的行情"
+            },
+            {
+              "start_timestamp": 802,
+              "end_timestamp": 804,
+              "content": "那你的逻辑在就留一部分"
+            },
+            {
+              "start_timestamp": 804,
+              "end_timestamp": 806,
+              "content": "但是不要全部暴露在跳空风风险当中"
+            },
+            {
+              "start_timestamp": 806,
+              "end_timestamp": 808,
+              "content": "如果是长期啊"
+            },
+            {
+              "start_timestamp": 808,
+              "end_timestamp": 810,
+              "content": "呃我拿拿指数这种就无所谓"
+            },
+            {
+              "start_timestamp": 810,
+              "end_timestamp": 813,
+              "content": "你择失成本远高于择时收益"
+            },
+            {
+              "start_timestamp": 813,
+              "end_timestamp": 814,
+              "content": "我统计上结果偏强"
+            },
+            {
+              "start_timestamp": 814,
+              "end_timestamp": 816,
+              "content": "那么你越动越吃亏"
+            },
+            {
+              "start_timestamp": 816,
+              "end_timestamp": 818,
+              "content": "这是根据资金属性的分类"
+            },
+            {
+              "start_timestamp": 818,
+              "end_timestamp": 819,
+              "content": "不是操作建议"
+            },
+            {
+              "start_timestamp": 819,
+              "end_timestamp": 820,
+              "content": "你属于哪一类"
+            },
+            {
+              "start_timestamp": 820,
+              "end_timestamp": 822,
+              "content": "由前四问来决定这个问题"
+            },
+            {
+              "start_timestamp": 822,
+              "end_timestamp": 824,
+              "content": "前四问在哪来"
+            },
+            {
+              "start_timestamp": 824,
+              "end_timestamp": 825,
+              "content": "你亏多少"
+            },
+            {
+              "start_timestamp": 825,
+              "end_timestamp": 826,
+              "content": "假期有多长"
+            },
+            {
+              "start_timestamp": 826,
+              "end_timestamp": 827,
+              "content": "然后呢"
+            },
+            {
+              "start_timestamp": 827,
+              "end_timestamp": 828,
+              "content": "你的钱多久要用"
+            },
+            {
+              "start_timestamp": 828,
+              "end_timestamp": 830,
+              "content": "你持有的是什么位置"
+            },
+            {
+              "start_timestamp": 830,
+              "end_timestamp": 831,
+              "content": "那么四个误区"
+            },
+            {
+              "start_timestamp": 831,
+              "end_timestamp": 835,
+              "content": "每年都会有人在这四条上当做哎栽跟头"
+            },
+            {
+              "start_timestamp": 835,
+              "end_timestamp": 839,
+              "content": "把预测当把统计当做预测"
+            },
+            {
+              "start_timestamp": 839,
+              "end_timestamp": 840,
+              "content": "满仓赌方向"
+            },
+            {
+              "start_timestamp": 840,
+              "end_timestamp": 843,
+              "content": "赌了赢了老子牛逼"
+            },
+            {
+              "start_timestamp": 843,
+              "end_timestamp": 845,
+              "content": "我靠我节前满仓真的牛"
+            },
+            {
+              "start_timestamp": 845,
+              "end_timestamp": 846,
+              "content": "输了呢"
+            },
+            {
+              "start_timestamp": 846,
+              "end_timestamp": 849,
+              "content": "另外节前最后一天才做决定"
+            },
+            {
+              "start_timestamp": 849,
+              "end_timestamp": 852,
+              "content": "我确定这一批资金是否有回流"
+            },
+            {
+              "start_timestamp": 852,
+              "end_timestamp": 853,
+              "content": "我才会去选择"
+            },
+            {
+              "start_timestamp": 853,
+              "end_timestamp": 855,
+              "content": "如果没有情况下"
+            },
+            {
+              "start_timestamp": 855,
+              "end_timestamp": 856,
+              "content": "把嘴闭上"
+            },
+            {
+              "start_timestamp": 856,
+              "end_timestamp": 857,
+              "content": "安安心心的把手管住"
+            },
+            {
+              "start_timestamp": 857,
+              "end_timestamp": 858,
+              "content": "你爱怎么滴怎么滴"
+            },
+            {
+              "start_timestamp": 858,
+              "end_timestamp": 860,
+              "content": "你等它回来再说"
+            },
+            {
+              "start_timestamp": 860,
+              "end_timestamp": 862,
+              "content": "怎么样不香吗"
+            },
+            {
+              "start_timestamp": 862,
+              "end_timestamp": 864,
+              "content": "另外一个是抄别人的答案"
+            },
+            {
+              "start_timestamp": 864,
+              "end_timestamp": 865,
+              "content": "资金属性不同"
+            },
+            {
+              "start_timestamp": 865,
+              "end_timestamp": 866,
+              "content": "答案就不一样"
+            },
+            {
+              "start_timestamp": 866,
+              "end_timestamp": 868,
+              "content": "这个问题在你身上"
+            },
+            {
+              "start_timestamp": 868,
+              "end_timestamp": 870,
+              "content": "但站在我的层面上理解"
+            },
+            {
+              "start_timestamp": 870,
+              "end_timestamp": 872,
+              "content": "上半年尽可能规避掉风险"
+            },
+            {
+              "start_timestamp": 872,
+              "end_timestamp": 875,
+              "content": "那么下半年相对来说"
+            },
+            {
+              "start_timestamp": 875,
+              "end_timestamp": 877,
+              "content": "你前面只要不是太涨的太猛了对吧"
+            },
+            {
+              "start_timestamp": 877,
+              "end_timestamp": 879,
+              "content": "或者说你情绪极端差"
+            },
+            {
+              "start_timestamp": 879,
+              "end_timestamp": 882,
+              "content": "正常来说看看就好啊"
+            },
+            {
+              "start_timestamp": 882,
+              "end_timestamp": 884,
+              "content": "等待就好了"
+            },
+            {
+              "start_timestamp": 884,
+              "end_timestamp": 885,
+              "content": "不要去把统计当预测"
+            },
+            {
+              "start_timestamp": 885,
+              "end_timestamp": 886,
+              "content": "满仓赌方向"
+            },
+            {
+              "start_timestamp": 886,
+              "end_timestamp": 888,
+              "content": "最后一天再去做做决定"
+            },
+            {
+              "start_timestamp": 888,
+              "end_timestamp": 889,
+              "content": "另外不要抄别人答案"
+            },
+            {
+              "start_timestamp": 889,
+              "end_timestamp": 892,
+              "content": "不要到处在跟我吹牛逼"
+            },
+            {
+              "start_timestamp": 892,
+              "end_timestamp": 893,
+              "content": "他到底怎么样"
+            },
+            {
+              "start_timestamp": 893,
+              "end_timestamp": 895,
+              "content": "你就很简单"
+            },
+            {
+              "start_timestamp": 895,
+              "end_timestamp": 896,
+              "content": "他跟你说持股过节"
+            },
+            {
+              "start_timestamp": 896,
+              "end_timestamp": 898,
+              "content": "你就问你拿了多少"
+            },
+            {
+              "start_timestamp": 898,
+              "end_timestamp": 899,
+              "content": "他说持币过节"
+            },
+            {
+              "start_timestamp": 899,
+              "end_timestamp": 902,
+              "content": "你就看他手上有没有票"
+            },
+            {
+              "start_timestamp": 902,
+              "end_timestamp": 904,
+              "content": "记住不要把预测当"
+            },
+            {
+              "start_timestamp": 904,
+              "end_timestamp": 906,
+              "content": "不要把统计当成预测好吗"
+            },
+            {
+              "start_timestamp": 906,
+              "end_timestamp": 909,
+              "content": "统计不能告诉你的是今年会落在哪"
+            },
+            {
+              "start_timestamp": 909,
+              "end_timestamp": 911,
+              "content": "用统计去校准自己的风险预期"
+            },
+            {
+              "start_timestamp": 911,
+              "end_timestamp": 912,
+              "content": "而不是去预测方向"
+            },
+            {
+              "start_timestamp": 912,
+              "end_timestamp": 915,
+              "content": "最差亏7.6%"
+            },
+            {
+              "start_timestamp": 915,
+              "end_timestamp": 917,
+              "content": "这个情况能不能扛得住"
+            },
+            {
+              "start_timestamp": 917,
+              "end_timestamp": 919,
+              "content": "然后第二个是什么呢"
+            },
+            {
+              "start_timestamp": 920,
+              "end_timestamp": 921,
+              "content": "来误区三"
+            },
+            {
+              "start_timestamp": 921,
+              "end_timestamp": 923,
+              "content": "当中节前最后一天才去做决定"
+            },
+            {
+              "start_timestamp": 923,
+              "end_timestamp": 925,
+              "content": "为什么不能等到最后一天"
+            },
+            {
+              "start_timestamp": 925,
+              "end_timestamp": 927,
+              "content": "因为那一天是你在犹豫的时刻"
+            },
+            {
+              "start_timestamp": 927,
+              "end_timestamp": 929,
+              "content": "情绪会极端"
+            },
+            {
+              "start_timestamp": 929,
+              "end_timestamp": 930,
+              "content": "就是我只考虑一件事情"
+            },
+            {
+              "start_timestamp": 930,
+              "end_timestamp": 933,
+              "content": "如果考虑接回来"
+            },
+            {
+              "start_timestamp": 933,
+              "end_timestamp": 934,
+              "content": "那就只有回流"
+            },
+            {
+              "start_timestamp": 934,
+              "end_timestamp": 935,
+              "content": "只有回流"
+            },
+            {
+              "start_timestamp": 935,
+              "end_timestamp": 937,
+              "content": "你不要去给我考虑什么"
+            },
+            {
+              "start_timestamp": 937,
+              "end_timestamp": 938,
+              "content": "哎这个地方冲了"
+            },
+            {
+              "start_timestamp": 938,
+              "end_timestamp": 939,
+              "content": "你去追"
+            },
+            {
+              "start_timestamp": 939,
+              "end_timestamp": 939,
+              "content": "我给你挂山上"
+            },
+            {
+              "start_timestamp": 939,
+              "end_timestamp": 943,
+              "content": "你不知道所有的观点都在那天集中输出"
+            },
+            {
+              "start_timestamp": 943,
+              "end_timestamp": 945,
+              "content": "你很难独立的去思考"
+            },
+            {
+              "start_timestamp": 945,
+              "end_timestamp": 946,
+              "content": "时间呢也会仓促"
+            },
+            {
+              "start_timestamp": 946,
+              "end_timestamp": 947,
+              "content": "没有执行"
+            },
+            {
+              "start_timestamp": 947,
+              "end_timestamp": 950,
+              "content": "第24页的清单来"
+            },
+            {
+              "start_timestamp": 950,
+              "end_timestamp": 953,
+              "content": "建议在节前两到三个交易日把决定做完"
+            },
+            {
+              "start_timestamp": 953,
+              "end_timestamp": 954,
+              "content": "并且写下来"
+            },
+            {
+              "start_timestamp": 954,
+              "end_timestamp": 957,
+              "content": "写下来的决定不容易在最后一天被情绪推翻"
+            },
+            {
+              "start_timestamp": 957,
+              "end_timestamp": 958,
+              "content": "合适我再去做"
+            },
+            {
+              "start_timestamp": 958,
+              "end_timestamp": 960,
+              "content": "不合适我就不碰"
+            },
+            {
+              "start_timestamp": 960,
+              "end_timestamp": 961,
+              "content": "落地八条决策清单"
+            },
+            {
+              "start_timestamp": 961,
+              "end_timestamp": 962,
+              "content": "前四条认清你自己"
+            },
+            {
+              "start_timestamp": 962,
+              "end_timestamp": 964,
+              "content": "后四条想清两种情况"
+            },
+            {
+              "start_timestamp": 964,
+              "end_timestamp": 966,
+              "content": "提前的写下来呢"
+            },
+            {
+              "start_timestamp": 966,
+              "end_timestamp": 967,
+              "content": "为了让你应对"
+            },
+            {
+              "start_timestamp": 967,
+              "end_timestamp": 969,
+              "content": "首先第一个你的钱用多久"
+            },
+            {
+              "start_timestamp": 969,
+              "end_timestamp": 971,
+              "content": "你最快能承受多少回撤"
+            },
+            {
+              "start_timestamp": 971,
+              "end_timestamp": 972,
+              "content": "然后呢"
+            },
+            {
+              "start_timestamp": 972,
+              "end_timestamp": 973,
+              "content": "我的持仓在哪个位置"
+            },
+            {
+              "start_timestamp": 973,
+              "end_timestamp": 975,
+              "content": "低位高位中位对吧"
+            },
+            {
+              "start_timestamp": 975,
+              "end_timestamp": 976,
+              "content": "还是股票啊"
+            },
+            {
+              "start_timestamp": 976,
+              "end_timestamp": 977,
+              "content": "就单独我自己玩儿的"
+            },
+            {
+              "start_timestamp": 977,
+              "end_timestamp": 978,
+              "content": "跟别人没关系"
+            },
+            {
+              "start_timestamp": 978,
+              "end_timestamp": 979,
+              "content": "有没有杠杆"
+            },
+            {
+              "start_timestamp": 979,
+              "end_timestamp": 980,
+              "content": "如果有优先"
+            },
+            {
+              "start_timestamp": 980,
+              "end_timestamp": 981,
+              "content": "肯定要降低档"
+            },
+            {
+              "start_timestamp": 981,
+              "end_timestamp": 981,
+              "content": "没有的话"
+            },
+            {
+              "start_timestamp": 981,
+              "end_timestamp": 982,
+              "content": "就继续下一问"
+            },
+            {
+              "start_timestamp": 982,
+              "end_timestamp": 983,
+              "content": "我的目标仓位是多少"
+            },
+            {
+              "start_timestamp": 983,
+              "end_timestamp": 986,
+              "content": "按照之前第六期讲仓位的规则"
+            },
+            {
+              "start_timestamp": 986,
+              "end_timestamp": 987,
+              "content": "去计算的那一块儿去看"
+            },
+            {
+              "start_timestamp": 987,
+              "end_timestamp": 990,
+              "content": "然后跳空高开我应该怎么办"
+            },
+            {
+              "start_timestamp": 990,
+              "end_timestamp": 991,
+              "content": "诶跳空低开怎么办"
+            },
+            {
+              "start_timestamp": 991,
+              "end_timestamp": 993,
+              "content": "我什么时候做这个决定"
+            },
+            {
+              "start_timestamp": 993,
+              "end_timestamp": 995,
+              "content": "我在节前多久开始想清楚"
+            },
+            {
+              "start_timestamp": 995,
+              "end_timestamp": 996,
+              "content": "我接下来在最后一天"
+            },
+            {
+              "start_timestamp": 996,
+              "end_timestamp": 998,
+              "content": "如果是我想最后一天去介入"
+            },
+            {
+              "start_timestamp": 998,
+              "end_timestamp": 1000,
+              "content": "我应该怎么介入"
+            },
+            {
+              "start_timestamp": 1000,
+              "end_timestamp": 1002,
+              "content": "这个事一定要想想清楚"
+            },
+            {
+              "start_timestamp": 1002,
+              "end_timestamp": 1002,
+              "content": "想明白"
+            },
+            {
+              "start_timestamp": 1002,
+              "end_timestamp": 1005,
+              "content": "那么以上所有内容不构成任何投资建议"
+            },
+            {
+              "start_timestamp": 1005,
+              "end_timestamp": 1009,
+              "content": "所有统计均基于2011年至2025年"
+            },
+            {
+              "start_timestamp": 1009,
+              "end_timestamp": 1012,
+              "content": "上证指数历史数据的描述性统计"
+            },
+            {
+              "start_timestamp": 1012,
+              "end_timestamp": 1014,
+              "content": "不构成对任何未来的任何预测"
+            },
+            {
+              "start_timestamp": 1014,
+              "end_timestamp": 1016,
+              "content": "本内容不推荐任何具体标的"
+            },
+            {
+              "start_timestamp": 1016,
+              "end_timestamp": 1017,
+              "content": "不提供任何买卖信号"
+            },
+            {
+              "start_timestamp": 1017,
+              "end_timestamp": 1018,
+              "content": "不承诺任何收益"
+            },
+            {
+              "start_timestamp": 1018,
+              "end_timestamp": 1020,
+              "content": "持股还是持币均为中性表述"
+            },
+            {
+              "start_timestamp": 1020,
+              "end_timestamp": 1022,
+              "content": "不构成任何倾向异性建议"
+            },
+            {
+              "start_timestamp": 1022,
+              "end_timestamp": 1025,
+              "content": "历史胜率不代表未来表现"
+            },
+            {
+              "start_timestamp": 1025,
+              "end_timestamp": 1028,
+              "content": "单一年度的极端会显著影响统计结果"
+            },
+            {
+              "start_timestamp": 1028,
+              "end_timestamp": 1029,
+              "content": "那么市场有风险"
+            },
+            {
+              "start_timestamp": 1029,
+              "end_timestamp": 1030,
+              "content": "入市需谨慎"
+            },
+            {
+              "start_timestamp": 1030,
+              "end_timestamp": 1034,
+              "content": "任何角色都应当基于你自身的资金属性"
+            },
+            {
+              "start_timestamp": 1034,
+              "end_timestamp": 1035,
+              "content": "和风险承受能力去做"
+            },
+            {
+              "start_timestamp": 1035,
+              "end_timestamp": 1042,
+              "content": "记住你的交易和你所有的内容都是来自于自身"
+            },
+            {
+              "start_timestamp": 1042,
+              "end_timestamp": 1043,
+              "content": "记住这句话"
+            },
+            {
+              "start_timestamp": 1043,
+              "end_timestamp": 1045,
+              "content": "没有人会为你负责"
+            },
+            {
+              "start_timestamp": 1045,
+              "end_timestamp": 1046,
+              "content": "不管这个人多牛逼"
+            },
+            {
+              "start_timestamp": 1046,
+              "end_timestamp": 1049,
+              "content": "他不会为你任何事情去做负责"
+            },
+            {
+              "start_timestamp": 1049,
+              "end_timestamp": 1050,
+              "content": "兄弟们顶人气"
+            }
+          ],
+          "timestamp": 1
+        }
+      ]
+    },
+    "stid": "8998012730504178323",
+    "status": 0,
+    "like_num": 0,
+    "dislike_num": 0
+  }
+}
