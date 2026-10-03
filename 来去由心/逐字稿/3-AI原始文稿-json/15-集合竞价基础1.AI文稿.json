@@ -1,0 +1,1087 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "code": 0,
+    "model_result": {
+      "result_type": 2,
+      "summary": "集合竞价的基础概念，包括价格优先、时间优先原则，基准价格确定方法及成交条件，并分阶段解析早盘（9:15-9:25）和尾盘集合竞价时间，强调试盘、撮合成交关键节点，结合竞价图形分析活跃度与成交量，指导投资者捕捉主力动向与交易时机。",
+      "outline": [
+        {
+          "title": "集合竞价原理与基准价确定",
+          "part_outline": [
+            {
+              "timestamp": 29,
+              "content": "集合竞价按价格优先、时间优先原则撮合成交"
+            },
+            {
+              "timestamp": 127,
+              "content": "涨/跌停价挂单确保优先成交，散户常挂涨停/跌停"
+            },
+            {
+              "timestamp": 172,
+              "content": "基准价由最大成交量价位及收盘价相近规则确定"
+            }
+          ],
+          "timestamp": 1
+        },
+        {
+          "title": "解析集合竞价阶段操作与图形分析",
+          "part_outline": [
+            {
+              "timestamp": 288,
+              "content": "试盘、真实成交、撤单处理"
+            },
+            {
+              "timestamp": 346,
+              "content": "09:25开盘后未成交买单反映主力意图，十秒挂单成功率高"
+            },
+            {
+              "timestamp": 434,
+              "content": "竞价图形白点密集粗壮且成交量红柱主导，标志活跃度高"
+            }
+          ],
+          "timestamp": 254
+        },
+        {
+          "title": "感谢观看集合竞价基础课程",
+          "part_outline": [
+            {
+              "timestamp": 508,
+              "content": "视频结束致谢观众参与学习"
+            }
+          ],
+          "timestamp": 508
+        }
+      ],
+      "subtitle": [
+        {
+          "title": "",
+          "part_subtitle": [
+            {
+              "start_timestamp": 0,
+              "end_timestamp": 1,
+              "content": "大家好"
+            },
+            {
+              "start_timestamp": 1,
+              "end_timestamp": 3,
+              "content": "今天呢我们讲集合竞价的基础"
+            },
+            {
+              "start_timestamp": 3,
+              "end_timestamp": 5,
+              "content": "主要呢是分两个方面"
+            },
+            {
+              "start_timestamp": 5,
+              "end_timestamp": 7,
+              "content": "第一个呢是基本的概念"
+            },
+            {
+              "start_timestamp": 7,
+              "end_timestamp": 10,
+              "content": "第二个我们讲一下竞价的时间"
+            },
+            {
+              "start_timestamp": 10,
+              "end_timestamp": 12,
+              "content": "以及竞价图形上的一些含义"
+            },
+            {
+              "start_timestamp": 12,
+              "end_timestamp": 15,
+              "content": "首先我们来看集合竞价的基本概念"
+            },
+            {
+              "start_timestamp": 15,
+              "end_timestamp": 19,
+              "content": "集合竞价呢是由电脑交易处理系统对全部申报"
+            },
+            {
+              "start_timestamp": 19,
+              "end_timestamp": 20,
+              "content": "按照价格优先"
+            },
+            {
+              "start_timestamp": 20,
+              "end_timestamp": 23,
+              "content": "时间优先的原则取排序"
+            },
+            {
+              "start_timestamp": 23,
+              "end_timestamp": 26,
+              "content": "并在此基础上找出一个基准价格"
+            },
+            {
+              "start_timestamp": 26,
+              "end_timestamp": 29,
+              "content": "那该基准价格即被确定为成交价格"
+            },
+            {
+              "start_timestamp": 29,
+              "end_timestamp": 33,
+              "content": "集合竞价方式产生成交价格的全部过程"
+            },
+            {
+              "start_timestamp": 36,
+              "end_timestamp": 40,
+              "content": "将处理后所产生的成交价格显示出来的"
+            },
+            {
+              "start_timestamp": 40,
+              "end_timestamp": 44,
+              "content": "那我们再说一下什么是价格优先和时间优先"
+            },
+            {
+              "start_timestamp": 44,
+              "end_timestamp": 47,
+              "content": "价格优先呢就是证券市场的买卖交易中"
+            },
+            {
+              "start_timestamp": 47,
+              "end_timestamp": 49,
+              "content": "价格较高的买进申报"
+            },
+            {
+              "start_timestamp": 49,
+              "end_timestamp": 52,
+              "content": "优先于价格较低的买进申报报"
+            },
+            {
+              "start_timestamp": 52,
+              "end_timestamp": 54,
+              "content": "那价格较低的卖出申报"
+            },
+            {
+              "start_timestamp": 54,
+              "end_timestamp": 57,
+              "content": "优先于价格较高的卖出申报"
+            },
+            {
+              "start_timestamp": 57,
+              "end_timestamp": 60,
+              "content": "这也意味着买家呢愿意以更高的价格买入"
+            },
+            {
+              "start_timestamp": 60,
+              "end_timestamp": 63,
+              "content": "卖家愿意接受更低的价格卖出"
+            },
+            {
+              "start_timestamp": 63,
+              "end_timestamp": 66,
+              "content": "从而使得交易双方达成一致"
+            },
+            {
+              "start_timestamp": 66,
+              "end_timestamp": 68,
+              "content": "那什么是时间优先呢"
+            },
+            {
+              "start_timestamp": 68,
+              "end_timestamp": 69,
+              "content": "时间优先啊"
+            },
+            {
+              "start_timestamp": 69,
+              "end_timestamp": 73,
+              "content": "就是在买卖方向和价格相同的情况下"
+            },
+            {
+              "start_timestamp": 73,
+              "end_timestamp": 76,
+              "content": "先申报的交易优先于后申报的交易"
+            },
+            {
+              "start_timestamp": 76,
+              "end_timestamp": 78,
+              "content": "这个原则体现了公平性"
+            },
+            {
+              "start_timestamp": 78,
+              "end_timestamp": 81,
+              "content": "保证了先报名的交易者是有优先权的"
+            },
+            {
+              "start_timestamp": 81,
+              "end_timestamp": 84,
+              "content": "那我们在证券市场的实际交易过程当中"
+            },
+            {
+              "start_timestamp": 84,
+              "end_timestamp": 87,
+              "content": "交易系统就会根据价格优先和时间优先"
+            },
+            {
+              "start_timestamp": 87,
+              "end_timestamp": 89,
+              "content": "这两个原则去进行撮合"
+            },
+            {
+              "start_timestamp": 89,
+              "end_timestamp": 93,
+              "content": "如果说存在多笔交易报价相同"
+            },
+            {
+              "start_timestamp": 93,
+              "end_timestamp": 96,
+              "content": "那么交易系统就会根据时间优先原则"
+            },
+            {
+              "start_timestamp": 96,
+              "end_timestamp": 99,
+              "content": "优先撮合先提交的交易"
+            },
+            {
+              "start_timestamp": 100,
+              "end_timestamp": 102,
+              "content": "这也就是为什么会有人去挂隔夜单"
+            },
+            {
+              "start_timestamp": 102,
+              "end_timestamp": 104,
+              "content": "你比如说我特别看好某个股票"
+            },
+            {
+              "start_timestamp": 104,
+              "end_timestamp": 107,
+              "content": "或者说啊一些有消息的敏感资金"
+            },
+            {
+              "start_timestamp": 107,
+              "end_timestamp": 110,
+              "content": "主力资金就可以在前一个交易日啊"
+            },
+            {
+              "start_timestamp": 110,
+              "end_timestamp": 112,
+              "content": "在券商系统清算之后"
+            },
+            {
+              "start_timestamp": 112,
+              "end_timestamp": 114,
+              "content": "就开始进行第二个交易日的委托"
+            },
+            {
+              "start_timestamp": 114,
+              "end_timestamp": 116,
+              "content": "直接挂涨停板啊"
+            },
+            {
+              "start_timestamp": 116,
+              "end_timestamp": 118,
+              "content": "这样的成交的概率会非常大"
+            },
+            {
+              "start_timestamp": 118,
+              "end_timestamp": 120,
+              "content": "那同样对于普通投资者来说"
+            },
+            {
+              "start_timestamp": 120,
+              "end_timestamp": 122,
+              "content": "你在集合竞价时间"
+            },
+            {
+              "start_timestamp": 122,
+              "end_timestamp": 124,
+              "content": "你只要打入的股票价格"
+            },
+            {
+              "start_timestamp": 124,
+              "end_timestamp": 126,
+              "content": "高于实际的成交价格的话"
+            },
+            {
+              "start_timestamp": 126,
+              "end_timestamp": 127,
+              "content": "它就可以成交"
+            },
+            {
+              "start_timestamp": 127,
+              "end_timestamp": 130,
+              "content": "当然我们如果按照涨停价去买"
+            },
+            {
+              "start_timestamp": 130,
+              "end_timestamp": 132,
+              "content": "或者按照跌停价去卖"
+            },
+            {
+              "start_timestamp": 132,
+              "end_timestamp": 134,
+              "content": "则保证优先成交"
+            },
+            {
+              "start_timestamp": 134,
+              "end_timestamp": 137,
+              "content": "另外啊咱们散户买入的股票数量也不会很大"
+            },
+            {
+              "start_timestamp": 137,
+              "end_timestamp": 141,
+              "content": "一般呢直接就挂在涨停板或者挂在跌停板啊"
+            },
+            {
+              "start_timestamp": 141,
+              "end_timestamp": 142,
+              "content": "就可以了"
+            },
+            {
+              "start_timestamp": 142,
+              "end_timestamp": 144,
+              "content": "也不会对该股票的集合竞价的价格"
+            },
+            {
+              "start_timestamp": 144,
+              "end_timestamp": 147,
+              "content": "它产生什么样的影响"
+            },
+            {
+              "start_timestamp": 148,
+              "end_timestamp": 149,
+              "content": "接下来呢我们再说一下"
+            },
+            {
+              "start_timestamp": 149,
+              "end_timestamp": 152,
+              "content": "集合竞价的基准价格是如何确定的"
+            },
+            {
+              "start_timestamp": 152,
+              "end_timestamp": 154,
+              "content": "这里边有三个条件"
+            },
+            {
+              "start_timestamp": 154,
+              "end_timestamp": 156,
+              "content": "第一个就是在有效的价格范围内"
+            },
+            {
+              "start_timestamp": 156,
+              "end_timestamp": 159,
+              "content": "选取成交量最大的价位"
+            },
+            {
+              "start_timestamp": 159,
+              "end_timestamp": 162,
+              "content": "第二个是高于基准价格的买入申报"
+            },
+            {
+              "start_timestamp": 162,
+              "end_timestamp": 165,
+              "content": "和低于基准价格的卖出申报"
+            },
+            {
+              "start_timestamp": 165,
+              "end_timestamp": 166,
+              "content": "全部成交"
+            },
+            {
+              "start_timestamp": 166,
+              "end_timestamp": 169,
+              "content": "第三个呢就是与基准价格相同的"
+            },
+            {
+              "start_timestamp": 169,
+              "end_timestamp": 172,
+              "content": "买卖双方中有一方申报全部成交"
+            },
+            {
+              "start_timestamp": 172,
+              "end_timestamp": 174,
+              "content": "这个怎么理解呢"
+            },
+            {
+              "start_timestamp": 174,
+              "end_timestamp": 175,
+              "content": "我们来讲一个案例啊"
+            },
+            {
+              "start_timestamp": 175,
+              "end_timestamp": 176,
+              "content": "比如说这个标的"
+            },
+            {
+              "start_timestamp": 176,
+              "end_timestamp": 182,
+              "content": "他前一日的收盘价是十块一毛三好"
+            },
+            {
+              "start_timestamp": 182,
+              "end_timestamp": 183,
+              "content": "那我们先来看十块四"
+            },
+            {
+              "start_timestamp": 183,
+              "end_timestamp": 186,
+              "content": "这个价格累计买入数量为零"
+            },
+            {
+              "start_timestamp": 186,
+              "end_timestamp": 187,
+              "content": "累计卖出数量是1500"
+            },
+            {
+              "start_timestamp": 187,
+              "end_timestamp": 191,
+              "content": "那么最大的可成交量为零手"
+            },
+            {
+              "start_timestamp": 191,
+              "end_timestamp": 192,
+              "content": "那同理啊"
+            },
+            {
+              "start_timestamp": 192,
+              "end_timestamp": 196,
+              "content": "九块八九块九这两个价位呢是只有买入"
+            },
+            {
+              "start_timestamp": 196,
+              "end_timestamp": 197,
+              "content": "没有卖出"
+            },
+            {
+              "start_timestamp": 197,
+              "end_timestamp": 199,
+              "content": "同样最大可成交量也为零售"
+            },
+            {
+              "start_timestamp": 199,
+              "end_timestamp": 202,
+              "content": "那我们再看十块三这个价格"
+            },
+            {
+              "start_timestamp": 202,
+              "end_timestamp": 204,
+              "content": "买入是600手"
+            },
+            {
+              "start_timestamp": 204,
+              "end_timestamp": 206,
+              "content": "累计卖出数量是1200手"
+            },
+            {
+              "start_timestamp": 206,
+              "end_timestamp": 211,
+              "content": "那么最大的可成交量就是600手啊"
+            },
+            {
+              "start_timestamp": 211,
+              "end_timestamp": 212,
+              "content": "以此类推啊"
+            },
+            {
+              "start_timestamp": 212,
+              "end_timestamp": 216,
+              "content": "我们会发现产生最大成交量的价位是有两个"
+            },
+            {
+              "start_timestamp": 216,
+              "end_timestamp": 219,
+              "content": "十块一和十块二"
+            },
+            {
+              "start_timestamp": 219,
+              "end_timestamp": 222,
+              "content": "成交量均为800手"
+            },
+            {
+              "start_timestamp": 223,
+              "end_timestamp": 226,
+              "content": "那若在上交所则选取中间的价格"
+            },
+            {
+              "start_timestamp": 226,
+              "end_timestamp": 228,
+              "content": "也就是十块一毛五"
+            },
+            {
+              "start_timestamp": 228,
+              "end_timestamp": 229,
+              "content": "那若在深交所呢"
+            },
+            {
+              "start_timestamp": 229,
+              "end_timestamp": 233,
+              "content": "则选取离上一日收盘价较近的这个价位"
+            },
+            {
+              "start_timestamp": 233,
+              "end_timestamp": 235,
+              "content": "十块一"
+            },
+            {
+              "start_timestamp": 235,
+              "end_timestamp": 235,
+              "content": "并"
+            },
+            {
+              "start_timestamp": 235,
+              "end_timestamp": 237,
+              "content": "由此我们确定了基准价格"
+            },
+            {
+              "start_timestamp": 237,
+              "end_timestamp": 240,
+              "content": "也就是成交量最大的那个价位"
+            },
+            {
+              "start_timestamp": 240,
+              "end_timestamp": 243,
+              "content": "那集合竞价呢它主要产生了开盘价"
+            },
+            {
+              "start_timestamp": 243,
+              "end_timestamp": 246,
+              "content": "接着呢股市就要进行连续的买卖阶段"
+            },
+            {
+              "start_timestamp": 246,
+              "end_timestamp": 248,
+              "content": "因此有了连续竞价"
+            },
+            {
+              "start_timestamp": 248,
+              "end_timestamp": 252,
+              "content": "集合竞价中没有成交的买卖指令会继续有效"
+            },
+            {
+              "start_timestamp": 252,
+              "end_timestamp": 254,
+              "content": "会自动进入到连续竞价"
+            },
+            {
+              "start_timestamp": 254,
+              "end_timestamp": 256,
+              "content": "等待合适价位成交"
+            },
+            {
+              "start_timestamp": 257,
+              "end_timestamp": 260,
+              "content": "了解了进集合竞价的概念后"
+            },
+            {
+              "start_timestamp": 260,
+              "end_timestamp": 262,
+              "content": "我们再说下集合竞价的时间"
+            },
+            {
+              "start_timestamp": 262,
+              "end_timestamp": 265,
+              "content": "集合竞价呢主要分两块啊"
+            },
+            {
+              "start_timestamp": 265,
+              "end_timestamp": 268,
+              "content": "早盘的集合竞价9.15到09:30"
+            },
+            {
+              "start_timestamp": 268,
+              "end_timestamp": 272,
+              "content": "以及尾盘的集合竞价是从2.57到三点"
+            },
+            {
+              "start_timestamp": 272,
+              "end_timestamp": 274,
+              "content": "那09:30以后呢"
+            },
+            {
+              "start_timestamp": 274,
+              "end_timestamp": 277,
+              "content": "就会开始进入到连续竞价阶段啊"
+            },
+            {
+              "start_timestamp": 277,
+              "end_timestamp": 280,
+              "content": "我们进集合竞价最重要的还是早盘集合竞价"
+            },
+            {
+              "start_timestamp": 280,
+              "end_timestamp": 283,
+              "content": "尾盘集合竞价呢主要看竞价金额"
+            },
+            {
+              "start_timestamp": 283,
+              "end_timestamp": 284,
+              "content": "就可以了"
+            },
+            {
+              "start_timestamp": 284,
+              "end_timestamp": 288,
+              "content": "我们后面再讲早盘的集合竞价分三个时间段"
+            },
+            {
+              "start_timestamp": 288,
+              "end_timestamp": 292,
+              "content": "首先是第一个阶段是9.15到9.20"
+            },
+            {
+              "start_timestamp": 292,
+              "end_timestamp": 294,
+              "content": "属于试盘阶段"
+            },
+            {
+              "start_timestamp": 294,
+              "end_timestamp": 295,
+              "content": "既可以啊"
+            },
+            {
+              "start_timestamp": 295,
+              "end_timestamp": 297,
+              "content": "主力呢这里边主力参与比较多"
+            },
+            {
+              "start_timestamp": 297,
+              "end_timestamp": 298,
+              "content": "既可以挂单"
+            },
+            {
+              "start_timestamp": 298,
+              "end_timestamp": 300,
+              "content": "也可以撤单"
+            },
+            {
+              "start_timestamp": 305,
+              "end_timestamp": 308,
+              "content": "SC是卖单撤走"
+            },
+            {
+              "start_timestamp": 308,
+              "end_timestamp": 311,
+              "content": "那第二个阶段是9.20到9.25"
+            },
+            {
+              "start_timestamp": 311,
+              "end_timestamp": 313,
+              "content": "是真实的成交阶段"
+            },
+            {
+              "start_timestamp": 313,
+              "end_timestamp": 315,
+              "content": "这里面只能挂单"
+            },
+            {
+              "start_timestamp": 315,
+              "end_timestamp": 316,
+              "content": "不能撤单"
+            },
+            {
+              "start_timestamp": 316,
+              "end_timestamp": 317,
+              "content": "那我们像很多没有这种"
+            },
+            {
+              "start_timestamp": 317,
+              "end_timestamp": 320,
+              "content": "挂在涨停价或者跌停价的一些资金对吧"
+            },
+            {
+              "start_timestamp": 320,
+              "end_timestamp": 323,
+              "content": "是如果是小资金是没法去理解的"
+            },
+            {
+              "start_timestamp": 323,
+              "end_timestamp": 325,
+              "content": "因为如果你真心想去买的话"
+            },
+            {
+              "start_timestamp": 325,
+              "end_timestamp": 327,
+              "content": "你就涨停价去买"
+            },
+            {
+              "start_timestamp": 327,
+              "end_timestamp": 328,
+              "content": "真心想卖的话"
+            },
+            {
+              "start_timestamp": 328,
+              "end_timestamp": 329,
+              "content": "就在跌停板去卖"
+            },
+            {
+              "start_timestamp": 329,
+              "end_timestamp": 332,
+              "content": "最后呢也只会与开盘价去成交"
+            },
+            {
+              "start_timestamp": 332,
+              "end_timestamp": 335,
+              "content": "也不会说对竞价的价格产生什么影响"
+            },
+            {
+              "start_timestamp": 335,
+              "end_timestamp": 337,
+              "content": "而大资金就不一样了"
+            },
+            {
+              "start_timestamp": 337,
+              "end_timestamp": 341,
+              "content": "这么做的话就容易啊改变竞价的形态"
+            },
+            {
+              "start_timestamp": 341,
+              "end_timestamp": 343,
+              "content": "当然这个阶段如果说量能放大"
+            },
+            {
+              "start_timestamp": 343,
+              "end_timestamp": 346,
+              "content": "价格还能维持不变啊"
+            },
+            {
+              "start_timestamp": 346,
+              "end_timestamp": 348,
+              "content": "也是比较强势的表现"
+            },
+            {
+              "start_timestamp": 348,
+              "end_timestamp": 349,
+              "content": "越到竞价结束"
+            },
+            {
+              "start_timestamp": 349,
+              "end_timestamp": 351,
+              "content": "博弈会越是激烈"
+            },
+            {
+              "start_timestamp": 351,
+              "end_timestamp": 353,
+              "content": "像09:25分之前"
+            },
+            {
+              "start_timestamp": 353,
+              "end_timestamp": 356,
+              "content": "我们是没办法去判断哪些成交"
+            },
+            {
+              "start_timestamp": 356,
+              "end_timestamp": 357,
+              "content": "哪些没有成交"
+            },
+            {
+              "start_timestamp": 357,
+              "end_timestamp": 360,
+              "content": "而09:25分竞价开盘"
+            },
+            {
+              "start_timestamp": 360,
+              "end_timestamp": 363,
+              "content": "那开盘价之下的买单你肯定都没有成交"
+            },
+            {
+              "start_timestamp": 363,
+              "end_timestamp": 365,
+              "content": "那这些买单呢其实也是主力意图"
+            },
+            {
+              "start_timestamp": 365,
+              "end_timestamp": 369,
+              "content": "所以我们如果在09:24:50"
+            },
+            {
+              "start_timestamp": 369,
+              "end_timestamp": 373,
+              "content": "到09:25分这十秒间通过我们的战法"
+            },
+            {
+              "start_timestamp": 373,
+              "end_timestamp": 375,
+              "content": "再配合十秒的挂单"
+            },
+            {
+              "start_timestamp": 375,
+              "end_timestamp": 378,
+              "content": "他的成功率会非常的高"
+            },
+            {
+              "start_timestamp": 378,
+              "end_timestamp": 381,
+              "content": "那第三个阶段是9.25到09:30"
+            },
+            {
+              "start_timestamp": 381,
+              "end_timestamp": 382,
+              "content": "可以挂单"
+            },
+            {
+              "start_timestamp": 382,
+              "end_timestamp": 383,
+              "content": "也可以撤单"
+            },
+            {
+              "start_timestamp": 383,
+              "end_timestamp": 386,
+              "content": "但是这个阶段交易所不会理你啊"
+            },
+            {
+              "start_timestamp": 386,
+              "end_timestamp": 389,
+              "content": "指令呢会在09:30统一进行处理"
+            },
+            {
+              "start_timestamp": 389,
+              "end_timestamp": 390,
+              "content": "如果说开盘一瞬间"
+            },
+            {
+              "start_timestamp": 390,
+              "end_timestamp": 391,
+              "content": "你操作不及时"
+            },
+            {
+              "start_timestamp": 391,
+              "end_timestamp": 393,
+              "content": "就可能直接会成交"
+            },
+            {
+              "start_timestamp": 393,
+              "end_timestamp": 395,
+              "content": "所以在9.25到09:30"
+            },
+            {
+              "start_timestamp": 395,
+              "end_timestamp": 398,
+              "content": "这个时间段不要去挂单"
+            },
+            {
+              "start_timestamp": 398,
+              "end_timestamp": 401,
+              "content": "还不如在09:30之后的一瞬间去操作"
+            },
+            {
+              "start_timestamp": 401,
+              "end_timestamp": 404,
+              "content": "反而会更好一点"
+            },
+            {
+              "start_timestamp": 407,
+              "end_timestamp": 410,
+              "content": "好我们接着看竞价图形"
+            },
+            {
+              "start_timestamp": 410,
+              "end_timestamp": 412,
+              "content": "那从竞价图形上可以看出"
+            },
+            {
+              "start_timestamp": 412,
+              "end_timestamp": 413,
+              "content": "上方是价格"
+            },
+            {
+              "start_timestamp": 413,
+              "end_timestamp": 415,
+              "content": "下方是量能"
+            },
+            {
+              "start_timestamp": 415,
+              "end_timestamp": 418,
+              "content": "每一个白点它就是一次撮合成交"
+            },
+            {
+              "start_timestamp": 418,
+              "end_timestamp": 420,
+              "content": "上交所呢是三秒一次回报"
+            },
+            {
+              "start_timestamp": 420,
+              "end_timestamp": 423,
+              "content": "深交所呢是九秒一次回报啊"
+            },
+            {
+              "start_timestamp": 423,
+              "end_timestamp": 427,
+              "content": "每点的价格就是当时最大的撮合成交量"
+            },
+            {
+              "start_timestamp": 427,
+              "end_timestamp": 429,
+              "content": "一个白点它是一次撮合成交"
+            },
+            {
+              "start_timestamp": 429,
+              "end_timestamp": 433,
+              "content": "像这种白点之间的间隔如果过大的话"
+            },
+            {
+              "start_timestamp": 433,
+              "end_timestamp": 434,
+              "content": "没有几个白点"
+            },
+            {
+              "start_timestamp": 434,
+              "end_timestamp": 436,
+              "content": "表示这个票太冷门了"
+            },
+            {
+              "start_timestamp": 436,
+              "end_timestamp": 438,
+              "content": "竞价阶段无人问津"
+            },
+            {
+              "start_timestamp": 438,
+              "end_timestamp": 440,
+              "content": "属于竞价非常不活跃的这种呢"
+            },
+            {
+              "start_timestamp": 440,
+              "end_timestamp": 442,
+              "content": "我们就不要去参与了"
+            },
+            {
+              "start_timestamp": 442,
+              "end_timestamp": 445,
+              "content": "我们找的是白点这种又密又粗"
+            },
+            {
+              "start_timestamp": 445,
+              "end_timestamp": 447,
+              "content": "因为白点又密又粗"
+            },
+            {
+              "start_timestamp": 447,
+              "end_timestamp": 449,
+              "content": "才是竞价阶段非常活跃的"
+            },
+            {
+              "start_timestamp": 449,
+              "end_timestamp": 452,
+              "content": "说明关注度比较高"
+            },
+            {
+              "start_timestamp": 453,
+              "end_timestamp": 456,
+              "content": "那我们再看下方的这个柱子呢"
+            },
+            {
+              "start_timestamp": 456,
+              "end_timestamp": 458,
+              "content": "它是成交量的大小"
+            },
+            {
+              "start_timestamp": 458,
+              "end_timestamp": 460,
+              "content": "红色的代表买方多"
+            },
+            {
+              "start_timestamp": 460,
+              "end_timestamp": 462,
+              "content": "绿色的代表卖方多"
+            },
+            {
+              "start_timestamp": 462,
+              "end_timestamp": 465,
+              "content": "倒挂的柱子呢是未匹配成交量正的"
+            },
+            {
+              "start_timestamp": 465,
+              "end_timestamp": 467,
+              "content": "这个柱子呢是已经匹配的成交量"
+            },
+            {
+              "start_timestamp": 467,
+              "end_timestamp": 469,
+              "content": "也就是说已经成交了的"
+            },
+            {
+              "start_timestamp": 469,
+              "end_timestamp": 471,
+              "content": "如果说你开通了L2呢啊"
+            },
+            {
+              "start_timestamp": 471,
+              "end_timestamp": 475,
+              "content": "这地方有一个逐笔委托挂单撤单这一块啊"
+            },
+            {
+              "start_timestamp": 475,
+              "end_timestamp": 476,
+              "content": "逐笔委托的话"
+            },
+            {
+              "start_timestamp": 476,
+              "end_timestamp": 479,
+              "content": "就是说每一笔啊向券商挂的单子"
+            },
+            {
+              "start_timestamp": 479,
+              "end_timestamp": 481,
+              "content": "报到交易所之后呢"
+            },
+            {
+              "start_timestamp": 481,
+              "end_timestamp": 484,
+              "content": "交易所会给各个券商一个回执"
+            },
+            {
+              "start_timestamp": 484,
+              "end_timestamp": 485,
+              "content": "那像这种地方对吧"
+            },
+            {
+              "start_timestamp": 485,
+              "end_timestamp": 487,
+              "content": "09:15分开盘啊"
+            },
+            {
+              "start_timestamp": 487,
+              "end_timestamp": 493,
+              "content": "第一笔呢就有一个人挂的是10.88买入两手"
+            },
+            {
+              "start_timestamp": 493,
+              "end_timestamp": 496,
+              "content": "那我们有兴趣的老铁呢也可以啊去翻一翻啊"
+            },
+            {
+              "start_timestamp": 496,
+              "end_timestamp": 497,
+              "content": "仔细看一看"
+            },
+            {
+              "start_timestamp": 497,
+              "end_timestamp": 500,
+              "content": "找一些挂单比较大的资金啊"
+            },
+            {
+              "start_timestamp": 500,
+              "end_timestamp": 502,
+              "content": "也是可以看到主力的动向的"
+            },
+            {
+              "start_timestamp": 502,
+              "end_timestamp": 503,
+              "content": "好"
+            },
+            {
+              "start_timestamp": 503,
+              "end_timestamp": 505,
+              "content": "这就是今天我们讲到的"
+            },
+            {
+              "start_timestamp": 505,
+              "end_timestamp": 508,
+              "content": "竞价的一些基本概念以及图形啊"
+            },
+            {
+              "start_timestamp": 508,
+              "end_timestamp": 508,
+              "content": "谢谢大家"
+            }
+          ],
+          "timestamp": 1
+        }
+      ]
+    },
+    "stid": "8442593097460502578",
+    "status": 0,
+    "like_num": 0,
+    "dislike_num": 0
+  }
+}

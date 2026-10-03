@@ -1,0 +1,2892 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "code": 0,
+    "model_result": {
+      "result_type": 2,
+      "summary": "美国CPI数据对全球市场影响的核心逻辑，强调核心CPI环比变化决定美联储加息节奏与风险资产波动，需区分总体与核心CPI传导效应，超预期数据引发美元走强、新兴市场资金外流及成长股压力，低预期则推动能源股和高股息板块，操作上建议关注美债、美元走势，控制仓位，布局中字头国企改革与竞价机会，保持纪律性规避追涨风险。",
+      "outline": [
+        {
+          "title": "CPI数据影响全球市场与A股策略",
+          "part_outline": [
+            {
+              "timestamp": 41,
+              "content": "CPI数据强弱反转利空，加息周期下坏消息或成更大压力"
+            },
+            {
+              "timestamp": 168,
+              "content": "关注核心CPI剔除食品能源，通胀粘性决定加息必要性"
+            },
+            {
+              "timestamp": 324,
+              "content": "加息预期推升贴现率，科技成长股估值承压需规避"
+            }
+          ],
+          "timestamp": 1
+        },
+        {
+          "title": "CPI波动影响全球市场与A股策略",
+          "part_outline": [
+            {
+              "timestamp": 619,
+              "content": " CPI推高美元加息，供给端无效需求受压制"
+            },
+            {
+              "timestamp": 725,
+              "content": " 数据超预期将引发双杀风险，市场高度不确定性"
+            },
+            {
+              "timestamp": 775,
+              "content": " 能源及中字头股受CPI刺激，竞价需重点关注涨幅与资金动向"
+            }
+          ],
+          "timestamp": 584
+        },
+        {
+          "title": "解析美国CPI影响与A股应对",
+          "part_outline": [
+            {
+              "timestamp": 1168,
+              "content": "深度解析美国CPI对全球市场影响及A股应对策略"
+            }
+          ],
+          "timestamp": 1168
+        }
+      ],
+      "subtitle": [
+        {
+          "title": "",
+          "part_subtitle": [
+            {
+              "start_timestamp": 0,
+              "end_timestamp": 1,
+              "content": "大家好"
+            },
+            {
+              "start_timestamp": 1,
+              "end_timestamp": 2,
+              "content": "我是你们的逻辑哥"
+            },
+            {
+              "start_timestamp": 2,
+              "end_timestamp": 3,
+              "content": "这两天的感冒"
+            },
+            {
+              "start_timestamp": 3,
+              "end_timestamp": 6,
+              "content": "然后直播就没有持续啊"
+            },
+            {
+              "start_timestamp": 6,
+              "end_timestamp": 7,
+              "content": "今天早上就没跟大家直播"
+            },
+            {
+              "start_timestamp": 7,
+              "end_timestamp": 11,
+              "content": "那么但是补充内容还是要跟大家补充一下啊"
+            },
+            {
+              "start_timestamp": 11,
+              "end_timestamp": 13,
+              "content": "该讲的东西讲清楚"
+            },
+            {
+              "start_timestamp": 13,
+              "end_timestamp": 15,
+              "content": "那么今天晚上重点的是CPI"
+            },
+            {
+              "start_timestamp": 15,
+              "end_timestamp": 18,
+              "content": "那么为什么CPI会牵动整个全球市场"
+            },
+            {
+              "start_timestamp": 18,
+              "end_timestamp": 19,
+              "content": "其实很关键啊"
+            },
+            {
+              "start_timestamp": 19,
+              "end_timestamp": 20,
+              "content": "关键在哪里"
+            },
+            {
+              "start_timestamp": 20,
+              "end_timestamp": 23,
+              "content": "我们分成六条传导链和这个分子产"
+            },
+            {
+              "start_timestamp": 23,
+              "end_timestamp": 25,
+              "content": "拆解以及心理推演啊"
+            },
+            {
+              "start_timestamp": 25,
+              "end_timestamp": 27,
+              "content": "今天晚上你为什么要重点盯这份数据"
+            },
+            {
+              "start_timestamp": 27,
+              "end_timestamp": 29,
+              "content": "那么核心点是什么呢"
+            },
+            {
+              "start_timestamp": 29,
+              "end_timestamp": 31,
+              "content": "就是最重要的地方"
+            },
+            {
+              "start_timestamp": 31,
+              "end_timestamp": 32,
+              "content": "我们要想清楚"
+            },
+            {
+              "start_timestamp": 32,
+              "end_timestamp": 34,
+              "content": "在过去的几十年里啊"
+            },
+            {
+              "start_timestamp": 34,
+              "end_timestamp": 35,
+              "content": "十几20年里面"
+            },
+            {
+              "start_timestamp": 35,
+              "end_timestamp": 37,
+              "content": "大家养成了一个习惯啊"
+            },
+            {
+              "start_timestamp": 37,
+              "end_timestamp": 38,
+              "content": "就坏消息利空落地变利好"
+            },
+            {
+              "start_timestamp": 38,
+              "end_timestamp": 39,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 39,
+              "end_timestamp": 40,
+              "content": "数据差啊"
+            },
+            {
+              "start_timestamp": 40,
+              "end_timestamp": 41,
+              "content": "美联储要放水"
+            },
+            {
+              "start_timestamp": 41,
+              "end_timestamp": 42,
+              "content": "那么股票涨"
+            },
+            {
+              "start_timestamp": 42,
+              "end_timestamp": 45,
+              "content": "但是站在现在的这个锚定点上"
+            },
+            {
+              "start_timestamp": 45,
+              "end_timestamp": 47,
+              "content": "我们正处于一个加息周期上"
+            },
+            {
+              "start_timestamp": 47,
+              "end_timestamp": 51,
+              "content": "那么也就意味着他的坏消息就不再是好消息"
+            },
+            {
+              "start_timestamp": 51,
+              "end_timestamp": 53,
+              "content": "可能会更更更更利空"
+            },
+            {
+              "start_timestamp": 53,
+              "end_timestamp": 56,
+              "content": "所以这一次要注意看CPI数据啊"
+            },
+            {
+              "start_timestamp": 56,
+              "end_timestamp": 57,
+              "content": "如果数据强利空"
+            },
+            {
+              "start_timestamp": 57,
+              "end_timestamp": 59,
+              "content": "数据差就等于利好"
+            },
+            {
+              "start_timestamp": 59,
+              "end_timestamp": 65,
+              "content": "那么过去的时间点我们已经看到了不同的啊"
+            },
+            {
+              "start_timestamp": 72,
+              "end_timestamp": 75,
+              "content": "那么为什么要我们我们要盯CPI"
+            },
+            {
+              "start_timestamp": 75,
+              "end_timestamp": 78,
+              "content": "其实美联储锚定它不是CPI"
+            },
+            {
+              "start_timestamp": 78,
+              "end_timestamp": 79,
+              "content": "是PC"
+            },
+            {
+              "start_timestamp": 79,
+              "end_timestamp": 82,
+              "content": "但为什么市场要把CPI当成头号数据"
+            },
+            {
+              "start_timestamp": 82,
+              "end_timestamp": 86,
+              "content": "答案就在它过它的时间是时间差和输入关系"
+            },
+            {
+              "start_timestamp": 86,
+              "end_timestamp": 88,
+              "content": "首先第一个"
+            },
+            {
+              "start_timestamp": 89,
+              "end_timestamp": 92,
+              "content": "是美联储这边数据当中给出来"
+            },
+            {
+              "start_timestamp": 92,
+              "end_timestamp": 94,
+              "content": "比较有意思的地方是什么呢"
+            },
+            {
+              "start_timestamp": 94,
+              "end_timestamp": 96,
+              "content": "就是它的这个时间啊"
+            },
+            {
+              "start_timestamp": 96,
+              "end_timestamp": 98,
+              "content": "就有一个落地的差"
+            },
+            {
+              "start_timestamp": 98,
+              "end_timestamp": 102,
+              "content": "CPPCE会比CPI晚晚"
+            },
+            {
+              "start_timestamp": 102,
+              "end_timestamp": 104,
+              "content": "那么大概两啊两个周"
+            },
+            {
+              "start_timestamp": 104,
+              "end_timestamp": 106,
+              "content": "所以市场要看CPI数据"
+            },
+            {
+              "start_timestamp": 106,
+              "end_timestamp": 109,
+              "content": "那么第二个地方输入关系啊"
+            },
+            {
+              "start_timestamp": 109,
+              "end_timestamp": 110,
+              "content": "很简单"
+            },
+            {
+              "start_timestamp": 110,
+              "end_timestamp": 113,
+              "content": "PCE的一部分分项是直接以CPI为输入计算的"
+            },
+            {
+              "start_timestamp": 113,
+              "end_timestamp": 115,
+              "content": "CPI定了大方向基本就定了"
+            },
+            {
+              "start_timestamp": 115,
+              "end_timestamp": 118,
+              "content": "另外一个我们去梳理也好"
+            },
+            {
+              "start_timestamp": 118,
+              "end_timestamp": 121,
+              "content": "去看的时候都比较简单啊"
+            },
+            {
+              "start_timestamp": 121,
+              "end_timestamp": 123,
+              "content": "CPI是媒体和算法最熟悉的"
+            },
+            {
+              "start_timestamp": 123,
+              "end_timestamp": 126,
+              "content": "或者说市场最熟悉的这个通胀指标拍出来呢"
+            },
+            {
+              "start_timestamp": 126,
+              "end_timestamp": 130,
+              "content": "情绪和程序化这个交易就能够立刻反应"
+            },
+            {
+              "start_timestamp": 130,
+              "end_timestamp": 132,
+              "content": "那么美联储看什么"
+            },
+            {
+              "start_timestamp": 132,
+              "end_timestamp": 133,
+              "content": "看的是PCE"
+            },
+            {
+              "start_timestamp": 133,
+              "end_timestamp": 136,
+              "content": "但是要市场是看CPI"
+            },
+            {
+              "start_timestamp": 136,
+              "end_timestamp": 138,
+              "content": "所以当市场CPI公布"
+            },
+            {
+              "start_timestamp": 138,
+              "end_timestamp": 140,
+              "content": "我们的预期已经够了啊"
+            },
+            {
+              "start_timestamp": 140,
+              "end_timestamp": 141,
+              "content": "已经到已经到了"
+            },
+            {
+              "start_timestamp": 141,
+              "end_timestamp": 142,
+              "content": "交易的永远是预期"
+            },
+            {
+              "start_timestamp": 142,
+              "end_timestamp": 143,
+              "content": "而不是事实"
+            },
+            {
+              "start_timestamp": 143,
+              "end_timestamp": 145,
+              "content": "不是说你最终加不加不在这个"
+            },
+            {
+              "start_timestamp": 145,
+              "end_timestamp": 148,
+              "content": "那么另外一个部分呢是什么呢"
+            },
+            {
+              "start_timestamp": 148,
+              "end_timestamp": 150,
+              "content": "来看清楚在前面这里啊"
+            },
+            {
+              "start_timestamp": 150,
+              "end_timestamp": 152,
+              "content": "这是已经已经给到了"
+            },
+            {
+              "start_timestamp": 152,
+              "end_timestamp": 153,
+              "content": "所以记住了"
+            },
+            {
+              "start_timestamp": 153,
+              "end_timestamp": 158,
+              "content": "CPI越强紧缩越确定风险资产越越会承压好"
+            },
+            {
+              "start_timestamp": 158,
+              "end_timestamp": 163,
+              "content": "那么不要用数据差来理解为涨啊"
+            },
+            {
+              "start_timestamp": 163,
+              "end_timestamp": 164,
+              "content": "上涨就可以了"
+            },
+            {
+              "start_timestamp": 165,
+              "end_timestamp": 168,
+              "content": "另外一个呢要看总体还是看核心"
+            },
+            {
+              "start_timestamp": 168,
+              "end_timestamp": 171,
+              "content": "CPI是包含了全部商品和服务"
+            },
+            {
+              "start_timestamp": 171,
+              "end_timestamp": 173,
+              "content": "含食品和能源"
+            },
+            {
+              "start_timestamp": 173,
+              "end_timestamp": 175,
+              "content": "受油价粮价冲击大"
+            },
+            {
+              "start_timestamp": 175,
+              "end_timestamp": 175,
+              "content": "波动剧烈"
+            },
+            {
+              "start_timestamp": 175,
+              "end_timestamp": 179,
+              "content": "那么本次关注点是布油和WTI原油以及柴油"
+            },
+            {
+              "start_timestamp": 179,
+              "end_timestamp": 180,
+              "content": "这一次拉升"
+            },
+            {
+              "start_timestamp": 180,
+              "end_timestamp": 183,
+              "content": "那么核心CPI是要剔除食品和能源的"
+            },
+            {
+              "start_timestamp": 183,
+              "end_timestamp": 185,
+              "content": "反映的是通胀粘性"
+            },
+            {
+              "start_timestamp": 185,
+              "end_timestamp": 186,
+              "content": "美联储会更加看重"
+            },
+            {
+              "start_timestamp": 186,
+              "end_timestamp": 188,
+              "content": "如果核心也超预期涨价"
+            },
+            {
+              "start_timestamp": 188,
+              "end_timestamp": 190,
+              "content": "从能源扩散到整个服务和房租"
+            },
+            {
+              "start_timestamp": 190,
+              "end_timestamp": 191,
+              "content": "才是真正的麻烦"
+            },
+            {
+              "start_timestamp": 191,
+              "end_timestamp": 192,
+              "content": "社会很大"
+            },
+            {
+              "start_timestamp": 192,
+              "end_timestamp": 194,
+              "content": "总体高核心不高是指油价的锅"
+            },
+            {
+              "start_timestamp": 194,
+              "end_timestamp": 196,
+              "content": "美联储是可以忍的"
+            },
+            {
+              "start_timestamp": 196,
+              "end_timestamp": 198,
+              "content": "市场反对会相对温和一些"
+            },
+            {
+              "start_timestamp": 198,
+              "end_timestamp": 199,
+              "content": "如果总体高"
+            },
+            {
+              "start_timestamp": 199,
+              "end_timestamp": 199,
+              "content": "核心也高"
+            },
+            {
+              "start_timestamp": 199,
+              "end_timestamp": 201,
+              "content": "意味着通胀全面扩散"
+            },
+            {
+              "start_timestamp": 201,
+              "end_timestamp": 202,
+              "content": "有粘性"
+            },
+            {
+              "start_timestamp": 202,
+              "end_timestamp": 203,
+              "content": "加息就完全跑不掉"
+            },
+            {
+              "start_timestamp": 203,
+              "end_timestamp": 204,
+              "content": "这是真正利空场景"
+            },
+            {
+              "start_timestamp": 204,
+              "end_timestamp": 205,
+              "content": "说分成两条"
+            },
+            {
+              "start_timestamp": 205,
+              "end_timestamp": 208,
+              "content": "所以我们要去看核心CPI的环比"
+            },
+            {
+              "start_timestamp": 208,
+              "end_timestamp": 209,
+              "content": "这是今天晚上最关键的一个数"
+            },
+            {
+              "start_timestamp": 209,
+              "end_timestamp": 211,
+              "content": "除此之外呢"
+            },
+            {
+              "start_timestamp": 211,
+              "end_timestamp": 212,
+              "content": "我们要分成六层啊"
+            },
+            {
+              "start_timestamp": 212,
+              "end_timestamp": 216,
+              "content": "传导从一分数据到你的持仓中间隔着大概六步"
+            },
+            {
+              "start_timestamp": 216,
+              "end_timestamp": 216,
+              "content": "哪六步呢"
+            },
+            {
+              "start_timestamp": 216,
+              "end_timestamp": 217,
+              "content": "我们一个个去看"
+            },
+            {
+              "start_timestamp": 217,
+              "end_timestamp": 223,
+              "content": "首先第一层是CPI公布带来的重算加息概率"
+            },
+            {
+              "start_timestamp": 223,
+              "end_timestamp": 226,
+              "content": "PPI之后9月加息概率提升到70%"
+            },
+            {
+              "start_timestamp": 226,
+              "end_timestamp": 227,
+              "content": "已经完全定价"
+            },
+            {
+              "start_timestamp": 227,
+              "end_timestamp": 228,
+              "content": "最迟10月再加"
+            },
+            {
+              "start_timestamp": 228,
+              "end_timestamp": 229,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 229,
+              "end_timestamp": 231,
+              "content": "那么加息预期是美债收益率"
+            },
+            {
+              "start_timestamp": 231,
+              "end_timestamp": 235,
+              "content": "如果30年期继续往上顶顶高度"
+            },
+            {
+              "start_timestamp": 235,
+              "end_timestamp": 237,
+              "content": "它的风险点是越来越高的"
+            },
+            {
+              "start_timestamp": 237,
+              "end_timestamp": 240,
+              "content": "那么无风险利率和贴现率以及估值压缩"
+            },
+            {
+              "start_timestamp": 240,
+              "end_timestamp": 243,
+              "content": "这是散户比较容易出现的"
+            },
+            {
+              "start_timestamp": 243,
+              "end_timestamp": 246,
+              "content": "那么核心的点叫贴现率上升"
+            },
+            {
+              "start_timestamp": 246,
+              "end_timestamp": 248,
+              "content": "也就意味着科技会被承压"
+            },
+            {
+              "start_timestamp": 248,
+              "end_timestamp": 250,
+              "content": "会被杀得比较厉害"
+            },
+            {
+              "start_timestamp": 251,
+              "end_timestamp": 251,
+              "content": "第四层"
+            },
+            {
+              "start_timestamp": 251,
+              "end_timestamp": 252,
+              "content": "如果加息"
+            },
+            {
+              "start_timestamp": 252,
+              "end_timestamp": 253,
+              "content": "美元走强"
+            },
+            {
+              "start_timestamp": 253,
+              "end_timestamp": 255,
+              "content": "新兴市场资金外流"
+            },
+            {
+              "start_timestamp": 255,
+              "end_timestamp": 257,
+              "content": "美元持续往上顶"
+            },
+            {
+              "start_timestamp": 257,
+              "end_timestamp": 258,
+              "content": "顶高度顶完之后"
+            },
+            {
+              "start_timestamp": 258,
+              "end_timestamp": 261,
+              "content": "你的其他新兴市场"
+            },
+            {
+              "start_timestamp": 261,
+              "end_timestamp": 261,
+              "content": "比方说日本"
+            },
+            {
+              "start_timestamp": 261,
+              "end_timestamp": 262,
+              "content": "韩国"
+            },
+            {
+              "start_timestamp": 262,
+              "end_timestamp": 263,
+              "content": "中国对吧"
+            },
+            {
+              "start_timestamp": 263,
+              "end_timestamp": 264,
+              "content": "包括说越南等等"
+            },
+            {
+              "start_timestamp": 264,
+              "end_timestamp": 268,
+              "content": "包括说印度这些新兴市场都会受到影响"
+            },
+            {
+              "start_timestamp": 268,
+              "end_timestamp": 270,
+              "content": "因为什么钱去向了美国"
+            },
+            {
+              "start_timestamp": 270,
+              "end_timestamp": 271,
+              "content": "因为他加息"
+            },
+            {
+              "start_timestamp": 271,
+              "end_timestamp": 273,
+              "content": "美元值美元更值钱了"
+            },
+            {
+              "start_timestamp": 273,
+              "end_timestamp": 275,
+              "content": "那么实际性利润如果上升"
+            },
+            {
+              "start_timestamp": 275,
+              "end_timestamp": 277,
+              "content": "那么不生息资产会被抛弃"
+            },
+            {
+              "start_timestamp": 277,
+              "end_timestamp": 279,
+              "content": "哪些不生息资产"
+            },
+            {
+              "start_timestamp": 279,
+              "end_timestamp": 284,
+              "content": "也就是说我直接只能反映很简单"
+            },
+            {
+              "start_timestamp": 284,
+              "end_timestamp": 286,
+              "content": "叫做避险资产"
+            },
+            {
+              "start_timestamp": 286,
+              "end_timestamp": 287,
+              "content": "你理解为避险资产"
+            },
+            {
+              "start_timestamp": 287,
+              "end_timestamp": 288,
+              "content": "而不生息资产"
+            },
+            {
+              "start_timestamp": 288,
+              "end_timestamp": 289,
+              "content": "就理解为避险资产"
+            },
+            {
+              "start_timestamp": 289,
+              "end_timestamp": 292,
+              "content": "它的实质性价格就可以了"
+            },
+            {
+              "start_timestamp": 292,
+              "end_timestamp": 294,
+              "content": "避险资产会受到影响"
+            },
+            {
+              "start_timestamp": 297,
+              "end_timestamp": 299,
+              "content": "是现在已经给了"
+            },
+            {
+              "start_timestamp": 304,
+              "end_timestamp": 305,
+              "content": "现在还没看到动静啊"
+            },
+            {
+              "start_timestamp": 305,
+              "end_timestamp": 307,
+              "content": "现在还没有看到完全的动静"
+            },
+            {
+              "start_timestamp": 307,
+              "end_timestamp": 308,
+              "content": "所以注意一下"
+            },
+            {
+              "start_timestamp": 308,
+              "end_timestamp": 311,
+              "content": "那么从这份数据出来之后"
+            },
+            {
+              "start_timestamp": 311,
+              "end_timestamp": 313,
+              "content": "到你的账户里面是这一块"
+            },
+            {
+              "start_timestamp": 313,
+              "end_timestamp": 316,
+              "content": "是你比较需要在乎的"
+            },
+            {
+              "start_timestamp": 316,
+              "end_timestamp": 318,
+              "content": "这是你需要重点在意的好"
+            },
+            {
+              "start_timestamp": 318,
+              "end_timestamp": 319,
+              "content": "除开这部分以外"
+            },
+            {
+              "start_timestamp": 319,
+              "end_timestamp": 324,
+              "content": "那么我们要去讲之前讲过这个九期"
+            },
+            {
+              "start_timestamp": 324,
+              "end_timestamp": 325,
+              "content": "或者说跌的总是高估值"
+            },
+            {
+              "start_timestamp": 325,
+              "end_timestamp": 329,
+              "content": "为什么总是这些我们从第三层里面去走走出来"
+            },
+            {
+              "start_timestamp": 329,
+              "end_timestamp": 332,
+              "content": "那么加息周期的标准动作是卖掉远期股市"
+            },
+            {
+              "start_timestamp": 332,
+              "end_timestamp": 333,
+              "content": "买入当期现金"
+            },
+            {
+              "start_timestamp": 333,
+              "end_timestamp": 336,
+              "content": "所有资产的估值等于未来现金流折现"
+            },
+            {
+              "start_timestamp": 336,
+              "end_timestamp": 339,
+              "content": "而分母是一加R的N次方"
+            },
+            {
+              "start_timestamp": 339,
+              "end_timestamp": 345,
+              "content": "而是来一加R括号的N次方"
+            },
+            {
+              "start_timestamp": 345,
+              "end_timestamp": 347,
+              "content": "N是年数"
+            },
+            {
+              "start_timestamp": 347,
+              "end_timestamp": 349,
+              "content": "那么我们要想清楚"
+            },
+            {
+              "start_timestamp": 349,
+              "end_timestamp": 353,
+              "content": "九七就等多久能拿到他的钱"
+            },
+            {
+              "start_timestamp": 353,
+              "end_timestamp": 355,
+              "content": "也就是说举个例子"
+            },
+            {
+              "start_timestamp": 355,
+              "end_timestamp": 361,
+              "content": "高估值也假使说我们现在的这个PE138"
+            },
+            {
+              "start_timestamp": 361,
+              "end_timestamp": 362,
+              "content": "也就是告诉你"
+            },
+            {
+              "start_timestamp": 362,
+              "end_timestamp": 365,
+              "content": "138年以后能够完整拿回来钱"
+            },
+            {
+              "start_timestamp": 365,
+              "end_timestamp": 369,
+              "content": "那我会要不要去选择PED的阿良"
+            },
+            {
+              "start_timestamp": 369,
+              "end_timestamp": 371,
+              "content": "这个时间点三"
+            },
+            {
+              "start_timestamp": 371,
+              "end_timestamp": 374,
+              "content": "当期赚钱每年都分红的公司"
+            },
+            {
+              "start_timestamp": 374,
+              "end_timestamp": 378,
+              "content": "那么他的这个我们指的这个是贴现率"
+            },
+            {
+              "start_timestamp": 378,
+              "end_timestamp": 381,
+              "content": "或者说这这啊多久能回来钱对吧"
+            },
+            {
+              "start_timestamp": 381,
+              "end_timestamp": 382,
+              "content": "这会不一样"
+            },
+            {
+              "start_timestamp": 382,
+              "end_timestamp": 384,
+              "content": "10年以后才能大赚钱"
+            },
+            {
+              "start_timestamp": 384,
+              "end_timestamp": 386,
+              "content": "在赚大钱的AI公司"
+            },
+            {
+              "start_timestamp": 386,
+              "end_timestamp": 387,
+              "content": "它的久期会长"
+            },
+            {
+              "start_timestamp": 387,
+              "end_timestamp": 388,
+              "content": "所以它股价要打折"
+            },
+            {
+              "start_timestamp": 388,
+              "end_timestamp": 390,
+              "content": "那对应到A股算力CPU"
+            },
+            {
+              "start_timestamp": 390,
+              "end_timestamp": 393,
+              "content": "创新药及其远期定价成长类的啊"
+            },
+            {
+              "start_timestamp": 393,
+              "end_timestamp": 394,
+              "content": "这是成长股"
+            },
+            {
+              "start_timestamp": 394,
+              "end_timestamp": 397,
+              "content": "就理解为成长股会远高于银行"
+            },
+            {
+              "start_timestamp": 397,
+              "end_timestamp": 399,
+              "content": "煤炭航运这些有当期利润的方向"
+            },
+            {
+              "start_timestamp": 399,
+              "end_timestamp": 400,
+              "content": "比方说电力方向"
+            },
+            {
+              "start_timestamp": 400,
+              "end_timestamp": 403,
+              "content": "也是实实在在能够能够反映得出来"
+            },
+            {
+              "start_timestamp": 403,
+              "end_timestamp": 404,
+              "content": "这也是为什么到现在为止"
+            },
+            {
+              "start_timestamp": 404,
+              "end_timestamp": 406,
+              "content": "市场的反馈会明确出来"
+            },
+            {
+              "start_timestamp": 406,
+              "end_timestamp": 407,
+              "content": "另外一个是档期"
+            },
+            {
+              "start_timestamp": 407,
+              "end_timestamp": 410,
+              "content": "有档期赚钱的公司会不一样"
+            },
+            {
+              "start_timestamp": 410,
+              "end_timestamp": 412,
+              "content": "比方说像这个PCB这边是明打明的"
+            },
+            {
+              "start_timestamp": 412,
+              "end_timestamp": 414,
+              "content": "告诉你我就在赚钱对吧"
+            },
+            {
+              "start_timestamp": 414,
+              "end_timestamp": 417,
+              "content": "像小九阳这种那么小家电这种就出口的嘛"
+            },
+            {
+              "start_timestamp": 417,
+              "end_timestamp": 420,
+              "content": "然后中心这种就是它是AI智能体啊"
+            },
+            {
+              "start_timestamp": 420,
+              "end_timestamp": 423,
+              "content": "被今天正好就被带动到啊"
+            },
+            {
+              "start_timestamp": 423,
+              "end_timestamp": 424,
+              "content": "催化会不一样"
+            },
+            {
+              "start_timestamp": 424,
+              "end_timestamp": 429,
+              "content": "那么另外一个地方呢是简单来说公司还是公司"
+            },
+            {
+              "start_timestamp": 429,
+              "end_timestamp": 431,
+              "content": "还是那个公公司"
+            },
+            {
+              "start_timestamp": 431,
+              "end_timestamp": 432,
+              "content": "故事是那个故事"
+            },
+            {
+              "start_timestamp": 432,
+              "end_timestamp": 434,
+              "content": "只不过钱变贵了啊"
+            },
+            {
+              "start_timestamp": 434,
+              "end_timestamp": 435,
+              "content": "估值美元涨价了"
+            },
+            {
+              "start_timestamp": 435,
+              "end_timestamp": 438,
+              "content": "会对整个流动性进行影响呀"
+            },
+            {
+              "start_timestamp": 438,
+              "end_timestamp": 440,
+              "content": "那么分资产拆解统一分数据"
+            },
+            {
+              "start_timestamp": 440,
+              "end_timestamp": 441,
+              "content": "为什么会有的涨有的跌"
+            },
+            {
+              "start_timestamp": 442,
+              "end_timestamp": 444,
+              "content": "来这张图呢"
+            },
+            {
+              "start_timestamp": 444,
+              "end_timestamp": 446,
+              "content": "CPI出来之后"
+            },
+            {
+              "start_timestamp": 446,
+              "end_timestamp": 448,
+              "content": "各类资产会怎么反应"
+            },
+            {
+              "start_timestamp": 448,
+              "end_timestamp": 450,
+              "content": "第一个如果数据超预期啊"
+            },
+            {
+              "start_timestamp": 450,
+              "end_timestamp": 453,
+              "content": "美债收益率跳这边跳"
+            },
+            {
+              "start_timestamp": 453,
+              "end_timestamp": 455,
+              "content": "然后美元走强"
+            },
+            {
+              "start_timestamp": 455,
+              "end_timestamp": 456,
+              "content": "成长呢会杀啊"
+            },
+            {
+              "start_timestamp": 456,
+              "end_timestamp": 457,
+              "content": "成长向下"
+            },
+            {
+              "start_timestamp": 457,
+              "end_timestamp": 460,
+              "content": "然后黄金名义上升的快"
+            },
+            {
+              "start_timestamp": 460,
+              "end_timestamp": 462,
+              "content": "但实际上反反馈是要掉的"
+            },
+            {
+              "start_timestamp": 462,
+              "end_timestamp": 466,
+              "content": "然后原油这边呢继续强化加息蓄势"
+            },
+            {
+              "start_timestamp": 466,
+              "end_timestamp": 468,
+              "content": "由是因不是果啊"
+            },
+            {
+              "start_timestamp": 468,
+              "end_timestamp": 471,
+              "content": "然后哎贵金属这边双杀新兴市场"
+            },
+            {
+              "start_timestamp": 471,
+              "end_timestamp": 473,
+              "content": "高估值先跌继续承压"
+            },
+            {
+              "start_timestamp": 473,
+              "end_timestamp": 477,
+              "content": "那么另外一个数据低于预期收益率啊"
+            },
+            {
+              "start_timestamp": 477,
+              "end_timestamp": 480,
+              "content": "两年期美债回落"
+            },
+            {
+              "start_timestamp": 480,
+              "end_timestamp": 481,
+              "content": "然后这边也回落"
+            },
+            {
+              "start_timestamp": 481,
+              "end_timestamp": 483,
+              "content": "然后美元回落"
+            },
+            {
+              "start_timestamp": 484,
+              "end_timestamp": 487,
+              "content": "成长股纳指弹性拉升"
+            },
+            {
+              "start_timestamp": 487,
+              "end_timestamp": 489,
+              "content": "这今天晚上九点钟啊"
+            },
+            {
+              "start_timestamp": 489,
+              "end_timestamp": 490,
+              "content": "到时候会有盘前啊"
+            },
+            {
+              "start_timestamp": 490,
+              "end_timestamp": 491,
+              "content": "会有盘前内容"
+            },
+            {
+              "start_timestamp": 491,
+              "end_timestamp": 493,
+              "content": "那么黄金啊回落反弹"
+            },
+            {
+              "start_timestamp": 493,
+              "end_timestamp": 494,
+              "content": "先回落后反弹"
+            },
+            {
+              "start_timestamp": 494,
+              "end_timestamp": 496,
+              "content": "记住先回落后反弹"
+            },
+            {
+              "start_timestamp": 496,
+              "end_timestamp": 497,
+              "content": "缓解加息预期"
+            },
+            {
+              "start_timestamp": 497,
+              "end_timestamp": 502,
+              "content": "同时呢反这个有色贵金属这边啊"
+            },
+            {
+              "start_timestamp": 502,
+              "end_timestamp": 504,
+              "content": "基本上工业金属都都都反弹减压"
+            },
+            {
+              "start_timestamp": 504,
+              "end_timestamp": 505,
+              "content": "外资回流"
+            },
+            {
+              "start_timestamp": 505,
+              "end_timestamp": 507,
+              "content": "为什么美元不值钱了呀"
+            },
+            {
+              "start_timestamp": 507,
+              "end_timestamp": 507,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 507,
+              "end_timestamp": 510,
+              "content": "那就回到了新兴市场好"
+            },
+            {
+              "start_timestamp": 510,
+              "end_timestamp": 511,
+              "content": "那这个地方以外"
+            },
+            {
+              "start_timestamp": 511,
+              "end_timestamp": 515,
+              "content": "黄金这一条会特别特别特别的跟大家去聊"
+            },
+            {
+              "start_timestamp": 515,
+              "end_timestamp": 516,
+              "content": "为什么股金会一起跌"
+            },
+            {
+              "start_timestamp": 516,
+              "end_timestamp": 520,
+              "content": "正常来说你的利率的如果加息对吧"
+            },
+            {
+              "start_timestamp": 520,
+              "end_timestamp": 521,
+              "content": "你利率点上会不一样"
+            },
+            {
+              "start_timestamp": 521,
+              "end_timestamp": 523,
+              "content": "那么避险资产股票跌"
+            },
+            {
+              "start_timestamp": 523,
+              "end_timestamp": 524,
+              "content": "黄金就该涨"
+            },
+            {
+              "start_timestamp": 524,
+              "end_timestamp": 526,
+              "content": "这是错的"
+            },
+            {
+              "start_timestamp": 526,
+              "end_timestamp": 527,
+              "content": "第一黄金不升息"
+            },
+            {
+              "start_timestamp": 527,
+              "end_timestamp": 530,
+              "content": "持有它的机会成本是你放弃的无息无风险利率"
+            },
+            {
+              "start_timestamp": 530,
+              "end_timestamp": 532,
+              "content": "也就是说我的价格摆在这里"
+            },
+            {
+              "start_timestamp": 532,
+              "end_timestamp": 534,
+              "content": "我本身就避险品种"
+            },
+            {
+              "start_timestamp": 534,
+              "end_timestamp": 535,
+              "content": "我不升"
+            },
+            {
+              "start_timestamp": 535,
+              "end_timestamp": 537,
+              "content": "我不生产出任何的利息"
+            },
+            {
+              "start_timestamp": 537,
+              "end_timestamp": 539,
+              "content": "所以就民营利率减去通胀预期"
+            },
+            {
+              "start_timestamp": 539,
+              "end_timestamp": 541,
+              "content": "那么加息是名义利率上行"
+            },
+            {
+              "start_timestamp": 541,
+              "end_timestamp": 543,
+              "content": "通常预期没跟上"
+            },
+            {
+              "start_timestamp": 543,
+              "end_timestamp": 544,
+              "content": "实际利率上升"
+            },
+            {
+              "start_timestamp": 544,
+              "end_timestamp": 546,
+              "content": "那么黄金变贵"
+            },
+            {
+              "start_timestamp": 546,
+              "end_timestamp": 548,
+              "content": "黄金持有黄金的成本就变贵了"
+            },
+            {
+              "start_timestamp": 548,
+              "end_timestamp": 550,
+              "content": "所以导致出现了抛售"
+            },
+            {
+              "start_timestamp": 550,
+              "end_timestamp": 552,
+              "content": "那么8月份的时候"
+            },
+            {
+              "start_timestamp": 552,
+              "end_timestamp": 554,
+              "content": "黄金TF流入啊"
+            },
+            {
+              "start_timestamp": 554,
+              "end_timestamp": 556,
+              "content": "继续创历史第二"
+            },
+            {
+              "start_timestamp": 556,
+              "end_timestamp": 557,
+              "content": "这是买美债信用"
+            },
+            {
+              "start_timestamp": 557,
+              "end_timestamp": 560,
+              "content": "而9月10号晚上抛的是交易盘"
+            },
+            {
+              "start_timestamp": 560,
+              "end_timestamp": 560,
+              "content": "是快钱"
+            },
+            {
+              "start_timestamp": 567,
+              "end_timestamp": 568,
+              "content": "是比较高的"
+            },
+            {
+              "start_timestamp": 568,
+              "end_timestamp": 570,
+              "content": "所以慢前定的是年度方向"
+            },
+            {
+              "start_timestamp": 570,
+              "end_timestamp": 572,
+              "content": "快钱定价的是今天晚上数据"
+            },
+            {
+              "start_timestamp": 572,
+              "end_timestamp": 572,
+              "content": "两者不矛盾"
+            },
+            {
+              "start_timestamp": 572,
+              "end_timestamp": 573,
+              "content": "但节奏不同"
+            },
+            {
+              "start_timestamp": 573,
+              "end_timestamp": 576,
+              "content": "对于A股金属管而言"
+            },
+            {
+              "start_timestamp": 576,
+              "end_timestamp": 577,
+              "content": "中线的逻辑是没破的"
+            },
+            {
+              "start_timestamp": 577,
+              "end_timestamp": 581,
+              "content": "但实际短线要看实际利率的这个脸色"
+            },
+            {
+              "start_timestamp": 581,
+              "end_timestamp": 583,
+              "content": "这是两种不同的逻辑"
+            },
+            {
+              "start_timestamp": 583,
+              "end_timestamp": 584,
+              "content": "一个搞价投的"
+            },
+            {
+              "start_timestamp": 584,
+              "end_timestamp": 586,
+              "content": "一个搞他妈搞搞短线交易的"
+            },
+            {
+              "start_timestamp": 586,
+              "end_timestamp": 589,
+              "content": "你跟我聊这个原来这一条呢特别讲由是变量"
+            },
+            {
+              "start_timestamp": 589,
+              "end_timestamp": 591,
+              "content": "不是结果啊"
+            },
+            {
+              "start_timestamp": 591,
+              "end_timestamp": 596,
+              "content": "因为由导致我加息油是CPI的输入项"
+            },
+            {
+              "start_timestamp": 596,
+              "end_timestamp": 598,
+              "content": "那么暴涨原因是因为地缘啊"
+            },
+            {
+              "start_timestamp": 598,
+              "end_timestamp": 601,
+              "content": "同时厄尔尼诺啊啊不不会厄尔尼诺"
+            },
+            {
+              "start_timestamp": 601,
+              "end_timestamp": 602,
+              "content": "这另外的嘛对吧"
+            },
+            {
+              "start_timestamp": 602,
+              "end_timestamp": 606,
+              "content": "霍尔木兹海峡这边的地缘的冲突啊"
+            },
+            {
+              "start_timestamp": 606,
+              "end_timestamp": 606,
+              "content": "嗯漂亮"
+            },
+            {
+              "start_timestamp": 606,
+              "end_timestamp": 607,
+              "content": "自己干自己"
+            },
+            {
+              "start_timestamp": 607,
+              "end_timestamp": 609,
+              "content": "地缘推高油价"
+            },
+            {
+              "start_timestamp": 609,
+              "end_timestamp": 610,
+              "content": "油价推高CPI"
+            },
+            {
+              "start_timestamp": 610,
+              "end_timestamp": 612,
+              "content": "CPI倒逼美元加息"
+            },
+            {
+              "start_timestamp": 612,
+              "end_timestamp": 613,
+              "content": "加息压需求"
+            },
+            {
+              "start_timestamp": 613,
+              "end_timestamp": 614,
+              "content": "这是供给端"
+            },
+            {
+              "start_timestamp": 614,
+              "end_timestamp": 615,
+              "content": "你加息解决不了"
+            },
+            {
+              "start_timestamp": 615,
+              "end_timestamp": 617,
+              "content": "你单纯就纯加没有用的"
+            },
+            {
+              "start_timestamp": 617,
+              "end_timestamp": 619,
+              "content": "你是会解决掉这个安全问题"
+            },
+            {
+              "start_timestamp": 619,
+              "end_timestamp": 621,
+              "content": "那么为什么会更危险"
+            },
+            {
+              "start_timestamp": 621,
+              "end_timestamp": 623,
+              "content": "如果今天晚上CPI超预期"
+            },
+            {
+              "start_timestamp": 623,
+              "end_timestamp": 627,
+              "content": "那我们它的工具对应不上波动会被放大"
+            },
+            {
+              "start_timestamp": 627,
+              "end_timestamp": 631,
+              "content": "游服和油头化工是这一轮唯一受益的方向"
+            },
+            {
+              "start_timestamp": 631,
+              "end_timestamp": 635,
+              "content": "那么同时还有跟油相关的啊"
+            },
+            {
+              "start_timestamp": 635,
+              "end_timestamp": 638,
+              "content": "其实就是我们讲能源安全角度"
+            },
+            {
+              "start_timestamp": 639,
+              "end_timestamp": 642,
+              "content": "记住这个地方叫做能源安全"
+            },
+            {
+              "start_timestamp": 642,
+              "end_timestamp": 643,
+              "content": "你油贵了"
+            },
+            {
+              "start_timestamp": 643,
+              "end_timestamp": 645,
+              "content": "自然而然我就要选择替代性能源"
+            },
+            {
+              "start_timestamp": 645,
+              "end_timestamp": 645,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 645,
+              "end_timestamp": 648,
+              "content": "那么四个特殊性"
+            },
+            {
+              "start_timestamp": 648,
+              "end_timestamp": 651,
+              "content": "为什么这份CPI会比平时更值得你去盯"
+            },
+            {
+              "start_timestamp": 651,
+              "end_timestamp": 652,
+              "content": "盯的地方在哪"
+            },
+            {
+              "start_timestamp": 652,
+              "end_timestamp": 655,
+              "content": "第一周期是反了"
+            },
+            {
+              "start_timestamp": 655,
+              "end_timestamp": 658,
+              "content": "油价反倒加深了杠杆"
+            },
+            {
+              "start_timestamp": 658,
+              "end_timestamp": 661,
+              "content": "那么逻辑这一回的逻辑数据强等于利空"
+            },
+            {
+              "start_timestamp": 661,
+              "end_timestamp": 663,
+              "content": "数据弱等于利好"
+            },
+            {
+              "start_timestamp": 663,
+              "end_timestamp": 665,
+              "content": "9月加息是70%"
+            },
+            {
+              "start_timestamp": 665,
+              "end_timestamp": 668,
+              "content": "那么只要你数据不大幅低于预期"
+            },
+            {
+              "start_timestamp": 668,
+              "end_timestamp": 670,
+              "content": "加息这条线就不会松"
+            },
+            {
+              "start_timestamp": 670,
+              "end_timestamp": 672,
+              "content": "但是如果我低于预期呢"
+            },
+            {
+              "start_timestamp": 672,
+              "end_timestamp": 674,
+              "content": "这不又不一样了"
+            },
+            {
+              "start_timestamp": 674,
+              "end_timestamp": 676,
+              "content": "然后油价继续往上顶"
+            },
+            {
+              "start_timestamp": 676,
+              "end_timestamp": 679,
+              "content": "那么再给CPI加杠杆漂亮"
+            },
+            {
+              "start_timestamp": 679,
+              "end_timestamp": 680,
+              "content": "这边已经要炸了"
+            },
+            {
+              "start_timestamp": 680,
+              "end_timestamp": 683,
+              "content": "都那么判断口诀是总体高"
+            },
+            {
+              "start_timestamp": 683,
+              "end_timestamp": 684,
+              "content": "核心不高还能忍啊"
+            },
+            {
+              "start_timestamp": 684,
+              "end_timestamp": 687,
+              "content": "就跟前面这张图一样对吧"
+            },
+            {
+              "start_timestamp": 687,
+              "end_timestamp": 687,
+              "content": "你总体高"
+            },
+            {
+              "start_timestamp": 687,
+              "end_timestamp": 688,
+              "content": "我核心不高哦"
+            },
+            {
+              "start_timestamp": 688,
+              "end_timestamp": 690,
+              "content": "那我还有的赚"
+            },
+            {
+              "start_timestamp": 690,
+              "end_timestamp": 690,
+              "content": "哎"
+            },
+            {
+              "start_timestamp": 690,
+              "end_timestamp": 693,
+              "content": "在这啊"
+            },
+            {
+              "start_timestamp": 693,
+              "end_timestamp": 695,
+              "content": "来总体高核心不高"
+            },
+            {
+              "start_timestamp": 695,
+              "end_timestamp": 696,
+              "content": "还有的赚"
+            },
+            {
+              "start_timestamp": 696,
+              "end_timestamp": 698,
+              "content": "然后和总体高核心也高"
+            },
+            {
+              "start_timestamp": 698,
+              "end_timestamp": 700,
+              "content": "那他们就要出事"
+            },
+            {
+              "start_timestamp": 701,
+              "end_timestamp": 703,
+              "content": "记住就这么个逻辑"
+            },
+            {
+              "start_timestamp": 703,
+              "end_timestamp": 705,
+              "content": "还有不对称性性"
+            },
+            {
+              "start_timestamp": 705,
+              "end_timestamp": 708,
+              "content": "不对称性事件是没有标准答案的"
+            },
+            {
+              "start_timestamp": 708,
+              "end_timestamp": 710,
+              "content": "市场已经定价70%"
+            },
+            {
+              "start_timestamp": 710,
+              "end_timestamp": 711,
+              "content": "往下减到50%"
+            },
+            {
+              "start_timestamp": 711,
+              "end_timestamp": 714,
+              "content": "40%都是有这个预期的"
+            },
+            {
+              "start_timestamp": 714,
+              "end_timestamp": 715,
+              "content": "那么超预期是新一轮的双杀"
+            },
+            {
+              "start_timestamp": 715,
+              "end_timestamp": 716,
+              "content": "怕的不是坏消息"
+            },
+            {
+              "start_timestamp": 716,
+              "end_timestamp": 719,
+              "content": "而是比想象中更坏的消息"
+            },
+            {
+              "start_timestamp": 719,
+              "end_timestamp": 721,
+              "content": "他今天数据打成什么样子"
+            },
+            {
+              "start_timestamp": 721,
+              "end_timestamp": 725,
+              "content": "另外卧室并没有给到你任何的触发条件"
+            },
+            {
+              "start_timestamp": 725,
+              "end_timestamp": 726,
+              "content": "市场也在猜"
+            },
+            {
+              "start_timestamp": 726,
+              "end_timestamp": 727,
+              "content": "你也在猜"
+            },
+            {
+              "start_timestamp": 727,
+              "end_timestamp": 728,
+              "content": "他没有标准答案"
+            },
+            {
+              "start_timestamp": 728,
+              "end_timestamp": 731,
+              "content": "你所有现在的解读都会被过度的解读"
+            },
+            {
+              "start_timestamp": 732,
+              "end_timestamp": 735,
+              "content": "他现在这哥们就不说话"
+            },
+            {
+              "start_timestamp": 737,
+              "end_timestamp": 739,
+              "content": "川子不让他加"
+            },
+            {
+              "start_timestamp": 739,
+              "end_timestamp": 742,
+              "content": "他说我我得考虑考虑好了呀"
+            },
+            {
+              "start_timestamp": 742,
+              "end_timestamp": 744,
+              "content": "结果就不会不一样"
+            },
+            {
+              "start_timestamp": 744,
+              "end_timestamp": 746,
+              "content": "那么另外情景推演三种结果啊"
+            },
+            {
+              "start_timestamp": 746,
+              "end_timestamp": 747,
+              "content": "各自会怎么走"
+            },
+            {
+              "start_timestamp": 747,
+              "end_timestamp": 749,
+              "content": "大概我们讲讲的东西会比较快"
+            },
+            {
+              "start_timestamp": 749,
+              "end_timestamp": 752,
+              "content": "然后一会呢会在最后给你们讲一下竞价分析"
+            },
+            {
+              "start_timestamp": 752,
+              "end_timestamp": 755,
+              "content": "怎么看三种情景的推演概率"
+            },
+            {
+              "start_timestamp": 755,
+              "end_timestamp": 757,
+              "content": "不要拍脑袋看两年期美债怎么走啊"
+            },
+            {
+              "start_timestamp": 757,
+              "end_timestamp": 759,
+              "content": "今天晚上我肯定会盯的"
+            },
+            {
+              "start_timestamp": 759,
+              "end_timestamp": 762,
+              "content": "因为毕竟大漂亮那边还盯着呢"
+            },
+            {
+              "start_timestamp": 762,
+              "end_timestamp": 763,
+              "content": "一超预期"
+            },
+            {
+              "start_timestamp": 763,
+              "end_timestamp": 765,
+              "content": "总体和核心双双高于预期"
+            },
+            {
+              "start_timestamp": 765,
+              "end_timestamp": 766,
+              "content": "那么加息概率冲到80"
+            },
+            {
+              "start_timestamp": 766,
+              "end_timestamp": 768,
+              "content": "充到90"
+            },
+            {
+              "start_timestamp": 768,
+              "end_timestamp": 771,
+              "content": "资产摆破啊"
+            },
+            {
+              "start_timestamp": 771,
+              "end_timestamp": 772,
+              "content": "突破5.5"
+            },
+            {
+              "start_timestamp": 772,
+              "end_timestamp": 773,
+              "content": "美元冲100"
+            },
+            {
+              "start_timestamp": 773,
+              "end_timestamp": 775,
+              "content": "纳指再杀这个静音续跌"
+            },
+            {
+              "start_timestamp": 775,
+              "end_timestamp": 778,
+              "content": "那么明天利好的是能源和高股期啊"
+            },
+            {
+              "start_timestamp": 778,
+              "end_timestamp": 780,
+              "content": "中字头今天已经动过了"
+            },
+            {
+              "start_timestamp": 780,
+              "end_timestamp": 782,
+              "content": "今天有提前性的异动啊"
+            },
+            {
+              "start_timestamp": 782,
+              "end_timestamp": 783,
+              "content": "前两天也跟大家讲"
+            },
+            {
+              "start_timestamp": 783,
+              "end_timestamp": 785,
+              "content": "要要关注一下中字头"
+            },
+            {
+              "start_timestamp": 785,
+              "end_timestamp": 785,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 785,
+              "end_timestamp": 786,
+              "content": "你看下中字头"
+            },
+            {
+              "start_timestamp": 786,
+              "end_timestamp": 790,
+              "content": "这两天今天的这个先动的中兵系啊"
+            },
+            {
+              "start_timestamp": 790,
+              "end_timestamp": 791,
+              "content": "先动的是中兵系"
+            },
+            {
+              "start_timestamp": 791,
+              "end_timestamp": 792,
+              "content": "中兵系动完之后呢"
+            },
+            {
+              "start_timestamp": 792,
+              "end_timestamp": 794,
+              "content": "然后又动到了国企改革中字头"
+            },
+            {
+              "start_timestamp": 794,
+              "end_timestamp": 797,
+              "content": "我看下中字头概念股我放哪儿了"
+            },
+            {
+              "start_timestamp": 797,
+              "end_timestamp": 799,
+              "content": "嗯不太记得了"
+            },
+            {
+              "start_timestamp": 799,
+              "end_timestamp": 801,
+              "content": "最近脑子有点不大好使"
+            },
+            {
+              "start_timestamp": 801,
+              "end_timestamp": 801,
+              "content": "呃"
+            },
+            {
+              "start_timestamp": 801,
+              "end_timestamp": 803,
+              "content": "大概就是就就这些票"
+            },
+            {
+              "start_timestamp": 803,
+              "end_timestamp": 804,
+              "content": "国企改革也行啊"
+            },
+            {
+              "start_timestamp": 804,
+              "end_timestamp": 806,
+              "content": "拉个国企改革也可以"
+            },
+            {
+              "start_timestamp": 806,
+              "end_timestamp": 807,
+              "content": "那你基本上都是这样子"
+            },
+            {
+              "start_timestamp": 807,
+              "end_timestamp": 809,
+              "content": "都跟国企相关"
+            },
+            {
+              "start_timestamp": 809,
+              "end_timestamp": 812,
+              "content": "所以适当先注意一下最近市场的反馈"
+            },
+            {
+              "start_timestamp": 812,
+              "end_timestamp": 816,
+              "content": "那另外一个呢是这个如果符合预期啊"
+            },
+            {
+              "start_timestamp": 816,
+              "end_timestamp": 817,
+              "content": "维持666十七零啊"
+            },
+            {
+              "start_timestamp": 817,
+              "end_timestamp": 818,
+              "content": "这个无所谓"
+            },
+            {
+              "start_timestamp": 818,
+              "end_timestamp": 821,
+              "content": "其实落地呢修复有反弹"
+            },
+            {
+              "start_timestamp": 821,
+              "end_timestamp": 823,
+              "content": "但是幅度有限啊"
+            },
+            {
+              "start_timestamp": 823,
+              "end_timestamp": 827,
+              "content": "第二天的A股高开或小幅小幅高开或者平开啊"
+            },
+            {
+              "start_timestamp": 827,
+              "end_timestamp": 828,
+              "content": "结构性自身延续自己节奏"
+            },
+            {
+              "start_timestamp": 828,
+              "end_timestamp": 830,
+              "content": "就是我们自己炒题材"
+            },
+            {
+              "start_timestamp": 830,
+              "end_timestamp": 831,
+              "content": "继续玩T3就行"
+            },
+            {
+              "start_timestamp": 831,
+              "end_timestamp": 835,
+              "content": "而低预期呢成长和有色共振加仓窗口期"
+            },
+            {
+              "start_timestamp": 835,
+              "end_timestamp": 837,
+              "content": "这个地方会直接爆啊"
+            },
+            {
+              "start_timestamp": 837,
+              "end_timestamp": 839,
+              "content": "到时候晚上会直接来记住"
+            },
+            {
+              "start_timestamp": 839,
+              "end_timestamp": 840,
+              "content": "不要做二元啊"
+            },
+            {
+              "start_timestamp": 840,
+              "end_timestamp": 841,
+              "content": "不要做二元判断"
+            },
+            {
+              "start_timestamp": 841,
+              "end_timestamp": 843,
+              "content": "数据符合预期也会涨"
+            },
+            {
+              "start_timestamp": 843,
+              "end_timestamp": 846,
+              "content": "这叫卖预期买事实不确定性"
+            },
+            {
+              "start_timestamp": 846,
+              "end_timestamp": 847,
+              "content": "销售本身就是利行"
+            },
+            {
+              "start_timestamp": 847,
+              "end_timestamp": 849,
+              "content": "要看预期的边际变化"
+            },
+            {
+              "start_timestamp": 849,
+              "end_timestamp": 850,
+              "content": "我们先看利率啊"
+            },
+            {
+              "start_timestamp": 850,
+              "end_timestamp": 854,
+              "content": "一定要先看30分钟内美美债的这个方向"
+            },
+            {
+              "start_timestamp": 854,
+              "end_timestamp": 856,
+              "content": "美债往哪儿走"
+            },
+            {
+              "start_timestamp": 856,
+              "end_timestamp": 858,
+              "content": "我们就会背向就这样子"
+            },
+            {
+              "start_timestamp": 858,
+              "end_timestamp": 860,
+              "content": "不要看任何专家的这种解读"
+            },
+            {
+              "start_timestamp": 860,
+              "end_timestamp": 861,
+              "content": "没没什么屁大用"
+            },
+            {
+              "start_timestamp": 861,
+              "end_timestamp": 864,
+              "content": "对应A股的几条传导路径"
+            },
+            {
+              "start_timestamp": 864,
+              "end_timestamp": 866,
+              "content": "第一个从外汇汇率角度上"
+            },
+            {
+              "start_timestamp": 866,
+              "end_timestamp": 867,
+              "content": "美元走强"
+            },
+            {
+              "start_timestamp": 867,
+              "end_timestamp": 868,
+              "content": "人民币承压"
+            },
+            {
+              "start_timestamp": 868,
+              "end_timestamp": 868,
+              "content": "外资流出"
+            },
+            {
+              "start_timestamp": 868,
+              "end_timestamp": 870,
+              "content": "那么北向流出的时候"
+            },
+            {
+              "start_timestamp": 870,
+              "end_timestamp": 873,
+              "content": "外资重仓的核心资产和高估值会承压"
+            },
+            {
+              "start_timestamp": 873,
+              "end_timestamp": 877,
+              "content": "那么股估值贴现率无风险利率的中枢上移啊"
+            },
+            {
+              "start_timestamp": 877,
+              "end_timestamp": 879,
+              "content": "这些成长股都会挨揍"
+            },
+            {
+              "start_timestamp": 879,
+              "end_timestamp": 883,
+              "content": "大宗商品是金金铜跌有涨"
+            },
+            {
+              "start_timestamp": 883,
+              "end_timestamp": 884,
+              "content": "今天已经出现了啊"
+            },
+            {
+              "start_timestamp": 884,
+              "end_timestamp": 886,
+              "content": "已经有色呢回避油气和油"
+            },
+            {
+              "start_timestamp": 886,
+              "end_timestamp": 888,
+              "content": "油头化公司唯一的受益方向"
+            },
+            {
+              "start_timestamp": 888,
+              "end_timestamp": 890,
+              "content": "这也是市场到现在为止都给到的反馈"
+            },
+            {
+              "start_timestamp": 890,
+              "end_timestamp": 894,
+              "content": "我们来看一下这现在整个的这个反馈啊"
+            },
+            {
+              "start_timestamp": 894,
+              "end_timestamp": 895,
+              "content": "到现在为止"
+            },
+            {
+              "start_timestamp": 895,
+              "end_timestamp": 897,
+              "content": "现在是11:30左右对吧"
+            },
+            {
+              "start_timestamp": 897,
+              "end_timestamp": 899,
+              "content": "我们再看碳酸锂啊"
+            },
+            {
+              "start_timestamp": 899,
+              "end_timestamp": 899,
+              "content": "白银啊"
+            },
+            {
+              "start_timestamp": 899,
+              "end_timestamp": 901,
+              "content": "这些跟疯了一样的杀马"
+            },
+            {
+              "start_timestamp": 901,
+              "end_timestamp": 903,
+              "content": "中正1000也跟也跟疯了一样杀"
+            },
+            {
+              "start_timestamp": 903,
+              "end_timestamp": 906,
+              "content": "你看这已经提前做出了分化呀对吧"
+            },
+            {
+              "start_timestamp": 906,
+              "end_timestamp": 908,
+              "content": "但是这个时间点还没确定啊"
+            },
+            {
+              "start_timestamp": 908,
+              "end_timestamp": 909,
+              "content": "没落地啊"
+            },
+            {
+              "start_timestamp": 909,
+              "end_timestamp": 910,
+              "content": "他哪怕杀不杀无所谓了"
+            },
+            {
+              "start_timestamp": 910,
+              "end_timestamp": 913,
+              "content": "另外一个成交量继续缩量啊"
+            },
+            {
+              "start_timestamp": 913,
+              "end_timestamp": 914,
+              "content": "继续缩量"
+            },
+            {
+              "start_timestamp": 914,
+              "end_timestamp": 917,
+              "content": "那么情绪映射上会给到纳指和日韩开盘"
+            },
+            {
+              "start_timestamp": 917,
+              "end_timestamp": 918,
+              "content": "是竞价情绪"
+            },
+            {
+              "start_timestamp": 918,
+              "end_timestamp": 920,
+              "content": "今天早上直接低开"
+            },
+            {
+              "start_timestamp": 920,
+              "end_timestamp": 923,
+              "content": "那么我们我们低开也大概率明天也是一样的啊"
+            },
+            {
+              "start_timestamp": 923,
+              "end_timestamp": 926,
+              "content": "我们接下来还是要去盯盯着他们"
+            },
+            {
+              "start_timestamp": 926,
+              "end_timestamp": 929,
+              "content": "那么我们实操的角度上怎么去应对"
+            },
+            {
+              "start_timestamp": 929,
+              "end_timestamp": 930,
+              "content": "今天晚上08:30之后"
+            },
+            {
+              "start_timestamp": 930,
+              "end_timestamp": 931,
+              "content": "我们的顺序怎么看"
+            },
+            {
+              "start_timestamp": 931,
+              "end_timestamp": 936,
+              "content": "第一个看他的这个重点是核心CPI环比啊"
+            },
+            {
+              "start_timestamp": 936,
+              "end_timestamp": 938,
+              "content": "不是看不是看他CPI总"
+            },
+            {
+              "start_timestamp": 938,
+              "end_timestamp": 939,
+              "content": "总体要看环比啊"
+            },
+            {
+              "start_timestamp": 939,
+              "end_timestamp": 942,
+              "content": "要看环比的比值"
+            },
+            {
+              "start_timestamp": 942,
+              "end_timestamp": 944,
+              "content": "第二个是两点啊"
+            },
+            {
+              "start_timestamp": 944,
+              "end_timestamp": 947,
+              "content": "晚八晚上08:30到九点钟要看美债收益率"
+            },
+            {
+              "start_timestamp": 947,
+              "end_timestamp": 950,
+              "content": "这是直接的跳升偏空回落偏多"
+            },
+            {
+              "start_timestamp": 950,
+              "end_timestamp": 953,
+              "content": "美元指数啊冲100"
+            },
+            {
+              "start_timestamp": 953,
+              "end_timestamp": 954,
+              "content": "那流动性会收紧"
+            },
+            {
+              "start_timestamp": 954,
+              "end_timestamp": 956,
+              "content": "非美元资产的会承压"
+            },
+            {
+              "start_timestamp": 956,
+              "end_timestamp": 958,
+              "content": "那么美股开盘之后"
+            },
+            {
+              "start_timestamp": 958,
+              "end_timestamp": 960,
+              "content": "纳指和费城半导体决定了下一周"
+            },
+            {
+              "start_timestamp": 960,
+              "end_timestamp": 964,
+              "content": "周一A股科技股科技成长的开盘情绪"
+            },
+            {
+              "start_timestamp": 964,
+              "end_timestamp": 965,
+              "content": "晚上的夜盘呢"
+            },
+            {
+              "start_timestamp": 965,
+              "end_timestamp": 968,
+              "content": "沪金沪铜包括说国际同胞原油"
+            },
+            {
+              "start_timestamp": 968,
+              "end_timestamp": 969,
+              "content": "包括互赢这些"
+            },
+            {
+              "start_timestamp": 969,
+              "end_timestamp": 971,
+              "content": "那么决定是能源方向的开盘"
+            },
+            {
+              "start_timestamp": 971,
+              "end_timestamp": 973,
+              "content": "那么数据是给人看的"
+            },
+            {
+              "start_timestamp": 973,
+              "end_timestamp": 974,
+              "content": "利率呢是给钱看的"
+            },
+            {
+              "start_timestamp": 974,
+              "end_timestamp": 976,
+              "content": "钱往哪儿走"
+            },
+            {
+              "start_timestamp": 976,
+              "end_timestamp": 977,
+              "content": "我们就要看核心利率"
+            },
+            {
+              "start_timestamp": 977,
+              "end_timestamp": 979,
+              "content": "好仓位和纪律"
+            },
+            {
+              "start_timestamp": 979,
+              "end_timestamp": 983,
+              "content": "那么现在肯定是在控制仓位的过程当中啊"
+            },
+            {
+              "start_timestamp": 983,
+              "end_timestamp": 984,
+              "content": "前面也跟大家讲过了"
+            },
+            {
+              "start_timestamp": 984,
+              "end_timestamp": 987,
+              "content": "然后如果拿拿什么呢"
+            },
+            {
+              "start_timestamp": 987,
+              "end_timestamp": 989,
+              "content": "涨价逻辑上再就是资金的推动"
+            },
+            {
+              "start_timestamp": 989,
+              "end_timestamp": 991,
+              "content": "就今天有政策啊"
+            },
+            {
+              "start_timestamp": 991,
+              "end_timestamp": 992,
+              "content": "有催化会不一样"
+            },
+            {
+              "start_timestamp": 992,
+              "end_timestamp": 995,
+              "content": "然后下周一先看这个读数"
+            },
+            {
+              "start_timestamp": 995,
+              "end_timestamp": 998,
+              "content": "我会到时候周复盘论当中我会写的比较多啊"
+            },
+            {
+              "start_timestamp": 998,
+              "end_timestamp": 1000,
+              "content": "这边已经杀掉了"
+            },
+            {
+              "start_timestamp": 1000,
+              "end_timestamp": 1001,
+              "content": "扩地浪已经开始了"
+            },
+            {
+              "start_timestamp": 1001,
+              "end_timestamp": 1004,
+              "content": "扩地浪已经明确了库蒂浪这种防防线啊"
+            },
+            {
+              "start_timestamp": 1004,
+              "end_timestamp": 1005,
+              "content": "第二浪的调整吧"
+            },
+            {
+              "start_timestamp": 1005,
+              "end_timestamp": 1007,
+              "content": "这个就不用多说了"
+            },
+            {
+              "start_timestamp": 1007,
+              "end_timestamp": 1008,
+              "content": "那么宏观数据上啊"
+            },
+            {
+              "start_timestamp": 1008,
+              "end_timestamp": 1009,
+              "content": "三条认知"
+            },
+            {
+              "start_timestamp": 1009,
+              "end_timestamp": 1010,
+              "content": "宏观数据是管理仓位"
+            },
+            {
+              "start_timestamp": 1010,
+              "end_timestamp": 1012,
+              "content": "不是预测市场先控制"
+            },
+            {
+              "start_timestamp": 1012,
+              "end_timestamp": 1014,
+              "content": "然后区分快钱和慢钱成长被杀估值"
+            },
+            {
+              "start_timestamp": 1014,
+              "end_timestamp": 1016,
+              "content": "但不代表着说他结束了"
+            },
+            {
+              "start_timestamp": 1016,
+              "end_timestamp": 1017,
+              "content": "有东西还是有的"
+            },
+            {
+              "start_timestamp": 1017,
+              "end_timestamp": 1019,
+              "content": "越不确定越要守纪律"
+            },
+            {
+              "start_timestamp": 1019,
+              "end_timestamp": 1019,
+              "content": "你不追啊"
+            },
+            {
+              "start_timestamp": 1019,
+              "end_timestamp": 1020,
+              "content": "不追没有"
+            },
+            {
+              "start_timestamp": 1020,
+              "end_timestamp": 1022,
+              "content": "不要去接无资金回流的下跌"
+            },
+            {
+              "start_timestamp": 1022,
+              "end_timestamp": 1024,
+              "content": "不要去满仓赌数据"
+            },
+            {
+              "start_timestamp": 1024,
+              "end_timestamp": 1025,
+              "content": "记住了"
+            },
+            {
+              "start_timestamp": 1025,
+              "end_timestamp": 1026,
+              "content": "我们能控制的是仓位"
+            },
+            {
+              "start_timestamp": 1026,
+              "end_timestamp": 1027,
+              "content": "拉高回落涨"
+            },
+            {
+              "start_timestamp": 1027,
+              "end_timestamp": 1029,
+              "content": "你去低吸啊"
+            },
+            {
+              "start_timestamp": 1029,
+              "end_timestamp": 1030,
+              "content": "低开你要去摁在底下"
+            },
+            {
+              "start_timestamp": 1030,
+              "end_timestamp": 1032,
+              "content": "看到资金回流"
+            },
+            {
+              "start_timestamp": 1032,
+              "end_timestamp": 1035,
+              "content": "记住在它没有跌破生命线之前继续T"
+            },
+            {
+              "start_timestamp": 1035,
+              "end_timestamp": 1039,
+              "content": "记住有资金回流的才能去接你"
+            },
+            {
+              "start_timestamp": 1039,
+              "end_timestamp": 1040,
+              "content": "没有资金回流"
+            },
+            {
+              "start_timestamp": 1040,
+              "end_timestamp": 1041,
+              "content": "哪敢接"
+            },
+            {
+              "start_timestamp": 1041,
+              "end_timestamp": 1042,
+              "content": "拿命接"
+            },
+            {
+              "start_timestamp": 1042,
+              "end_timestamp": 1044,
+              "content": "你告诉我这个地方唉"
+            },
+            {
+              "start_timestamp": 1044,
+              "end_timestamp": 1046,
+              "content": "打到底下已经扛不住了"
+            },
+            {
+              "start_timestamp": 1046,
+              "end_timestamp": 1048,
+              "content": "是不是有有回接的机会是有的"
+            },
+            {
+              "start_timestamp": 1048,
+              "end_timestamp": 1049,
+              "content": "但是意义并不大"
+            },
+            {
+              "start_timestamp": 1049,
+              "end_timestamp": 1052,
+              "content": "那我宁可等到他确定性出来啊"
+            },
+            {
+              "start_timestamp": 1052,
+              "end_timestamp": 1054,
+              "content": "相对来说更安全一点好吧"
+            },
+            {
+              "start_timestamp": 1054,
+              "end_timestamp": 1056,
+              "content": "大概内容跟大家讲到这儿"
+            },
+            {
+              "start_timestamp": 1056,
+              "end_timestamp": 1058,
+              "content": "然后呢刚跟大家说了"
+            },
+            {
+              "start_timestamp": 1058,
+              "end_timestamp": 1061,
+              "content": "要给大家讲一下这个竞价竞价的内容对吧"
+            },
+            {
+              "start_timestamp": 1061,
+              "end_timestamp": 1062,
+              "content": "那正好给你们讲一遍"
+            },
+            {
+              "start_timestamp": 1062,
+              "end_timestamp": 1064,
+              "content": "竞价分析呢是这么看啊"
+            },
+            {
+              "start_timestamp": 1064,
+              "end_timestamp": 1066,
+              "content": "分成几块的内容"
+            },
+            {
+              "start_timestamp": 1066,
+              "end_timestamp": 1069,
+              "content": "首先第一个我们拉出来之后看涨幅空间啊"
+            },
+            {
+              "start_timestamp": 1069,
+              "end_timestamp": 1073,
+              "content": "先看涨幅这种涨幅去看他有看多啊"
+            },
+            {
+              "start_timestamp": 1073,
+              "end_timestamp": 1074,
+              "content": "看涨看多的这种情况"
+            },
+            {
+              "start_timestamp": 1074,
+              "end_timestamp": 1078,
+              "content": "同时呢要去结合当下的市场情绪"
+            },
+            {
+              "start_timestamp": 1078,
+              "end_timestamp": 1080,
+              "content": "而市场确实强对吧"
+            },
+            {
+              "start_timestamp": 1080,
+              "end_timestamp": 1082,
+              "content": "我们呢就要去看到这种反馈"
+            },
+            {
+              "start_timestamp": 1082,
+              "end_timestamp": 1085,
+              "content": "一般来说我是要看这个单笔放量"
+            },
+            {
+              "start_timestamp": 1085,
+              "end_timestamp": 1088,
+              "content": "10%以上的这种抢筹操"
+            },
+            {
+              "start_timestamp": 1089,
+              "end_timestamp": 1091,
+              "content": "内容点会完全不一样啊"
+            },
+            {
+              "start_timestamp": 1091,
+              "end_timestamp": 1093,
+              "content": "记住就市场确实给你了"
+            },
+            {
+              "start_timestamp": 1093,
+              "end_timestamp": 1094,
+              "content": "那你要看反馈"
+            },
+            {
+              "start_timestamp": 1094,
+              "end_timestamp": 1095,
+              "content": "同时要注意安全"
+            },
+            {
+              "start_timestamp": 1095,
+              "end_timestamp": 1097,
+              "content": "就是我肯定要注意适当性"
+            },
+            {
+              "start_timestamp": 1097,
+              "end_timestamp": 1098,
+              "content": "注意安全"
+            },
+            {
+              "start_timestamp": 1098,
+              "end_timestamp": 1099,
+              "content": "不能猛追"
+            },
+            {
+              "start_timestamp": 1099,
+              "end_timestamp": 1103,
+              "content": "注意这是这是当下的一种哎竞价的这种分析"
+            },
+            {
+              "start_timestamp": 1103,
+              "end_timestamp": 1105,
+              "content": "然后呢每天都会不一样啊"
+            },
+            {
+              "start_timestamp": 1105,
+              "end_timestamp": 1106,
+              "content": "每天它的竞价都会不一样"
+            },
+            {
+              "start_timestamp": 1106,
+              "end_timestamp": 1108,
+              "content": "我们只看强度上"
+            },
+            {
+              "start_timestamp": 1108,
+              "end_timestamp": 1110,
+              "content": "看哪边位置合适"
+            },
+            {
+              "start_timestamp": 1110,
+              "end_timestamp": 1111,
+              "content": "那么我们就去找这边"
+            },
+            {
+              "start_timestamp": 1111,
+              "end_timestamp": 1113,
+              "content": "我是直接给你们设"
+            },
+            {
+              "start_timestamp": 1113,
+              "end_timestamp": 1115,
+              "content": "单笔放10%以上的这个涨幅"
+            },
+            {
+              "start_timestamp": 1115,
+              "end_timestamp": 1118,
+              "content": "找这一类的呢相对来说会好一些"
+            },
+            {
+              "start_timestamp": 1118,
+              "end_timestamp": 1121,
+              "content": "然后呢竞价涨幅越越大越好"
+            },
+            {
+              "start_timestamp": 1121,
+              "end_timestamp": 1123,
+              "content": "金价涨幅越大越好"
+            },
+            {
+              "start_timestamp": 1123,
+              "end_timestamp": 1124,
+              "content": "好好接"
+            },
+            {
+              "start_timestamp": 1124,
+              "end_timestamp": 1126,
+              "content": "主要是它好接一点"
+            },
+            {
+              "start_timestamp": 1126,
+              "end_timestamp": 1129,
+              "content": "这是比较好做的"
+            },
+            {
+              "start_timestamp": 1129,
+              "end_timestamp": 1131,
+              "content": "那么另外一个地方是什么呢"
+            },
+            {
+              "start_timestamp": 1131,
+              "end_timestamp": 1133,
+              "content": "是我们平时用的这个竞价分析啊"
+            },
+            {
+              "start_timestamp": 1133,
+              "end_timestamp": 1135,
+              "content": "竞价选直接点开自动选股啊"
+            },
+            {
+              "start_timestamp": 1135,
+              "end_timestamp": 1137,
+              "content": "就这边是一个竞价选对吧"
+            },
+            {
+              "start_timestamp": 1137,
+              "end_timestamp": 1139,
+              "content": "一进李健选"
+            },
+            {
+              "start_timestamp": 1139,
+              "end_timestamp": 1142,
+              "content": "有的时候就你在行情好的时候稍微好做一点"
+            },
+            {
+              "start_timestamp": 1142,
+              "end_timestamp": 1143,
+              "content": "行情不好的时候注意安全"
+            },
+            {
+              "start_timestamp": 1143,
+              "end_timestamp": 1145,
+              "content": "行情不好的时候注意安全就可以了"
+            },
+            {
+              "start_timestamp": 1145,
+              "end_timestamp": 1146,
+              "content": "就直接竞价选就可以了"
+            },
+            {
+              "start_timestamp": 1146,
+              "end_timestamp": 1148,
+              "content": "去筛一筛好吧"
+            },
+            {
+              "start_timestamp": 1148,
+              "end_timestamp": 1149,
+              "content": "大概是到这"
+            },
+            {
+              "start_timestamp": 1149,
+              "end_timestamp": 1150,
+              "content": "各位辛苦了"
+            },
+            {
+              "start_timestamp": 1150,
+              "end_timestamp": 1152,
+              "content": "然后呢我周天晚上应该会直播啊"
+            },
+            {
+              "start_timestamp": 1152,
+              "end_timestamp": 1153,
+              "content": "周天晚上会直播"
+            },
+            {
+              "start_timestamp": 1153,
+              "end_timestamp": 1156,
+              "content": "然后周6日的时候大家呢视频该看看啊"
+            },
+            {
+              "start_timestamp": 1156,
+              "end_timestamp": 1157,
+              "content": "会给大家准备好视频"
+            },
+            {
+              "start_timestamp": 1157,
+              "end_timestamp": 1158,
+              "content": "干货"
+            },
+            {
+              "start_timestamp": 1158,
+              "end_timestamp": 1160,
+              "content": "视频都给大家发出来好吧"
+            },
+            {
+              "start_timestamp": 1160,
+              "end_timestamp": 1161,
+              "content": "各位辛苦了"
+            },
+            {
+              "start_timestamp": 1161,
+              "end_timestamp": 1161,
+              "content": "帮忙做做数据"
+            },
+            {
+              "start_timestamp": 1161,
+              "end_timestamp": 1163,
+              "content": "帮忙做一做数据啊"
+            },
+            {
+              "start_timestamp": 1163,
+              "end_timestamp": 1163,
+              "content": "点点赞啊"
+            },
+            {
+              "start_timestamp": 1163,
+              "end_timestamp": 1164,
+              "content": "投投币啊"
+            },
+            {
+              "start_timestamp": 1164,
+              "end_timestamp": 1166,
+              "content": "都要转发一下好吧"
+            },
+            {
+              "start_timestamp": 1166,
+              "end_timestamp": 1167,
+              "content": "各位辛苦了啊"
+            },
+            {
+              "start_timestamp": 1167,
+              "end_timestamp": 1168,
+              "content": "我们周天晚上再会"
+            },
+            {
+              "start_timestamp": 1168,
+              "end_timestamp": 1169,
+              "content": "周天晚上直播再会"
+            }
+          ],
+          "timestamp": 1
+        }
+      ]
+    },
+    "stid": "7105928485868785074",
+    "status": 0,
+    "like_num": 0,
+    "dislike_num": 0
+  }
+}

@@ -1,0 +1,1437 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "code": 0,
+    "model_result": {
+      "result_type": 2,
+      "summary": "如何分析指数对市场的影响，强调结合政策、外围市场、资金面及技术指标判断趋势，识别关键支撑压力位（如3174点），关注板块联动与量能组合，提出顺势操作策略，指导投资者根据指数波动调整仓位与时机，助力提升研判准确率，并提醒重视长期趋势与理性决策。",
+      "outline": [
+        {
+          "title": "掌握指数趋势把握市场全局",
+          "part_outline": [
+            {
+              "timestamp": 31,
+              "content": "指数是判断大盘趋势和个股运行规律的核心依据"
+            },
+            {
+              "timestamp": 107,
+              "content": "指数波动影响市场情绪，需关注关键点位避免盲目操作"
+            },
+            {
+              "timestamp": 215,
+              "content": "顺势而为需结合指数多空结构，动态调整仓位与策略"
+            }
+          ],
+          "timestamp": 1
+        },
+        {
+          "title": "关键点位分析与板块影响指数走势",
+          "part_outline": [
+            {
+              "timestamp": 345,
+              "content": "识别5分钟K线关键点位判定支撑压力位"
+            },
+            {
+              "timestamp": 412,
+              "content": "关键点位突破或跌破决定指数方向选择"
+            },
+            {
+              "timestamp": 666,
+              "content": "指数、情绪、题材仓位占比体系为核心策略"
+            }
+          ],
+          "timestamp": 345
+        }
+      ],
+      "subtitle": [
+        {
+          "title": "",
+          "part_subtitle": [
+            {
+              "start_timestamp": 1,
+              "end_timestamp": 1,
+              "content": "大家好"
+            },
+            {
+              "start_timestamp": 1,
+              "end_timestamp": 4,
+              "content": "今天我们讲一下如何看指数"
+            },
+            {
+              "start_timestamp": 4,
+              "end_timestamp": 6,
+              "content": "很多老铁呢觉得指数并不重要"
+            },
+            {
+              "start_timestamp": 6,
+              "end_timestamp": 8,
+              "content": "也不怎么去重视"
+            },
+            {
+              "start_timestamp": 8,
+              "end_timestamp": 10,
+              "content": "而容易忽视指数的情况"
+            },
+            {
+              "start_timestamp": 10,
+              "end_timestamp": 15,
+              "content": "其实指数是影响整个盘面很关键的因素"
+            },
+            {
+              "start_timestamp": 15,
+              "end_timestamp": 19,
+              "content": "那天地同利的指数体系呢是要考虑宏观的政策"
+            },
+            {
+              "start_timestamp": 19,
+              "end_timestamp": 22,
+              "content": "外围市场还有资金面的情况"
+            },
+            {
+              "start_timestamp": 22,
+              "end_timestamp": 25,
+              "content": "也要考虑其自身的趋势结构的情况"
+            },
+            {
+              "start_timestamp": 25,
+              "end_timestamp": 27,
+              "content": "还要考虑一些技术方面的东西"
+            },
+            {
+              "start_timestamp": 27,
+              "end_timestamp": 28,
+              "content": "比如说压力支撑位"
+            },
+            {
+              "start_timestamp": 28,
+              "end_timestamp": 31,
+              "content": "这个判断的掌握不能一蹴而就"
+            },
+            {
+              "start_timestamp": 31,
+              "end_timestamp": 32,
+              "content": "必须见得足够多"
+            },
+            {
+              "start_timestamp": 32,
+              "end_timestamp": 35,
+              "content": "才能把准确率提升上来"
+            },
+            {
+              "start_timestamp": 35,
+              "end_timestamp": 38,
+              "content": "第一个呢我们讲一下为什么要看指数"
+            },
+            {
+              "start_timestamp": 40,
+              "end_timestamp": 41,
+              "content": "第一点就是大局观"
+            },
+            {
+              "start_timestamp": 41,
+              "end_timestamp": 44,
+              "content": "首先指数或者越大型的票"
+            },
+            {
+              "start_timestamp": 44,
+              "end_timestamp": 48,
+              "content": "其本身的结构就蕴含着其运行规律和方向"
+            },
+            {
+              "start_timestamp": 48,
+              "end_timestamp": 49,
+              "content": "消息呢只是扰动"
+            },
+            {
+              "start_timestamp": 49,
+              "end_timestamp": 53,
+              "content": "除非是完全超预期量级的消息"
+            },
+            {
+              "start_timestamp": 53,
+              "end_timestamp": 55,
+              "content": "才会让其运行偏离轨道"
+            },
+            {
+              "start_timestamp": 55,
+              "end_timestamp": 58,
+              "content": "很多大局观好的顶级选手"
+            },
+            {
+              "start_timestamp": 58,
+              "end_timestamp": 61,
+              "content": "对指数的判断非常准确"
+            },
+            {
+              "start_timestamp": 61,
+              "end_timestamp": 65,
+              "content": "那看指数是大局观里面最核心的功夫之一"
+            },
+            {
+              "start_timestamp": 65,
+              "end_timestamp": 67,
+              "content": "也是登顶游资之路必备"
+            },
+            {
+              "start_timestamp": 67,
+              "end_timestamp": 68,
+              "content": "那什么时候上仓位"
+            },
+            {
+              "start_timestamp": 68,
+              "end_timestamp": 73,
+              "content": "对指数的判断是其中一项重要的因素"
+            },
+            {
+              "start_timestamp": 74,
+              "end_timestamp": 77,
+              "content": "第二个呢指数呢是最大的情绪"
+            },
+            {
+              "start_timestamp": 77,
+              "end_timestamp": 79,
+              "content": "我们的体系有四块拼图"
+            },
+            {
+              "start_timestamp": 79,
+              "end_timestamp": 81,
+              "content": "指数情绪题材个股啊"
+            },
+            {
+              "start_timestamp": 81,
+              "end_timestamp": 84,
+              "content": "那指数呢也是放在最前面的"
+            },
+            {
+              "start_timestamp": 84,
+              "end_timestamp": 86,
+              "content": "覆巢之下安有完卵"
+            },
+            {
+              "start_timestamp": 86,
+              "end_timestamp": 88,
+              "content": "所以指数是最大的情绪"
+            },
+            {
+              "start_timestamp": 88,
+              "end_timestamp": 89,
+              "content": "在指数风险下"
+            },
+            {
+              "start_timestamp": 89,
+              "end_timestamp": 92,
+              "content": "任何模式的有效性都会降低"
+            },
+            {
+              "start_timestamp": 92,
+              "end_timestamp": 93,
+              "content": "你出海打渔"
+            },
+            {
+              "start_timestamp": 93,
+              "end_timestamp": 95,
+              "content": "你是首先关心天气好不好"
+            },
+            {
+              "start_timestamp": 95,
+              "end_timestamp": 97,
+              "content": "还是说关心你的渔船好不好"
+            },
+            {
+              "start_timestamp": 97,
+              "end_timestamp": 98,
+              "content": "还是说渔网好不好"
+            },
+            {
+              "start_timestamp": 98,
+              "end_timestamp": 101,
+              "content": "或者鱼群在哪里都要刮风了"
+            },
+            {
+              "start_timestamp": 101,
+              "end_timestamp": 104,
+              "content": "你还会为了补了条蓝鳍金枪鱼兴奋吗"
+            },
+            {
+              "start_timestamp": 104,
+              "end_timestamp": 107,
+              "content": "抓一两个涨停板也没有意义"
+            },
+            {
+              "start_timestamp": 107,
+              "end_timestamp": 109,
+              "content": "要学会管住手"
+            },
+            {
+              "start_timestamp": 109,
+              "end_timestamp": 113,
+              "content": "那比如说10月17号指数下午跳水的时候"
+            },
+            {
+              "start_timestamp": 113,
+              "end_timestamp": 114,
+              "content": "前期的高标啊"
+            },
+            {
+              "start_timestamp": 114,
+              "end_timestamp": 116,
+              "content": "这种常山北冥海能达"
+            },
+            {
+              "start_timestamp": 116,
+              "end_timestamp": 119,
+              "content": "双城药业啊等相继炸板"
+            },
+            {
+              "start_timestamp": 119,
+              "end_timestamp": 121,
+              "content": "直接带入了整个市场情绪"
+            },
+            {
+              "start_timestamp": 121,
+              "end_timestamp": 124,
+              "content": "如果第二天不修复的话"
+            },
+            {
+              "start_timestamp": 124,
+              "end_timestamp": 127,
+              "content": "那这几个标的直接和指数"
+            },
+            {
+              "start_timestamp": 127,
+              "end_timestamp": 129,
+              "content": "很可能会继续向下寻底"
+            },
+            {
+              "start_timestamp": 129,
+              "end_timestamp": 132,
+              "content": "那再看10月18号这一天"
+            },
+            {
+              "start_timestamp": 132,
+              "end_timestamp": 134,
+              "content": "那预案里面明确提示"
+            },
+            {
+              "start_timestamp": 134,
+              "end_timestamp": 137,
+              "content": "重点看3174这一关键点位"
+            },
+            {
+              "start_timestamp": 137,
+              "end_timestamp": 141,
+              "content": "结果开盘开在3165啊"
+            },
+            {
+              "start_timestamp": 141,
+              "end_timestamp": 144,
+              "content": "3165开在3174之下"
+            },
+            {
+              "start_timestamp": 144,
+              "end_timestamp": 146,
+              "content": "本就是风险信号"
+            },
+            {
+              "start_timestamp": 146,
+              "end_timestamp": 149,
+              "content": "同样的我们发现很多个股也是直接低开"
+            },
+            {
+              "start_timestamp": 149,
+              "end_timestamp": 152,
+              "content": "开盘后资金在3174附近反复博弈"
+            },
+            {
+              "start_timestamp": 152,
+              "end_timestamp": 155,
+              "content": "其实大部分资金啊都在观望"
+            },
+            {
+              "start_timestamp": 155,
+              "end_timestamp": 156,
+              "content": "并没有主动性"
+            },
+            {
+              "start_timestamp": 156,
+              "end_timestamp": 159,
+              "content": "盘中指数跳水的时候呢"
+            },
+            {
+              "start_timestamp": 159,
+              "end_timestamp": 161,
+              "content": "实际上会有很大的风险"
+            },
+            {
+              "start_timestamp": 161,
+              "end_timestamp": 163,
+              "content": "那一旦继续向下跳水"
+            },
+            {
+              "start_timestamp": 163,
+              "end_timestamp": 165,
+              "content": "指市场将会向下探底"
+            },
+            {
+              "start_timestamp": 165,
+              "end_timestamp": 168,
+              "content": "这个期间出现了一则消息啊"
+            },
+            {
+              "start_timestamp": 171,
+              "end_timestamp": 173,
+              "content": "结果指数应声反弹"
+            },
+            {
+              "start_timestamp": 173,
+              "end_timestamp": 176,
+              "content": "在10.35重新站上并站稳"
+            },
+            {
+              "start_timestamp": 176,
+              "end_timestamp": 178,
+              "content": "3174之后"
+            },
+            {
+              "start_timestamp": 178,
+              "end_timestamp": 179,
+              "content": "市场开始转暖"
+            },
+            {
+              "start_timestamp": 179,
+              "end_timestamp": 181,
+              "content": "各路资金才开始真正的干活"
+            },
+            {
+              "start_timestamp": 181,
+              "end_timestamp": 185,
+              "content": "才有了下午半导体芯片方向大爆发"
+            },
+            {
+              "start_timestamp": 185,
+              "end_timestamp": 188,
+              "content": "如果说这一天指数没有走好"
+            },
+            {
+              "start_timestamp": 188,
+              "end_timestamp": 190,
+              "content": "甚至急转而下"
+            },
+            {
+              "start_timestamp": 190,
+              "end_timestamp": 192,
+              "content": "那大部分资金都会选择收手"
+            },
+            {
+              "start_timestamp": 192,
+              "end_timestamp": 194,
+              "content": "甚至涨停的一些个股啊"
+            },
+            {
+              "start_timestamp": 194,
+              "end_timestamp": 195,
+              "content": "都有可能去炸板回落"
+            },
+            {
+              "start_timestamp": 195,
+              "end_timestamp": 197,
+              "content": "资金就直接选择兑现了"
+            },
+            {
+              "start_timestamp": 197,
+              "end_timestamp": 200,
+              "content": "所以说这一天只有指数真正的站稳"
+            },
+            {
+              "start_timestamp": 200,
+              "end_timestamp": 202,
+              "content": "3174之上"
+            },
+            {
+              "start_timestamp": 202,
+              "end_timestamp": 205,
+              "content": "才是重拳出击的时候"
+            },
+            {
+              "start_timestamp": 206,
+              "end_timestamp": 209,
+              "content": "第三点我们经常讲顺势而为"
+            },
+            {
+              "start_timestamp": 209,
+              "end_timestamp": 213,
+              "content": "那可能呢很多人并没有真正理解这四个字啊"
+            },
+            {
+              "start_timestamp": 213,
+              "end_timestamp": 215,
+              "content": "什么是顺势而为"
+            },
+            {
+              "start_timestamp": 215,
+              "end_timestamp": 217,
+              "content": "上节课我们讲了盘式和盘行"
+            },
+            {
+              "start_timestamp": 217,
+              "end_timestamp": 222,
+              "content": "只有在多头市下的多头盘才是积极做票的阶段"
+            },
+            {
+              "start_timestamp": 222,
+              "end_timestamp": 224,
+              "content": "才可以积极的布局趋势票"
+            },
+            {
+              "start_timestamp": 224,
+              "end_timestamp": 228,
+              "content": "而在空头市下是要控制仓位操作的"
+            },
+            {
+              "start_timestamp": 228,
+              "end_timestamp": 230,
+              "content": "试问有多少人能够做到呢"
+            },
+            {
+              "start_timestamp": 230,
+              "end_timestamp": 232,
+              "content": "在空头势下依然满仓操作"
+            },
+            {
+              "start_timestamp": 232,
+              "end_timestamp": 233,
+              "content": "追涨杀跌"
+            },
+            {
+              "start_timestamp": 233,
+              "end_timestamp": 234,
+              "content": "你回撤能不大吗"
+            },
+            {
+              "start_timestamp": 234,
+              "end_timestamp": 236,
+              "content": "所以在空头市下"
+            },
+            {
+              "start_timestamp": 236,
+              "end_timestamp": 239,
+              "content": "我们就是通过仓位去控制风险"
+            },
+            {
+              "start_timestamp": 239,
+              "end_timestamp": 243,
+              "content": "你比如说5月到9月的这一波行情"
+            },
+            {
+              "start_timestamp": 243,
+              "end_timestamp": 244,
+              "content": "指数震荡下行的阶段"
+            },
+            {
+              "start_timestamp": 244,
+              "end_timestamp": 248,
+              "content": "我们当时说了2984非常重要"
+            },
+            {
+              "start_timestamp": 248,
+              "end_timestamp": 250,
+              "content": "是日线级别的多空平衡线"
+            },
+            {
+              "start_timestamp": 250,
+              "end_timestamp": 252,
+              "content": "一旦跌破会比较麻烦"
+            },
+            {
+              "start_timestamp": 252,
+              "end_timestamp": 253,
+              "content": "但是后面始终站不上去"
+            },
+            {
+              "start_timestamp": 253,
+              "end_timestamp": 255,
+              "content": "最终也跌破了"
+            },
+            {
+              "start_timestamp": 255,
+              "end_timestamp": 257,
+              "content": "走出了一段下跌趋势"
+            },
+            {
+              "start_timestamp": 257,
+              "end_timestamp": 259,
+              "content": "除了一些抱团的妖股"
+            },
+            {
+              "start_timestamp": 259,
+              "end_timestamp": 261,
+              "content": "大部分个股都在走下行趋势"
+            },
+            {
+              "start_timestamp": 261,
+              "end_timestamp": 265,
+              "content": "这个阶段我们是没有办法去做中长线布局的"
+            },
+            {
+              "start_timestamp": 265,
+              "end_timestamp": 267,
+              "content": "那那段时间大家也可以看看啊啊"
+            },
+            {
+              "start_timestamp": 267,
+              "end_timestamp": 270,
+              "content": "龙虎榜上有多少游资敢于几个亿"
+            },
+            {
+              "start_timestamp": 270,
+              "end_timestamp": 271,
+              "content": "几个亿去参与市场"
+            },
+            {
+              "start_timestamp": 271,
+              "end_timestamp": 273,
+              "content": "可是现在呢明显大手一挥"
+            },
+            {
+              "start_timestamp": 273,
+              "end_timestamp": 276,
+              "content": "都是大几个亿资金去参与市场"
+            },
+            {
+              "start_timestamp": 276,
+              "end_timestamp": 278,
+              "content": "这就是顺势而为"
+            },
+            {
+              "start_timestamp": 278,
+              "end_timestamp": 281,
+              "content": "那既然指数如此重要"
+            },
+            {
+              "start_timestamp": 281,
+              "end_timestamp": 283,
+              "content": "那具体的支撑和压力怎么找呢"
+            },
+            {
+              "start_timestamp": 283,
+              "end_timestamp": 286,
+              "content": "我们主要是从5分钟级别去看"
+            },
+            {
+              "start_timestamp": 286,
+              "end_timestamp": 289,
+              "content": "上一节呢我们讲了盘型啊"
+            },
+            {
+              "start_timestamp": 289,
+              "end_timestamp": 291,
+              "content": "如果说开在压力位之上啊"
+            },
+            {
+              "start_timestamp": 291,
+              "end_timestamp": 292,
+              "content": "那可能走攻击盘"
+            },
+            {
+              "start_timestamp": 292,
+              "end_timestamp": 294,
+              "content": "如果开在支撑位之下"
+            },
+            {
+              "start_timestamp": 294,
+              "end_timestamp": 296,
+              "content": "那可能会走沙盘"
+            },
+            {
+              "start_timestamp": 296,
+              "end_timestamp": 299,
+              "content": "而且每天预案都会给到关键的点位"
+            },
+            {
+              "start_timestamp": 299,
+              "end_timestamp": 303,
+              "content": "这些点位就是从5分钟级别的K线中找到的"
+            },
+            {
+              "start_timestamp": 303,
+              "end_timestamp": 305,
+              "content": "从而确定开盘后是走攻击盘"
+            },
+            {
+              "start_timestamp": 305,
+              "end_timestamp": 308,
+              "content": "还是走沙盘或者整理盘"
+            },
+            {
+              "start_timestamp": 308,
+              "end_timestamp": 311,
+              "content": "那如果会找5分钟K线的关键点位"
+            },
+            {
+              "start_timestamp": 311,
+              "end_timestamp": 313,
+              "content": "那个股的关键点位一样也会涨"
+            },
+            {
+              "start_timestamp": 313,
+              "end_timestamp": 316,
+              "content": "这一节呢我们主要说指数的支撑和压力"
+            },
+            {
+              "start_timestamp": 316,
+              "end_timestamp": 318,
+              "content": "如何去找"
+            },
+            {
+              "start_timestamp": 318,
+              "end_timestamp": 319,
+              "content": "第一个呢"
+            },
+            {
+              "start_timestamp": 319,
+              "end_timestamp": 321,
+              "content": "先看日线级别的一些关键点位"
+            },
+            {
+              "start_timestamp": 321,
+              "end_timestamp": 323,
+              "content": "比如说前高附近或者仅限的位置"
+            },
+            {
+              "start_timestamp": 323,
+              "end_timestamp": 327,
+              "content": "例如啊3174这个点的选取就是日线级别"
+            },
+            {
+              "start_timestamp": 327,
+              "end_timestamp": 329,
+              "content": "5月20号的最高点"
+            },
+            {
+              "start_timestamp": 329,
+              "end_timestamp": 331,
+              "content": "也是最关键的压力位"
+            },
+            {
+              "start_timestamp": 331,
+              "end_timestamp": 335,
+              "content": "股价呢从9月30号这一天突破啊"
+            },
+            {
+              "start_timestamp": 335,
+              "end_timestamp": 338,
+              "content": "以后就变成了强有力的支撑"
+            },
+            {
+              "start_timestamp": 338,
+              "end_timestamp": 340,
+              "content": "那是多空竞争非常激烈的地方"
+            },
+            {
+              "start_timestamp": 340,
+              "end_timestamp": 343,
+              "content": "一旦跌破就会非常麻烦啊"
+            },
+            {
+              "start_timestamp": 343,
+              "end_timestamp": 345,
+              "content": "那就要特别注意风险"
+            },
+            {
+              "start_timestamp": 345,
+              "end_timestamp": 348,
+              "content": "所以我们看到这一天资金的博弈啊"
+            },
+            {
+              "start_timestamp": 348,
+              "end_timestamp": 350,
+              "content": "也是非常的激烈"
+            },
+            {
+              "start_timestamp": 350,
+              "end_timestamp": 354,
+              "content": "那第二个呢我们就是通过5分钟级别的K线啊"
+            },
+            {
+              "start_timestamp": 354,
+              "end_timestamp": 357,
+              "content": "找前期的高点或者低点"
+            },
+            {
+              "start_timestamp": 357,
+              "end_timestamp": 358,
+              "content": "比如10月16号"
+            },
+            {
+              "start_timestamp": 358,
+              "end_timestamp": 362,
+              "content": "关键点位是3187和3203"
+            },
+            {
+              "start_timestamp": 362,
+              "end_timestamp": 368,
+              "content": "3187呢就是10月11号这一点的最低点啊"
+            },
+            {
+              "start_timestamp": 368,
+              "end_timestamp": 371,
+              "content": "就是10月11号的最低点非常关键"
+            },
+            {
+              "start_timestamp": 371,
+              "end_timestamp": 372,
+              "content": "那3203是哪里呢"
+            },
+            {
+              "start_timestamp": 372,
+              "end_timestamp": 377,
+              "content": "是10月14号回踩的低点的位置啊"
+            },
+            {
+              "start_timestamp": 377,
+              "end_timestamp": 380,
+              "content": "再比如我们10月17号找的关键点位"
+            },
+            {
+              "start_timestamp": 380,
+              "end_timestamp": 383,
+              "content": "是3187和3214"
+            },
+            {
+              "start_timestamp": 383,
+              "end_timestamp": 388,
+              "content": "那3214就是离收盘价最近的"
+            },
+            {
+              "start_timestamp": 388,
+              "end_timestamp": 392,
+              "content": "前期的5分钟级别K线的高点的位置"
+            },
+            {
+              "start_timestamp": 392,
+              "end_timestamp": 396,
+              "content": "那3187呢还是10月11号的最低点"
+            },
+            {
+              "start_timestamp": 396,
+              "end_timestamp": 398,
+              "content": "这个点位因为没有有效跌破"
+            },
+            {
+              "start_timestamp": 398,
+              "end_timestamp": 400,
+              "content": "所以继续会沿用"
+            },
+            {
+              "start_timestamp": 400,
+              "end_timestamp": 401,
+              "content": "那第三点呢"
+            },
+            {
+              "start_timestamp": 401,
+              "end_timestamp": 403,
+              "content": "如果说有些关键点位时间太长了"
+            },
+            {
+              "start_timestamp": 403,
+              "end_timestamp": 405,
+              "content": "但是一直有效"
+            },
+            {
+              "start_timestamp": 405,
+              "end_timestamp": 406,
+              "content": "那5分钟级别已经不好发现"
+            },
+            {
+              "start_timestamp": 406,
+              "end_timestamp": 408,
+              "content": "则可以利用15分钟"
+            },
+            {
+              "start_timestamp": 408,
+              "end_timestamp": 408,
+              "content": "三"
+            },
+            {
+              "start_timestamp": 408,
+              "end_timestamp": 412,
+              "content": "10分钟或者60分钟级别的K线综合分析去找"
+            },
+            {
+              "start_timestamp": 412,
+              "end_timestamp": 415,
+              "content": "当然呢盘中的压力和支撑呢"
+            },
+            {
+              "start_timestamp": 415,
+              "end_timestamp": 418,
+              "content": "也可以按照上述的方法去寻找"
+            },
+            {
+              "start_timestamp": 418,
+              "end_timestamp": 422,
+              "content": "比如啊前期的高点呀或者低点的位置"
+            },
+            {
+              "start_timestamp": 422,
+              "end_timestamp": 425,
+              "content": "都可以作为压力和支撑"
+            },
+            {
+              "start_timestamp": 425,
+              "end_timestamp": 429,
+              "content": "指数呢往往会在这些关键点位进行方向的选择"
+            },
+            {
+              "start_timestamp": 429,
+              "end_timestamp": 430,
+              "content": "如果说突破啊"
+            },
+            {
+              "start_timestamp": 430,
+              "end_timestamp": 432,
+              "content": "则继续延续上攻"
+            },
+            {
+              "start_timestamp": 432,
+              "end_timestamp": 435,
+              "content": "如果上攻不过啊"
+            },
+            {
+              "start_timestamp": 435,
+              "end_timestamp": 436,
+              "content": "则要注意风险"
+            },
+            {
+              "start_timestamp": 436,
+              "end_timestamp": 438,
+              "content": "那逢高减仓"
+            },
+            {
+              "start_timestamp": 438,
+              "end_timestamp": 438,
+              "content": "同理"
+            },
+            {
+              "start_timestamp": 438,
+              "end_timestamp": 440,
+              "content": "如果说回踩不破的情况下"
+            },
+            {
+              "start_timestamp": 440,
+              "end_timestamp": 443,
+              "content": "则考虑是否有买点出现"
+            },
+            {
+              "start_timestamp": 443,
+              "end_timestamp": 447,
+              "content": "找指数关键支撑和压力是一个非常难的"
+            },
+            {
+              "start_timestamp": 447,
+              "end_timestamp": 448,
+              "content": "技术户"
+            },
+            {
+              "start_timestamp": 448,
+              "end_timestamp": 450,
+              "content": "需要反复训练和练习才能找准"
+            },
+            {
+              "start_timestamp": 450,
+              "end_timestamp": 452,
+              "content": "前期可以先按照我们给到的点位"
+            },
+            {
+              "start_timestamp": 452,
+              "end_timestamp": 454,
+              "content": "做好相应的预案"
+            },
+            {
+              "start_timestamp": 454,
+              "end_timestamp": 456,
+              "content": "接下来呢我们讲一下"
+            },
+            {
+              "start_timestamp": 456,
+              "end_timestamp": 459,
+              "content": "哪些板块会影响指数的涨跌呢"
+            },
+            {
+              "start_timestamp": 459,
+              "end_timestamp": 460,
+              "content": "第一个就是美股"
+            },
+            {
+              "start_timestamp": 460,
+              "end_timestamp": 462,
+              "content": "外围市场还有A50"
+            },
+            {
+              "start_timestamp": 462,
+              "end_timestamp": 466,
+              "content": "它的走势一定程度上会影响A股的开盘价"
+            },
+            {
+              "start_timestamp": 466,
+              "end_timestamp": 468,
+              "content": "所以呢我们开盘前啊"
+            },
+            {
+              "start_timestamp": 468,
+              "end_timestamp": 469,
+              "content": "是可以看一下美股"
+            },
+            {
+              "start_timestamp": 469,
+              "end_timestamp": 473,
+              "content": "外围市场以及这些A50啊的走势"
+            },
+            {
+              "start_timestamp": 473,
+              "end_timestamp": 475,
+              "content": "第二个呢银行"
+            },
+            {
+              "start_timestamp": 475,
+              "end_timestamp": 478,
+              "content": "上证五零以及证券等权重板块"
+            },
+            {
+              "start_timestamp": 478,
+              "end_timestamp": 481,
+              "content": "会影响指数的盘中走势"
+            },
+            {
+              "start_timestamp": 481,
+              "end_timestamp": 483,
+              "content": "那比如说10月18号这一天"
+            },
+            {
+              "start_timestamp": 483,
+              "end_timestamp": 485,
+              "content": "银行出现了一波跳水"
+            },
+            {
+              "start_timestamp": 485,
+              "end_timestamp": 488,
+              "content": "本身指数呢在3174博弈非常激烈"
+            },
+            {
+              "start_timestamp": 488,
+              "end_timestamp": 492,
+              "content": "但是这一波跳水直接将指数带入跌破3174"
+            },
+            {
+              "start_timestamp": 492,
+              "end_timestamp": 494,
+              "content": "那这里市场就有一定的风险了"
+            },
+            {
+              "start_timestamp": 494,
+              "end_timestamp": 497,
+              "content": "但是随后啊证券开始拉升护盘"
+            },
+            {
+              "start_timestamp": 497,
+              "end_timestamp": 499,
+              "content": "银行呢也止跌了"
+            },
+            {
+              "start_timestamp": 499,
+              "end_timestamp": 502,
+              "content": "指数又重新站上3174之上"
+            },
+            {
+              "start_timestamp": 502,
+              "end_timestamp": 506,
+              "content": "并且在反复震荡中站稳了3174"
+            },
+            {
+              "start_timestamp": 506,
+              "end_timestamp": 508,
+              "content": "指数的风险才算解除"
+            },
+            {
+              "start_timestamp": 508,
+              "end_timestamp": 509,
+              "content": "那第三呢"
+            },
+            {
+              "start_timestamp": 509,
+              "end_timestamp": 512,
+              "content": "盘中A50港股的走势"
+            },
+            {
+              "start_timestamp": 512,
+              "end_timestamp": 515,
+              "content": "也会在一定程度上影响指数走势"
+            },
+            {
+              "start_timestamp": 515,
+              "end_timestamp": 515,
+              "content": "呃"
+            },
+            {
+              "start_timestamp": 515,
+              "end_timestamp": 519,
+              "content": "我们自定义板块界面里面也有相关的指数"
+            },
+            {
+              "start_timestamp": 519,
+              "end_timestamp": 522,
+              "content": "盘中呢也需要时不时的观察一下"
+            },
+            {
+              "start_timestamp": 522,
+              "end_timestamp": 524,
+              "content": "这两个板块的走向"
+            },
+            {
+              "start_timestamp": 524,
+              "end_timestamp": 527,
+              "content": "接下来我们讲一下指数和量能的组合"
+            },
+            {
+              "start_timestamp": 527,
+              "end_timestamp": 530,
+              "content": "在竞价结束以及开盘的前5分钟"
+            },
+            {
+              "start_timestamp": 530,
+              "end_timestamp": 533,
+              "content": "要把指数与量能的组合判断出来啊"
+            },
+            {
+              "start_timestamp": 533,
+              "end_timestamp": 536,
+              "content": "并对当天后续的走势有一个基本的概念"
+            },
+            {
+              "start_timestamp": 536,
+              "end_timestamp": 537,
+              "content": "可以辅助坐标判断"
+            },
+            {
+              "start_timestamp": 537,
+              "end_timestamp": 539,
+              "content": "这里分为四种情况"
+            },
+            {
+              "start_timestamp": 539,
+              "end_timestamp": 541,
+              "content": "第一个是高开带量"
+            },
+            {
+              "start_timestamp": 541,
+              "end_timestamp": 545,
+              "content": "如果指数高开带量容易走成攻击盘"
+            },
+            {
+              "start_timestamp": 545,
+              "end_timestamp": 547,
+              "content": "但如果说被压回来的话"
+            },
+            {
+              "start_timestamp": 547,
+              "end_timestamp": 549,
+              "content": "则走成压力盘"
+            },
+            {
+              "start_timestamp": 549,
+              "end_timestamp": 551,
+              "content": "我们要防止负反馈"
+            },
+            {
+              "start_timestamp": 551,
+              "end_timestamp": 552,
+              "content": "第二个呢"
+            },
+            {
+              "start_timestamp": 552,
+              "end_timestamp": 555,
+              "content": "指数开在关键点位"
+            },
+            {
+              "start_timestamp": 555,
+              "end_timestamp": 557,
+              "content": "如果说指数开在关键点位"
+            },
+            {
+              "start_timestamp": 557,
+              "end_timestamp": 558,
+              "content": "若带量开"
+            },
+            {
+              "start_timestamp": 558,
+              "end_timestamp": 561,
+              "content": "那可能是整理盘转攻击盘"
+            },
+            {
+              "start_timestamp": 561,
+              "end_timestamp": 563,
+              "content": "若缩量开"
+            },
+            {
+              "start_timestamp": 563,
+              "end_timestamp": 564,
+              "content": "则整理为主"
+            },
+            {
+              "start_timestamp": 564,
+              "end_timestamp": 567,
+              "content": "若盘中啊跌破关键的点位"
+            },
+            {
+              "start_timestamp": 567,
+              "end_timestamp": 570,
+              "content": "则可能转为沙盘"
+            },
+            {
+              "start_timestamp": 570,
+              "end_timestamp": 573,
+              "content": "那第三个呢就是低开带量"
+            },
+            {
+              "start_timestamp": 573,
+              "end_timestamp": 575,
+              "content": "如果指数低开带量"
+            },
+            {
+              "start_timestamp": 575,
+              "end_timestamp": 580,
+              "content": "则要看这个量是抄底的量还是说出货的量"
+            },
+            {
+              "start_timestamp": 580,
+              "end_timestamp": 584,
+              "content": "这就需要根据前几根5分钟K盘中"
+            },
+            {
+              "start_timestamp": 584,
+              "end_timestamp": 588,
+              "content": "指数相关权重的走势来判断是抄底还是出货"
+            },
+            {
+              "start_timestamp": 588,
+              "end_timestamp": 591,
+              "content": "第四个是低开缩量啊"
+            },
+            {
+              "start_timestamp": 591,
+              "end_timestamp": 593,
+              "content": "如果指数低开缩量的话"
+            },
+            {
+              "start_timestamp": 593,
+              "end_timestamp": 596,
+              "content": "要防缩量杀补量"
+            },
+            {
+              "start_timestamp": 596,
+              "end_timestamp": 598,
+              "content": "指数啊才能继续往上走"
+            },
+            {
+              "start_timestamp": 598,
+              "end_timestamp": 599,
+              "content": "我们经常说的一句话"
+            },
+            {
+              "start_timestamp": 599,
+              "end_timestamp": 603,
+              "content": "就是缩量拉银行必有负反馈"
+            },
+            {
+              "start_timestamp": 603,
+              "end_timestamp": 605,
+              "content": "大家呢也是一定要注意的"
+            },
+            {
+              "start_timestamp": 605,
+              "end_timestamp": 609,
+              "content": "那比如说这一天和前一天的五分K相比"
+            },
+            {
+              "start_timestamp": 609,
+              "end_timestamp": 611,
+              "content": "它就是缩量的"
+            },
+            {
+              "start_timestamp": 611,
+              "end_timestamp": 612,
+              "content": "而且是低开的"
+            },
+            {
+              "start_timestamp": 612,
+              "end_timestamp": 614,
+              "content": "后续也没有出现补量的情况"
+            },
+            {
+              "start_timestamp": 614,
+              "end_timestamp": 619,
+              "content": "略微反弹到收盘价附近就接着往下跌了"
+            },
+            {
+              "start_timestamp": 619,
+              "end_timestamp": 620,
+              "content": "当然了"
+            },
+            {
+              "start_timestamp": 620,
+              "end_timestamp": 621,
+              "content": "还有一些特殊情况啊"
+            },
+            {
+              "start_timestamp": 621,
+              "end_timestamp": 622,
+              "content": "是什么呢"
+            },
+            {
+              "start_timestamp": 622,
+              "end_timestamp": 624,
+              "content": "第一个就是盘面换了主流"
+            },
+            {
+              "start_timestamp": 624,
+              "end_timestamp": 627,
+              "content": "那换了主流的盘面走攻击的可能性就不大"
+            },
+            {
+              "start_timestamp": 627,
+              "end_timestamp": 628,
+              "content": "整理为主"
+            },
+            {
+              "start_timestamp": 628,
+              "end_timestamp": 631,
+              "content": "比如说10月16号当天"
+            },
+            {
+              "start_timestamp": 631,
+              "end_timestamp": 634,
+              "content": "最强的是西部大开发地产方向"
+            },
+            {
+              "start_timestamp": 634,
+              "end_timestamp": 637,
+              "content": "结果第二天呢西部大开发大幅分化"
+            },
+            {
+              "start_timestamp": 637,
+              "end_timestamp": 639,
+              "content": "地产方向跌幅居前"
+            },
+            {
+              "start_timestamp": 639,
+              "end_timestamp": 641,
+              "content": "科技开始走强"
+            },
+            {
+              "start_timestamp": 641,
+              "end_timestamp": 644,
+              "content": "那当天的指数呢就没有走强啊"
+            },
+            {
+              "start_timestamp": 644,
+              "end_timestamp": 646,
+              "content": "以弱势整理为主"
+            },
+            {
+              "start_timestamp": 646,
+              "end_timestamp": 649,
+              "content": "第二个呢指数情绪的背离"
+            },
+            {
+              "start_timestamp": 649,
+              "end_timestamp": 652,
+              "content": "如果指数好会带动情绪的修复"
+            },
+            {
+              "start_timestamp": 652,
+              "end_timestamp": 655,
+              "content": "那指数差大概率啊也会带崩情绪"
+            },
+            {
+              "start_timestamp": 655,
+              "end_timestamp": 658,
+              "content": "这种情况就会有未发生的风险"
+            },
+            {
+              "start_timestamp": 658,
+              "end_timestamp": 662,
+              "content": "同样的情绪差呢也会带入指数"
+            },
+            {
+              "start_timestamp": 662,
+              "end_timestamp": 666,
+              "content": "那情绪好呢也在一定程度上会带动指数的修复"
+            },
+            {
+              "start_timestamp": 666,
+              "end_timestamp": 669,
+              "content": "总之看指数是非常重要的"
+            },
+            {
+              "start_timestamp": 669,
+              "end_timestamp": 673,
+              "content": "在体系中指数情绪题材和个股"
+            },
+            {
+              "start_timestamp": 673,
+              "end_timestamp": 675,
+              "content": "指数呢是在四成仓"
+            },
+            {
+              "start_timestamp": 675,
+              "end_timestamp": 677,
+              "content": "情绪呢是占三成仓"
+            },
+            {
+              "start_timestamp": 677,
+              "end_timestamp": 679,
+              "content": "题材是占二成仓"
+            },
+            {
+              "start_timestamp": 679,
+              "end_timestamp": 680,
+              "content": "个股是占一成仓"
+            },
+            {
+              "start_timestamp": 680,
+              "end_timestamp": 682,
+              "content": "也是仓位占比啊"
+            },
+            {
+              "start_timestamp": 682,
+              "end_timestamp": 685,
+              "content": "最重的一定程度上决定了你账户的情况"
+            },
+            {
+              "start_timestamp": 685,
+              "end_timestamp": 687,
+              "content": "也希望老铁们引起重视"
+            },
+            {
+              "start_timestamp": 687,
+              "end_timestamp": 689,
+              "content": "好今天的课程就到这里"
+            },
+            {
+              "start_timestamp": 689,
+              "end_timestamp": 690,
+              "content": "谢谢大家"
+            }
+          ],
+          "timestamp": 1
+        }
+      ]
+    },
+    "stid": "2242424670598303168",
+    "status": 0,
+    "like_num": 0,
+    "dislike_num": 0
+  }
+}

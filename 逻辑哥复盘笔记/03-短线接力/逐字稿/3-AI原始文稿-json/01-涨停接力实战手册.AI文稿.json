@@ -1,0 +1,3250 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "code": 0,
+    "model_result": {
+      "result_type": 2,
+      "summary": "涨停接力战法的完整交易体系，涵盖首板选股、竞价确认、介入时机及次日卖出策略，强调板块生命周期判断、低吸低风险操作，结合技术指标与题材热点筛选标的，通过动态止盈止损规则实现高胜率短线交易，系统化把握接力机会。",
+      "outline": [
+        {
+          "title": "涨停接力系统化选股与操作策略",
+          "part_outline": [
+            {
+              "timestamp": 35,
+              "content": "系统解析涨停接力战法，涵盖选股、竞价确认与卖出策略"
+            },
+            {
+              "timestamp": 76,
+              "content": "强调板块生命周期阶段识别，捕捉龙头溢价最佳介入时机"
+            },
+            {
+              "timestamp": 130,
+              "content": "优先选择换手验证龙头，规避一字板追高风险，低吸控仓"
+            }
+          ],
+          "timestamp": 1
+        },
+        {
+          "title": "涨停接力筛选与技术验证策略",
+          "part_outline": [
+            {
+              "timestamp": 679,
+              "content": "封单金额占流通市值比需超1.5%确保资金强度"
+            },
+            {
+              "timestamp": 736,
+              "content": "封板时成交额占比全天低于1.3%验证抛压可控"
+            },
+            {
+              "timestamp": 960,
+              "content": "竞价高开幅度+抢筹量+量能对比三维筛选次日机会"
+            }
+          ],
+          "timestamp": 600
+        },
+        {
+          "title": "涨停接力策略与分时精准操作",
+          "part_outline": [
+            {
+              "timestamp": 1221,
+              "content": "高封板率下二板回封策略提升成功率"
+            },
+            {
+              "timestamp": 1299,
+              "content": "设置卖五档条件单规避炸板风险及时离场"
+            },
+            {
+              "timestamp": 1427,
+              "content": "竞价成交量筛选+形态分析强化接力确定性"
+            }
+          ],
+          "timestamp": 1200
+        }
+      ],
+      "subtitle": [
+        {
+          "title": "",
+          "part_subtitle": [
+            {
+              "start_timestamp": 0,
+              "end_timestamp": 0,
+              "content": "来各位"
+            },
+            {
+              "start_timestamp": 0,
+              "end_timestamp": 4,
+              "content": "欢迎大家来到今天逻辑哥的短线交易实战课程"
+            },
+            {
+              "start_timestamp": 5,
+              "end_timestamp": 7,
+              "content": "专业的内容由专业的人讲给你听"
+            },
+            {
+              "start_timestamp": 7,
+              "end_timestamp": 11,
+              "content": "今天我给大家拆解的是一套完整的涨停板"
+            },
+            {
+              "start_timestamp": 11,
+              "end_timestamp": 11,
+              "content": "接力战法"
+            },
+            {
+              "start_timestamp": 11,
+              "end_timestamp": 13,
+              "content": "从选股到竞价确认"
+            },
+            {
+              "start_timestamp": 13,
+              "end_timestamp": 15,
+              "content": "再到介入时机到次日卖出"
+            },
+            {
+              "start_timestamp": 15,
+              "end_timestamp": 19,
+              "content": "每个环节都会讲透这套方法"
+            },
+            {
+              "start_timestamp": 19,
+              "end_timestamp": 21,
+              "content": "它不是凭感觉去打板"
+            },
+            {
+              "start_timestamp": 21,
+              "end_timestamp": 25,
+              "content": "而是有明确的条件和流程的交易体系"
+            },
+            {
+              "start_timestamp": 25,
+              "end_timestamp": 32,
+              "content": "希望能够提高大家做接力的晋级成功率"
+            },
+            {
+              "start_timestamp": 32,
+              "end_timestamp": 35,
+              "content": "接力我们分成一进二和二进三"
+            },
+            {
+              "start_timestamp": 35,
+              "end_timestamp": 40,
+              "content": "主打这两个二进三以上的属于龙头龙头打法"
+            },
+            {
+              "start_timestamp": 40,
+              "end_timestamp": 41,
+              "content": "那是另外聊啊"
+            },
+            {
+              "start_timestamp": 41,
+              "end_timestamp": 44,
+              "content": "到时候会再单独再去细讲"
+            },
+            {
+              "start_timestamp": 44,
+              "end_timestamp": 49,
+              "content": "那么从整个的内容点上讲清楚"
+            },
+            {
+              "start_timestamp": 50,
+              "end_timestamp": 54,
+              "content": "记住涨停潮意味着板块高潮"
+            },
+            {
+              "start_timestamp": 54,
+              "end_timestamp": 57,
+              "content": "就像医药一样"
+            },
+            {
+              "start_timestamp": 57,
+              "end_timestamp": 59,
+              "content": "或者说类似于之前的这个"
+            },
+            {
+              "start_timestamp": 59,
+              "end_timestamp": 60,
+              "content": "我们说风华那一批对吧"
+            },
+            {
+              "start_timestamp": 60,
+              "end_timestamp": 63,
+              "content": "5月22号到5月26号那一批的"
+            },
+            {
+              "start_timestamp": 63,
+              "end_timestamp": 64,
+              "content": "当时怎么去切切出来"
+            },
+            {
+              "start_timestamp": 64,
+              "end_timestamp": 65,
+              "content": "做切出来"
+            },
+            {
+              "start_timestamp": 65,
+              "end_timestamp": 66,
+              "content": "像像宝鼎啊"
+            },
+            {
+              "start_timestamp": 66,
+              "end_timestamp": 67,
+              "content": "爱华这些"
+            },
+            {
+              "start_timestamp": 67,
+              "end_timestamp": 68,
+              "content": "用方法去筛"
+            },
+            {
+              "start_timestamp": 69,
+              "end_timestamp": 70,
+              "content": "告诉你怎么去做"
+            },
+            {
+              "start_timestamp": 70,
+              "end_timestamp": 72,
+              "content": "是涨停炒交易"
+            },
+            {
+              "start_timestamp": 72,
+              "end_timestamp": 75,
+              "content": "第一部分讲的是涨停潮交易逻辑"
+            },
+            {
+              "start_timestamp": 75,
+              "end_timestamp": 76,
+              "content": "核心核心原则"
+            },
+            {
+              "start_timestamp": 76,
+              "end_timestamp": 80,
+              "content": "帮你去理解为什么要去做龙头"
+            },
+            {
+              "start_timestamp": 80,
+              "end_timestamp": 83,
+              "content": "第二什么时间点去介入好"
+            },
+            {
+              "start_timestamp": 83,
+              "end_timestamp": 86,
+              "content": "那么第二部分是首板选股"
+            },
+            {
+              "start_timestamp": 86,
+              "end_timestamp": 88,
+              "content": "包括竞价确认啊"
+            },
+            {
+              "start_timestamp": 88,
+              "end_timestamp": 90,
+              "content": "包括前一天筛选条件和次日竞价确认两大步骤"
+            },
+            {
+              "start_timestamp": 90,
+              "end_timestamp": 92,
+              "content": "记住两个步骤"
+            },
+            {
+              "start_timestamp": 92,
+              "end_timestamp": 93,
+              "content": "一个是筛选"
+            },
+            {
+              "start_timestamp": 93,
+              "end_timestamp": 95,
+              "content": "一个是第二天竞价确认"
+            },
+            {
+              "start_timestamp": 95,
+              "end_timestamp": 99,
+              "content": "第三部分是讲的是接入模式和辞职卖出策略"
+            },
+            {
+              "start_timestamp": 99,
+              "end_timestamp": 102,
+              "content": "确保大家能完整的走出一个交易闭环"
+            },
+            {
+              "start_timestamp": 103,
+              "end_timestamp": 107,
+              "content": "那么涨停潮的交易逻辑和核心原则"
+            },
+            {
+              "start_timestamp": 108,
+              "end_timestamp": 110,
+              "content": "来帮助我们把握住什么"
+            },
+            {
+              "start_timestamp": 110,
+              "end_timestamp": 113,
+              "content": "去理解板块生命周期"
+            },
+            {
+              "start_timestamp": 113,
+              "end_timestamp": 117,
+              "content": "把握住龙头溢价的最佳介入介入窗口"
+            },
+            {
+              "start_timestamp": 117,
+              "end_timestamp": 121,
+              "content": "什么时间点进入龙头是最合适的啊"
+            },
+            {
+              "start_timestamp": 121,
+              "end_timestamp": 125,
+              "content": "或者说最舒服的来记住很多"
+            },
+            {
+              "start_timestamp": 125,
+              "end_timestamp": 126,
+              "content": "很多"
+            },
+            {
+              "start_timestamp": 126,
+              "end_timestamp": 130,
+              "content": "很多小白是往往在板块爆发之后"
+            },
+            {
+              "start_timestamp": 130,
+              "end_timestamp": 133,
+              "content": "才发现这个板块有了"
+            },
+            {
+              "start_timestamp": 133,
+              "end_timestamp": 134,
+              "content": "然后开始去追"
+            },
+            {
+              "start_timestamp": 134,
+              "end_timestamp": 137,
+              "content": "那有时候你追就板块后排跟不上对吧"
+            },
+            {
+              "start_timestamp": 137,
+              "end_timestamp": 139,
+              "content": "前排顶的死死的"
+            },
+            {
+              "start_timestamp": 139,
+              "end_timestamp": 141,
+              "content": "后排上不去了咳"
+            },
+            {
+              "start_timestamp": 141,
+              "end_timestamp": 143,
+              "content": "那怎么样去做"
+            },
+            {
+              "start_timestamp": 143,
+              "end_timestamp": 145,
+              "content": "最好的机会是确认"
+            },
+            {
+              "start_timestamp": 145,
+              "end_timestamp": 149,
+              "content": "就是等到第二天市场替你验证了这个逻辑"
+            },
+            {
+              "start_timestamp": 149,
+              "end_timestamp": 150,
+              "content": "谁是真正龙头之后"
+            },
+            {
+              "start_timestamp": 150,
+              "end_timestamp": 152,
+              "content": "你去做"
+            },
+            {
+              "start_timestamp": 152,
+              "end_timestamp": 153,
+              "content": "那我们去理解板块"
+            },
+            {
+              "start_timestamp": 153,
+              "end_timestamp": 157,
+              "content": "生命周期大概会分成几块内容"
+            },
+            {
+              "start_timestamp": 158,
+              "end_timestamp": 161,
+              "content": "一个板块的生命周期分为五个阶段"
+            },
+            {
+              "start_timestamp": 161,
+              "end_timestamp": 163,
+              "content": "启动爆发"
+            },
+            {
+              "start_timestamp": 163,
+              "end_timestamp": 166,
+              "content": "分歧分化再到退场"
+            },
+            {
+              "start_timestamp": 166,
+              "end_timestamp": 170,
+              "content": "理解它的阶段是你整个策略的前提"
+            },
+            {
+              "start_timestamp": 170,
+              "end_timestamp": 173,
+              "content": "第二部分要去记住关键认知"
+            },
+            {
+              "start_timestamp": 173,
+              "end_timestamp": 176,
+              "content": "如果在启动当天就已经出现涨停潮"
+            },
+            {
+              "start_timestamp": 176,
+              "end_timestamp": 179,
+              "content": "最好的机会不是分"
+            },
+            {
+              "start_timestamp": 179,
+              "end_timestamp": 180,
+              "content": "不是在分期当天"
+            },
+            {
+              "start_timestamp": 180,
+              "end_timestamp": 185,
+              "content": "而是记住是当市场走出自然涨停之后"
+            },
+            {
+              "start_timestamp": 185,
+              "end_timestamp": 187,
+              "content": "也就是说经过了市场验证"
+            },
+            {
+              "start_timestamp": 187,
+              "end_timestamp": 190,
+              "content": "证明这个东西确实有价值"
+            },
+            {
+              "start_timestamp": 190,
+              "end_timestamp": 194,
+              "content": "这也就是我们为什么要去关注涨停潮"
+            },
+            {
+              "start_timestamp": 194,
+              "end_timestamp": 197,
+              "content": "涨停板的强度自然自然龙头"
+            },
+            {
+              "start_timestamp": 197,
+              "end_timestamp": 201,
+              "content": "比方说像之前的这个风华那一批MLCC对吧"
+            },
+            {
+              "start_timestamp": 201,
+              "end_timestamp": 204,
+              "content": "他们走出来是风华014版带动"
+            },
+            {
+              "start_timestamp": 204,
+              "end_timestamp": 206,
+              "content": "然后呢带动之后呢"
+            },
+            {
+              "start_timestamp": 206,
+              "end_timestamp": 207,
+              "content": "像这个宝鼎啊"
+            },
+            {
+              "start_timestamp": 207,
+              "end_timestamp": 209,
+              "content": "爱华啊这些站出来"
+            },
+            {
+              "start_timestamp": 209,
+              "end_timestamp": 212,
+              "content": "那么现阶段当中出现了医药的爆发潮"
+            },
+            {
+              "start_timestamp": 212,
+              "end_timestamp": 213,
+              "content": "涨停潮"
+            },
+            {
+              "start_timestamp": 213,
+              "end_timestamp": 215,
+              "content": "那么启动和爆发在同一天完成"
+            },
+            {
+              "start_timestamp": 215,
+              "end_timestamp": 218,
+              "content": "那么它的分级分化会不会也会加快"
+            },
+            {
+              "start_timestamp": 218,
+              "end_timestamp": 221,
+              "content": "那这就要看市场来选龙头"
+            },
+            {
+              "start_timestamp": 221,
+              "end_timestamp": 224,
+              "content": "是涨停潮的次日核心价值"
+            },
+            {
+              "start_timestamp": 224,
+              "end_timestamp": 227,
+              "content": "换手验证的龙头比一字板更有说服力"
+            },
+            {
+              "start_timestamp": 227,
+              "end_timestamp": 229,
+              "content": "因为一次你进不去很简单"
+            },
+            {
+              "start_timestamp": 229,
+              "end_timestamp": 231,
+              "content": "一字你进不去"
+            },
+            {
+              "start_timestamp": 231,
+              "end_timestamp": 232,
+              "content": "那怎么办"
+            },
+            {
+              "start_timestamp": 232,
+              "end_timestamp": 233,
+              "content": "一次你进不去"
+            },
+            {
+              "start_timestamp": 233,
+              "end_timestamp": 235,
+              "content": "只能去把它当成二进三去切"
+            },
+            {
+              "start_timestamp": 235,
+              "end_timestamp": 239,
+              "content": "那如果是呢换手优于涨停"
+            },
+            {
+              "start_timestamp": 239,
+              "end_timestamp": 242,
+              "content": "记住换手板优于涨停"
+            },
+            {
+              "start_timestamp": 242,
+              "end_timestamp": 243,
+              "content": "那么交易的集中"
+            },
+            {
+              "start_timestamp": 243,
+              "end_timestamp": 245,
+              "content": "机油一般性会集中在换手龙头上"
+            },
+            {
+              "start_timestamp": 245,
+              "end_timestamp": 246,
+              "content": "依次板顶上去"
+            },
+            {
+              "start_timestamp": 246,
+              "end_timestamp": 247,
+              "content": "没有任何意义"
+            },
+            {
+              "start_timestamp": 247,
+              "end_timestamp": 250,
+              "content": "他不放任何人进来吃独食"
+            },
+            {
+              "start_timestamp": 250,
+              "end_timestamp": 251,
+              "content": "你有用吗"
+            },
+            {
+              "start_timestamp": 251,
+              "end_timestamp": 252,
+              "content": "能顶得上去吗"
+            },
+            {
+              "start_timestamp": 252,
+              "end_timestamp": 253,
+              "content": "怎么一字上去"
+            },
+            {
+              "start_timestamp": 253,
+              "end_timestamp": 256,
+              "content": "怎么T字下来来踢111"
+            },
+            {
+              "start_timestamp": 256,
+              "end_timestamp": 257,
+              "content": "你受得了吗"
+            },
+            {
+              "start_timestamp": 257,
+              "end_timestamp": 259,
+              "content": "你受不了这种换手的"
+            },
+            {
+              "start_timestamp": 259,
+              "end_timestamp": 262,
+              "content": "换手的顶上去才是比较舒服的"
+            },
+            {
+              "start_timestamp": 262,
+              "end_timestamp": 265,
+              "content": "另外低息永远优于追高"
+            },
+            {
+              "start_timestamp": 265,
+              "end_timestamp": 268,
+              "content": "龙头身份明确之后去做低吸"
+            },
+            {
+              "start_timestamp": 268,
+              "end_timestamp": 274,
+              "content": "控制风险的同时又获取龙头的溢价点"
+            },
+            {
+              "start_timestamp": 275,
+              "end_timestamp": 279,
+              "content": "第五个部分记住强调一句话叫做强分歧"
+            },
+            {
+              "start_timestamp": 279,
+              "end_timestamp": 280,
+              "content": "快进快出"
+            },
+            {
+              "start_timestamp": 280,
+              "end_timestamp": 282,
+              "content": "如果你进去之后"
+            },
+            {
+              "start_timestamp": 282,
+              "end_timestamp": 283,
+              "content": "第二天强分期"
+            },
+            {
+              "start_timestamp": 283,
+              "end_timestamp": 284,
+              "content": "说明持续性不足"
+            },
+            {
+              "start_timestamp": 284,
+              "end_timestamp": 288,
+              "content": "博弈利短线龙头溢价需要快速进出"
+            },
+            {
+              "start_timestamp": 288,
+              "end_timestamp": 292,
+              "content": "千万千万不要想着说诶"
+            },
+            {
+              "start_timestamp": 292,
+              "end_timestamp": 293,
+              "content": "我要搞那一项"
+            },
+            {
+              "start_timestamp": 293,
+              "end_timestamp": 295,
+              "content": "千万不要记住了"
+            },
+            {
+              "start_timestamp": 295,
+              "end_timestamp": 299,
+              "content": "龙头的晋级远不是你说我"
+            },
+            {
+              "start_timestamp": 299,
+              "end_timestamp": 302,
+              "content": "我任何时候打都没有问题"
+            },
+            {
+              "start_timestamp": 302,
+              "end_timestamp": 303,
+              "content": "兄弟记住了"
+            },
+            {
+              "start_timestamp": 303,
+              "end_timestamp": 307,
+              "content": "低吸永远优于追高"
+            },
+            {
+              "start_timestamp": 307,
+              "end_timestamp": 309,
+              "content": "尤其在行情不稳的情况下"
+            },
+            {
+              "start_timestamp": 309,
+              "end_timestamp": 310,
+              "content": "你追个屁啊"
+            },
+            {
+              "start_timestamp": 310,
+              "end_timestamp": 311,
+              "content": "你追他干嘛"
+            },
+            {
+              "start_timestamp": 311,
+              "end_timestamp": 312,
+              "content": "要么就打打板"
+            },
+            {
+              "start_timestamp": 312,
+              "end_timestamp": 313,
+              "content": "打一字啊"
+            },
+            {
+              "start_timestamp": 313,
+              "end_timestamp": 316,
+              "content": "排进去再说咳"
+            },
+            {
+              "start_timestamp": 316,
+              "end_timestamp": 318,
+              "content": "那么知道了"
+            },
+            {
+              "start_timestamp": 318,
+              "end_timestamp": 320,
+              "content": "刚刚我们说为什么第二天进入之后"
+            },
+            {
+              "start_timestamp": 320,
+              "end_timestamp": 322,
+              "content": "我们来看具体怎么去做"
+            },
+            {
+              "start_timestamp": 323,
+              "end_timestamp": 326,
+              "content": "左边这部分是龙头确认的三个关键点"
+            },
+            {
+              "start_timestamp": 326,
+              "end_timestamp": 328,
+              "content": "不要急于开盘"
+            },
+            {
+              "start_timestamp": 328,
+              "end_timestamp": 329,
+              "content": "直接去介入"
+            },
+            {
+              "start_timestamp": 329,
+              "end_timestamp": 332,
+              "content": "要等到市场自然选出龙头之后"
+            },
+            {
+              "start_timestamp": 332,
+              "end_timestamp": 334,
+              "content": "等待换手确认"
+            },
+            {
+              "start_timestamp": 334,
+              "end_timestamp": 337,
+              "content": "然后诶换手验证完成"
+            },
+            {
+              "start_timestamp": 337,
+              "end_timestamp": 339,
+              "content": "竞价分歧结果明朗"
+            },
+            {
+              "start_timestamp": 339,
+              "end_timestamp": 344,
+              "content": "然后我们再去在龙头找到机会的时候去进去"
+            },
+            {
+              "start_timestamp": 344,
+              "end_timestamp": 349,
+              "content": "假使说龙头一字板买不到"
+            },
+            {
+              "start_timestamp": 349,
+              "end_timestamp": 353,
+              "content": "那么就去选板块当中开的最好的跟风做低吸"
+            },
+            {
+              "start_timestamp": 353,
+              "end_timestamp": 356,
+              "content": "如果龙头给了你的换手"
+            },
+            {
+              "start_timestamp": 356,
+              "end_timestamp": 358,
+              "content": "直接就是龙头"
+            },
+            {
+              "start_timestamp": 358,
+              "end_timestamp": 361,
+              "content": "记住第一步不要直接介入"
+            },
+            {
+              "start_timestamp": 361,
+              "end_timestamp": 364,
+              "content": "要等龙头选出集合竞价开出来"
+            },
+            {
+              "start_timestamp": 364,
+              "end_timestamp": 366,
+              "content": "他直接就是一字"
+            },
+            {
+              "start_timestamp": 366,
+              "end_timestamp": 367,
+              "content": "并且封单特别强"
+            },
+            {
+              "start_timestamp": 367,
+              "end_timestamp": 370,
+              "content": "并且板块后排也出现了跟随"
+            },
+            {
+              "start_timestamp": 370,
+              "end_timestamp": 371,
+              "content": "而且都很高"
+            },
+            {
+              "start_timestamp": 371,
+              "end_timestamp": 374,
+              "content": "那这个地方确认板块持续性"
+            },
+            {
+              "start_timestamp": 374,
+              "end_timestamp": 375,
+              "content": "OK的好"
+            },
+            {
+              "start_timestamp": 375,
+              "end_timestamp": 379,
+              "content": "第二步再去观察龙头是否有充分的换手"
+            },
+            {
+              "start_timestamp": 379,
+              "end_timestamp": 384,
+              "content": "换手龙经历了抛压之后去验证检验"
+            },
+            {
+              "start_timestamp": 384,
+              "end_timestamp": 388,
+              "content": "比一字龙更具更具备我们说的持续性"
+            },
+            {
+              "start_timestamp": 388,
+              "end_timestamp": 389,
+              "content": "那么再去梳理梯队"
+            },
+            {
+              "start_timestamp": 389,
+              "end_timestamp": 393,
+              "content": "备选梯队要在前一天就已经做好"
+            },
+            {
+              "start_timestamp": 393,
+              "end_timestamp": 396,
+              "content": "它涨停潮那一天就要做好了"
+            },
+            {
+              "start_timestamp": 396,
+              "end_timestamp": 397,
+              "content": "从涨停时间"
+            },
+            {
+              "start_timestamp": 397,
+              "end_timestamp": 402,
+              "content": "先后和流通市值两个维度去优先级去筛选"
+            },
+            {
+              "start_timestamp": 403,
+              "end_timestamp": 405,
+              "content": "然后再在竞价分歧的时候去应对"
+            },
+            {
+              "start_timestamp": 405,
+              "end_timestamp": 407,
+              "content": "如果龙头一次封死"
+            },
+            {
+              "start_timestamp": 407,
+              "end_timestamp": 411,
+              "content": "那我们选最强的跟风低吸给换手机会"
+            },
+            {
+              "start_timestamp": 411,
+              "end_timestamp": 413,
+              "content": "就直接介入"
+            },
+            {
+              "start_timestamp": 413,
+              "end_timestamp": 415,
+              "content": "如果板块出现跌停或者大跌"
+            },
+            {
+              "start_timestamp": 415,
+              "end_timestamp": 419,
+              "content": "该放弃不做放弃不做"
+            },
+            {
+              "start_timestamp": 419,
+              "end_timestamp": 421,
+              "content": "不参与不碰"
+            },
+            {
+              "start_timestamp": 421,
+              "end_timestamp": 422,
+              "content": "理解吗"
+            },
+            {
+              "start_timestamp": 424,
+              "end_timestamp": 429,
+              "content": "然后那么我们首板选就到关键点了"
+            },
+            {
+              "start_timestamp": 429,
+              "end_timestamp": 433,
+              "content": "当我们整个这篇视频当中的关键内容"
+            },
+            {
+              "start_timestamp": 433,
+              "end_timestamp": 435,
+              "content": "什么什么内容呢"
+            },
+            {
+              "start_timestamp": 435,
+              "end_timestamp": 439,
+              "content": "就是我在首板选和增加确认的体系怎么去做"
+            },
+            {
+              "start_timestamp": 439,
+              "end_timestamp": 441,
+              "content": "记住我要提前的"
+            },
+            {
+              "start_timestamp": 441,
+              "end_timestamp": 447,
+              "content": "在前一天收盘之后就要筛选出来这些强势的"
+            },
+            {
+              "start_timestamp": 447,
+              "end_timestamp": 449,
+              "content": "然后作为我的备选"
+            },
+            {
+              "start_timestamp": 449,
+              "end_timestamp": 452,
+              "content": "我在第二天集合竞价验证"
+            },
+            {
+              "start_timestamp": 452,
+              "end_timestamp": 455,
+              "content": "构建出高胜率的使用漏斗"
+            },
+            {
+              "start_timestamp": 455,
+              "end_timestamp": 456,
+              "content": "就好比说我现在"
+            },
+            {
+              "start_timestamp": 456,
+              "end_timestamp": 460,
+              "content": "比方说我今天选出来四只对吧好"
+            },
+            {
+              "start_timestamp": 460,
+              "end_timestamp": 462,
+              "content": "然后竞价"
+            },
+            {
+              "start_timestamp": 463,
+              "end_timestamp": 466,
+              "content": "一看福盒子只有两只"
+            },
+            {
+              "start_timestamp": 467,
+              "end_timestamp": 469,
+              "content": "那么两只其中一个是一字板"
+            },
+            {
+              "start_timestamp": 469,
+              "end_timestamp": 475,
+              "content": "另外一个是正常来正常唉"
+            },
+            {
+              "start_timestamp": 475,
+              "end_timestamp": 477,
+              "content": "又比方说这个小幅高开两到三个点"
+            },
+            {
+              "start_timestamp": 477,
+              "end_timestamp": 479,
+              "content": "百二到百三"
+            },
+            {
+              "start_timestamp": 479,
+              "end_timestamp": 480,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 480,
+              "end_timestamp": 483,
+              "content": "或者说零轴附近来零轴附近"
+            },
+            {
+              "start_timestamp": 483,
+              "end_timestamp": 486,
+              "content": "那么一四板强度我上不去的情况下"
+            },
+            {
+              "start_timestamp": 486,
+              "end_timestamp": 487,
+              "content": "我去看他有没有换手"
+            },
+            {
+              "start_timestamp": 487,
+              "end_timestamp": 488,
+              "content": "换手够不够"
+            },
+            {
+              "start_timestamp": 488,
+              "end_timestamp": 490,
+              "content": "今天会不会开口子"
+            },
+            {
+              "start_timestamp": 490,
+              "end_timestamp": 491,
+              "content": "这是我要去考虑的"
+            },
+            {
+              "start_timestamp": 491,
+              "end_timestamp": 493,
+              "content": "第二个正常的情况下"
+            },
+            {
+              "start_timestamp": 493,
+              "end_timestamp": 497,
+              "content": "哎这另外一只开这个两到三个点对吧"
+            },
+            {
+              "start_timestamp": 497,
+              "end_timestamp": 499,
+              "content": "那说明他强度其实还好"
+            },
+            {
+              "start_timestamp": 499,
+              "end_timestamp": 501,
+              "content": "那我就要去看板块的位置"
+            },
+            {
+              "start_timestamp": 501,
+              "end_timestamp": 503,
+              "content": "板块的情绪够不够"
+            },
+            {
+              "start_timestamp": 503,
+              "end_timestamp": 506,
+              "content": "板块好不好行不行"
+            },
+            {
+              "start_timestamp": 509,
+              "end_timestamp": 512,
+              "content": "来跟着我的节奏往下去聊"
+            },
+            {
+              "start_timestamp": 512,
+              "end_timestamp": 513,
+              "content": "第一个地方"
+            },
+            {
+              "start_timestamp": 513,
+              "end_timestamp": 515,
+              "content": "前一天筛选的过程当中"
+            },
+            {
+              "start_timestamp": 515,
+              "end_timestamp": 516,
+              "content": "要记住"
+            },
+            {
+              "start_timestamp": 516,
+              "end_timestamp": 518,
+              "content": "从基本面和资金面"
+            },
+            {
+              "start_timestamp": 518,
+              "end_timestamp": 522,
+              "content": "这两个地方都必须强调清楚"
+            },
+            {
+              "start_timestamp": 522,
+              "end_timestamp": 523,
+              "content": "记住了"
+            },
+            {
+              "start_timestamp": 523,
+              "end_timestamp": 525,
+              "content": "这两个地方都必须强调清楚"
+            },
+            {
+              "start_timestamp": 527,
+              "end_timestamp": 528,
+              "content": "这句话跟大家讲清楚啊"
+            },
+            {
+              "start_timestamp": 528,
+              "end_timestamp": 529,
+              "content": "讲明白"
+            },
+            {
+              "start_timestamp": 531,
+              "end_timestamp": 535,
+              "content": "记住了记住了记住了啊"
+            },
+            {
+              "start_timestamp": 535,
+              "end_timestamp": 536,
+              "content": "记住了"
+            },
+            {
+              "start_timestamp": 537,
+              "end_timestamp": 542,
+              "content": "那么职业选股的核心逻辑是降低拉升阻力"
+            },
+            {
+              "start_timestamp": 542,
+              "end_timestamp": 546,
+              "content": "确认确认主力存在小盘低价"
+            },
+            {
+              "start_timestamp": 546,
+              "end_timestamp": 549,
+              "content": "降低了整个资金拉升了门槛"
+            },
+            {
+              "start_timestamp": 549,
+              "end_timestamp": 552,
+              "content": "热点题材提供了它的催化剂"
+            },
+            {
+              "start_timestamp": 552,
+              "end_timestamp": 556,
+              "content": "那么近期涨停记录则证明有资金在运作"
+            },
+            {
+              "start_timestamp": 556,
+              "end_timestamp": 557,
+              "content": "那么四大条件"
+            },
+            {
+              "start_timestamp": 558,
+              "end_timestamp": 560,
+              "content": "这个条件放出来之后"
+            },
+            {
+              "start_timestamp": 560,
+              "end_timestamp": 564,
+              "content": "我们可以大幅缩小自己的候选范围"
+            },
+            {
+              "start_timestamp": 564,
+              "end_timestamp": 569,
+              "content": "首先流通盘最好控制在50以100以下"
+            },
+            {
+              "start_timestamp": 569,
+              "end_timestamp": 571,
+              "content": "你做接力嘛"
+            },
+            {
+              "start_timestamp": 571,
+              "end_timestamp": 573,
+              "content": "希望他走的越好嘛"
+            },
+            {
+              "start_timestamp": 573,
+              "end_timestamp": 574,
+              "content": "盘子越小"
+            },
+            {
+              "start_timestamp": 574,
+              "end_timestamp": 577,
+              "content": "拉升所需要的资金就越少"
+            },
+            {
+              "start_timestamp": 577,
+              "end_timestamp": 579,
+              "content": "低价资金选择在3~15块这个区间"
+            },
+            {
+              "start_timestamp": 579,
+              "end_timestamp": 581,
+              "content": "低价意味着参与门槛低"
+            },
+            {
+              "start_timestamp": 581,
+              "end_timestamp": 584,
+              "content": "且横盘吸收时间的充分"
+            },
+            {
+              "start_timestamp": 584,
+              "end_timestamp": 586,
+              "content": "热点题材记住"
+            },
+            {
+              "start_timestamp": 586,
+              "end_timestamp": 589,
+              "content": "必须对应在当下市场的热点"
+            },
+            {
+              "start_timestamp": 589,
+              "end_timestamp": 590,
+              "content": "题材"
+            },
+            {
+              "start_timestamp": 590,
+              "end_timestamp": 595,
+              "content": "脱离市场热点之后涨停缺乏持续的资金接力"
+            },
+            {
+              "start_timestamp": 595,
+              "end_timestamp": 596,
+              "content": "比方说之前的华电"
+            },
+            {
+              "start_timestamp": 596,
+              "end_timestamp": 600,
+              "content": "他首板的时候流通市值才53个亿"
+            },
+            {
+              "start_timestamp": 600,
+              "end_timestamp": 603,
+              "content": "美诺当时也只有54个亿"
+            },
+            {
+              "start_timestamp": 603,
+              "end_timestamp": 604,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 604,
+              "end_timestamp": 606,
+              "content": "那么他的题材催化是什么"
+            },
+            {
+              "start_timestamp": 606,
+              "end_timestamp": 610,
+              "content": "当时比方说聊华电算电协同美诺"
+            },
+            {
+              "start_timestamp": 610,
+              "end_timestamp": 611,
+              "content": "聊创新药"
+            },
+            {
+              "start_timestamp": 611,
+              "end_timestamp": 613,
+              "content": "聊当时医药的业绩"
+            },
+            {
+              "start_timestamp": 613,
+              "end_timestamp": 615,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 615,
+              "end_timestamp": 617,
+              "content": "第四个是去选择"
+            },
+            {
+              "start_timestamp": 617,
+              "end_timestamp": 621,
+              "content": "近10~20个交易日内有过涨停记录"
+            },
+            {
+              "start_timestamp": 621,
+              "end_timestamp": 623,
+              "content": "技术面上表现为涨停"
+            },
+            {
+              "start_timestamp": 623,
+              "end_timestamp": 627,
+              "content": "双响炮或者N字结构的最优最佳"
+            },
+            {
+              "start_timestamp": 628,
+              "end_timestamp": 630,
+              "content": "最好好"
+            },
+            {
+              "start_timestamp": 630,
+              "end_timestamp": 633,
+              "content": "那么这部分我们讲完之后"
+            },
+            {
+              "start_timestamp": 633,
+              "end_timestamp": 634,
+              "content": "记住这个地方一定要截图"
+            },
+            {
+              "start_timestamp": 634,
+              "end_timestamp": 635,
+              "content": "自己去回溯自己"
+            },
+            {
+              "start_timestamp": 635,
+              "end_timestamp": 638,
+              "content": "一定要认真的回溯去学去看"
+            },
+            {
+              "start_timestamp": 639,
+              "end_timestamp": 642,
+              "content": "那么我们再往下前"
+            },
+            {
+              "start_timestamp": 642,
+              "end_timestamp": 645,
+              "content": "前一天晚上筛选的时候怎么样去做"
+            },
+            {
+              "start_timestamp": 645,
+              "end_timestamp": 647,
+              "content": "记住两个地方"
+            },
+            {
+              "start_timestamp": 647,
+              "end_timestamp": 650,
+              "content": "一个是通过强度指标"
+            },
+            {
+              "start_timestamp": 650,
+              "end_timestamp": 652,
+              "content": "第二个要排除条件"
+            },
+            {
+              "start_timestamp": 652,
+              "end_timestamp": 655,
+              "content": "我们从哪一块去看呢"
+            },
+            {
+              "start_timestamp": 656,
+              "end_timestamp": 659,
+              "content": "要去筛选的基础是封单强度"
+            },
+            {
+              "start_timestamp": 659,
+              "end_timestamp": 662,
+              "content": "游资结构以及股性辨识度三个维度"
+            },
+            {
+              "start_timestamp": 662,
+              "end_timestamp": 664,
+              "content": "进一步验证手板的质量"
+            },
+            {
+              "start_timestamp": 664,
+              "end_timestamp": 668,
+              "content": "强势封板加上干净筹码的结构"
+            },
+            {
+              "start_timestamp": 668,
+              "end_timestamp": 669,
+              "content": "以及高辨识度的组合"
+            },
+            {
+              "start_timestamp": 669,
+              "end_timestamp": 673,
+              "content": "才是第二天晋级率最概率比较高"
+            },
+            {
+              "start_timestamp": 673,
+              "end_timestamp": 676,
+              "content": "或者说最高的一种标的"
+            },
+            {
+              "start_timestamp": 676,
+              "end_timestamp": 678,
+              "content": "封单强度"
+            },
+            {
+              "start_timestamp": 679,
+              "end_timestamp": 684,
+              "content": "封单金额和流通市值的比耶来封"
+            },
+            {
+              "start_timestamp": 685,
+              "end_timestamp": 688,
+              "content": "记住封单金额和流通市值的比"
+            },
+            {
+              "start_timestamp": 688,
+              "end_timestamp": 690,
+              "content": "必须大于0.015"
+            },
+            {
+              "start_timestamp": 690,
+              "end_timestamp": 698,
+              "content": "也就是也就是封单金额跟流通市值的比来"
+            },
+            {
+              "start_timestamp": 698,
+              "end_timestamp": 700,
+              "content": "要大于1.5%"
+            },
+            {
+              "start_timestamp": 702,
+              "end_timestamp": 703,
+              "content": "1.5%"
+            },
+            {
+              "start_timestamp": 703,
+              "end_timestamp": 707,
+              "content": "这后面呢封单和成交金额"
+            },
+            {
+              "start_timestamp": 707,
+              "end_timestamp": 710,
+              "content": "它的比值最好在一以上"
+            },
+            {
+              "start_timestamp": 710,
+              "end_timestamp": 713,
+              "content": "记住最好在E以上"
+            },
+            {
+              "start_timestamp": 713,
+              "end_timestamp": 715,
+              "content": "现在基本上都在一往上啊"
+            },
+            {
+              "start_timestamp": 715,
+              "end_timestamp": 717,
+              "content": "0.5以上也行"
+            },
+            {
+              "start_timestamp": 717,
+              "end_timestamp": 717,
+              "content": "你去看一下"
+            },
+            {
+              "start_timestamp": 717,
+              "end_timestamp": 720,
+              "content": "去回溯一下最近是不是这种方式好不好"
+            },
+            {
+              "start_timestamp": 720,
+              "end_timestamp": 722,
+              "content": "有没有用"
+            },
+            {
+              "start_timestamp": 722,
+              "end_timestamp": 727,
+              "content": "那么反映出资金封板的意愿比较强烈"
+            },
+            {
+              "start_timestamp": 727,
+              "end_timestamp": 729,
+              "content": "强度够力度大"
+            },
+            {
+              "start_timestamp": 729,
+              "end_timestamp": 735,
+              "content": "那么筹码稳锁定涨停后抛压必须可控"
+            },
+            {
+              "start_timestamp": 735,
+              "end_timestamp": 736,
+              "content": "客户在哪"
+            },
+            {
+              "start_timestamp": 736,
+              "end_timestamp": 742,
+              "content": "全天成交额除以封板时的成交额要小于1.3"
+            },
+            {
+              "start_timestamp": 742,
+              "end_timestamp": 743,
+              "content": "小于1.3"
+            },
+            {
+              "start_timestamp": 743,
+              "end_timestamp": 746,
+              "content": "全年成交额成交金额"
+            },
+            {
+              "start_timestamp": 746,
+              "end_timestamp": 752,
+              "content": "假使是这个1万3啊啊1亿三"
+            },
+            {
+              "start_timestamp": 752,
+              "end_timestamp": 757,
+              "content": "那你封板时的成交金额要小于什么"
+            },
+            {
+              "start_timestamp": 757,
+              "end_timestamp": 759,
+              "content": "要小于什么"
+            },
+            {
+              "start_timestamp": 759,
+              "end_timestamp": 762,
+              "content": "记住假使全天是1.3"
+            },
+            {
+              "start_timestamp": 762,
+              "end_timestamp": 765,
+              "content": "封板时金额你要在一以上"
+            },
+            {
+              "start_timestamp": 765,
+              "end_timestamp": 768,
+              "content": "要在一以上抛压小"
+            },
+            {
+              "start_timestamp": 769,
+              "end_timestamp": 770,
+              "content": "锁定不卖了呀"
+            },
+            {
+              "start_timestamp": 771,
+              "end_timestamp": 772,
+              "content": "理解了吗"
+            },
+            {
+              "start_timestamp": 772,
+              "end_timestamp": 774,
+              "content": "锁定不卖了呀"
+            },
+            {
+              "start_timestamp": 775,
+              "end_timestamp": 778,
+              "content": "另外封板后筹码锁定不卖"
+            },
+            {
+              "start_timestamp": 778,
+              "end_timestamp": 780,
+              "content": "出货率更高"
+            },
+            {
+              "start_timestamp": 780,
+              "end_timestamp": 781,
+              "content": "这叫成交比"
+            },
+            {
+              "start_timestamp": 781,
+              "end_timestamp": 783,
+              "content": "前面讲封成比"
+            },
+            {
+              "start_timestamp": 783,
+              "end_timestamp": 786,
+              "content": "另外一个是封单金额占流通市值的比值"
+            },
+            {
+              "start_timestamp": 786,
+              "end_timestamp": 789,
+              "content": "必须大于0.015"
+            },
+            {
+              "start_timestamp": 792,
+              "end_timestamp": 798,
+              "content": "理解吗好第二另外一个是游资结构需要回避"
+            },
+            {
+              "start_timestamp": 798,
+              "end_timestamp": 799,
+              "content": "含上塘路等"
+            },
+            {
+              "start_timestamp": 799,
+              "end_timestamp": 800,
+              "content": "比方说上塘路"
+            },
+            {
+              "start_timestamp": 804,
+              "end_timestamp": 809,
+              "content": "或者说超过三家以上的东财拉萨营业部的标的"
+            },
+            {
+              "start_timestamp": 810,
+              "end_timestamp": 813,
+              "content": "除非游资离场后仍旧能涨停"
+            },
+            {
+              "start_timestamp": 813,
+              "end_timestamp": 815,
+              "content": "说明有更强的资金来接力"
+            },
+            {
+              "start_timestamp": 815,
+              "end_timestamp": 817,
+              "content": "尤其是上塘路"
+            },
+            {
+              "start_timestamp": 817,
+              "end_timestamp": 818,
+              "content": "如果上塘路走了"
+            },
+            {
+              "start_timestamp": 818,
+              "end_timestamp": 820,
+              "content": "那么他鉴定的是什么"
+            },
+            {
+              "start_timestamp": 820,
+              "end_timestamp": 824,
+              "content": "他鉴定的是腰股鉴定师"
+            },
+            {
+              "start_timestamp": 824,
+              "end_timestamp": 826,
+              "content": "记住腰股鉴定师"
+            },
+            {
+              "start_timestamp": 826,
+              "end_timestamp": 828,
+              "content": "第四个点是什么呢"
+            },
+            {
+              "start_timestamp": 828,
+              "end_timestamp": 830,
+              "content": "优先选择高辨识度"
+            },
+            {
+              "start_timestamp": 830,
+              "end_timestamp": 832,
+              "content": "一年内涨停次数越多越好"
+            },
+            {
+              "start_timestamp": 832,
+              "end_timestamp": 834,
+              "content": "标日间的再生神剑"
+            },
+            {
+              "start_timestamp": 834,
+              "end_timestamp": 836,
+              "content": "平单种股性活跃"
+            },
+            {
+              "start_timestamp": 836,
+              "end_timestamp": 837,
+              "content": "意味着市场的记忆深刻"
+            },
+            {
+              "start_timestamp": 837,
+              "end_timestamp": 840,
+              "content": "一响上一场见神见"
+            },
+            {
+              "start_timestamp": 840,
+              "end_timestamp": 841,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 841,
+              "end_timestamp": 843,
+              "content": "一享福建就是名单"
+            },
+            {
+              "start_timestamp": 843,
+              "end_timestamp": 843,
+              "content": "就是和服"
+            },
+            {
+              "start_timestamp": 843,
+              "end_timestamp": 849,
+              "content": "就这个逻辑找到近一年内强度高的票快的"
+            },
+            {
+              "start_timestamp": 849,
+              "end_timestamp": 851,
+              "content": "然后技术形态上"
+            },
+            {
+              "start_timestamp": 851,
+              "end_timestamp": 855,
+              "content": "我们去筛选两种高晋级率的结构"
+            },
+            {
+              "start_timestamp": 855,
+              "end_timestamp": 857,
+              "content": "两种高近距离"
+            },
+            {
+              "start_timestamp": 857,
+              "end_timestamp": 860,
+              "content": "一种是箱体突破"
+            },
+            {
+              "start_timestamp": 860,
+              "end_timestamp": 863,
+              "content": "另外一种是爽涨停双响炮"
+            },
+            {
+              "start_timestamp": 863,
+              "end_timestamp": 865,
+              "content": "也就是我们讲的N字结构"
+            },
+            {
+              "start_timestamp": 866,
+              "end_timestamp": 868,
+              "content": "来N字结构"
+            },
+            {
+              "start_timestamp": 868,
+              "end_timestamp": 870,
+              "content": "技术面上聚焦"
+            },
+            {
+              "start_timestamp": 870,
+              "end_timestamp": 873,
+              "content": "经过我们之前实战验证的高竞技形态"
+            },
+            {
+              "start_timestamp": 873,
+              "end_timestamp": 877,
+              "content": "箱体突破的涨停板和涨停的双向包"
+            },
+            {
+              "start_timestamp": 877,
+              "end_timestamp": 878,
+              "content": "或者说N字结构"
+            },
+            {
+              "start_timestamp": 878,
+              "end_timestamp": 883,
+              "content": "这两者之间共同的特征是主力吸筹充分"
+            },
+            {
+              "start_timestamp": 883,
+              "end_timestamp": 885,
+              "content": "筹码集中度高"
+            },
+            {
+              "start_timestamp": 885,
+              "end_timestamp": 888,
+              "content": "叠加60日和89日均线粘连"
+            },
+            {
+              "start_timestamp": 888,
+              "end_timestamp": 890,
+              "content": "走平的中期趋势"
+            },
+            {
+              "start_timestamp": 890,
+              "end_timestamp": 893,
+              "content": "可以大幅度提高你的二板成功率"
+            },
+            {
+              "start_timestamp": 894,
+              "end_timestamp": 897,
+              "content": "另外为什么要去讲均线粘连"
+            },
+            {
+              "start_timestamp": 898,
+              "end_timestamp": 899,
+              "content": "60和89天"
+            },
+            {
+              "start_timestamp": 899,
+              "end_timestamp": 902,
+              "content": "均线粘连走的是走平"
+            },
+            {
+              "start_timestamp": 902,
+              "end_timestamp": 905,
+              "content": "也就意味着中期叙事信号不明白的"
+            },
+            {
+              "start_timestamp": 905,
+              "end_timestamp": 909,
+              "content": "你自己把把那根线给我加上去再去看"
+            },
+            {
+              "start_timestamp": 909,
+              "end_timestamp": 911,
+              "content": "然后说明了什么"
+            },
+            {
+              "start_timestamp": 911,
+              "end_timestamp": 915,
+              "content": "说明股价长期窄幅震荡"
+            },
+            {
+              "start_timestamp": 915,
+              "end_timestamp": 917,
+              "content": "主力吸筹充分之后"
+            },
+            {
+              "start_timestamp": 917,
+              "end_timestamp": 919,
+              "content": "首板拉升"
+            },
+            {
+              "start_timestamp": 919,
+              "end_timestamp": 922,
+              "content": "均线上翘即视为启动"
+            },
+            {
+              "start_timestamp": 922,
+              "end_timestamp": 926,
+              "content": "确认它哪怕断踩下来"
+            },
+            {
+              "start_timestamp": 926,
+              "end_timestamp": 928,
+              "content": "都对你好很多"
+            },
+            {
+              "start_timestamp": 928,
+              "end_timestamp": 929,
+              "content": "理解吗"
+            },
+            {
+              "start_timestamp": 929,
+              "end_timestamp": 931,
+              "content": "都对你好很多啧"
+            },
+            {
+              "start_timestamp": 931,
+              "end_timestamp": 935,
+              "content": "然后趋势线上去持股的原则"
+            },
+            {
+              "start_timestamp": 935,
+              "end_timestamp": 939,
+              "content": "记住趋势线上持股为你基本原则"
+            },
+            {
+              "start_timestamp": 939,
+              "end_timestamp": 944,
+              "content": "如果你再要辅助年限突破"
+            },
+            {
+              "start_timestamp": 944,
+              "end_timestamp": 946,
+              "content": "那做基准更好"
+            },
+            {
+              "start_timestamp": 946,
+              "end_timestamp": 949,
+              "content": "记住平台配合下"
+            },
+            {
+              "start_timestamp": 950,
+              "end_timestamp": 952,
+              "content": "记住平台配合是吧"
+            },
+            {
+              "start_timestamp": 952,
+              "end_timestamp": 956,
+              "content": "配合你的量要有炮的形态为最佳技术共振"
+            },
+            {
+              "start_timestamp": 956,
+              "end_timestamp": 960,
+              "content": "这个地方你去把之前讲接力的那个视频"
+            },
+            {
+              "start_timestamp": 960,
+              "end_timestamp": 961,
+              "content": "再看一遍就好了"
+            },
+            {
+              "start_timestamp": 961,
+              "end_timestamp": 964,
+              "content": "我现在讲的是就以PPT形式讲的是比较细的"
+            },
+            {
+              "start_timestamp": 964,
+              "end_timestamp": 965,
+              "content": "那个地方"
+            },
+            {
+              "start_timestamp": 965,
+              "end_timestamp": 966,
+              "content": "我有讲案例啊"
+            },
+            {
+              "start_timestamp": 966,
+              "end_timestamp": 966,
+              "content": "有讲案例"
+            },
+            {
+              "start_timestamp": 966,
+              "end_timestamp": 968,
+              "content": "今天呢就不讲案例"
+            },
+            {
+              "start_timestamp": 968,
+              "end_timestamp": 970,
+              "content": "那么次日竞价确认之后"
+            },
+            {
+              "start_timestamp": 970,
+              "end_timestamp": 972,
+              "content": "三维验证法"
+            },
+            {
+              "start_timestamp": 972,
+              "end_timestamp": 975,
+              "content": "一会会我们去回溯一下昨天前天啊不讲"
+            },
+            {
+              "start_timestamp": 975,
+              "end_timestamp": 977,
+              "content": "现在9.25分"
+            },
+            {
+              "start_timestamp": 977,
+              "end_timestamp": 980,
+              "content": "集合竞价是选股漏斗的最终关卡"
+            },
+            {
+              "start_timestamp": 980,
+              "end_timestamp": 981,
+              "content": "通过高开的幅度"
+            },
+            {
+              "start_timestamp": 981,
+              "end_timestamp": 985,
+              "content": "抢筹异动以及竞价量能三个维度做最后的确认"
+            },
+            {
+              "start_timestamp": 985,
+              "end_timestamp": 989,
+              "content": "三项指标同时满足的标的数量极少"
+            },
+            {
+              "start_timestamp": 989,
+              "end_timestamp": 994,
+              "content": "但一旦出现就是高确定性的成功机会"
+            },
+            {
+              "start_timestamp": 994,
+              "end_timestamp": 997,
+              "content": "记住高确定性的乘龙机会"
+            },
+            {
+              "start_timestamp": 997,
+              "end_timestamp": 999,
+              "content": "第一个高开幅度"
+            },
+            {
+              "start_timestamp": 999,
+              "end_timestamp": 1001,
+              "content": "前天前一天十点钟以前涨停"
+            },
+            {
+              "start_timestamp": 1001,
+              "end_timestamp": 1003,
+              "content": "次日高开需在四以上"
+            },
+            {
+              "start_timestamp": 1003,
+              "end_timestamp": 1006,
+              "content": "早早盘涨停需在三以上"
+            },
+            {
+              "start_timestamp": 1006,
+              "end_timestamp": 1010,
+              "content": "下午涨停二到正二之间都属于正常预期"
+            },
+            {
+              "start_timestamp": 1010,
+              "end_timestamp": 1014,
+              "content": "一字板需要高开5~8个点以上否"
+            },
+            {
+              "start_timestamp": 1014,
+              "end_timestamp": 1015,
+              "content": "但是一般都不做"
+            },
+            {
+              "start_timestamp": 1015,
+              "end_timestamp": 1016,
+              "content": "如果你开出来的时候"
+            },
+            {
+              "start_timestamp": 1016,
+              "end_timestamp": 1019,
+              "content": "我要看你反馈高开幅度不达预期的标的"
+            },
+            {
+              "start_timestamp": 1019,
+              "end_timestamp": 1020,
+              "content": "直接踢掉"
+            },
+            {
+              "start_timestamp": 1020,
+              "end_timestamp": 1024,
+              "content": "不做第二个竞价抢筹异动"
+            },
+            {
+              "start_timestamp": 1024,
+              "end_timestamp": 1029,
+              "content": "09:25分的手速成交的量要比什么"
+            },
+            {
+              "start_timestamp": 1029,
+              "end_timestamp": 1033,
+              "content": "要比09:24分的150以上"
+            },
+            {
+              "start_timestamp": 1033,
+              "end_timestamp": 1035,
+              "content": "就放出1.5倍量"
+            },
+            {
+              "start_timestamp": 1035,
+              "end_timestamp": 1037,
+              "content": "记住那一分钟的成交量"
+            },
+            {
+              "start_timestamp": 1037,
+              "end_timestamp": 1040,
+              "content": "要比09:24分的成交量要大"
+            },
+            {
+              "start_timestamp": 1040,
+              "end_timestamp": 1042,
+              "content": "之前出现过一回"
+            },
+            {
+              "start_timestamp": 1042,
+              "end_timestamp": 1048,
+              "content": "当时大连的重工和罗普斯金都是从极速流增加"
+            },
+            {
+              "start_timestamp": 1048,
+              "end_timestamp": 1050,
+              "content": "急速的增加"
+            },
+            {
+              "start_timestamp": 1050,
+              "end_timestamp": 1051,
+              "content": "都快打到翻倍了"
+            },
+            {
+              "start_timestamp": 1052,
+              "end_timestamp": 1055,
+              "content": "那么竞价量能的对比是"
+            },
+            {
+              "start_timestamp": 1055,
+              "end_timestamp": 1059,
+              "content": "今日的竞价量大于昨日最高亮度的50%"
+            },
+            {
+              "start_timestamp": 1059,
+              "end_timestamp": 1060,
+              "content": "优先做竞价量"
+            },
+            {
+              "start_timestamp": 1060,
+              "end_timestamp": 1064,
+              "content": "超过或等于昨日爆量的爆量"
+            },
+            {
+              "start_timestamp": 1064,
+              "end_timestamp": 1067,
+              "content": "二版标底爆量二板标底"
+            },
+            {
+              "start_timestamp": 1067,
+              "end_timestamp": 1070,
+              "content": "记住爆量二版标底"
+            },
+            {
+              "start_timestamp": 1071,
+              "end_timestamp": 1073,
+              "content": "你竞价的量已经远超昨天了"
+            },
+            {
+              "start_timestamp": 1073,
+              "end_timestamp": 1075,
+              "content": "说明换手来了呀"
+            },
+            {
+              "start_timestamp": 1075,
+              "end_timestamp": 1076,
+              "content": "有换手了呀"
+            },
+            {
+              "start_timestamp": 1076,
+              "end_timestamp": 1077,
+              "content": "然后一旦拉升"
+            },
+            {
+              "start_timestamp": 1077,
+              "end_timestamp": 1081,
+              "content": "你这个板能不能打来打"
+            },
+            {
+              "start_timestamp": 1081,
+              "end_timestamp": 1082,
+              "content": "板哥能不能打的上去"
+            },
+            {
+              "start_timestamp": 1083,
+              "end_timestamp": 1085,
+              "content": "你可以这么去接"
+            },
+            {
+              "start_timestamp": 1085,
+              "end_timestamp": 1088,
+              "content": "那么接入模式刚刚讲了很多内容啊"
+            },
+            {
+              "start_timestamp": 1088,
+              "end_timestamp": 1089,
+              "content": "讲了这种竞价确认啊"
+            },
+            {
+              "start_timestamp": 1089,
+              "end_timestamp": 1091,
+              "content": "又讲了这个技术形态啊"
+            },
+            {
+              "start_timestamp": 1091,
+              "end_timestamp": 1092,
+              "content": "对吧"
+            },
+            {
+              "start_timestamp": 1092,
+              "end_timestamp": 1095,
+              "content": "那我们去讲进入模式和资卖出的策略"
+            },
+            {
+              "start_timestamp": 1095,
+              "end_timestamp": 1097,
+              "content": "低风险介入和分场景卖出"
+            },
+            {
+              "start_timestamp": 1097,
+              "end_timestamp": 1100,
+              "content": "构建出你的完整交易闭环"
+            },
+            {
+              "start_timestamp": 1100,
+              "end_timestamp": 1104,
+              "content": "记住完整交易闭环"
+            },
+            {
+              "start_timestamp": 1107,
+              "end_timestamp": 1110,
+              "content": "第一个地方两种核心建模式"
+            },
+            {
+              "start_timestamp": 1110,
+              "end_timestamp": 1114,
+              "content": "低吸和二封DC是人吗"
+            },
+            {
+              "start_timestamp": 1114,
+              "end_timestamp": 1117,
+              "content": "基于赚大亏小周期定性原则"
+            },
+            {
+              "start_timestamp": 1117,
+              "end_timestamp": 1122,
+              "content": "我一般来说做的是低吸和二封两种交易模式"
+            },
+            {
+              "start_timestamp": 1122,
+              "end_timestamp": 1125,
+              "content": "低吸是通过水下建仓控制下行风险"
+            },
+            {
+              "start_timestamp": 1125,
+              "end_timestamp": 1129,
+              "content": "二风是利用炸板释放抛压后的回风"
+            },
+            {
+              "start_timestamp": 1129,
+              "end_timestamp": 1130,
+              "content": "确认做多信号"
+            },
+            {
+              "start_timestamp": 1130,
+              "end_timestamp": 1134,
+              "content": "两者结合可以实现风险与确定性的最优平衡"
+            },
+            {
+              "start_timestamp": 1134,
+              "end_timestamp": 1138,
+              "content": "两者结合这么跟你讲"
+            },
+            {
+              "start_timestamp": 1138,
+              "end_timestamp": 1142,
+              "content": "比方说有朋友说我这个低吸啊"
+            },
+            {
+              "start_timestamp": 1142,
+              "end_timestamp": 1143,
+              "content": "今天低吸了"
+            },
+            {
+              "start_timestamp": 1143,
+              "end_timestamp": 1145,
+              "content": "当你股价开盘打到水下"
+            },
+            {
+              "start_timestamp": 1145,
+              "end_timestamp": 1146,
+              "content": "跌破开盘价"
+            },
+            {
+              "start_timestamp": 1146,
+              "end_timestamp": 1148,
+              "content": "那我先建议先建一点"
+            },
+            {
+              "start_timestamp": 1148,
+              "end_timestamp": 1149,
+              "content": "你风险可控的"
+            },
+            {
+              "start_timestamp": 1149,
+              "end_timestamp": 1151,
+              "content": "在你封板回去之后"
+            },
+            {
+              "start_timestamp": 1151,
+              "end_timestamp": 1152,
+              "content": "我再去打上去"
+            },
+            {
+              "start_timestamp": 1152,
+              "end_timestamp": 1154,
+              "content": "锁定他确定性"
+            },
+            {
+              "start_timestamp": 1155,
+              "end_timestamp": 1157,
+              "content": "当时典型的是罗普斯"
+            },
+            {
+              "start_timestamp": 1157,
+              "end_timestamp": 1159,
+              "content": "罗普斯金刚是二版水下进程封板"
+            },
+            {
+              "start_timestamp": 1159,
+              "end_timestamp": 1160,
+              "content": "再加一层"
+            },
+            {
+              "start_timestamp": 1160,
+              "end_timestamp": 1164,
+              "content": "总体进场成本大概是在4%左右"
+            },
+            {
+              "start_timestamp": 1164,
+              "end_timestamp": 1166,
+              "content": "涨停后利润空间是不是依旧充足"
+            },
+            {
+              "start_timestamp": 1166,
+              "end_timestamp": 1168,
+              "content": "那么它的优势在于什么呢"
+            },
+            {
+              "start_timestamp": 1168,
+              "end_timestamp": 1171,
+              "content": "它的优势在于日内风险比较低"
+            },
+            {
+              "start_timestamp": 1171,
+              "end_timestamp": 1172,
+              "content": "即使当天未封板"
+            },
+            {
+              "start_timestamp": 1172,
+              "end_timestamp": 1174,
+              "content": "满足前期筛选条件的票"
+            },
+            {
+              "start_timestamp": 1174,
+              "end_timestamp": 1177,
+              "content": "第三天第四天通常也会给到溢价推出的机会"
+            },
+            {
+              "start_timestamp": 1177,
+              "end_timestamp": 1180,
+              "content": "就他至少还会再冲一次"
+            },
+            {
+              "start_timestamp": 1181,
+              "end_timestamp": 1185,
+              "content": "所以你这样你要控制的这个二封模式"
+            },
+            {
+              "start_timestamp": 1185,
+              "end_timestamp": 1187,
+              "content": "也就是说我不去打你"
+            },
+            {
+              "start_timestamp": 1187,
+              "end_timestamp": 1188,
+              "content": "我不去做低吸"
+            },
+            {
+              "start_timestamp": 1188,
+              "end_timestamp": 1191,
+              "content": "我要干的是什么呢"
+            },
+            {
+              "start_timestamp": 1191,
+              "end_timestamp": 1195,
+              "content": "做回风就唉我在这之前我看不到他对吧"
+            },
+            {
+              "start_timestamp": 1195,
+              "end_timestamp": 1196,
+              "content": "那你怎么办"
+            },
+            {
+              "start_timestamp": 1196,
+              "end_timestamp": 1197,
+              "content": "你比较懒嘛"
+            },
+            {
+              "start_timestamp": 1197,
+              "end_timestamp": 1198,
+              "content": "你只是把票拉一下"
+            },
+            {
+              "start_timestamp": 1198,
+              "end_timestamp": 1199,
+              "content": "你说我竞价没时间看"
+            },
+            {
+              "start_timestamp": 1199,
+              "end_timestamp": 1200,
+              "content": "我就不看"
+            },
+            {
+              "start_timestamp": 1200,
+              "end_timestamp": 1201,
+              "content": "那怎么办呢"
+            },
+            {
+              "start_timestamp": 1201,
+              "end_timestamp": 1202,
+              "content": "在涨停炸开之后"
+            },
+            {
+              "start_timestamp": 1202,
+              "end_timestamp": 1203,
+              "content": "等待抛压充分释放"
+            },
+            {
+              "start_timestamp": 1203,
+              "end_timestamp": 1205,
+              "content": "回风瞬间直接关灯抢入"
+            },
+            {
+              "start_timestamp": 1205,
+              "end_timestamp": 1207,
+              "content": "但这种情况下很少了"
+            },
+            {
+              "start_timestamp": 1207,
+              "end_timestamp": 1209,
+              "content": "现在你抢不到"
+            },
+            {
+              "start_timestamp": 1209,
+              "end_timestamp": 1211,
+              "content": "能抢到的都他妈不好"
+            },
+            {
+              "start_timestamp": 1212,
+              "end_timestamp": 1214,
+              "content": "逻辑是主力撤单之后的洗盘"
+            },
+            {
+              "start_timestamp": 1214,
+              "end_timestamp": 1214,
+              "content": "继续做多"
+            },
+            {
+              "start_timestamp": 1214,
+              "end_timestamp": 1217,
+              "content": "回风时间必须在10:30以前完成"
+            },
+            {
+              "start_timestamp": 1217,
+              "end_timestamp": 1220,
+              "content": "下午炸板的不参与早盘回风"
+            },
+            {
+              "start_timestamp": 1220,
+              "end_timestamp": 1221,
+              "content": "因为时间越早"
+            },
+            {
+              "start_timestamp": 1221,
+              "end_timestamp": 1223,
+              "content": "代表着主力控盘力度越强"
+            },
+            {
+              "start_timestamp": 1223,
+              "end_timestamp": 1225,
+              "content": "做多这个信心越坚定"
+            },
+            {
+              "start_timestamp": 1225,
+              "end_timestamp": 1228,
+              "content": "那么确定性高于低吸"
+            },
+            {
+              "start_timestamp": 1228,
+              "end_timestamp": 1229,
+              "content": "但需耐心等待"
+            },
+            {
+              "start_timestamp": 1229,
+              "end_timestamp": 1233,
+              "content": "如果当天封板率高在70~80以上"
+            },
+            {
+              "start_timestamp": 1233,
+              "end_timestamp": 1235,
+              "content": "70~80"
+            },
+            {
+              "start_timestamp": 1235,
+              "end_timestamp": 1236,
+              "content": "那么两封策略"
+            },
+            {
+              "start_timestamp": 1236,
+              "end_timestamp": 1238,
+              "content": "二板回封啊"
+            },
+            {
+              "start_timestamp": 1238,
+              "end_timestamp": 1239,
+              "content": "就是炸板回封"
+            },
+            {
+              "start_timestamp": 1239,
+              "end_timestamp": 1243,
+              "content": "二封策略的成功率会比较的提升会比较好"
+            },
+            {
+              "start_timestamp": 1243,
+              "end_timestamp": 1246,
+              "content": "因为他封单会封板就会强嘛"
+            },
+            {
+              "start_timestamp": 1246,
+              "end_timestamp": 1247,
+              "content": "十个里面能封八个"
+            },
+            {
+              "start_timestamp": 1247,
+              "end_timestamp": 1250,
+              "content": "那你二版的这种会比较好"
+            },
+            {
+              "start_timestamp": 1250,
+              "end_timestamp": 1252,
+              "content": "另外一个地方是什么呢"
+            },
+            {
+              "start_timestamp": 1252,
+              "end_timestamp": 1253,
+              "content": "是私人卖出"
+            },
+            {
+              "start_timestamp": 1253,
+              "end_timestamp": 1254,
+              "content": "分出分成三种"
+            },
+            {
+              "start_timestamp": 1254,
+              "end_timestamp": 1258,
+              "content": "应对晋级成功后的卖出策略"
+            },
+            {
+              "start_timestamp": 1258,
+              "end_timestamp": 1263,
+              "content": "要根据次日开盘时形态灵活调整"
+            },
+            {
+              "start_timestamp": 1264,
+              "end_timestamp": 1265,
+              "content": "一字秒板"
+            },
+            {
+              "start_timestamp": 1265,
+              "end_timestamp": 1267,
+              "content": "我要去防他砸板"
+            },
+            {
+              "start_timestamp": 1267,
+              "end_timestamp": 1269,
+              "content": "水下低开要去等一个脉冲"
+            },
+            {
+              "start_timestamp": 1269,
+              "end_timestamp": 1270,
+              "content": "等脉冲"
+            },
+            {
+              "start_timestamp": 1270,
+              "end_timestamp": 1274,
+              "content": "记住水下低开一定又会有个脉冲信号发出来"
+            },
+            {
+              "start_timestamp": 1274,
+              "end_timestamp": 1275,
+              "content": "会反弹"
+            },
+            {
+              "start_timestamp": 1276,
+              "end_timestamp": 1277,
+              "content": "如果红开"
+            },
+            {
+              "start_timestamp": 1277,
+              "end_timestamp": 1280,
+              "content": "你就等着震荡抓高点"
+            },
+            {
+              "start_timestamp": 1280,
+              "end_timestamp": 1281,
+              "content": "三种情景"
+            },
+            {
+              "start_timestamp": 1281,
+              "end_timestamp": 1285,
+              "content": "各有一对应的仓位管理和止盈止损的纪律"
+            },
+            {
+              "start_timestamp": 1285,
+              "end_timestamp": 1287,
+              "content": "一字板和快速秒板"
+            },
+            {
+              "start_timestamp": 1287,
+              "end_timestamp": 1289,
+              "content": "这是你最舒服的"
+            },
+            {
+              "start_timestamp": 1289,
+              "end_timestamp": 1291,
+              "content": "这是你最舒服的"
+            },
+            {
+              "start_timestamp": 1291,
+              "end_timestamp": 1292,
+              "content": "就不需要什么"
+            },
+            {
+              "start_timestamp": 1292,
+              "end_timestamp": 1293,
+              "content": "想开盘就下班"
+            },
+            {
+              "start_timestamp": 1293,
+              "end_timestamp": 1295,
+              "content": "09:30直接下班了"
+            },
+            {
+              "start_timestamp": 1295,
+              "end_timestamp": 1298,
+              "content": "那么如果你担心说哎怕它炸"
+            },
+            {
+              "start_timestamp": 1298,
+              "end_timestamp": 1299,
+              "content": "怕他怎么着"
+            },
+            {
+              "start_timestamp": 1299,
+              "end_timestamp": 1300,
+              "content": "就记住了"
+            },
+            {
+              "start_timestamp": 1300,
+              "end_timestamp": 1306,
+              "content": "设置掉你的记住设置好你的条件单"
+            },
+            {
+              "start_timestamp": 1306,
+              "end_timestamp": 1308,
+              "content": "在卖五档任意价格成交"
+            },
+            {
+              "start_timestamp": 1308,
+              "end_timestamp": 1311,
+              "content": "防止因不盯盘而错过开板卖出时机"
+            },
+            {
+              "start_timestamp": 1311,
+              "end_timestamp": 1313,
+              "content": "你挂卖五价就可以了"
+            },
+            {
+              "start_timestamp": 1313,
+              "end_timestamp": 1317,
+              "content": "挂卖五提前设置好炸板时"
+            },
+            {
+              "start_timestamp": 1317,
+              "end_timestamp": 1318,
+              "content": "立即清"
+            },
+            {
+              "start_timestamp": 1318,
+              "end_timestamp": 1319,
+              "content": "减仓一半"
+            },
+            {
+              "start_timestamp": 1319,
+              "end_timestamp": 1320,
+              "content": "锁定利润"
+            },
+            {
+              "start_timestamp": 1320,
+              "end_timestamp": 1321,
+              "content": "炸板走一半"
+            },
+            {
+              "start_timestamp": 1321,
+              "end_timestamp": 1323,
+              "content": "这是正常自己心态"
+            },
+            {
+              "start_timestamp": 1323,
+              "end_timestamp": 1326,
+              "content": "那么剩余仓位根据回风的情况决定走还是不走"
+            },
+            {
+              "start_timestamp": 1326,
+              "end_timestamp": 1328,
+              "content": "这个地方你自己决定"
+            },
+            {
+              "start_timestamp": 1328,
+              "end_timestamp": 1330,
+              "content": "比方说第一部分均价我要不要继续清掉呀"
+            },
+            {
+              "start_timestamp": 1330,
+              "end_timestamp": 1333,
+              "content": "这个都没有任何问题好吗"
+            },
+            {
+              "start_timestamp": 1333,
+              "end_timestamp": 1336,
+              "content": "然后如果是水下低开"
+            },
+            {
+              "start_timestamp": 1336,
+              "end_timestamp": 1340,
+              "content": "那么开盘通常都会有一个脉冲红盘的机会"
+            },
+            {
+              "start_timestamp": 1340,
+              "end_timestamp": 1343,
+              "content": "等到水下瞬间冲到两到三个点"
+            },
+            {
+              "start_timestamp": 1343,
+              "end_timestamp": 1344,
+              "content": "关注分时成交"
+            },
+            {
+              "start_timestamp": 1344,
+              "end_timestamp": 1346,
+              "content": "有没有大单子往里推进去"
+            },
+            {
+              "start_timestamp": 1346,
+              "end_timestamp": 1348,
+              "content": "还是有人在砸"
+            },
+            {
+              "start_timestamp": 1348,
+              "end_timestamp": 1351,
+              "content": "虽然大卖单绿柱立即下浮2%"
+            },
+            {
+              "start_timestamp": 1351,
+              "end_timestamp": 1352,
+              "content": "丢出一半"
+            },
+            {
+              "start_timestamp": 1352,
+              "end_timestamp": 1353,
+              "content": "心理承受能力弱"
+            },
+            {
+              "start_timestamp": 1353,
+              "end_timestamp": 1354,
+              "content": "你可以红盘全走"
+            },
+            {
+              "start_timestamp": 1354,
+              "end_timestamp": 1355,
+              "content": "我不要了"
+            },
+            {
+              "start_timestamp": 1355,
+              "end_timestamp": 1357,
+              "content": "我就赚这三四个点就够了"
+            },
+            {
+              "start_timestamp": 1357,
+              "end_timestamp": 1358,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 1358,
+              "end_timestamp": 1363,
+              "content": "还有就是微微微红开震荡拉升"
+            },
+            {
+              "start_timestamp": 1363,
+              "end_timestamp": 1365,
+              "content": "拉升到7~8个点的时候"
+            },
+            {
+              "start_timestamp": 1365,
+              "end_timestamp": 1366,
+              "content": "上上不去了"
+            },
+            {
+              "start_timestamp": 1366,
+              "end_timestamp": 1369,
+              "content": "或者说拉到板上不封"
+            },
+            {
+              "start_timestamp": 1369,
+              "end_timestamp": 1370,
+              "content": "果断丢掉"
+            },
+            {
+              "start_timestamp": 1370,
+              "end_timestamp": 1371,
+              "content": "因为带量"
+            },
+            {
+              "start_timestamp": 1371,
+              "end_timestamp": 1373,
+              "content": "如果是带量拉升"
+            },
+            {
+              "start_timestamp": 1373,
+              "end_timestamp": 1375,
+              "content": "你分批段分批走"
+            },
+            {
+              "start_timestamp": 1375,
+              "end_timestamp": 1376,
+              "content": "无量拉伸"
+            },
+            {
+              "start_timestamp": 1376,
+              "end_timestamp": 1377,
+              "content": "一次走"
+            },
+            {
+              "start_timestamp": 1377,
+              "end_timestamp": 1381,
+              "content": "分批卖是保留秒板收益的可能性"
+            },
+            {
+              "start_timestamp": 1381,
+              "end_timestamp": 1385,
+              "content": "一次性清仓是确保6~7以上的利润落袋为安"
+            },
+            {
+              "start_timestamp": 1385,
+              "end_timestamp": 1387,
+              "content": "只抓相对高点"
+            },
+            {
+              "start_timestamp": 1388,
+              "end_timestamp": 1389,
+              "content": "另外一个部分是什么呢"
+            },
+            {
+              "start_timestamp": 1391,
+              "end_timestamp": 1393,
+              "content": "记住实战工具的辅助"
+            },
+            {
+              "start_timestamp": 1393,
+              "end_timestamp": 1396,
+              "content": "你可以用它的竞价分析功能或者观察哎"
+            },
+            {
+              "start_timestamp": 1396,
+              "end_timestamp": 1397,
+              "content": "各各板块竞价热度"
+            },
+            {
+              "start_timestamp": 1397,
+              "end_timestamp": 1400,
+              "content": "时间纪律去做一一清二的封板"
+            },
+            {
+              "start_timestamp": 1400,
+              "end_timestamp": 1401,
+              "content": "必须在10:30以前"
+            },
+            {
+              "start_timestamp": 1401,
+              "end_timestamp": 1403,
+              "content": "市场如果很弱"
+            },
+            {
+              "start_timestamp": 1403,
+              "end_timestamp": 1403,
+              "content": "你放宽到11点"
+            },
+            {
+              "start_timestamp": 1403,
+              "end_timestamp": 1405,
+              "content": "但市场弱的时候做个锤子啊"
+            },
+            {
+              "start_timestamp": 1405,
+              "end_timestamp": 1407,
+              "content": "可以不做自选票时"
+            },
+            {
+              "start_timestamp": 1407,
+              "end_timestamp": 1410,
+              "content": "记住一定要专门加进接力备选的这个板块"
+            },
+            {
+              "start_timestamp": 1410,
+              "end_timestamp": 1412,
+              "content": "接一定要单独设好盘中"
+            },
+            {
+              "start_timestamp": 1412,
+              "end_timestamp": 1414,
+              "content": "按照计划去执行"
+            },
+            {
+              "start_timestamp": 1414,
+              "end_timestamp": 1416,
+              "content": "杜绝你的临时起意"
+            },
+            {
+              "start_timestamp": 1416,
+              "end_timestamp": 1419,
+              "content": "去给追涨去追涨"
+            },
+            {
+              "start_timestamp": 1419,
+              "end_timestamp": 1420,
+              "content": "千万别追"
+            },
+            {
+              "start_timestamp": 1420,
+              "end_timestamp": 1422,
+              "content": "然后另外筛选政策"
+            },
+            {
+              "start_timestamp": 1422,
+              "end_timestamp": 1425,
+              "content": "筛选是利用问财的选股快速筛选"
+            },
+            {
+              "start_timestamp": 1425,
+              "end_timestamp": 1427,
+              "content": "今日集合竞价成交量"
+            },
+            {
+              "start_timestamp": 1427,
+              "end_timestamp": 1430,
+              "content": "大于昨日封单一半的封单量"
+            },
+            {
+              "start_timestamp": 1430,
+              "end_timestamp": 1431,
+              "content": "一半的标底"
+            },
+            {
+              "start_timestamp": 1431,
+              "end_timestamp": 1436,
+              "content": "提升你在竞价确认环节当中的筛选效率"
+            },
+            {
+              "start_timestamp": 1436,
+              "end_timestamp": 1439,
+              "content": "最后记住做确定性"
+            },
+            {
+              "start_timestamp": 1439,
+              "end_timestamp": 1441,
+              "content": "赚大亏小"
+            },
+            {
+              "start_timestamp": 1441,
+              "end_timestamp": 1444,
+              "content": "体系化交易告别凭感觉去打板"
+            },
+            {
+              "start_timestamp": 1444,
+              "end_timestamp": 1446,
+              "content": "那么前一天我筛选之后"
+            },
+            {
+              "start_timestamp": 1446,
+              "end_timestamp": 1449,
+              "content": "唉这些都都满足了是吧"
+            },
+            {
+              "start_timestamp": 1449,
+              "end_timestamp": 1450,
+              "content": "都符合了"
+            },
+            {
+              "start_timestamp": 1450,
+              "end_timestamp": 1453,
+              "content": "哎我这个代码也好看对吧"
+            },
+            {
+              "start_timestamp": 1453,
+              "end_timestamp": 1454,
+              "content": "现在是零零拉的多"
+            },
+            {
+              "start_timestamp": 1454,
+              "end_timestamp": 1455,
+              "content": "我就零零"
+            },
+            {
+              "start_timestamp": 1455,
+              "end_timestamp": 1455,
+              "content": "六零拉的多"
+            },
+            {
+              "start_timestamp": 1455,
+              "end_timestamp": 1456,
+              "content": "我就六零嘛"
+            },
+            {
+              "start_timestamp": 1456,
+              "end_timestamp": 1458,
+              "content": "然后形态优先啊"
+            },
+            {
+              "start_timestamp": 1458,
+              "end_timestamp": 1459,
+              "content": "像你突破呀"
+            },
+            {
+              "start_timestamp": 1459,
+              "end_timestamp": 1460,
+              "content": "N字板强势结构龙啊"
+            },
+            {
+              "start_timestamp": 1460,
+              "end_timestamp": 1461,
+              "content": "涨停双响炮啊"
+            },
+            {
+              "start_timestamp": 1461,
+              "end_timestamp": 1462,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 1462,
+              "end_timestamp": 1464,
+              "content": "N字结构强势龙"
+            },
+            {
+              "start_timestamp": 1464,
+              "end_timestamp": 1466,
+              "content": "又是N字结构"
+            },
+            {
+              "start_timestamp": 1466,
+              "end_timestamp": 1466,
+              "content": "又是突破"
+            },
+            {
+              "start_timestamp": 1466,
+              "end_timestamp": 1467,
+              "content": "那它不漂亮吗"
+            },
+            {
+              "start_timestamp": 1467,
+              "end_timestamp": 1469,
+              "content": "又是N字结构"
+            },
+            {
+              "start_timestamp": 1469,
+              "end_timestamp": 1470,
+              "content": "又是突破不漂亮吗"
+            },
+            {
+              "start_timestamp": 1470,
+              "end_timestamp": 1471,
+              "content": "涨停双响炮诶"
+            },
+            {
+              "start_timestamp": 1471,
+              "end_timestamp": 1472,
+              "content": "你在这压制着"
+            },
+            {
+              "start_timestamp": 1472,
+              "end_timestamp": 1474,
+              "content": "那人家是这么压制的"
+            },
+            {
+              "start_timestamp": 1474,
+              "end_timestamp": 1477,
+              "content": "然后箱体突破最佳形态"
+            },
+            {
+              "start_timestamp": 1477,
+              "end_timestamp": 1480,
+              "content": "叠加均线粘合和放量突破"
+            },
+            {
+              "start_timestamp": 1480,
+              "end_timestamp": 1481,
+              "content": "多重共振是好东西"
+            },
+            {
+              "start_timestamp": 1481,
+              "end_timestamp": 1485,
+              "content": "而且有可能这种你都不一定能排得进去"
+            },
+            {
+              "start_timestamp": 1485,
+              "end_timestamp": 1487,
+              "content": "最后大概到这个内容"
+            },
+            {
+              "start_timestamp": 1487,
+              "end_timestamp": 1490,
+              "content": "记住做确定性告别"
+            },
+            {
+              "start_timestamp": 1490,
+              "end_timestamp": 1491,
+              "content": "凭感觉打板"
+            },
+            {
+              "start_timestamp": 1491,
+              "end_timestamp": 1492,
+              "content": "你要去做接力好"
+            },
+            {
+              "start_timestamp": 1492,
+              "end_timestamp": 1493,
+              "content": "怎么去接"
+            },
+            {
+              "start_timestamp": 1493,
+              "end_timestamp": 1495,
+              "content": "该怎么接"
+            },
+            {
+              "start_timestamp": 1495,
+              "end_timestamp": 1496,
+              "content": "记住一句话"
+            },
+            {
+              "start_timestamp": 1496,
+              "end_timestamp": 1499,
+              "content": "赚的永远是认知内的钱"
+            },
+            {
+              "start_timestamp": 1499,
+              "end_timestamp": 1501,
+              "content": "千万千万不要哈了吧唧的"
+            },
+            {
+              "start_timestamp": 1501,
+              "end_timestamp": 1502,
+              "content": "跟个傻子似的"
+            },
+            {
+              "start_timestamp": 1502,
+              "end_timestamp": 1503,
+              "content": "人家跟你说"
+            },
+            {
+              "start_timestamp": 1503,
+              "end_timestamp": 1504,
+              "content": "哎这个地方牛逼"
+            },
+            {
+              "start_timestamp": 1504,
+              "end_timestamp": 1505,
+              "content": "你牛个DER啊"
+            },
+            {
+              "start_timestamp": 1505,
+              "end_timestamp": 1506,
+              "content": "你牛不牛"
+            },
+            {
+              "start_timestamp": 1506,
+              "end_timestamp": 1506,
+              "content": "我"
+            },
+            {
+              "start_timestamp": 1506,
+              "end_timestamp": 1508,
+              "content": "我心里没数的"
+            },
+            {
+              "start_timestamp": 1508,
+              "end_timestamp": 1509,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 1509,
+              "end_timestamp": 1510,
+              "content": "你能看我的视频"
+            },
+            {
+              "start_timestamp": 1510,
+              "end_timestamp": 1511,
+              "content": "看到现在"
+            },
+            {
+              "start_timestamp": 1511,
+              "end_timestamp": 1513,
+              "content": "要么你确实有点东西啊"
+            },
+            {
+              "start_timestamp": 1513,
+              "end_timestamp": 1515,
+              "content": "认可我这个人"
+            },
+            {
+              "start_timestamp": 1515,
+              "end_timestamp": 1518,
+              "content": "要么你就是确实跑不动"
+            },
+            {
+              "start_timestamp": 1518,
+              "end_timestamp": 1519,
+              "content": "说实话"
+            },
+            {
+              "start_timestamp": 1519,
+              "end_timestamp": 1522,
+              "content": "要么就是你自己确实确实跑不动"
+            },
+            {
+              "start_timestamp": 1522,
+              "end_timestamp": 1523,
+              "content": "这是之前的宝典"
+            },
+            {
+              "start_timestamp": 1523,
+              "end_timestamp": 1524,
+              "content": "你自己回去看"
+            },
+            {
+              "start_timestamp": 1524,
+              "end_timestamp": 1526,
+              "content": "这是当时的第一波"
+            },
+            {
+              "start_timestamp": 1526,
+              "end_timestamp": 1528,
+              "content": "拉起来之后来回来"
+            },
+            {
+              "start_timestamp": 1528,
+              "end_timestamp": 1530,
+              "content": "第二波是不是在这"
+            },
+            {
+              "start_timestamp": 1530,
+              "end_timestamp": 1533,
+              "content": "你去回想一下5月25号那一波就知道了"
+            },
+            {
+              "start_timestamp": 1533,
+              "end_timestamp": 1536,
+              "content": "这是我当时应该给大家去做的"
+            },
+            {
+              "start_timestamp": 1536,
+              "end_timestamp": 1538,
+              "content": "这种晋级筛选的这个内容"
+            },
+            {
+              "start_timestamp": 1541,
+              "end_timestamp": 1542,
+              "content": "怎么去做龙头"
+            },
+            {
+              "start_timestamp": 1542,
+              "end_timestamp": 1543,
+              "content": "怎么开"
+            },
+            {
+              "start_timestamp": 1543,
+              "end_timestamp": 1544,
+              "content": "这是5月22号"
+            },
+            {
+              "start_timestamp": 1544,
+              "end_timestamp": 1549,
+              "content": "当时棚顶和风这些你就拉出来去看清楚"
+            },
+            {
+              "start_timestamp": 1549,
+              "end_timestamp": 1552,
+              "content": "回去给我对照好吧"
+            },
+            {
+              "start_timestamp": 1552,
+              "end_timestamp": 1553,
+              "content": "各位就讲到这里"
+            },
+            {
+              "start_timestamp": 1553,
+              "end_timestamp": 1554,
+              "content": "最近很累啊"
+            },
+            {
+              "start_timestamp": 1554,
+              "end_timestamp": 1555,
+              "content": "俗话也说的比较多"
+            },
+            {
+              "start_timestamp": 1555,
+              "end_timestamp": 1556,
+              "content": "辛苦了"
+            },
+            {
+              "start_timestamp": 1556,
+              "end_timestamp": 1558,
+              "content": "兄弟们上上人气"
+            },
+            {
+              "start_timestamp": 1558,
+              "end_timestamp": 1559,
+              "content": "算上流量"
+            }
+          ],
+          "timestamp": 5
+        }
+      ]
+    },
+    "stid": "7709464559896905987",
+    "status": 0,
+    "like_num": 0,
+    "dislike_num": 0
+  }
+}

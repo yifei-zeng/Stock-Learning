@@ -1,0 +1,877 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "code": 0,
+    "model_result": {
+      "result_type": 2,
+      "summary": "集合竞价中常见11种形态（如一字形、场字形、U/Z/L型等）及尾盘竞价策略，分析各形态特征、主力行为与介入要点，强调观察红柱量、开盘走势、支撑压力位，并指出尾盘竞价需结合金额、日K形态筛选龙头股，规避当日风险，关注次日开盘表现以决定操作。",
+      "outline": [
+        {
+          "title": "解析集合竞价形态与策略",
+          "part_outline": [
+            {
+              "timestamp": 23,
+              "content": "主力控盘一字形竞价显示市场对价位有强烈共识"
+            },
+            {
+              "timestamp": 84,
+              "content": "返场字形需观察砸开时间及绿柱长度判断游资情绪"
+            },
+            {
+              "timestamp": 146,
+              "content": "U/Z/L字型分时段判断抛压，绿盘U型可竞价介入"
+            }
+          ],
+          "timestamp": 1
+        },
+        {
+          "title": "集合竞价形态分析与买卖策略",
+          "part_outline": [
+            {
+              "timestamp": 224,
+              "content": "抢筹阶梯有支撑需防主力尾盘砸盘"
+            },
+            {
+              "timestamp": 235,
+              "content": "量能决定抢筹真假 开盘拉升多为买点"
+            },
+            {
+              "timestamp": 280,
+              "content": "1]"
+            }
+          ],
+          "timestamp": 193
+        },
+        {
+          "title": "感谢观看集合竞价基础讲解",
+          "part_outline": [
+            {
+              "timestamp": 382,
+              "content": "视频总结结束，感谢观众参与学习集合竞价知识"
+            }
+          ],
+          "timestamp": 382
+        }
+      ],
+      "subtitle": [
+        {
+          "title": "",
+          "part_subtitle": [
+            {
+              "start_timestamp": 0,
+              "end_timestamp": 1,
+              "content": "大家好"
+            },
+            {
+              "start_timestamp": 1,
+              "end_timestamp": 4,
+              "content": "今天呢我们讲一下竞价中经常出现的一些形态"
+            },
+            {
+              "start_timestamp": 4,
+              "end_timestamp": 6,
+              "content": "以及尾盘集合竞价"
+            },
+            {
+              "start_timestamp": 7,
+              "end_timestamp": 10,
+              "content": "首先呢我们先看一下竞价的一些形态"
+            },
+            {
+              "start_timestamp": 10,
+              "end_timestamp": 14,
+              "content": "竞价分时图呢这11个形状是比较常见的"
+            },
+            {
+              "start_timestamp": 14,
+              "end_timestamp": 15,
+              "content": "像竞价的一字形"
+            },
+            {
+              "start_timestamp": 15,
+              "end_timestamp": 16,
+              "content": "场字形"
+            },
+            {
+              "start_timestamp": 16,
+              "end_timestamp": 17,
+              "content": "反场字形"
+            },
+            {
+              "start_timestamp": 17,
+              "end_timestamp": 18,
+              "content": "U字形"
+            },
+            {
+              "start_timestamp": 18,
+              "end_timestamp": 20,
+              "content": "Z字形或者L字形"
+            },
+            {
+              "start_timestamp": 20,
+              "end_timestamp": 21,
+              "content": "下阶梯式"
+            },
+            {
+              "start_timestamp": 21,
+              "end_timestamp": 23,
+              "content": "上阶梯式斜向上攻"
+            },
+            {
+              "start_timestamp": 23,
+              "end_timestamp": 25,
+              "content": "下水道市大低开"
+            },
+            {
+              "start_timestamp": 25,
+              "end_timestamp": 27,
+              "content": "还有这种跌停试盘啊"
+            },
+            {
+              "start_timestamp": 27,
+              "end_timestamp": 29,
+              "content": "常见的呢就是这11种"
+            },
+            {
+              "start_timestamp": 29,
+              "end_timestamp": 31,
+              "content": "我们一个个来解释一下啊"
+            },
+            {
+              "start_timestamp": 31,
+              "end_timestamp": 33,
+              "content": "首先一字型属于平行型"
+            },
+            {
+              "start_timestamp": 33,
+              "end_timestamp": 35,
+              "content": "竞价表示主力控盘很稳"
+            },
+            {
+              "start_timestamp": 35,
+              "end_timestamp": 39,
+              "content": "或者说市场合力对这个价位呢是有共识的"
+            },
+            {
+              "start_timestamp": 39,
+              "end_timestamp": 41,
+              "content": "那在这个价位上打出很大的量"
+            },
+            {
+              "start_timestamp": 41,
+              "end_timestamp": 45,
+              "content": "才能把价格维持在这个位置不动"
+            },
+            {
+              "start_timestamp": 45,
+              "end_timestamp": 47,
+              "content": "那一字进价且带量"
+            },
+            {
+              "start_timestamp": 47,
+              "end_timestamp": 50,
+              "content": "这个位置是有强力支撑或者大的压力的"
+            },
+            {
+              "start_timestamp": 50,
+              "end_timestamp": 52,
+              "content": "盘中触及到这个位置呢"
+            },
+            {
+              "start_timestamp": 52,
+              "end_timestamp": 53,
+              "content": "都要注意"
+            },
+            {
+              "start_timestamp": 53,
+              "end_timestamp": 55,
+              "content": "一字型竞价要注意两个点"
+            },
+            {
+              "start_timestamp": 55,
+              "end_timestamp": 58,
+              "content": "第一个是倒挂的红柱子越多越好"
+            },
+            {
+              "start_timestamp": 58,
+              "end_timestamp": 63,
+              "content": "第二个是开盘的攻击方向很重要"
+            },
+            {
+              "start_timestamp": 63,
+              "end_timestamp": 65,
+              "content": "开盘之后要往上拉伸"
+            },
+            {
+              "start_timestamp": 65,
+              "end_timestamp": 67,
+              "content": "那如果说你往下杀啊"
+            },
+            {
+              "start_timestamp": 67,
+              "end_timestamp": 69,
+              "content": "就比较麻烦了"
+            },
+            {
+              "start_timestamp": 71,
+              "end_timestamp": 74,
+              "content": "第二个场字型"
+            },
+            {
+              "start_timestamp": 74,
+              "end_timestamp": 76,
+              "content": "厂字型呢属于抢筹的一种啊"
+            },
+            {
+              "start_timestamp": 76,
+              "end_timestamp": 78,
+              "content": "未匹配为红"
+            },
+            {
+              "start_timestamp": 78,
+              "end_timestamp": 80,
+              "content": "而且量增为好"
+            },
+            {
+              "start_timestamp": 80,
+              "end_timestamp": 84,
+              "content": "也要看一下日线是否处于压力位以及颈线位置"
+            },
+            {
+              "start_timestamp": 84,
+              "end_timestamp": 89,
+              "content": "如果是我们也要防止高开直接骗炮"
+            },
+            {
+              "start_timestamp": 89,
+              "end_timestamp": 91,
+              "content": "第三个返场字形"
+            },
+            {
+              "start_timestamp": 91,
+              "end_timestamp": 94,
+              "content": "返场字形呢是9.15到9.20"
+            },
+            {
+              "start_timestamp": 94,
+              "end_timestamp": 96,
+              "content": "涨停开居多啊"
+            },
+            {
+              "start_timestamp": 96,
+              "end_timestamp": 97,
+              "content": "后面砸开"
+            },
+            {
+              "start_timestamp": 97,
+              "end_timestamp": 101,
+              "content": "我们要观察砸开的时间和再开时的绿柱的长度"
+            },
+            {
+              "start_timestamp": 101,
+              "end_timestamp": 104,
+              "content": "时间呢是越晚越好啊"
+            },
+            {
+              "start_timestamp": 104,
+              "end_timestamp": 106,
+              "content": "绿柱子呢是越短越好"
+            },
+            {
+              "start_timestamp": 106,
+              "end_timestamp": 107,
+              "content": "这种能否介入呢"
+            },
+            {
+              "start_timestamp": 107,
+              "end_timestamp": 109,
+              "content": "就要看游资的情绪"
+            },
+            {
+              "start_timestamp": 109,
+              "end_timestamp": 110,
+              "content": "题材的强度"
+            },
+            {
+              "start_timestamp": 110,
+              "end_timestamp": 113,
+              "content": "个股的顺位计算抛压大小和所需封板量"
+            },
+            {
+              "start_timestamp": 113,
+              "end_timestamp": 115,
+              "content": "换手够了再说"
+            },
+            {
+              "start_timestamp": 115,
+              "end_timestamp": 116,
+              "content": "比如说这个案例啊"
+            },
+            {
+              "start_timestamp": 116,
+              "end_timestamp": 118,
+              "content": "当时的市场趋势啊就相对比较差一点"
+            },
+            {
+              "start_timestamp": 118,
+              "end_timestamp": 121,
+              "content": "我们看到盘中就出现了炸板儿啊"
+            },
+            {
+              "start_timestamp": 121,
+              "end_timestamp": 123,
+              "content": "大幅的一个跳水"
+            },
+            {
+              "start_timestamp": 123,
+              "end_timestamp": 125,
+              "content": "那像这个呢情绪就比较好"
+            },
+            {
+              "start_timestamp": 125,
+              "end_timestamp": 127,
+              "content": "开盘直接秒板"
+            },
+            {
+              "start_timestamp": 127,
+              "end_timestamp": 128,
+              "content": "封死涨停"
+            },
+            {
+              "start_timestamp": 128,
+              "end_timestamp": 130,
+              "content": "第四个U字型"
+            },
+            {
+              "start_timestamp": 130,
+              "end_timestamp": 133,
+              "content": "U字型呢是最后买盘占优啊"
+            },
+            {
+              "start_timestamp": 133,
+              "end_timestamp": 134,
+              "content": "但是呢也容易被骗"
+            },
+            {
+              "start_timestamp": 134,
+              "end_timestamp": 136,
+              "content": "开盘砸的话"
+            },
+            {
+              "start_timestamp": 136,
+              "end_timestamp": 138,
+              "content": "这种数除了顺位最高的股票"
+            },
+            {
+              "start_timestamp": 138,
+              "end_timestamp": 141,
+              "content": "我们都需要开盘观察一下啊"
+            },
+            {
+              "start_timestamp": 141,
+              "end_timestamp": 142,
+              "content": "像这个案例属于竞价啊"
+            },
+            {
+              "start_timestamp": 142,
+              "end_timestamp": 144,
+              "content": "他抢筹了直接抢到涨停板"
+            },
+            {
+              "start_timestamp": 144,
+              "end_timestamp": 145,
+              "content": "非常的强势"
+            },
+            {
+              "start_timestamp": 145,
+              "end_timestamp": 146,
+              "content": "一般情况下"
+            },
+            {
+              "start_timestamp": 146,
+              "end_timestamp": 150,
+              "content": "红盘的U字型最好不要竞价介入"
+            },
+            {
+              "start_timestamp": 150,
+              "end_timestamp": 153,
+              "content": "你可等盘中分时不走坏低吸"
+            },
+            {
+              "start_timestamp": 153,
+              "end_timestamp": 155,
+              "content": "而绿盘的U字型呢"
+            },
+            {
+              "start_timestamp": 155,
+              "end_timestamp": 160,
+              "content": "我们可以竞价去介入第五个Z字型或者L字型"
+            },
+            {
+              "start_timestamp": 160,
+              "end_timestamp": 164,
+              "content": "我们要观察的是这一根竖线是在9.20之前"
+            },
+            {
+              "start_timestamp": 164,
+              "end_timestamp": 166,
+              "content": "还是在9.20之后"
+            },
+            {
+              "start_timestamp": 166,
+              "end_timestamp": 167,
+              "content": "9.20之前呢"
+            },
+            {
+              "start_timestamp": 167,
+              "end_timestamp": 169,
+              "content": "往往是试盘"
+            },
+            {
+              "start_timestamp": 169,
+              "end_timestamp": 170,
+              "content": "那9.20之后呢"
+            },
+            {
+              "start_timestamp": 170,
+              "end_timestamp": 172,
+              "content": "表示抛压巨大"
+            },
+            {
+              "start_timestamp": 172,
+              "end_timestamp": 174,
+              "content": "能够横的住的话啊"
+            },
+            {
+              "start_timestamp": 174,
+              "end_timestamp": 177,
+              "content": "像横向的位置就是密集成交区"
+            },
+            {
+              "start_timestamp": 177,
+              "end_timestamp": 179,
+              "content": "也就是支撑和压力"
+            },
+            {
+              "start_timestamp": 179,
+              "end_timestamp": 180,
+              "content": "我们看这个案例"
+            },
+            {
+              "start_timestamp": 180,
+              "end_timestamp": 183,
+              "content": "开盘呢直接跌破了这个横向的位置"
+            },
+            {
+              "start_timestamp": 183,
+              "end_timestamp": 185,
+              "content": "但是盘中直接突破以后"
+            },
+            {
+              "start_timestamp": 185,
+              "end_timestamp": 190,
+              "content": "这一个横线的位置就变成了比较强的支撑啊"
+            },
+            {
+              "start_timestamp": 190,
+              "end_timestamp": 193,
+              "content": "同样这一个案例呢开盘直接往下杀"
+            },
+            {
+              "start_timestamp": 193,
+              "end_timestamp": 195,
+              "content": "那这一块的压力就非常大啊"
+            },
+            {
+              "start_timestamp": 195,
+              "end_timestamp": 197,
+              "content": "还有这个L字型一样"
+            },
+            {
+              "start_timestamp": 197,
+              "end_timestamp": 200,
+              "content": "横向的位置是强力的支撑和压力"
+            },
+            {
+              "start_timestamp": 200,
+              "end_timestamp": 203,
+              "content": "开盘站上了这个压力位之后"
+            },
+            {
+              "start_timestamp": 203,
+              "end_timestamp": 204,
+              "content": "就变成了强支撑"
+            },
+            {
+              "start_timestamp": 204,
+              "end_timestamp": 207,
+              "content": "后续有一个大幅的拉升"
+            },
+            {
+              "start_timestamp": 208,
+              "end_timestamp": 212,
+              "content": "第六个下阶梯式是每一个阶梯它都有压"
+            },
+            {
+              "start_timestamp": 212,
+              "end_timestamp": 215,
+              "content": "可以计算出来上面有多少压力抛盘"
+            },
+            {
+              "start_timestamp": 215,
+              "end_timestamp": 216,
+              "content": "这种的一般都是分期"
+            },
+            {
+              "start_timestamp": 216,
+              "end_timestamp": 219,
+              "content": "除非人气妖股或者市场总龙"
+            },
+            {
+              "start_timestamp": 219,
+              "end_timestamp": 222,
+              "content": "其他的呢一般不看"
+            },
+            {
+              "start_timestamp": 222,
+              "end_timestamp": 224,
+              "content": "第七个上阶梯式"
+            },
+            {
+              "start_timestamp": 224,
+              "end_timestamp": 227,
+              "content": "每一个阶梯都有支撑啊"
+            },
+            {
+              "start_timestamp": 227,
+              "end_timestamp": 228,
+              "content": "属于抢筹迹象"
+            },
+            {
+              "start_timestamp": 228,
+              "end_timestamp": 231,
+              "content": "但是也要谨防主力最后几笔大单打上去"
+            },
+            {
+              "start_timestamp": 231,
+              "end_timestamp": 232,
+              "content": "高开太多"
+            },
+            {
+              "start_timestamp": 232,
+              "end_timestamp": 234,
+              "content": "那开盘直接下砸啊"
+            },
+            {
+              "start_timestamp": 234,
+              "end_timestamp": 235,
+              "content": "那就不好了"
+            },
+            {
+              "start_timestamp": 235,
+              "end_timestamp": 237,
+              "content": "上节提示我们要注意的是"
+            },
+            {
+              "start_timestamp": 237,
+              "end_timestamp": 239,
+              "content": "量能要非常的充分"
+            },
+            {
+              "start_timestamp": 239,
+              "end_timestamp": 241,
+              "content": "否则骗炮居多"
+            },
+            {
+              "start_timestamp": 241,
+              "end_timestamp": 244,
+              "content": "第八个斜向上攻行啊"
+            },
+            {
+              "start_timestamp": 244,
+              "end_timestamp": 245,
+              "content": "属于抢筹迹象"
+            },
+            {
+              "start_timestamp": 245,
+              "end_timestamp": 246,
+              "content": "不带量为假"
+            },
+            {
+              "start_timestamp": 246,
+              "end_timestamp": 247,
+              "content": "带量为真"
+            },
+            {
+              "start_timestamp": 247,
+              "end_timestamp": 250,
+              "content": "那开盘拉升多半都是买点"
+            },
+            {
+              "start_timestamp": 251,
+              "end_timestamp": 252,
+              "content": "第九个大低开"
+            },
+            {
+              "start_timestamp": 252,
+              "end_timestamp": 255,
+              "content": "绝大多数啊都是空头"
+            },
+            {
+              "start_timestamp": 255,
+              "end_timestamp": 257,
+              "content": "你除非说大盘非常差啊"
+            },
+            {
+              "start_timestamp": 257,
+              "end_timestamp": 260,
+              "content": "情绪的一个冰点或者顺位极高的个股"
+            },
+            {
+              "start_timestamp": 260,
+              "end_timestamp": 264,
+              "content": "接近跌停开或者低位启动的时候作为插入线"
+            },
+            {
+              "start_timestamp": 264,
+              "end_timestamp": 266,
+              "content": "那否则就是弱啊"
+            },
+            {
+              "start_timestamp": 266,
+              "end_timestamp": 269,
+              "content": "大低开量增是背离"
+            },
+            {
+              "start_timestamp": 269,
+              "end_timestamp": 271,
+              "content": "量缩呢是正常的"
+            },
+            {
+              "start_timestamp": 271,
+              "end_timestamp": 276,
+              "content": "空方盘量缩量增开超低多空一并大杀盘"
+            },
+            {
+              "start_timestamp": 276,
+              "end_timestamp": 280,
+              "content": "如果说大低开是开在5日线啊"
+            },
+            {
+              "start_timestamp": 280,
+              "end_timestamp": 284,
+              "content": "或者是前高的支撑位或者前大亮点的支撑点"
+            },
+            {
+              "start_timestamp": 284,
+              "end_timestamp": 285,
+              "content": "再加上开盘拉升"
+            },
+            {
+              "start_timestamp": 285,
+              "end_timestamp": 288,
+              "content": "那是一个低吸的买点"
+            },
+            {
+              "start_timestamp": 289,
+              "end_timestamp": 292,
+              "content": "第十个下水道式属于抢跑迹象啊"
+            },
+            {
+              "start_timestamp": 292,
+              "end_timestamp": 294,
+              "content": "若有量能的配合"
+            },
+            {
+              "start_timestamp": 294,
+              "end_timestamp": 295,
+              "content": "那确定为空头盘"
+            },
+            {
+              "start_timestamp": 295,
+              "end_timestamp": 297,
+              "content": "只要特别小心啊"
+            },
+            {
+              "start_timestamp": 297,
+              "end_timestamp": 302,
+              "content": "第11个跌停试盘测试承接及跟风的一个卖弹"
+            },
+            {
+              "start_timestamp": 302,
+              "end_timestamp": 305,
+              "content": "但是要在9.20之前快速的拉去这一块"
+            },
+            {
+              "start_timestamp": 305,
+              "end_timestamp": 309,
+              "content": "我们要区分的是跌停开抢筹"
+            },
+            {
+              "start_timestamp": 309,
+              "end_timestamp": 312,
+              "content": "否则啊大低开其实都是极弱的"
+            },
+            {
+              "start_timestamp": 312,
+              "end_timestamp": 314,
+              "content": "主要是看竞价的换手"
+            },
+            {
+              "start_timestamp": 314,
+              "end_timestamp": 316,
+              "content": "跌停的竞价换手如果足够大"
+            },
+            {
+              "start_timestamp": 316,
+              "end_timestamp": 318,
+              "content": "才有可能翘板成功啊"
+            },
+            {
+              "start_timestamp": 318,
+              "end_timestamp": 320,
+              "content": "那这种呢也是支撑位"
+            },
+            {
+              "start_timestamp": 321,
+              "end_timestamp": 324,
+              "content": "接下来我们讲一下尾盘集合竞价"
+            },
+            {
+              "start_timestamp": 324,
+              "end_timestamp": 327,
+              "content": "尾盘集合竞价是从2.57到三点"
+            },
+            {
+              "start_timestamp": 327,
+              "end_timestamp": 332,
+              "content": "我们一般只需要看下尾盘的竞价金额即可啊"
+            },
+            {
+              "start_timestamp": 332,
+              "end_timestamp": 333,
+              "content": "每天收盘前3分钟"
+            },
+            {
+              "start_timestamp": 333,
+              "end_timestamp": 337,
+              "content": "按照尾盘竞价金额从到大小去排序"
+            },
+            {
+              "start_timestamp": 337,
+              "end_timestamp": 339,
+              "content": "选择竞价金额较大的前几名"
+            },
+            {
+              "start_timestamp": 339,
+              "end_timestamp": 343,
+              "content": "然后再结合日K形态个股的地位进行筛选"
+            },
+            {
+              "start_timestamp": 343,
+              "end_timestamp": 345,
+              "content": "比如说某个题材的龙头"
+            },
+            {
+              "start_timestamp": 345,
+              "end_timestamp": 346,
+              "content": "近期的人气票"
+            },
+            {
+              "start_timestamp": 346,
+              "end_timestamp": 348,
+              "content": "尾盘最后几分钟呢"
+            },
+            {
+              "start_timestamp": 348,
+              "end_timestamp": 352,
+              "content": "我们也要看一下它股价是否拉升最好呢"
+            },
+            {
+              "start_timestamp": 352,
+              "end_timestamp": 355,
+              "content": "所选的标的呢是以板块同步拉伸"
+            },
+            {
+              "start_timestamp": 355,
+              "end_timestamp": 358,
+              "content": "如果拉伸就是主力抢筹啊"
+            },
+            {
+              "start_timestamp": 358,
+              "end_timestamp": 360,
+              "content": "那我们也可以跟随主力去上车"
+            },
+            {
+              "start_timestamp": 360,
+              "end_timestamp": 362,
+              "content": "这里需要注意的是"
+            },
+            {
+              "start_timestamp": 362,
+              "end_timestamp": 365,
+              "content": "尾盘抢筹规避的是当日不确定性博弈"
+            },
+            {
+              "start_timestamp": 365,
+              "end_timestamp": 367,
+              "content": "次日的预期"
+            },
+            {
+              "start_timestamp": 367,
+              "end_timestamp": 369,
+              "content": "如果说次日直接低开下杀"
+            },
+            {
+              "start_timestamp": 369,
+              "end_timestamp": 371,
+              "content": "就是抢筹失败"
+            },
+            {
+              "start_timestamp": 371,
+              "end_timestamp": 372,
+              "content": "要果断离场"
+            },
+            {
+              "start_timestamp": 372,
+              "end_timestamp": 374,
+              "content": "那如果说高开拉升了"
+            },
+            {
+              "start_timestamp": 374,
+              "end_timestamp": 375,
+              "content": "那你就有先手优势了"
+            },
+            {
+              "start_timestamp": 375,
+              "end_timestamp": 377,
+              "content": "可以从容应对"
+            },
+            {
+              "start_timestamp": 377,
+              "end_timestamp": 380,
+              "content": "甚至呢会是一个新的买点"
+            },
+            {
+              "start_timestamp": 380,
+              "end_timestamp": 382,
+              "content": "好今天的内容啊就讲到这里"
+            },
+            {
+              "start_timestamp": 382,
+              "end_timestamp": 383,
+              "content": "谢谢大家"
+            }
+          ],
+          "timestamp": 1
+        }
+      ]
+    },
+    "stid": "6711371922918872594",
+    "status": 0,
+    "like_num": 0,
+    "dislike_num": 0
+  }
+}

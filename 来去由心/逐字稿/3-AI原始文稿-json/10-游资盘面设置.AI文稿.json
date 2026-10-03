@@ -1,0 +1,6263 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "code": 0,
+    "model_result": {
+      "result_type": 2,
+      "summary": "优化游资盘面设置技巧，涵盖指数板块监控、分时图参数调整、龙头股筛选逻辑、竞价封单分析及L2大单资金博弈识别，通过代码修正、快捷键分屏与动态条件筛选，提升看盘效率，精准捕捉市场龙头股机会。",
+      "outline": [
+        {
+          "title": "游资盘面高效设置与实时监控",
+          "part_outline": [
+            {
+              "timestamp": 24,
+              "content": "系统化盘面指标设置提升看盘效率与信息捕捉能力"
+            },
+            {
+              "timestamp": 52,
+              "content": "分级设置板块筛选语句与权重股监控辅助快速复盘"
+            },
+            {
+              "timestamp": 100,
+              "content": "动态整合指数、题材、情绪及资金流向多维度分析"
+            }
+          ],
+          "timestamp": 1
+        },
+        {
+          "title": "游资盘面设置与快捷看盘技巧",
+          "part_outline": [
+            {
+              "timestamp": 654,
+              "content": "设置看盘界面表头参数，调整竞价涨幅及未匹配金额排序"
+            },
+            {
+              "timestamp": 769,
+              "content": "解析未匹配金额与竞价封单逻辑，区分买/卖单未成交资金"
+            },
+            {
+              "timestamp": 1018,
+              "content": "优化短线精灵参数筛选，剔除冗余信息提升盘中捕捉效率"
+            }
+          ],
+          "timestamp": 601
+        },
+        {
+          "title": "游资盘面设置与动态筛选技巧",
+          "part_outline": [
+            {
+              "timestamp": 1241,
+              "content": " 添加英文括号修复代码错误确保显示正常"
+            },
+            {
+              "timestamp": 1321,
+              "content": " 均线显示临时消失但影响不大不影响个股分析"
+            },
+            {
+              "timestamp": 1510,
+              "content": " 动态板块筛选逻辑需结合时间条件更新数据"
+            }
+          ],
+          "timestamp": 1201
+        },
+        {
+          "title": "动态板块筛选与看盘技巧",
+          "part_outline": [
+            {
+              "timestamp": 1872,
+              "content": "筛选连板梯队与封单额动态指标构建看盘语句"
+            },
+            {
+              "timestamp": 1933,
+              "content": "通过同步自选方案快速建立竞价阶段核心表头"
+            },
+            {
+              "timestamp": 2044,
+              "content": "基于封单额与竞价成交数据判断市场情绪变化"
+            }
+          ],
+          "timestamp": 1800
+        }
+      ],
+      "subtitle": [
+        {
+          "title": "",
+          "part_subtitle": [
+            {
+              "start_timestamp": 0,
+              "end_timestamp": 0,
+              "content": "嗯大家好"
+            },
+            {
+              "start_timestamp": 0,
+              "end_timestamp": 2,
+              "content": "欢迎来到我的视频呃"
+            },
+            {
+              "start_timestamp": 2,
+              "end_timestamp": 3,
+              "content": "今天还是两件事情啊"
+            },
+            {
+              "start_timestamp": 3,
+              "end_timestamp": 7,
+              "content": "第一的话跟大家聊一下股票盘面指标的设置"
+            },
+            {
+              "start_timestamp": 7,
+              "end_timestamp": 9,
+              "content": "真正的突破它是方法的突破"
+            },
+            {
+              "start_timestamp": 9,
+              "end_timestamp": 11,
+              "content": "是工具使用上的突破"
+            },
+            {
+              "start_timestamp": 11,
+              "end_timestamp": 13,
+              "content": "把那个盘面设置好呀"
+            },
+            {
+              "start_timestamp": 13,
+              "end_timestamp": 16,
+              "content": "以及你理解他为什么要那么设置"
+            },
+            {
+              "start_timestamp": 16,
+              "end_timestamp": 19,
+              "content": "它能够大大的提升你的一个看盘的效率"
+            },
+            {
+              "start_timestamp": 19,
+              "end_timestamp": 21,
+              "content": "盘中的那种异动呀"
+            },
+            {
+              "start_timestamp": 21,
+              "end_timestamp": 22,
+              "content": "发生了什么"
+            },
+            {
+              "start_timestamp": 22,
+              "end_timestamp": 24,
+              "content": "就能够更好的辅助你去看盘"
+            },
+            {
+              "start_timestamp": 24,
+              "end_timestamp": 27,
+              "content": "看到盘面发生的信息呃"
+            },
+            {
+              "start_timestamp": 27,
+              "end_timestamp": 28,
+              "content": "这是很重要的"
+            },
+            {
+              "start_timestamp": 28,
+              "end_timestamp": 32,
+              "content": "因为有的人可能炒股就是三个平"
+            },
+            {
+              "start_timestamp": 32,
+              "end_timestamp": 34,
+              "content": "或者说两个平四个品种对吧"
+            },
+            {
+              "start_timestamp": 34,
+              "end_timestamp": 37,
+              "content": "但其实把盘面设置好了"
+            },
+            {
+              "start_timestamp": 37,
+              "end_timestamp": 38,
+              "content": "因为我从学炒股开始的话"
+            },
+            {
+              "start_timestamp": 38,
+              "end_timestamp": 40,
+              "content": "基本上就是一个屏幕"
+            },
+            {
+              "start_timestamp": 40,
+              "end_timestamp": 42,
+              "content": "然后全凭手速在切"
+            },
+            {
+              "start_timestamp": 42,
+              "end_timestamp": 44,
+              "content": "而且是看得过来的"
+            },
+            {
+              "start_timestamp": 44,
+              "end_timestamp": 45,
+              "content": "嗯这是一块啊"
+            },
+            {
+              "start_timestamp": 45,
+              "end_timestamp": 49,
+              "content": "然后呃也盘面的设置也没那么简单"
+            },
+            {
+              "start_timestamp": 49,
+              "end_timestamp": 52,
+              "content": "然后我会把每个指标他们的一个具体的原理"
+            },
+            {
+              "start_timestamp": 52,
+              "end_timestamp": 55,
+              "content": "以及各种参数都要分享给大家好吗"
+            },
+            {
+              "start_timestamp": 55,
+              "end_timestamp": 57,
+              "content": "这是第一个是盘面的设置"
+            },
+            {
+              "start_timestamp": 58,
+              "end_timestamp": 61,
+              "content": "那第二个是那个像这种分式概念的设置了"
+            },
+            {
+              "start_timestamp": 61,
+              "end_timestamp": 64,
+              "content": "第三就是日K级别的这种的一个概念的设置"
+            },
+            {
+              "start_timestamp": 64,
+              "end_timestamp": 65,
+              "content": "第四的话"
+            },
+            {
+              "start_timestamp": 65,
+              "end_timestamp": 68,
+              "content": "然后就是动态板块表头的一些设置"
+            },
+            {
+              "start_timestamp": 68,
+              "end_timestamp": 72,
+              "content": "动态板块他们的具体的那个筛选语句"
+            },
+            {
+              "start_timestamp": 73,
+              "end_timestamp": 74,
+              "content": "这个如果能够设置好的话"
+            },
+            {
+              "start_timestamp": 74,
+              "end_timestamp": 76,
+              "content": "能够很快的去提升"
+            },
+            {
+              "start_timestamp": 76,
+              "end_timestamp": 79,
+              "content": "你的就是就是复盘的一个速度吧"
+            },
+            {
+              "start_timestamp": 79,
+              "end_timestamp": 82,
+              "content": "基本上点两下就出来了"
+            },
+            {
+              "start_timestamp": 82,
+              "end_timestamp": 84,
+              "content": "那最后就是通达信的设置好吗"
+            },
+            {
+              "start_timestamp": 84,
+              "end_timestamp": 86,
+              "content": "大概这四块"
+            },
+            {
+              "start_timestamp": 86,
+              "end_timestamp": 86,
+              "content": "那话不多说"
+            },
+            {
+              "start_timestamp": 86,
+              "end_timestamp": 91,
+              "content": "我们进进入今天正式的呃盘面设置的分享好"
+            },
+            {
+              "start_timestamp": 91,
+              "end_timestamp": 93,
+              "content": "我们先从这里开始吧"
+            },
+            {
+              "start_timestamp": 93,
+              "end_timestamp": 96,
+              "content": "首先啊这是呃虽然说写了竞价"
+            },
+            {
+              "start_timestamp": 96,
+              "end_timestamp": 100,
+              "content": "其实这个盘面设置呀呃是我看盘的一个设置"
+            },
+            {
+              "start_timestamp": 100,
+              "end_timestamp": 103,
+              "content": "看金价看全天的一个盘面呃"
+            },
+            {
+              "start_timestamp": 103,
+              "end_timestamp": 104,
+              "content": "大家可以看一下"
+            },
+            {
+              "start_timestamp": 104,
+              "end_timestamp": 105,
+              "content": "主要分为几块啊"
+            },
+            {
+              "start_timestamp": 105,
+              "end_timestamp": 108,
+              "content": "就是左侧1234"
+            },
+            {
+              "start_timestamp": 108,
+              "end_timestamp": 110,
+              "content": "这四块是什么情况呢"
+            },
+            {
+              "start_timestamp": 110,
+              "end_timestamp": 113,
+              "content": "这里的话是看那个指数的题材指数"
+            },
+            {
+              "start_timestamp": 113,
+              "end_timestamp": 114,
+              "content": "各个板块的指数"
+            },
+            {
+              "start_timestamp": 114,
+              "end_timestamp": 115,
+              "content": "用同花顺一级"
+            },
+            {
+              "start_timestamp": 115,
+              "end_timestamp": 118,
+              "content": "或者说一级行业这样的一个东西去看"
+            },
+            {
+              "start_timestamp": 118,
+              "end_timestamp": 121,
+              "content": "也可以通过这里有四个参数啊"
+            },
+            {
+              "start_timestamp": 121,
+              "end_timestamp": 122,
+              "content": "一个是涨幅"
+            },
+            {
+              "start_timestamp": 122,
+              "end_timestamp": 123,
+              "content": "涨速"
+            },
+            {
+              "start_timestamp": 123,
+              "end_timestamp": 124,
+              "content": "涨停数量"
+            },
+            {
+              "start_timestamp": 124,
+              "end_timestamp": 126,
+              "content": "主力金额嗯"
+            },
+            {
+              "start_timestamp": 126,
+              "end_timestamp": 128,
+              "content": "同花顺一级这个电池啊"
+            },
+            {
+              "start_timestamp": 128,
+              "end_timestamp": 130,
+              "content": "跟那个一级行业的电池里面的"
+            },
+            {
+              "start_timestamp": 130,
+              "end_timestamp": 133,
+              "content": "那他们的里面的那个它里面的成分股不一样"
+            },
+            {
+              "start_timestamp": 133,
+              "end_timestamp": 135,
+              "content": "所以说他们是有差异的"
+            },
+            {
+              "start_timestamp": 135,
+              "end_timestamp": 136,
+              "content": "所以说这里五个涨停"
+            },
+            {
+              "start_timestamp": 136,
+              "end_timestamp": 138,
+              "content": "可能跟这里的五个能力会不一样"
+            },
+            {
+              "start_timestamp": 138,
+              "end_timestamp": 139,
+              "content": "那我再去截"
+            },
+            {
+              "start_timestamp": 139,
+              "end_timestamp": 142,
+              "content": "比如说大家可以看通用设备涨这么多对吧"
+            },
+            {
+              "start_timestamp": 142,
+              "end_timestamp": 145,
+              "content": "这边通用设备对他的这个涨停数量会更多"
+            },
+            {
+              "start_timestamp": 145,
+              "end_timestamp": 148,
+              "content": "因为这里的范围会更宽泛一点"
+            },
+            {
+              "start_timestamp": 148,
+              "end_timestamp": 150,
+              "content": "只要你稍微带一点"
+            },
+            {
+              "start_timestamp": 150,
+              "end_timestamp": 151,
+              "content": "比如说机性的概念"
+            },
+            {
+              "start_timestamp": 151,
+              "end_timestamp": 152,
+              "content": "我就把它放进去了"
+            },
+            {
+              "start_timestamp": 152,
+              "end_timestamp": 154,
+              "content": "那这儿大家可以看一下"
+            },
+            {
+              "start_timestamp": 154,
+              "end_timestamp": 156,
+              "content": "他更多是把它放到通用设备里面去了"
+            },
+            {
+              "start_timestamp": 156,
+              "end_timestamp": 157,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 157,
+              "end_timestamp": 159,
+              "content": "所以说这个里面的成分股概念股"
+            },
+            {
+              "start_timestamp": 159,
+              "end_timestamp": 162,
+              "content": "大概要有一个啊了解区分就可以了"
+            },
+            {
+              "start_timestamp": 162,
+              "end_timestamp": 163,
+              "content": "这是这个情况"
+            },
+            {
+              "start_timestamp": 163,
+              "end_timestamp": 165,
+              "content": "那我们平时竞价的时候"
+            },
+            {
+              "start_timestamp": 165,
+              "end_timestamp": 166,
+              "content": "我们可以看一眼对吧"
+            },
+            {
+              "start_timestamp": 166,
+              "end_timestamp": 167,
+              "content": "谁涨幅靠前"
+            },
+            {
+              "start_timestamp": 167,
+              "end_timestamp": 169,
+              "content": "这个就可能涉及到看盘的一些东西了"
+            },
+            {
+              "start_timestamp": 169,
+              "end_timestamp": 170,
+              "content": "我大概讲一讲好吧"
+            },
+            {
+              "start_timestamp": 170,
+              "end_timestamp": 172,
+              "content": "就是谁涨幅靠前"
+            },
+            {
+              "start_timestamp": 172,
+              "end_timestamp": 172,
+              "content": "谁涨幅靠后"
+            },
+            {
+              "start_timestamp": 172,
+              "end_timestamp": 173,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 173,
+              "end_timestamp": 175,
+              "content": "你知道今天可能哪个方向"
+            },
+            {
+              "start_timestamp": 175,
+              "end_timestamp": 176,
+              "content": "如果说涨幅最高"
+            },
+            {
+              "start_timestamp": 176,
+              "end_timestamp": 178,
+              "content": "然后开盘走强对吧"
+            },
+            {
+              "start_timestamp": 181,
+              "end_timestamp": 182,
+              "content": "也有可能对吧"
+            },
+            {
+              "start_timestamp": 182,
+              "end_timestamp": 184,
+              "content": "那包括像一些这样的银行呀"
+            },
+            {
+              "start_timestamp": 184,
+              "end_timestamp": 185,
+              "content": "证券的关键指数"
+            },
+            {
+              "start_timestamp": 185,
+              "end_timestamp": 187,
+              "content": "他们是维护盘面的"
+            },
+            {
+              "start_timestamp": 187,
+              "end_timestamp": 189,
+              "content": "所以说通过这样的方式去看"
+            },
+            {
+              "start_timestamp": 189,
+              "end_timestamp": 190,
+              "content": "那开盘看一下涨速"
+            },
+            {
+              "start_timestamp": 190,
+              "end_timestamp": 192,
+              "content": "看一下跌数对吧"
+            },
+            {
+              "start_timestamp": 192,
+              "end_timestamp": 194,
+              "content": "包括一些就是涨停数量"
+            },
+            {
+              "start_timestamp": 194,
+              "end_timestamp": 197,
+              "content": "包括主力流入流出的一个情况"
+            },
+            {
+              "start_timestamp": 197,
+              "end_timestamp": 198,
+              "content": "是这样子的"
+            },
+            {
+              "start_timestamp": 198,
+              "end_timestamp": 199,
+              "content": "这是第一块的一个内容"
+            },
+            {
+              "start_timestamp": 199,
+              "end_timestamp": 200,
+              "content": "那第二块是什么呢"
+            },
+            {
+              "start_timestamp": 200,
+              "end_timestamp": 203,
+              "content": "就是这一块大家自定义就好了"
+            },
+            {
+              "start_timestamp": 203,
+              "end_timestamp": 204,
+              "content": "这一块我是做什么的"
+            },
+            {
+              "start_timestamp": 204,
+              "end_timestamp": 206,
+              "content": "我是把一些关键的题材指数啊放在这"
+            },
+            {
+              "start_timestamp": 206,
+              "end_timestamp": 208,
+              "content": "那近期活跃的deep sick对吧"
+            },
+            {
+              "start_timestamp": 208,
+              "end_timestamp": 209,
+              "content": "那个算力啊同蓝啊"
+            },
+            {
+              "start_timestamp": 209,
+              "end_timestamp": 211,
+              "content": "包括人形机器人真座舱"
+            },
+            {
+              "start_timestamp": 211,
+              "end_timestamp": 212,
+              "content": "因为最近比亚迪涨得好嘛"
+            },
+            {
+              "start_timestamp": 212,
+              "end_timestamp": 214,
+              "content": "所以说我把它放在这嗯"
+            },
+            {
+              "start_timestamp": 214,
+              "end_timestamp": 218,
+              "content": "对这里的话就偏就是偏大局观一些东西了"
+            },
+            {
+              "start_timestamp": 218,
+              "end_timestamp": 221,
+              "content": "就比如说额这里是离岸的人民币汇率"
+            },
+            {
+              "start_timestamp": 221,
+              "end_timestamp": 223,
+              "content": "这里是A50的一个走势"
+            },
+            {
+              "start_timestamp": 223,
+              "end_timestamp": 226,
+              "content": "A50是在新加坡交易的一个期货品种啊"
+            },
+            {
+              "start_timestamp": 226,
+              "end_timestamp": 228,
+              "content": "就是他对A股这边有一定的价格发现"
+            },
+            {
+              "start_timestamp": 228,
+              "end_timestamp": 230,
+              "content": "跟那个引导的一个呃作用"
+            },
+            {
+              "start_timestamp": 230,
+              "end_timestamp": 231,
+              "content": "所以说把它放在这"
+            },
+            {
+              "start_timestamp": 231,
+              "end_timestamp": 235,
+              "content": "那第三是像是最近比较大的几个权重了"
+            },
+            {
+              "start_timestamp": 235,
+              "end_timestamp": 237,
+              "content": "宁德时代东方财富"
+            },
+            {
+              "start_timestamp": 237,
+              "end_timestamp": 238,
+              "content": "那个贵州茅台"
+            },
+            {
+              "start_timestamp": 238,
+              "end_timestamp": 239,
+              "content": "这几个会一直放在这"
+            },
+            {
+              "start_timestamp": 239,
+              "end_timestamp": 242,
+              "content": "因为有时候盘面就是权重护盘的时候"
+            },
+            {
+              "start_timestamp": 242,
+              "end_timestamp": 244,
+              "content": "能够明显的感觉到他们会高开"
+            },
+            {
+              "start_timestamp": 244,
+              "end_timestamp": 246,
+              "content": "或者说动好吧"
+            },
+            {
+              "start_timestamp": 246,
+              "end_timestamp": 249,
+              "content": "比亚迪他最近就是因为这个形态做的非常好吧"
+            },
+            {
+              "start_timestamp": 249,
+              "end_timestamp": 249,
+              "content": "把它放在这儿"
+            },
+            {
+              "start_timestamp": 249,
+              "end_timestamp": 251,
+              "content": "这是偏大局观的一部分"
+            },
+            {
+              "start_timestamp": 251,
+              "end_timestamp": 252,
+              "content": "主要是题材"
+            },
+            {
+              "start_timestamp": 252,
+              "end_timestamp": 253,
+              "content": "也是大局观"
+            },
+            {
+              "start_timestamp": 253,
+              "end_timestamp": 255,
+              "content": "对这块上面半部分我放的是大局观"
+            },
+            {
+              "start_timestamp": 255,
+              "end_timestamp": 257,
+              "content": "那下半部分或放什么呢"
+            },
+            {
+              "start_timestamp": 257,
+              "end_timestamp": 260,
+              "content": "放一些当日对盘面影响最大的一些"
+            },
+            {
+              "start_timestamp": 260,
+              "end_timestamp": 262,
+              "content": "情绪风标什么的对吧"
+            },
+            {
+              "start_timestamp": 262,
+              "end_timestamp": 265,
+              "content": "这两个跌停那肯定是今天的空头封标对吧"
+            },
+            {
+              "start_timestamp": 265,
+              "end_timestamp": 266,
+              "content": "大致是这个意思啊"
+            },
+            {
+              "start_timestamp": 266,
+              "end_timestamp": 270,
+              "content": "然后下边的话因为只要做过情绪封标的一些票"
+            },
+            {
+              "start_timestamp": 270,
+              "end_timestamp": 273,
+              "content": "他就有资格就是待在这里面多待一段时间"
+            },
+            {
+              "start_timestamp": 273,
+              "end_timestamp": 276,
+              "content": "所以说我这儿也积累了接近四四百个的"
+            },
+            {
+              "start_timestamp": 276,
+              "end_timestamp": 278,
+              "content": "那个1000的一些情绪封标吧对吧"
+            },
+            {
+              "start_timestamp": 278,
+              "end_timestamp": 279,
+              "content": "我随便说一个"
+            },
+            {
+              "start_timestamp": 279,
+              "end_timestamp": 281,
+              "content": "大家应应该都会有印象"
+            },
+            {
+              "start_timestamp": 281,
+              "end_timestamp": 282,
+              "content": "像是什么社保对吧"
+            },
+            {
+              "start_timestamp": 282,
+              "end_timestamp": 283,
+              "content": "那个很久远了"
+            },
+            {
+              "start_timestamp": 283,
+              "end_timestamp": 286,
+              "content": "这保华脉像是长山对吧"
+            },
+            {
+              "start_timestamp": 286,
+              "end_timestamp": 289,
+              "content": "这些都是以前的一些辨识度"
+            },
+            {
+              "start_timestamp": 289,
+              "end_timestamp": 290,
+              "content": "把它放在里面"
+            },
+            {
+              "start_timestamp": 290,
+              "end_timestamp": 291,
+              "content": "如果说你进价的时候"
+            },
+            {
+              "start_timestamp": 291,
+              "end_timestamp": 292,
+              "content": "你看一眼哎"
+            },
+            {
+              "start_timestamp": 292,
+              "end_timestamp": 294,
+              "content": "谁竞价金额很大"
+            },
+            {
+              "start_timestamp": 294,
+              "end_timestamp": 295,
+              "content": "或者11涨幅靠前"
+            },
+            {
+              "start_timestamp": 295,
+              "end_timestamp": 296,
+              "content": "或者说谁直接一字封板了"
+            },
+            {
+              "start_timestamp": 296,
+              "end_timestamp": 297,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 297,
+              "end_timestamp": 298,
+              "content": "可以看一下呃"
+            },
+            {
+              "start_timestamp": 298,
+              "end_timestamp": 300,
+              "content": "点这个是可以排序的"
+            },
+            {
+              "start_timestamp": 300,
+              "end_timestamp": 301,
+              "content": "正排序"
+            },
+            {
+              "start_timestamp": 301,
+              "end_timestamp": 302,
+              "content": "这是逆排序"
+            },
+            {
+              "start_timestamp": 302,
+              "end_timestamp": 303,
+              "content": "这是涨幅靠前"
+            },
+            {
+              "start_timestamp": 303,
+              "end_timestamp": 306,
+              "content": "这跌幅靠前是最多加数"
+            },
+            {
+              "start_timestamp": 306,
+              "end_timestamp": 308,
+              "content": "最少加数是零对"
+            },
+            {
+              "start_timestamp": 308,
+              "end_timestamp": 309,
+              "content": "大概是这个意思"
+            },
+            {
+              "start_timestamp": 309,
+              "end_timestamp": 311,
+              "content": "所以说这是第二块的一个东西"
+            },
+            {
+              "start_timestamp": 311,
+              "end_timestamp": 311,
+              "content": "第三块的话"
+            },
+            {
+              "start_timestamp": 311,
+              "end_timestamp": 316,
+              "content": "因为说实话就是在四板以上的股票以前很少额"
+            },
+            {
+              "start_timestamp": 316,
+              "end_timestamp": 317,
+              "content": "所以说一直是这样规划的"
+            },
+            {
+              "start_timestamp": 317,
+              "end_timestamp": 318,
+              "content": "就400以上的"
+            },
+            {
+              "start_timestamp": 318,
+              "end_timestamp": 320,
+              "content": "我就把它放到一起了"
+            },
+            {
+              "start_timestamp": 320,
+              "end_timestamp": 322,
+              "content": "目前阶段其实退潮期大概我明显感觉到对吧"
+            },
+            {
+              "start_timestamp": 322,
+              "end_timestamp": 323,
+              "content": "就只有三只"
+            },
+            {
+              "start_timestamp": 323,
+              "end_timestamp": 324,
+              "content": "只有三只"
+            },
+            {
+              "start_timestamp": 324,
+              "end_timestamp": 327,
+              "content": "然后就OK但是有时候会出现出现一个问题啊"
+            },
+            {
+              "start_timestamp": 327,
+              "end_timestamp": 329,
+              "content": "嗯如果说市场情绪特别好的话"
+            },
+            {
+              "start_timestamp": 329,
+              "end_timestamp": 331,
+              "content": "4万以上的票可能二三十只"
+            },
+            {
+              "start_timestamp": 331,
+              "end_timestamp": 332,
+              "content": "那个时候就比较冗余了"
+            },
+            {
+              "start_timestamp": 332,
+              "end_timestamp": 334,
+              "content": "那到时候自己再安排一下对吧"
+            },
+            {
+              "start_timestamp": 334,
+              "end_timestamp": 337,
+              "content": "嗯或者说你把这个界面单独的弄到哪呢"
+            },
+            {
+              "start_timestamp": 337,
+              "end_timestamp": 340,
+              "content": "单独弄到在这儿新建一个板块儿"
+            },
+            {
+              "start_timestamp": 340,
+              "end_timestamp": 344,
+              "content": "你再那个把它单独的来看大局观跟情绪的部分"
+            },
+            {
+              "start_timestamp": 344,
+              "end_timestamp": 346,
+              "content": "那就把这个地方解放出来"
+            },
+            {
+              "start_timestamp": 346,
+              "end_timestamp": 347,
+              "content": "你就完全给到他了"
+            },
+            {
+              "start_timestamp": 347,
+              "end_timestamp": 350,
+              "content": "四版及以上股票放这二三十只得看对吧"
+            },
+            {
+              "start_timestamp": 350,
+              "end_timestamp": 352,
+              "content": "是这个意思"
+            },
+            {
+              "start_timestamp": 352,
+              "end_timestamp": 354,
+              "content": "然后三板的话三版就放在这儿"
+            },
+            {
+              "start_timestamp": 354,
+              "end_timestamp": 357,
+              "content": "然后二板的票股票放在这这个地方"
+            },
+            {
+              "start_timestamp": 357,
+              "end_timestamp": 359,
+              "content": "要对股票进行一个排序啊"
+            },
+            {
+              "start_timestamp": 359,
+              "end_timestamp": 362,
+              "content": "就根据他的那个个股的地位跟顺位"
+            },
+            {
+              "start_timestamp": 362,
+              "end_timestamp": 363,
+              "content": "进行一个排序"
+            },
+            {
+              "start_timestamp": 363,
+              "end_timestamp": 365,
+              "content": "那后边的话以后有机会会给大家分享"
+            },
+            {
+              "start_timestamp": 365,
+              "end_timestamp": 367,
+              "content": "他们的一个排序关系好吧"
+            },
+            {
+              "start_timestamp": 367,
+              "end_timestamp": 370,
+              "content": "然后这里的话是是沪深A股"
+            },
+            {
+              "start_timestamp": 370,
+              "end_timestamp": 371,
+              "content": "沪深A股"
+            },
+            {
+              "start_timestamp": 371,
+              "end_timestamp": 373,
+              "content": "这里是看所有股票的"
+            },
+            {
+              "start_timestamp": 373,
+              "end_timestamp": 375,
+              "content": "你可以看它进价涨幅涨幅"
+            },
+            {
+              "start_timestamp": 375,
+              "end_timestamp": 377,
+              "content": "这进进竞价涨幅"
+            },
+            {
+              "start_timestamp": 377,
+              "end_timestamp": 380,
+              "content": "竞价金额未匹配跟涨速好吧"
+            },
+            {
+              "start_timestamp": 380,
+              "end_timestamp": 382,
+              "content": "看这个地方要做一个切换"
+            },
+            {
+              "start_timestamp": 382,
+              "end_timestamp": 383,
+              "content": "因为你看到二版的手板在哪呢"
+            },
+            {
+              "start_timestamp": 383,
+              "end_timestamp": 386,
+              "content": "手板在这就是盘中临时切换"
+            },
+            {
+              "start_timestamp": 386,
+              "end_timestamp": 388,
+              "content": "镜下去看一眼手板有哪些票"
+            },
+            {
+              "start_timestamp": 388,
+              "end_timestamp": 389,
+              "content": "然后这样切换"
+            },
+            {
+              "start_timestamp": 389,
+              "end_timestamp": 390,
+              "content": "这样去看"
+            },
+            {
+              "start_timestamp": 390,
+              "end_timestamp": 391,
+              "content": "我是这样去做的"
+            },
+            {
+              "start_timestamp": 391,
+              "end_timestamp": 393,
+              "content": "如果说你的盘面够大"
+            },
+            {
+              "start_timestamp": 393,
+              "end_timestamp": 394,
+              "content": "你可以再分一个"
+            },
+            {
+              "start_timestamp": 394,
+              "end_timestamp": 395,
+              "content": "这里是哪个一板"
+            },
+            {
+              "start_timestamp": 395,
+              "end_timestamp": 397,
+              "content": "这也是整个市场的一个情况好吧"
+            },
+            {
+              "start_timestamp": 397,
+              "end_timestamp": 399,
+              "content": "那这是左侧的一个区域"
+            },
+            {
+              "start_timestamp": 399,
+              "end_timestamp": 401,
+              "content": "那右侧区域呢这个一个是分时图对吧"
+            },
+            {
+              "start_timestamp": 401,
+              "end_timestamp": 403,
+              "content": "第二个是日K图"
+            },
+            {
+              "start_timestamp": 403,
+              "end_timestamp": 405,
+              "content": "这里可以改五写五分K这样一个情况"
+            },
+            {
+              "start_timestamp": 405,
+              "end_timestamp": 407,
+              "content": "那这里就是一个盘口了"
+            },
+            {
+              "start_timestamp": 407,
+              "end_timestamp": 409,
+              "content": "盘口信息这里就是短线精灵"
+            },
+            {
+              "start_timestamp": 409,
+              "end_timestamp": 410,
+              "content": "那短线精灵在这一块"
+            },
+            {
+              "start_timestamp": 410,
+              "end_timestamp": 413,
+              "content": "虽然说你别看它占的位置比较小"
+            },
+            {
+              "start_timestamp": 413,
+              "end_timestamp": 414,
+              "content": "但它也非常重要"
+            },
+            {
+              "start_timestamp": 414,
+              "end_timestamp": 415,
+              "content": "好吧"
+            },
+            {
+              "start_timestamp": 415,
+              "end_timestamp": 419,
+              "content": "那好我们进入正式的那个嗯旁边设置界面"
+            },
+            {
+              "start_timestamp": 419,
+              "end_timestamp": 420,
+              "content": "大家看好了"
+            },
+            {
+              "start_timestamp": 420,
+              "end_timestamp": 422,
+              "content": "这里是1234"
+            },
+            {
+              "start_timestamp": 422,
+              "end_timestamp": 425,
+              "content": "是不是这样看会有四个对吧"
+            },
+            {
+              "start_timestamp": 425,
+              "end_timestamp": 426,
+              "content": "往下有"
+            },
+            {
+              "start_timestamp": 426,
+              "end_timestamp": 427,
+              "content": "这有四个"
+            },
+            {
+              "start_timestamp": 427,
+              "end_timestamp": 427,
+              "content": "只有两个"
+            },
+            {
+              "start_timestamp": 427,
+              "end_timestamp": 430,
+              "content": "这有两个这两个那基本上就是八块"
+            },
+            {
+              "start_timestamp": 430,
+              "end_timestamp": 432,
+              "content": "我先建吧"
+            },
+            {
+              "start_timestamp": 432,
+              "end_timestamp": 435,
+              "content": "那么大概建成这样一个把它拖过去"
+            },
+            {
+              "start_timestamp": 435,
+              "end_timestamp": 441,
+              "content": "但我们这里的话就是呃上插入上插入一部分"
+            },
+            {
+              "start_timestamp": 441,
+              "end_timestamp": 443,
+              "content": "再上插入再下插入"
+            },
+            {
+              "start_timestamp": 443,
+              "end_timestamp": 444,
+              "content": "上插入就可以了"
+            },
+            {
+              "start_timestamp": 444,
+              "end_timestamp": 445,
+              "content": "对这四块对吧"
+            },
+            {
+              "start_timestamp": 445,
+              "end_timestamp": 448,
+              "content": "这里的话是是不是我们的那个呃"
+            },
+            {
+              "start_timestamp": 448,
+              "end_timestamp": 450,
+              "content": "这个地方我们得重新弄一下"
+            },
+            {
+              "start_timestamp": 450,
+              "end_timestamp": 454,
+              "content": "我们要保证他们俩滑动的话要是一起的"
+            },
+            {
+              "start_timestamp": 454,
+              "end_timestamp": 456,
+              "content": "所以说这两个栏目它不对"
+            },
+            {
+              "start_timestamp": 456,
+              "end_timestamp": 457,
+              "content": "那我们就全部删了出来吧"
+            },
+            {
+              "start_timestamp": 457,
+              "end_timestamp": 460,
+              "content": "我保证就是比如说这根线挪动的时候"
+            },
+            {
+              "start_timestamp": 460,
+              "end_timestamp": 462,
+              "content": "他们四个是一起挪动的对吧"
+            },
+            {
+              "start_timestamp": 462,
+              "end_timestamp": 463,
+              "content": "我要保证这个事情"
+            },
+            {
+              "start_timestamp": 463,
+              "end_timestamp": 465,
+              "content": "那先先删了"
+            },
+            {
+              "start_timestamp": 465,
+              "end_timestamp": 465,
+              "content": "重来吧"
+            },
+            {
+              "start_timestamp": 465,
+              "end_timestamp": 467,
+              "content": "好那是不是左插入呀"
+            },
+            {
+              "start_timestamp": 467,
+              "end_timestamp": 470,
+              "content": "左插入就能保证他们哎这根是一起的"
+            },
+            {
+              "start_timestamp": 470,
+              "end_timestamp": 472,
+              "content": "所以说任意上插入一个好"
+            },
+            {
+              "start_timestamp": 472,
+              "end_timestamp": 473,
+              "content": "下插入就可以了"
+            },
+            {
+              "start_timestamp": 473,
+              "end_timestamp": 477,
+              "content": "额这里的话还得还得分分成四个区域对吧"
+            },
+            {
+              "start_timestamp": 477,
+              "end_timestamp": 479,
+              "content": "那左插入右插入就可以了"
+            },
+            {
+              "start_timestamp": 479,
+              "end_timestamp": 480,
+              "content": "那左插入吧"
+            },
+            {
+              "start_timestamp": 480,
+              "end_timestamp": 481,
+              "content": "右插入哦"
+            },
+            {
+              "start_timestamp": 481,
+              "end_timestamp": 485,
+              "content": "上插入双插入那区域就划分好了"
+            },
+            {
+              "start_timestamp": 485,
+              "end_timestamp": 487,
+              "content": "那我们添加组件吧"
+            },
+            {
+              "start_timestamp": 487,
+              "end_timestamp": 491,
+              "content": "呃可以在这点一下组件库可以出来"
+            },
+            {
+              "start_timestamp": 491,
+              "end_timestamp": 492,
+              "content": "也可以直接右键添加好吧"
+            },
+            {
+              "start_timestamp": 492,
+              "end_timestamp": 493,
+              "content": "我们直接右键添加"
+            },
+            {
+              "start_timestamp": 493,
+              "end_timestamp": 494,
+              "content": "添加什么内容呢"
+            },
+            {
+              "start_timestamp": 494,
+              "end_timestamp": 497,
+              "content": "那第一个是不是是同花顺的一个东西对吧"
+            },
+            {
+              "start_timestamp": 497,
+              "end_timestamp": 498,
+              "content": "我直接搜好吗"
+            },
+            {
+              "start_timestamp": 498,
+              "end_timestamp": 502,
+              "content": "同花顺同花顺的一个指数放在这左选中它"
+            },
+            {
+              "start_timestamp": 502,
+              "end_timestamp": 505,
+              "content": "然后左键挪动它就过过来了"
+            },
+            {
+              "start_timestamp": 505,
+              "end_timestamp": 506,
+              "content": "这是同花顺的一个指数好吧"
+            },
+            {
+              "start_timestamp": 506,
+              "end_timestamp": 508,
+              "content": "那这个地方就是可以看到那个"
+            },
+            {
+              "start_timestamp": 508,
+              "end_timestamp": 510,
+              "content": "这个地方的那个表头啊"
+            },
+            {
+              "start_timestamp": 510,
+              "end_timestamp": 511,
+              "content": "表头我待会教大家设置"
+            },
+            {
+              "start_timestamp": 511,
+              "end_timestamp": 513,
+              "content": "我先把这个设置好"
+            },
+            {
+              "start_timestamp": 513,
+              "end_timestamp": 514,
+              "content": "那这是第一块"
+            },
+            {
+              "start_timestamp": 514,
+              "end_timestamp": 516,
+              "content": "第二块是不是这里就添加"
+            },
+            {
+              "start_timestamp": 516,
+              "end_timestamp": 517,
+              "content": "开始添加自定义板块了"
+            },
+            {
+              "start_timestamp": 517,
+              "end_timestamp": 520,
+              "content": "自定义板块这里全是自定义板块"
+            },
+            {
+              "start_timestamp": 520,
+              "end_timestamp": 521,
+              "content": "自定义板块"
+            },
+            {
+              "start_timestamp": 521,
+              "end_timestamp": 522,
+              "content": "自定义板块"
+            },
+            {
+              "start_timestamp": 522,
+              "end_timestamp": 524,
+              "content": "那自定义板块这边就添加完成了"
+            },
+            {
+              "start_timestamp": 524,
+              "end_timestamp": 526,
+              "content": "这个地方是不是要添加分时啊"
+            },
+            {
+              "start_timestamp": 526,
+              "end_timestamp": 527,
+              "content": "分普通看分时图"
+            },
+            {
+              "start_timestamp": 527,
+              "end_timestamp": 529,
+              "content": "那么点分时图"
+            },
+            {
+              "start_timestamp": 529,
+              "end_timestamp": 531,
+              "content": "点第一个普通分时图就可以了"
+            },
+            {
+              "start_timestamp": 531,
+              "end_timestamp": 533,
+              "content": "这是股票的一个分时啊"
+            },
+            {
+              "start_timestamp": 533,
+              "end_timestamp": 535,
+              "content": "这里还放的是指数啊"
+            },
+            {
+              "start_timestamp": 535,
+              "end_timestamp": 537,
+              "content": "待会我们再调一下好"
+            },
+            {
+              "start_timestamp": 537,
+              "end_timestamp": 540,
+              "content": "这个地方也是普通K线图"
+            },
+            {
+              "start_timestamp": 540,
+              "end_timestamp": 542,
+              "content": "真的是盘口了"
+            },
+            {
+              "start_timestamp": 542,
+              "end_timestamp": 544,
+              "content": "盘口的内容应该是行情信息"
+            },
+            {
+              "start_timestamp": 544,
+              "end_timestamp": 546,
+              "content": "盘口普通行情信息就可以了"
+            },
+            {
+              "start_timestamp": 546,
+              "end_timestamp": 547,
+              "content": "这里要调一下"
+            },
+            {
+              "start_timestamp": 547,
+              "end_timestamp": 549,
+              "content": "你要把那个这里是可以挪动的"
+            },
+            {
+              "start_timestamp": 549,
+              "end_timestamp": 550,
+              "content": "应该把这个盘口调出来"
+            },
+            {
+              "start_timestamp": 550,
+              "end_timestamp": 552,
+              "content": "大小也会给它调一下"
+            },
+            {
+              "start_timestamp": 552,
+              "end_timestamp": 555,
+              "content": "然后这里添加就是行情信息啊"
+            },
+            {
+              "start_timestamp": 555,
+              "end_timestamp": 558,
+              "content": "盘口添加一个短线精灵好吧"
+            },
+            {
+              "start_timestamp": 558,
+              "end_timestamp": 559,
+              "content": "那现在内容有了"
+            },
+            {
+              "start_timestamp": 559,
+              "end_timestamp": 561,
+              "content": "我们调一下它的范围"
+            },
+            {
+              "start_timestamp": 561,
+              "end_timestamp": 562,
+              "content": "我们要保证什么呢"
+            },
+            {
+              "start_timestamp": 562,
+              "end_timestamp": 564,
+              "content": "保证这四个表头涨幅"
+            },
+            {
+              "start_timestamp": 564,
+              "end_timestamp": 565,
+              "content": "金价涨幅"
+            },
+            {
+              "start_timestamp": 565,
+              "end_timestamp": 568,
+              "content": "竞价金额未匹配跟涨速要把漏出来"
+            },
+            {
+              "start_timestamp": 568,
+              "end_timestamp": 571,
+              "content": "那这里看起来是不是左侧空间太大了"
+            },
+            {
+              "start_timestamp": 571,
+              "end_timestamp": 573,
+              "content": "我们就在这个地方再挪一下"
+            },
+            {
+              "start_timestamp": 573,
+              "end_timestamp": 574,
+              "content": "给他让点位置"
+            },
+            {
+              "start_timestamp": 574,
+              "end_timestamp": 575,
+              "content": "这样就让让出来很多位置嘛"
+            },
+            {
+              "start_timestamp": 575,
+              "end_timestamp": 577,
+              "content": "把这个就给他这样挪一下"
+            },
+            {
+              "start_timestamp": 577,
+              "end_timestamp": 578,
+              "content": "这有点看不到了"
+            },
+            {
+              "start_timestamp": 578,
+              "end_timestamp": 581,
+              "content": "可以把这个往左边挪一下啊"
+            },
+            {
+              "start_timestamp": 581,
+              "end_timestamp": 583,
+              "content": "OK大概这个意思啊"
+            },
+            {
+              "start_timestamp": 583,
+              "end_timestamp": 586,
+              "content": "嗯保证这四个能够全部看到"
+            },
+            {
+              "start_timestamp": 586,
+              "end_timestamp": 587,
+              "content": "那这个地方也是啊"
+            },
+            {
+              "start_timestamp": 587,
+              "end_timestamp": 588,
+              "content": "要挪过去"
+            },
+            {
+              "start_timestamp": 588,
+              "end_timestamp": 590,
+              "content": "那保证他们全部能看到了"
+            },
+            {
+              "start_timestamp": 590,
+              "end_timestamp": 593,
+              "content": "我们尽量把那个分时图那个东西弄大一点好"
+            },
+            {
+              "start_timestamp": 593,
+              "end_timestamp": 594,
+              "content": "这要给他一点空间"
+            },
+            {
+              "start_timestamp": 594,
+              "end_timestamp": 598,
+              "content": "那这样子基本上盘面设计比较好看了对吧"
+            },
+            {
+              "start_timestamp": 598,
+              "end_timestamp": 598,
+              "content": "呃"
+            },
+            {
+              "start_timestamp": 598,
+              "end_timestamp": 601,
+              "content": "然后我们这个地方大家自己根据自己的需要吧"
+            },
+            {
+              "start_timestamp": 601,
+              "end_timestamp": 602,
+              "content": "拖一拖"
+            },
+            {
+              "start_timestamp": 602,
+              "end_timestamp": 603,
+              "content": "能保证信息能全部看到"
+            },
+            {
+              "start_timestamp": 603,
+              "end_timestamp": 606,
+              "content": "然后呢又不至于那个OK让点位置吧"
+            },
+            {
+              "start_timestamp": 606,
+              "end_timestamp": 608,
+              "content": "好那基本上这里就OK了对吧"
+            },
+            {
+              "start_timestamp": 608,
+              "end_timestamp": 611,
+              "content": "呃我们现在这一块基本上设置完成了对吧好"
+            },
+            {
+              "start_timestamp": 611,
+              "end_timestamp": 613,
+              "content": "我们这里给他先保存"
+            },
+            {
+              "start_timestamp": 613,
+              "end_timestamp": 614,
+              "content": "保存之后呢"
+            },
+            {
+              "start_timestamp": 614,
+              "end_timestamp": 616,
+              "content": "给它编辑一下修改页面信息"
+            },
+            {
+              "start_timestamp": 616,
+              "end_timestamp": 618,
+              "content": "这里它就是一个唤醒键嘛"
+            },
+            {
+              "start_timestamp": 618,
+              "end_timestamp": 620,
+              "content": "就是你怎么去把它唤醒"
+            },
+            {
+              "start_timestamp": 620,
+              "end_timestamp": 622,
+              "content": "就是你需要用它的时候"
+            },
+            {
+              "start_timestamp": 622,
+              "end_timestamp": 624,
+              "content": "你不能就每次啊怎么找到这个界面呢"
+            },
+            {
+              "start_timestamp": 624,
+              "end_timestamp": 625,
+              "content": "很简单"
+            },
+            {
+              "start_timestamp": 625,
+              "end_timestamp": 627,
+              "content": "就刚刚这里有一个快捷键嘛"
+            },
+            {
+              "start_timestamp": 627,
+              "end_timestamp": 628,
+              "content": "修改的这个点幺三呃"
+            },
+            {
+              "start_timestamp": 628,
+              "end_timestamp": 631,
+              "content": "这个快捷键是大家可以自己去修改的"
+            },
+            {
+              "start_timestamp": 631,
+              "end_timestamp": 632,
+              "content": "当然有些被占用了"
+            },
+            {
+              "start_timestamp": 632,
+              "end_timestamp": 634,
+              "content": "比如说点一零被这个占用了"
+            },
+            {
+              "start_timestamp": 634,
+              "end_timestamp": 636,
+              "content": "我点一二被被其他另外两个占用了"
+            },
+            {
+              "start_timestamp": 636,
+              "end_timestamp": 637,
+              "content": "你得找版本找到"
+            },
+            {
+              "start_timestamp": 637,
+              "end_timestamp": 638,
+              "content": "先删除"
+            },
+            {
+              "start_timestamp": 638,
+              "end_timestamp": 640,
+              "content": "然后呢把它改成点幺幺对吧"
+            },
+            {
+              "start_timestamp": 640,
+              "end_timestamp": 642,
+              "content": "点幺幺这个重复了"
+            },
+            {
+              "start_timestamp": 642,
+              "end_timestamp": 645,
+              "content": "因为我这之前建了一个其他的没有删掉"
+            },
+            {
+              "start_timestamp": 645,
+              "end_timestamp": 647,
+              "content": "我们就先用点一三唤醒它吧"
+            },
+            {
+              "start_timestamp": 647,
+              "end_timestamp": 649,
+              "content": "就这样子就可以唤醒它了对吧"
+            },
+            {
+              "start_timestamp": 649,
+              "end_timestamp": 651,
+              "content": "比如说回到任何一个界面"
+            },
+            {
+              "start_timestamp": 651,
+              "end_timestamp": 653,
+              "content": "点一三马上就回到这里去了"
+            },
+            {
+              "start_timestamp": 653,
+              "end_timestamp": 654,
+              "content": "就这样去打开的"
+            },
+            {
+              "start_timestamp": 654,
+              "end_timestamp": 654,
+              "content": "好吧好"
+            },
+            {
+              "start_timestamp": 654,
+              "end_timestamp": 656,
+              "content": "这个界面算是设置完成了"
+            },
+            {
+              "start_timestamp": 656,
+              "end_timestamp": 658,
+              "content": "我们设置一下表头现在短线经济的参数"
+            },
+            {
+              "start_timestamp": 658,
+              "end_timestamp": 660,
+              "content": "那表头这里怎么去设置呢"
+            },
+            {
+              "start_timestamp": 660,
+              "end_timestamp": 662,
+              "content": "这点一下编辑表头"
+            },
+            {
+              "start_timestamp": 662,
+              "end_timestamp": 663,
+              "content": "编辑表头啊"
+            },
+            {
+              "start_timestamp": 663,
+              "end_timestamp": 667,
+              "content": "就是把每一个首先这儿有几个参数啊"
+            },
+            {
+              "start_timestamp": 667,
+              "end_timestamp": 669,
+              "content": "1234567"
+            },
+            {
+              "start_timestamp": 669,
+              "end_timestamp": 672,
+              "content": "那前两个代码跟名称它都是默认的吗"
+            },
+            {
+              "start_timestamp": 672,
+              "end_timestamp": 674,
+              "content": "大家直接把按顺序这样拖动"
+            },
+            {
+              "start_timestamp": 674,
+              "end_timestamp": 675,
+              "content": "拖动到这里就可以了"
+            },
+            {
+              "start_timestamp": 675,
+              "end_timestamp": 677,
+              "content": "这个是竞价涨幅"
+            },
+            {
+              "start_timestamp": 677,
+              "end_timestamp": 678,
+              "content": "还有涨幅吗"
+            },
+            {
+              "start_timestamp": 678,
+              "end_timestamp": 680,
+              "content": "那直接搜进价涨幅就可以了"
+            },
+            {
+              "start_timestamp": 680,
+              "end_timestamp": 681,
+              "content": "竞价涨幅"
+            },
+            {
+              "start_timestamp": 681,
+              "end_timestamp": 683,
+              "content": "然后是这样的"
+            },
+            {
+              "start_timestamp": 683,
+              "end_timestamp": 685,
+              "content": "就是由于同花顺版本不一样"
+            },
+            {
+              "start_timestamp": 685,
+              "end_timestamp": 688,
+              "content": "导致它这个地方可能存在一些问题"
+            },
+            {
+              "start_timestamp": 688,
+              "end_timestamp": 690,
+              "content": "就比如说可能不是这个比标题对吧"
+            },
+            {
+              "start_timestamp": 690,
+              "end_timestamp": 691,
+              "content": "这你看有两三个"
+            },
+            {
+              "start_timestamp": 691,
+              "end_timestamp": 693,
+              "content": "你可以用这个也可以用这个"
+            },
+            {
+              "start_timestamp": 693,
+              "end_timestamp": 695,
+              "content": "这个虽然名字很长对吧"
+            },
+            {
+              "start_timestamp": 695,
+              "end_timestamp": 697,
+              "content": "你你把它加进去"
+            },
+            {
+              "start_timestamp": 697,
+              "end_timestamp": 698,
+              "content": "他会可以改名字"
+            },
+            {
+              "start_timestamp": 698,
+              "end_timestamp": 699,
+              "content": "你你就把它改成进价涨幅"
+            },
+            {
+              "start_timestamp": 699,
+              "end_timestamp": 701,
+              "content": "因为刚刚那个是进价涨幅"
+            },
+            {
+              "start_timestamp": 701,
+              "end_timestamp": 702,
+              "content": "百分号百分号嘛"
+            },
+            {
+              "start_timestamp": 702,
+              "end_timestamp": 704,
+              "content": "那用竞价涨幅是可以的"
+            },
+            {
+              "start_timestamp": 704,
+              "end_timestamp": 705,
+              "content": "好他就在这"
+            },
+            {
+              "start_timestamp": 705,
+              "end_timestamp": 706,
+              "content": "你给它挪上去就可以了"
+            },
+            {
+              "start_timestamp": 706,
+              "end_timestamp": 709,
+              "content": "当然你也可以直接用这个直接用就可以了"
+            },
+            {
+              "start_timestamp": 709,
+              "end_timestamp": 710,
+              "content": "好吧呃没有关系的"
+            },
+            {
+              "start_timestamp": 710,
+              "end_timestamp": 711,
+              "content": "大概这个意思啊"
+            },
+            {
+              "start_timestamp": 711,
+              "end_timestamp": 713,
+              "content": "大家自己在这搜一搜表头就可以了"
+            },
+            {
+              "start_timestamp": 713,
+              "end_timestamp": 715,
+              "content": "这是第三个进价涨服务"
+            },
+            {
+              "start_timestamp": 715,
+              "end_timestamp": 716,
+              "content": "当然竞价涨幅跟涨幅"
+            },
+            {
+              "start_timestamp": 716,
+              "end_timestamp": 718,
+              "content": "你可以按自己的习惯的方式"
+            },
+            {
+              "start_timestamp": 718,
+              "end_timestamp": 719,
+              "content": "你你喜欢先看哪一个对吧"
+            },
+            {
+              "start_timestamp": 719,
+              "end_timestamp": 723,
+              "content": "我一般都在说相当于进价涨幅就是固定死的吗"
+            },
+            {
+              "start_timestamp": 723,
+              "end_timestamp": 724,
+              "content": "开盘之后它在动"
+            },
+            {
+              "start_timestamp": 724,
+              "end_timestamp": 727,
+              "content": "那我就把放在这前面三个那个静态的就可以了"
+            },
+            {
+              "start_timestamp": 727,
+              "end_timestamp": 728,
+              "content": "是这个意思"
+            },
+            {
+              "start_timestamp": 728,
+              "end_timestamp": 729,
+              "content": "然后就涨幅吗"
+            },
+            {
+              "start_timestamp": 729,
+              "end_timestamp": 730,
+              "content": "涨幅也是默认的吧"
+            },
+            {
+              "start_timestamp": 730,
+              "end_timestamp": 731,
+              "content": "拖到第四代就行了"
+            },
+            {
+              "start_timestamp": 731,
+              "end_timestamp": 733,
+              "content": "然后这是早盘竞价金额"
+            },
+            {
+              "start_timestamp": 733,
+              "end_timestamp": 734,
+              "content": "竞价金额"
+            },
+            {
+              "start_timestamp": 734,
+              "end_timestamp": 736,
+              "content": "这直接搜就可以了啊"
+            },
+            {
+              "start_timestamp": 736,
+              "end_timestamp": 737,
+              "content": "可以搜出两个对吧"
+            },
+            {
+              "start_timestamp": 737,
+              "end_timestamp": 738,
+              "content": "就是因为同花顺版本不一样"
+            },
+            {
+              "start_timestamp": 738,
+              "end_timestamp": 739,
+              "content": "哪怕你添加这个"
+            },
+            {
+              "start_timestamp": 739,
+              "end_timestamp": 741,
+              "content": "你改一下名字就OK了好吗"
+            },
+            {
+              "start_timestamp": 741,
+              "end_timestamp": 743,
+              "content": "呃这是一块"
+            },
+            {
+              "start_timestamp": 743,
+              "end_timestamp": 744,
+              "content": "然后再就是未匹配量"
+            },
+            {
+              "start_timestamp": 744,
+              "end_timestamp": 745,
+              "content": "未匹配金额"
+            },
+            {
+              "start_timestamp": 745,
+              "end_timestamp": 746,
+              "content": "早盘竞价金额是什么"
+            },
+            {
+              "start_timestamp": 746,
+              "end_timestamp": 749,
+              "content": "就是在竞价成交的所有的金额"
+            },
+            {
+              "start_timestamp": 749,
+              "end_timestamp": 752,
+              "content": "这样子就这个东西出来可以进行一个排序"
+            },
+            {
+              "start_timestamp": 752,
+              "end_timestamp": 755,
+              "content": "比如说有些票进价成交一个亿对吧"
+            },
+            {
+              "start_timestamp": 755,
+              "end_timestamp": 756,
+              "content": "成交那3000万"
+            },
+            {
+              "start_timestamp": 756,
+              "end_timestamp": 758,
+              "content": "有时候竞价成交越多"
+            },
+            {
+              "start_timestamp": 758,
+              "end_timestamp": 759,
+              "content": "可能代表的是抢筹"
+            },
+            {
+              "start_timestamp": 759,
+              "end_timestamp": 760,
+              "content": "也当然情绪弱的时候"
+            },
+            {
+              "start_timestamp": 760,
+              "end_timestamp": 761,
+              "content": "可能竞价成交多"
+            },
+            {
+              "start_timestamp": 761,
+              "end_timestamp": 764,
+              "content": "可能代表是那个在逃跑的资金"
+            },
+            {
+              "start_timestamp": 764,
+              "end_timestamp": 767,
+              "content": "对吧啊这个要是看这个的嗯"
+            },
+            {
+              "start_timestamp": 767,
+              "end_timestamp": 769,
+              "content": "然后未匹配金额是什么意思呢"
+            },
+            {
+              "start_timestamp": 769,
+              "end_timestamp": 771,
+              "content": "我得把这个概念讲展开讲一讲好吧"
+            },
+            {
+              "start_timestamp": 771,
+              "end_timestamp": 773,
+              "content": "未匹配金额的话"
+            },
+            {
+              "start_timestamp": 773,
+              "end_timestamp": 775,
+              "content": "我想回到回到这个地方"
+            },
+            {
+              "start_timestamp": 775,
+              "end_timestamp": 776,
+              "content": "微匹配金额"
+            },
+            {
+              "start_timestamp": 776,
+              "end_timestamp": 780,
+              "content": "讲的是你买一或者卖一所留下的一些残余资金"
+            },
+            {
+              "start_timestamp": 780,
+              "end_timestamp": 781,
+              "content": "什么意思呢"
+            },
+            {
+              "start_timestamp": 781,
+              "end_timestamp": 783,
+              "content": "就比如说这个3.3亿"
+            },
+            {
+              "start_timestamp": 783,
+              "end_timestamp": 785,
+              "content": "他是昨天这红色的是什么呢"
+            },
+            {
+              "start_timestamp": 785,
+              "end_timestamp": 788,
+              "content": "就是说买一还有多少资金"
+            },
+            {
+              "start_timestamp": 788,
+              "end_timestamp": 789,
+              "content": "绿色什么意思呢"
+            },
+            {
+              "start_timestamp": 789,
+              "end_timestamp": 790,
+              "content": "卖衣还有多少资金"
+            },
+            {
+              "start_timestamp": 790,
+              "end_timestamp": 792,
+              "content": "我们看一下长青昨天是不是涨停"
+            },
+            {
+              "start_timestamp": 792,
+              "end_timestamp": 793,
+              "content": "开压未匹配"
+            },
+            {
+              "start_timestamp": 793,
+              "end_timestamp": 793,
+              "content": "这是什么意思呢"
+            },
+            {
+              "start_timestamp": 793,
+              "end_timestamp": 794,
+              "content": "就是说他的满意"
+            },
+            {
+              "start_timestamp": 794,
+              "end_timestamp": 797,
+              "content": "有3.3亿的那个资金没有被匹配"
+            },
+            {
+              "start_timestamp": 797,
+              "end_timestamp": 800,
+              "content": "我们看一下昨天的那个竞价的情况"
+            },
+            {
+              "start_timestamp": 800,
+              "end_timestamp": 801,
+              "content": "那金价结束开盘啊"
+            },
+            {
+              "start_timestamp": 801,
+              "end_timestamp": 803,
+              "content": "开盘的时候就开盘了对吧"
+            },
+            {
+              "start_timestamp": 803,
+              "end_timestamp": 805,
+              "content": "大家可以看一下右边的盘口"
+            },
+            {
+              "start_timestamp": 805,
+              "end_timestamp": 807,
+              "content": "他是不是未匹配量"
+            },
+            {
+              "start_timestamp": 807,
+              "end_timestamp": 808,
+              "content": "是不是3.3亿啊"
+            },
+            {
+              "start_timestamp": 808,
+              "end_timestamp": 810,
+              "content": "红色就是买盘有3.3亿没有被匹配"
+            },
+            {
+              "start_timestamp": 810,
+              "end_timestamp": 812,
+              "content": "那绿色是什么意思呢"
+            },
+            {
+              "start_timestamp": 812,
+              "end_timestamp": 815,
+              "content": "是卖淫有那个1562万没有被匹配"
+            },
+            {
+              "start_timestamp": 815,
+              "end_timestamp": 816,
+              "content": "我们看一下啊"
+            },
+            {
+              "start_timestamp": 816,
+              "end_timestamp": 817,
+              "content": "看一下竞价结束"
+            },
+            {
+              "start_timestamp": 817,
+              "end_timestamp": 818,
+              "content": "大家看右边那个盘口"
+            },
+            {
+              "start_timestamp": 818,
+              "end_timestamp": 821,
+              "content": "这是竞价结束后的盘口"
+            },
+            {
+              "start_timestamp": 821,
+              "end_timestamp": 823,
+              "content": "那1561他是不是就是那个啊"
+            },
+            {
+              "start_timestamp": 823,
+              "end_timestamp": 825,
+              "content": "卖一没有被匹配的那个单子"
+            },
+            {
+              "start_timestamp": 825,
+              "end_timestamp": 827,
+              "content": "所以说是这样去看的"
+            },
+            {
+              "start_timestamp": 827,
+              "end_timestamp": 830,
+              "content": "那我们在两市进行排序的时候啊"
+            },
+            {
+              "start_timestamp": 830,
+              "end_timestamp": 832,
+              "content": "这一点你这样就能看到"
+            },
+            {
+              "start_timestamp": 832,
+              "end_timestamp": 835,
+              "content": "东华软件在竞价结束的时候"
+            },
+            {
+              "start_timestamp": 835,
+              "end_timestamp": 836,
+              "content": "还有74亿的封单"
+            },
+            {
+              "start_timestamp": 836,
+              "end_timestamp": 836,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 836,
+              "end_timestamp": 838,
+              "content": "因为像这种封单很大的"
+            },
+            {
+              "start_timestamp": 838,
+              "end_timestamp": 840,
+              "content": "他一般不是不仅仅是买一了"
+            },
+            {
+              "start_timestamp": 840,
+              "end_timestamp": 843,
+              "content": "他甚至是可以涨停板的一个买一"
+            },
+            {
+              "start_timestamp": 843,
+              "end_timestamp": 843,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 843,
+              "end_timestamp": 845,
+              "content": "那也就是封单的一个资金嘛对吧"
+            },
+            {
+              "start_timestamp": 845,
+              "end_timestamp": 846,
+              "content": "这个是用来看这个的"
+            },
+            {
+              "start_timestamp": 846,
+              "end_timestamp": 848,
+              "content": "那我们在倒序排序"
+            },
+            {
+              "start_timestamp": 848,
+              "end_timestamp": 849,
+              "content": "那这个是昨天"
+            },
+            {
+              "start_timestamp": 849,
+              "end_timestamp": 851,
+              "content": "昨天是不是梦网科技的那个跌停封单呀"
+            },
+            {
+              "start_timestamp": 851,
+              "end_timestamp": 854,
+              "content": "就是相当于卖一还有4.23亿对吧"
+            },
+            {
+              "start_timestamp": 854,
+              "end_timestamp": 856,
+              "content": "这个未匹配金额是这样看的"
+            },
+            {
+              "start_timestamp": 856,
+              "end_timestamp": 858,
+              "content": "就是对涨停的或跌停的"
+            },
+            {
+              "start_timestamp": 858,
+              "end_timestamp": 860,
+              "content": "它可以做一个很快的筛选"
+            },
+            {
+              "start_timestamp": 860,
+              "end_timestamp": 861,
+              "content": "那像中间这些部分啊"
+            },
+            {
+              "start_timestamp": 861,
+              "end_timestamp": 863,
+              "content": "中间的这些像什么小的"
+            },
+            {
+              "start_timestamp": 863,
+              "end_timestamp": 864,
+              "content": "可能就是买一卖一"
+            },
+            {
+              "start_timestamp": 864,
+              "end_timestamp": 866,
+              "content": "但并不是涨停和跌停的数据了"
+            },
+            {
+              "start_timestamp": 866,
+              "end_timestamp": 868,
+              "content": "所以说我们只需要看两端的值"
+            },
+            {
+              "start_timestamp": 868,
+              "end_timestamp": 870,
+              "content": "上端就是大几千万的这种"
+            },
+            {
+              "start_timestamp": 870,
+              "end_timestamp": 871,
+              "content": "上亿的这种"
+            },
+            {
+              "start_timestamp": 871,
+              "end_timestamp": 873,
+              "content": "他一般都是涨停的一个封单"
+            },
+            {
+              "start_timestamp": 873,
+              "end_timestamp": 875,
+              "content": "几大几千万的那可能是跌停封单对吧"
+            },
+            {
+              "start_timestamp": 875,
+              "end_timestamp": 877,
+              "content": "像像中国能建他买"
+            },
+            {
+              "start_timestamp": 877,
+              "end_timestamp": 881,
+              "content": "他卖一有那个4300多万这种就是盘子偏大"
+            },
+            {
+              "start_timestamp": 881,
+              "end_timestamp": 883,
+              "content": "然后呢他资金会比较多一点嘛"
+            },
+            {
+              "start_timestamp": 883,
+              "end_timestamp": 884,
+              "content": "但像这种日海智能对吧"
+            },
+            {
+              "start_timestamp": 884,
+              "end_timestamp": 886,
+              "content": "他就是明显的一个跌停封单"
+            },
+            {
+              "start_timestamp": 886,
+              "end_timestamp": 888,
+              "content": "大概这个意思看两端就可以了"
+            },
+            {
+              "start_timestamp": 888,
+              "end_timestamp": 890,
+              "content": "这是未匹配金额"
+            },
+            {
+              "start_timestamp": 890,
+              "end_timestamp": 891,
+              "content": "那4分钟涨速的话"
+            },
+            {
+              "start_timestamp": 891,
+              "end_timestamp": 893,
+              "content": "也是盘中看个股涨速啊"
+            },
+            {
+              "start_timestamp": 893,
+              "end_timestamp": 896,
+              "content": "涨那个跌速的一个情况好吗"
+            },
+            {
+              "start_timestamp": 896,
+              "end_timestamp": 897,
+              "content": "好我们继续讲表头"
+            },
+            {
+              "start_timestamp": 897,
+              "end_timestamp": 899,
+              "content": "那这几个基本上都讲清楚了对吧"
+            },
+            {
+              "start_timestamp": 899,
+              "end_timestamp": 900,
+              "content": "那后面封单额跟主利金额"
+            },
+            {
+              "start_timestamp": 900,
+              "end_timestamp": 902,
+              "content": "我们放在另外的那个去讲"
+            },
+            {
+              "start_timestamp": 902,
+              "end_timestamp": 904,
+              "content": "那表头这里讲清楚了"
+            },
+            {
+              "start_timestamp": 904,
+              "end_timestamp": 907,
+              "content": "那我们再看一下同花顺短线今年的参数"
+            },
+            {
+              "start_timestamp": 907,
+              "end_timestamp": 909,
+              "content": "就是盘中很多的异动呀"
+            },
+            {
+              "start_timestamp": 909,
+              "end_timestamp": 910,
+              "content": "个股的异动"
+            },
+            {
+              "start_timestamp": 910,
+              "end_timestamp": 912,
+              "content": "或者说就是某个题材集体移动"
+            },
+            {
+              "start_timestamp": 912,
+              "end_timestamp": 915,
+              "content": "你是需要通过短线精灵去捕捉的"
+            },
+            {
+              "start_timestamp": 915,
+              "end_timestamp": 916,
+              "content": "但是短线精灵"
+            },
+            {
+              "start_timestamp": 916,
+              "end_timestamp": 918,
+              "content": "如果说你把所有的那种信息都勾选出来"
+            },
+            {
+              "start_timestamp": 918,
+              "end_timestamp": 919,
+              "content": "它会造成一个什么呢"
+            },
+            {
+              "start_timestamp": 919,
+              "end_timestamp": 921,
+              "content": "就是信息的一个冗余"
+            },
+            {
+              "start_timestamp": 921,
+              "end_timestamp": 922,
+              "content": "那叫噪声对吧"
+            },
+            {
+              "start_timestamp": 922,
+              "end_timestamp": 924,
+              "content": "大家有学过啊"
+            },
+            {
+              "start_timestamp": 924,
+              "end_timestamp": 925,
+              "content": "通信的一些东西"
+            },
+            {
+              "start_timestamp": 925,
+              "end_timestamp": 926,
+              "content": "它里面就是这种噪声"
+            },
+            {
+              "start_timestamp": 926,
+              "end_timestamp": 930,
+              "content": "所以说我们要通过对指标进行一个修参数修改"
+            },
+            {
+              "start_timestamp": 930,
+              "end_timestamp": 932,
+              "content": "把那种噪声下降到最大的"
+            },
+            {
+              "start_timestamp": 932,
+              "end_timestamp": 933,
+              "content": "同时呢"
+            },
+            {
+              "start_timestamp": 933,
+              "end_timestamp": 934,
+              "content": "也可能捕捉到比较全面的信息"
+            },
+            {
+              "start_timestamp": 934,
+              "end_timestamp": 938,
+              "content": "那我这里的一个参数做的话其实很简单哈"
+            },
+            {
+              "start_timestamp": 938,
+              "end_timestamp": 941,
+              "content": "这一块就是监控的设置是全部A股"
+            },
+            {
+              "start_timestamp": 941,
+              "end_timestamp": 945,
+              "content": "然后剔除范围呢就是剔除s st和退市整理板"
+            },
+            {
+              "start_timestamp": 945,
+              "end_timestamp": 947,
+              "content": "剔除当天的新股"
+            },
+            {
+              "start_timestamp": 947,
+              "end_timestamp": 948,
+              "content": "剔除北交所就剔除了"
+            },
+            {
+              "start_timestamp": 948,
+              "end_timestamp": 950,
+              "content": "那科创板跟创业板都放在这"
+            },
+            {
+              "start_timestamp": 950,
+              "end_timestamp": 952,
+              "content": "看一下盘中的动态呃"
+            },
+            {
+              "start_timestamp": 952,
+              "end_timestamp": 954,
+              "content": "这是第一个参数啊"
+            },
+            {
+              "start_timestamp": 954,
+              "end_timestamp": 954,
+              "content": "第二个参数是什么呢"
+            },
+            {
+              "start_timestamp": 954,
+              "end_timestamp": 957,
+              "content": "就是呃这里就是默认的1万首跟500万"
+            },
+            {
+              "start_timestamp": 957,
+              "end_timestamp": 959,
+              "content": "然后这一块很关键啊"
+            },
+            {
+              "start_timestamp": 959,
+              "end_timestamp": 961,
+              "content": "就是这么多栏目"
+            },
+            {
+              "start_timestamp": 961,
+              "end_timestamp": 962,
+              "content": "我只选了四项"
+            },
+            {
+              "start_timestamp": 962,
+              "end_timestamp": 964,
+              "content": "第一个就是成交易动里面的大单买入"
+            },
+            {
+              "start_timestamp": 964,
+              "end_timestamp": 965,
+              "content": "大单卖出"
+            },
+            {
+              "start_timestamp": 965,
+              "end_timestamp": 966,
+              "content": "把它放在这"
+            },
+            {
+              "start_timestamp": 966,
+              "end_timestamp": 968,
+              "content": "然后第二个走势用里面的涨停封板"
+            },
+            {
+              "start_timestamp": 968,
+              "end_timestamp": 970,
+              "content": "打开涨停放在这"
+            },
+            {
+              "start_timestamp": 970,
+              "end_timestamp": 971,
+              "content": "大家按自己的需要"
+            },
+            {
+              "start_timestamp": 971,
+              "end_timestamp": 973,
+              "content": "比如说我想知道哪些封跌停板了"
+            },
+            {
+              "start_timestamp": 973,
+              "end_timestamp": 975,
+              "content": "我想知道哪些打开跌停板了对吧"
+            },
+            {
+              "start_timestamp": 975,
+              "end_timestamp": 977,
+              "content": "你可以也可以添加进去"
+            },
+            {
+              "start_timestamp": 977,
+              "end_timestamp": 978,
+              "content": "但是有时候它刷的会比较快"
+            },
+            {
+              "start_timestamp": 978,
+              "end_timestamp": 979,
+              "content": "所以说是个干扰"
+            },
+            {
+              "start_timestamp": 979,
+              "end_timestamp": 980,
+              "content": "就比如说打开电停板啊"
+            },
+            {
+              "start_timestamp": 980,
+              "end_timestamp": 983,
+              "content": "一般来说那种有意义的"
+            },
+            {
+              "start_timestamp": 983,
+              "end_timestamp": 984,
+              "content": "有价值的跌停板的打开"
+            },
+            {
+              "start_timestamp": 984,
+              "end_timestamp": 986,
+              "content": "一般都伴随着500万以上的金额"
+            },
+            {
+              "start_timestamp": 986,
+              "end_timestamp": 988,
+              "content": "所以说当他打开跌停的时候"
+            },
+            {
+              "start_timestamp": 988,
+              "end_timestamp": 991,
+              "content": "他500万都已经抄底抄底完了对吧"
+            },
+            {
+              "start_timestamp": 991,
+              "end_timestamp": 994,
+              "content": "所以说呃我们只要看大单买入就行了"
+            },
+            {
+              "start_timestamp": 994,
+              "end_timestamp": 996,
+              "content": "当大单买入大于500万的时候"
+            },
+            {
+              "start_timestamp": 996,
+              "end_timestamp": 997,
+              "content": "一般就意味着什么"
+            },
+            {
+              "start_timestamp": 997,
+              "end_timestamp": 999,
+              "content": "意味着盘中有某些票在被翘板了"
+            },
+            {
+              "start_timestamp": 999,
+              "end_timestamp": 1001,
+              "content": "所以说他在右边刷屏的时候"
+            },
+            {
+              "start_timestamp": 1001,
+              "end_timestamp": 1004,
+              "content": "基本上都能看见在这个信号里面能够看到"
+            },
+            {
+              "start_timestamp": 1004,
+              "end_timestamp": 1007,
+              "content": "比你这个打开跌停这个那个信号更早"
+            },
+            {
+              "start_timestamp": 1007,
+              "end_timestamp": 1010,
+              "content": "那所以说打开进行这个这个指标就可以不用了"
+            },
+            {
+              "start_timestamp": 1010,
+              "end_timestamp": 1013,
+              "content": "因为很多时候盘中有些票封跌停炸板"
+            },
+            {
+              "start_timestamp": 1013,
+              "end_timestamp": 1016,
+              "content": "封跌停炸板这种就刷刷屏了嘛"
+            },
+            {
+              "start_timestamp": 1016,
+              "end_timestamp": 1018,
+              "content": "所以说这个就可以不要我大概是这个意思啊"
+            },
+            {
+              "start_timestamp": 1018,
+              "end_timestamp": 1021,
+              "content": "大家按自己的方式去呃弄好吧"
+            },
+            {
+              "start_timestamp": 1021,
+              "end_timestamp": 1022,
+              "content": "那这个界面啊"
+            },
+            {
+              "start_timestamp": 1022,
+              "end_timestamp": 1025,
+              "content": "这个呃竞价呀"
+            },
+            {
+              "start_timestamp": 1025,
+              "end_timestamp": 1027,
+              "content": "就是其实就是全天那个看盘界面"
+            },
+            {
+              "start_timestamp": 1027,
+              "end_timestamp": 1030,
+              "content": "基本上就呃给大家讲完了好吧"
+            },
+            {
+              "start_timestamp": 1030,
+              "end_timestamp": 1032,
+              "content": "这是第一块看盘界面"
+            },
+            {
+              "start_timestamp": 1032,
+              "end_timestamp": 1033,
+              "content": "讲完了"
+            },
+            {
+              "start_timestamp": 1033,
+              "end_timestamp": 1035,
+              "content": "那第二块就是分时的一个设置了"
+            },
+            {
+              "start_timestamp": 1035,
+              "end_timestamp": 1036,
+              "content": "这里进行一个保存"
+            },
+            {
+              "start_timestamp": 1036,
+              "end_timestamp": 1037,
+              "content": "然后点一三对吧"
+            },
+            {
+              "start_timestamp": 1037,
+              "end_timestamp": 1039,
+              "content": "这个大家应该都会了"
+            },
+            {
+              "start_timestamp": 1039,
+              "end_timestamp": 1041,
+              "content": "你可以就是有些被占用的"
+            },
+            {
+              "start_timestamp": 1041,
+              "end_timestamp": 1043,
+              "content": "你想办法自己设置一下"
+            },
+            {
+              "start_timestamp": 1043,
+              "end_timestamp": 1044,
+              "content": "设置到自己舒服的"
+            },
+            {
+              "start_timestamp": 1044,
+              "end_timestamp": 1046,
+              "content": "比如说我就设置到点一零对吧"
+            },
+            {
+              "start_timestamp": 1046,
+              "end_timestamp": 1048,
+              "content": "大家也可以改一下这个名字啊"
+            },
+            {
+              "start_timestamp": 1048,
+              "end_timestamp": 1050,
+              "content": "比如说7号方案什么什么的"
+            },
+            {
+              "start_timestamp": 1050,
+              "end_timestamp": 1053,
+              "content": "你修改页面信息改成游资看盘对吧"
+            },
+            {
+              "start_timestamp": 1053,
+              "end_timestamp": 1055,
+              "content": "就是改一下就可以了"
+            },
+            {
+              "start_timestamp": 1055,
+              "end_timestamp": 1058,
+              "content": "就这样随便这样点一三又回去了"
+            },
+            {
+              "start_timestamp": 1058,
+              "end_timestamp": 1059,
+              "content": "就回到这个界面了"
+            },
+            {
+              "start_timestamp": 1059,
+              "end_timestamp": 1060,
+              "content": "那竞价的时候怎么看呢"
+            },
+            {
+              "start_timestamp": 1060,
+              "end_timestamp": 1061,
+              "content": "额这个涉及到看盘了"
+            },
+            {
+              "start_timestamp": 1061,
+              "end_timestamp": 1065,
+              "content": "竞价的时候你把这些进价金额比一比对吧"
+            },
+            {
+              "start_timestamp": 1065,
+              "end_timestamp": 1067,
+              "content": "他们的竞价金额比一下哦"
+            },
+            {
+              "start_timestamp": 1067,
+              "end_timestamp": 1068,
+              "content": "这儿还要选一下"
+            },
+            {
+              "start_timestamp": 1068,
+              "end_timestamp": 1069,
+              "content": "这里是对吧"
+            },
+            {
+              "start_timestamp": 1069,
+              "end_timestamp": 1071,
+              "content": "这里要选成自己的一些板块"
+            },
+            {
+              "start_timestamp": 1071,
+              "end_timestamp": 1074,
+              "content": "这个板块要呃后边的左侧要去设置一下好吧"
+            },
+            {
+              "start_timestamp": 1074,
+              "end_timestamp": 1076,
+              "content": "那比如说这里是情绪"
+            },
+            {
+              "start_timestamp": 1076,
+              "end_timestamp": 1079,
+              "content": "这里是420及以上对吧"
+            },
+            {
+              "start_timestamp": 1079,
+              "end_timestamp": 1080,
+              "content": "那这里是300"
+            },
+            {
+              "start_timestamp": 1080,
+              "end_timestamp": 1082,
+              "content": "这里是二版"
+            },
+            {
+              "start_timestamp": 1082,
+              "end_timestamp": 1083,
+              "content": "这里是一版"
+            },
+            {
+              "start_timestamp": 1083,
+              "end_timestamp": 1085,
+              "content": "这里是看全部跟一版完"
+            },
+            {
+              "start_timestamp": 1085,
+              "end_timestamp": 1086,
+              "content": "然后大家把这个间距调一下"
+            },
+            {
+              "start_timestamp": 1086,
+              "end_timestamp": 1087,
+              "content": "每天都可以调"
+            },
+            {
+              "start_timestamp": 1087,
+              "end_timestamp": 1090,
+              "content": "根据那些数票股票数量的多少"
+            },
+            {
+              "start_timestamp": 1090,
+              "end_timestamp": 1092,
+              "content": "进行一个调到一个舒服的一个范围就OK了"
+            },
+            {
+              "start_timestamp": 1092,
+              "end_timestamp": 1093,
+              "content": "好吧"
+            },
+            {
+              "start_timestamp": 1093,
+              "end_timestamp": 1095,
+              "content": "这个界面应该给大家说清楚了"
+            },
+            {
+              "start_timestamp": 1095,
+              "end_timestamp": 1098,
+              "content": "好那我们进入第二个分时跟日K的设置啊"
+            },
+            {
+              "start_timestamp": 1098,
+              "end_timestamp": 1102,
+              "content": "这种你想要快速的了解一个股票的概念"
+            },
+            {
+              "start_timestamp": 1102,
+              "end_timestamp": 1104,
+              "content": "包括他是哪里的公司以及对吧"
+            },
+            {
+              "start_timestamp": 1104,
+              "end_timestamp": 1107,
+              "content": "在这个界面看到就需要这样去设置"
+            },
+            {
+              "start_timestamp": 1107,
+              "end_timestamp": 1110,
+              "content": "这个设置的话额就是一些代码的东西了啊"
+            },
+            {
+              "start_timestamp": 1110,
+              "end_timestamp": 1111,
+              "content": "这个设置很有意义啊"
+            },
+            {
+              "start_timestamp": 1111,
+              "end_timestamp": 1113,
+              "content": "就是盘中某个票涨停的时候"
+            },
+            {
+              "start_timestamp": 1113,
+              "end_timestamp": 1114,
+              "content": "你看一眼知道他是什么"
+            },
+            {
+              "start_timestamp": 1114,
+              "end_timestamp": 1115,
+              "content": "大概什么概念"
+            },
+            {
+              "start_timestamp": 1115,
+              "end_timestamp": 1117,
+              "content": "就知道哪个方向在加强了这个啊"
+            },
+            {
+              "start_timestamp": 1117,
+              "end_timestamp": 1118,
+              "content": "当然到后期了"
+            },
+            {
+              "start_timestamp": 1118,
+              "end_timestamp": 1120,
+              "content": "就是嗯这东西得有"
+            },
+            {
+              "start_timestamp": 1120,
+              "end_timestamp": 1121,
+              "content": "但是到后期的话"
+            },
+            {
+              "start_timestamp": 1121,
+              "end_timestamp": 1122,
+              "content": "其实你已经很熟练了"
+            },
+            {
+              "start_timestamp": 1122,
+              "end_timestamp": 1123,
+              "content": "就哪怕没有这个东西"
+            },
+            {
+              "start_timestamp": 1123,
+              "end_timestamp": 1125,
+              "content": "你也能够很快的进行判断"
+            },
+            {
+              "start_timestamp": 1125,
+              "end_timestamp": 1127,
+              "content": "这个票到底炒的什么东西好"
+            },
+            {
+              "start_timestamp": 1127,
+              "end_timestamp": 1130,
+              "content": "那就是日K的一个分时的东西啊"
+            },
+            {
+              "start_timestamp": 1130,
+              "end_timestamp": 1131,
+              "content": "这个代码的话"
+            },
+            {
+              "start_timestamp": 1131,
+              "end_timestamp": 1134,
+              "content": "我等我把这个视频上传之后"
+            },
+            {
+              "start_timestamp": 1134,
+              "end_timestamp": 1137,
+              "content": "我会把它放到那个评论区好吗"
+            },
+            {
+              "start_timestamp": 1137,
+              "end_timestamp": 1139,
+              "content": "其实没有必要这么长的一个东西"
+            },
+            {
+              "start_timestamp": 1139,
+              "end_timestamp": 1141,
+              "content": "只需要一部分就可以了"
+            },
+            {
+              "start_timestamp": 1141,
+              "end_timestamp": 1143,
+              "content": "那我们首先打开这个界面"
+            },
+            {
+              "start_timestamp": 1143,
+              "end_timestamp": 1145,
+              "content": "打开分时界面啊"
+            },
+            {
+              "start_timestamp": 1145,
+              "end_timestamp": 1147,
+              "content": "我选一个有代表性的股票吧"
+            },
+            {
+              "start_timestamp": 1147,
+              "end_timestamp": 1149,
+              "content": "嗯错位"
+            },
+            {
+              "start_timestamp": 1149,
+              "end_timestamp": 1151,
+              "content": "打开这个分时界面哈"
+            },
+            {
+              "start_timestamp": 1152,
+              "end_timestamp": 1153,
+              "content": "白色线选中"
+            },
+            {
+              "start_timestamp": 1153,
+              "end_timestamp": 1154,
+              "content": "左键选中"
+            },
+            {
+              "start_timestamp": 1154,
+              "end_timestamp": 1157,
+              "content": "然后右键哎就出来这样一个东西了对吧"
+            },
+            {
+              "start_timestamp": 1157,
+              "end_timestamp": 1158,
+              "content": "我们修改分时走势"
+            },
+            {
+              "start_timestamp": 1158,
+              "end_timestamp": 1161,
+              "content": "更多设置里面修改分时走势"
+            },
+            {
+              "start_timestamp": 1161,
+              "end_timestamp": 1165,
+              "content": "然后就出现代码的一个编辑页面了"
+            },
+            {
+              "start_timestamp": 1165,
+              "end_timestamp": 1168,
+              "content": "就是大家啊大家如果说感觉什么代码出问题了"
+            },
+            {
+              "start_timestamp": 1168,
+              "end_timestamp": 1169,
+              "content": "你就恢复默认就可以了"
+            },
+            {
+              "start_timestamp": 1169,
+              "end_timestamp": 1172,
+              "content": "比如说我现在是这样一个界面啊"
+            },
+            {
+              "start_timestamp": 1172,
+              "end_timestamp": 1174,
+              "content": "哦对给大家说一下"
+            },
+            {
+              "start_timestamp": 1174,
+              "end_timestamp": 1175,
+              "content": "大家可能想要什么时事值啊"
+            },
+            {
+              "start_timestamp": 1175,
+              "end_timestamp": 1177,
+              "content": "跟换手这个东西呃"
+            },
+            {
+              "start_timestamp": 1177,
+              "end_timestamp": 1179,
+              "content": "这个代码是有问题的"
+            },
+            {
+              "start_timestamp": 1179,
+              "end_timestamp": 1180,
+              "content": "哪里有问题呢"
+            },
+            {
+              "start_timestamp": 1180,
+              "end_timestamp": 1182,
+              "content": "是我现在点开这种分时啊"
+            },
+            {
+              "start_timestamp": 1182,
+              "end_timestamp": 1183,
+              "content": "我是看不到那种均线的"
+            },
+            {
+              "start_timestamp": 1183,
+              "end_timestamp": 1186,
+              "content": "所以说这个我这个代码是没法给大家共享的"
+            },
+            {
+              "start_timestamp": 1186,
+              "end_timestamp": 1187,
+              "content": "它是有问题的"
+            },
+            {
+              "start_timestamp": 1187,
+              "end_timestamp": 1187,
+              "content": "好吧"
+            },
+            {
+              "start_timestamp": 1187,
+              "end_timestamp": 1189,
+              "content": "我就给大家共享"
+            },
+            {
+              "start_timestamp": 1189,
+              "end_timestamp": 1190,
+              "content": "下面就是没有问题的代码"
+            },
+            {
+              "start_timestamp": 1190,
+              "end_timestamp": 1194,
+              "content": "首先如果说你这些分时代码出了什么问题"
+            },
+            {
+              "start_timestamp": 1194,
+              "end_timestamp": 1195,
+              "content": "直接一键恢复就行了"
+            },
+            {
+              "start_timestamp": 1195,
+              "end_timestamp": 1197,
+              "content": "一键恢复就会会把这些东西全部取消掉"
+            },
+            {
+              "start_timestamp": 1197,
+              "end_timestamp": 1201,
+              "content": "好大家看一下显示图形就全部学着对吧"
+            },
+            {
+              "start_timestamp": 1201,
+              "end_timestamp": 1202,
+              "content": "我点一下确认"
+            },
+            {
+              "start_timestamp": 1202,
+              "end_timestamp": 1203,
+              "content": "你看这里是有的啊"
+            },
+            {
+              "start_timestamp": 1203,
+              "end_timestamp": 1204,
+              "content": "这里有的这有的"
+            },
+            {
+              "start_timestamp": 1204,
+              "end_timestamp": 1207,
+              "content": "那现在就哎没了对吧好"
+            },
+            {
+              "start_timestamp": 1207,
+              "end_timestamp": 1211,
+              "content": "我们接着导入那个分时修改代码"
+            },
+            {
+              "start_timestamp": 1211,
+              "end_timestamp": 1212,
+              "content": "导到最上面就行了"
+            },
+            {
+              "start_timestamp": 1212,
+              "end_timestamp": 1216,
+              "content": "就是我们把这个这有第三行吗"
+            },
+            {
+              "start_timestamp": 1216,
+              "end_timestamp": 1218,
+              "content": "我们把前两行直接空出来"
+            },
+            {
+              "start_timestamp": 1218,
+              "end_timestamp": 1220,
+              "content": "这个留留空白没没有关系啊"
+            },
+            {
+              "start_timestamp": 1220,
+              "end_timestamp": 1222,
+              "content": "跟那个分时相关的是不是上涨家数啊"
+            },
+            {
+              "start_timestamp": 1222,
+              "end_timestamp": 1225,
+              "content": "下跌加数要需要涨停需要"
+            },
+            {
+              "start_timestamp": 1225,
+              "end_timestamp": 1229,
+              "content": "所以基本上到这儿到这儿都是OK的"
+            },
+            {
+              "start_timestamp": 1229,
+              "end_timestamp": 1232,
+              "content": "这些把它直接copy进去"
+            },
+            {
+              "start_timestamp": 1232,
+              "end_timestamp": 1234,
+              "content": "等它好了就可以了"
+            },
+            {
+              "start_timestamp": 1234,
+              "end_timestamp": 1235,
+              "content": "然后我们点一下显示图形"
+            },
+            {
+              "start_timestamp": 1235,
+              "end_timestamp": 1237,
+              "content": "然后这儿有一个情况"
+            },
+            {
+              "start_timestamp": 1237,
+              "end_timestamp": 1240,
+              "content": "就是我也没找到那个代码的一个bug"
+            },
+            {
+              "start_timestamp": 1240,
+              "end_timestamp": 1241,
+              "content": "原因所在"
+            },
+            {
+              "start_timestamp": 1241,
+              "end_timestamp": 1242,
+              "content": "如59行"
+            },
+            {
+              "start_timestamp": 1242,
+              "end_timestamp": 1243,
+              "content": "就这个地方嗯"
+            },
+            {
+              "start_timestamp": 1243,
+              "end_timestamp": 1245,
+              "content": "我不确定他出了什么问题"
+            },
+            {
+              "start_timestamp": 1245,
+              "end_timestamp": 1248,
+              "content": "但是我的解决方案就是给他加一个括号"
+            },
+            {
+              "start_timestamp": 1248,
+              "end_timestamp": 1249,
+              "content": "加一个英文括号"
+            },
+            {
+              "start_timestamp": 1249,
+              "end_timestamp": 1251,
+              "content": "大家应该都是大学生"
+            },
+            {
+              "start_timestamp": 1251,
+              "end_timestamp": 1253,
+              "content": "学过那个什么C加加之类的"
+            },
+            {
+              "start_timestamp": 1253,
+              "end_timestamp": 1255,
+              "content": "用一个英文括号给它添加上去就可以了"
+            },
+            {
+              "start_timestamp": 1255,
+              "end_timestamp": 1257,
+              "content": "一定是英文括号好吧"
+            },
+            {
+              "start_timestamp": 1257,
+              "end_timestamp": 1258,
+              "content": "就是那种英文的小括号"
+            },
+            {
+              "start_timestamp": 1258,
+              "end_timestamp": 1260,
+              "content": "然后再显示一下就可以了对吧"
+            },
+            {
+              "start_timestamp": 1260,
+              "end_timestamp": 1263,
+              "content": "大家看一下概念这样一些东西"
+            },
+            {
+              "start_timestamp": 1263,
+              "end_timestamp": 1264,
+              "content": "还有盘中"
+            },
+            {
+              "start_timestamp": 1264,
+              "end_timestamp": 1264,
+              "content": "盘中时"
+            },
+            {
+              "start_timestamp": 1264,
+              "end_timestamp": 1265,
+              "content": "这会显示涨停"
+            },
+            {
+              "start_timestamp": 1265,
+              "end_timestamp": 1266,
+              "content": "上涨家数"
+            },
+            {
+              "start_timestamp": 1267,
+              "end_timestamp": 1268,
+              "content": "下跌家数"
+            },
+            {
+              "start_timestamp": 1268,
+              "end_timestamp": 1272,
+              "content": "那个涨停家数跌跌停家数在这儿会有显示"
+            },
+            {
+              "start_timestamp": 1272,
+              "end_timestamp": 1273,
+              "content": "但这个地方显示啊"
+            },
+            {
+              "start_timestamp": 1273,
+              "end_timestamp": 1275,
+              "content": "它就涨停家数跟跌停家数"
+            },
+            {
+              "start_timestamp": 1275,
+              "end_timestamp": 1278,
+              "content": "他统计了那个s st的股票"
+            },
+            {
+              "start_timestamp": 1278,
+              "end_timestamp": 1280,
+              "content": "所以说这个这里不太准确"
+            },
+            {
+              "start_timestamp": 1280,
+              "end_timestamp": 1282,
+              "content": "我们平时更多的是用那个待会这个工具"
+            },
+            {
+              "start_timestamp": 1282,
+              "end_timestamp": 1284,
+              "content": "也得给大家讲一下盘面设置"
+            },
+            {
+              "start_timestamp": 1284,
+              "end_timestamp": 1286,
+              "content": "那还得有它嗯"
+            },
+            {
+              "start_timestamp": 1286,
+              "end_timestamp": 1287,
+              "content": "那最后讲吧"
+            },
+            {
+              "start_timestamp": 1287,
+              "end_timestamp": 1289,
+              "content": "最后给他讲那个A那个的使用"
+            },
+            {
+              "start_timestamp": 1289,
+              "end_timestamp": 1290,
+              "content": "我们继续还得更新"
+            },
+            {
+              "start_timestamp": 1290,
+              "end_timestamp": 1291,
+              "content": "我们在这看的"
+            },
+            {
+              "start_timestamp": 1291,
+              "end_timestamp": 1292,
+              "content": "在盘中的时候"
+            },
+            {
+              "start_timestamp": 1292,
+              "end_timestamp": 1294,
+              "content": "在这看涨停家数跟跌停家数"
+            },
+            {
+              "start_timestamp": 1294,
+              "end_timestamp": 1295,
+              "content": "这去除s st"
+            },
+            {
+              "start_timestamp": 1295,
+              "end_timestamp": 1298,
+              "content": "它它这个地方的话是没有出去s st的"
+            },
+            {
+              "start_timestamp": 1298,
+              "end_timestamp": 1299,
+              "content": "好吧"
+            },
+            {
+              "start_timestamp": 1300,
+              "end_timestamp": 1301,
+              "content": "这样一个情况哦"
+            },
+            {
+              "start_timestamp": 1301,
+              "end_timestamp": 1301,
+              "content": "这是涨停"
+            },
+            {
+              "start_timestamp": 1301,
+              "end_timestamp": 1304,
+              "content": "这这跌停这上涨跌下跌家数"
+            },
+            {
+              "start_timestamp": 1304,
+              "end_timestamp": 1306,
+              "content": "这个其实就很清晰明了了"
+            },
+            {
+              "start_timestamp": 1306,
+              "end_timestamp": 1307,
+              "content": "好吧好"
+            },
+            {
+              "start_timestamp": 1307,
+              "end_timestamp": 1308,
+              "content": "这一块就没问题了"
+            },
+            {
+              "start_timestamp": 1308,
+              "end_timestamp": 1310,
+              "content": "我们点一下确认"
+            },
+            {
+              "start_timestamp": 1310,
+              "end_timestamp": 1311,
+              "content": "刚才给大家说了吧"
+            },
+            {
+              "start_timestamp": 1311,
+              "end_timestamp": 1312,
+              "content": "首先把它复制进来"
+            },
+            {
+              "start_timestamp": 1312,
+              "end_timestamp": 1314,
+              "content": "复制复制那段代码进来"
+            },
+            {
+              "start_timestamp": 1314,
+              "end_timestamp": 1316,
+              "content": "然后这这个地方他会报一个错"
+            },
+            {
+              "start_timestamp": 1316,
+              "end_timestamp": 1316,
+              "content": "报错的话"
+            },
+            {
+              "start_timestamp": 1316,
+              "end_timestamp": 1318,
+              "content": "这就加一个括号解决"
+            },
+            {
+              "start_timestamp": 1318,
+              "end_timestamp": 1321,
+              "content": "但这个括号会导致一个什么问题啊"
+            },
+            {
+              "start_timestamp": 1321,
+              "end_timestamp": 1322,
+              "content": "导致一个小bug"
+            },
+            {
+              "start_timestamp": 1322,
+              "end_timestamp": 1325,
+              "content": "现在日K分时分时的均线"
+            },
+            {
+              "start_timestamp": 1325,
+              "end_timestamp": 1326,
+              "content": "这是可以看见的"
+            },
+            {
+              "start_timestamp": 1326,
+              "end_timestamp": 1327,
+              "content": "但在这个界面的话"
+            },
+            {
+              "start_timestamp": 1327,
+              "end_timestamp": 1329,
+              "content": "它的均线就消失了"
+            },
+            {
+              "start_timestamp": 1329,
+              "end_timestamp": 1330,
+              "content": "那但其实影响也不大"
+            },
+            {
+              "start_timestamp": 1330,
+              "end_timestamp": 1332,
+              "content": "你自己我一般点个股的话"
+            },
+            {
+              "start_timestamp": 1332,
+              "end_timestamp": 1333,
+              "content": "我都是点进去看的"
+            },
+            {
+              "start_timestamp": 1333,
+              "end_timestamp": 1335,
+              "content": "点进去看它均线还是有的好吧"
+            },
+            {
+              "start_timestamp": 1335,
+              "end_timestamp": 1337,
+              "content": "就这个bug我也没找到解决方案"
+            },
+            {
+              "start_timestamp": 1337,
+              "end_timestamp": 1341,
+              "content": "如果说就评论区有比较那个厉害的老铁"
+            },
+            {
+              "start_timestamp": 1341,
+              "end_timestamp": 1341,
+              "content": "可以啊"
+            },
+            {
+              "start_timestamp": 1341,
+              "end_timestamp": 1342,
+              "content": "分享一下好吧"
+            },
+            {
+              "start_timestamp": 1342,
+              "end_timestamp": 1345,
+              "content": "或者说分享一个没有问题的代码也可以"
+            },
+            {
+              "start_timestamp": 1345,
+              "end_timestamp": 1346,
+              "content": "可以吗好吗"
+            },
+            {
+              "start_timestamp": 1346,
+              "end_timestamp": 1348,
+              "content": "这是额分时的一个代码"
+            },
+            {
+              "start_timestamp": 1348,
+              "end_timestamp": 1349,
+              "content": "那日K的代码了"
+            },
+            {
+              "start_timestamp": 1349,
+              "end_timestamp": 1351,
+              "content": "日K代码我们随便点开一个个股哈"
+            },
+            {
+              "start_timestamp": 1351,
+              "end_timestamp": 1355,
+              "content": "点开日K界面有一个分时均线的修改嘛对吧"
+            },
+            {
+              "start_timestamp": 1355,
+              "end_timestamp": 1357,
+              "content": "分时均线的修改呃"
+            },
+            {
+              "start_timestamp": 1357,
+              "end_timestamp": 1360,
+              "content": "他这个地方有两个地方要可以修改"
+            },
+            {
+              "start_timestamp": 1360,
+              "end_timestamp": 1361,
+              "content": "就说一定不能出错"
+            },
+            {
+              "start_timestamp": 1361,
+              "end_timestamp": 1365,
+              "content": "要么你就放在修改均线这个地方直接修改"
+            },
+            {
+              "start_timestamp": 1365,
+              "end_timestamp": 1366,
+              "content": "要么你从这个地方进入"
+            },
+            {
+              "start_timestamp": 1366,
+              "end_timestamp": 1369,
+              "content": "从这个地方参数进入公式修改"
+            },
+            {
+              "start_timestamp": 1369,
+              "end_timestamp": 1372,
+              "content": "那大家可以看一下这个地方是一串代码对吧"
+            },
+            {
+              "start_timestamp": 1372,
+              "end_timestamp": 1374,
+              "content": "这是普通K线的代码"
+            },
+            {
+              "start_timestamp": 1374,
+              "end_timestamp": 1375,
+              "content": "这个地方进入的话"
+            },
+            {
+              "start_timestamp": 1375,
+              "end_timestamp": 1376,
+              "content": "它是均线"
+            },
+            {
+              "start_timestamp": 1376,
+              "end_timestamp": 1377,
+              "content": "他两个不一样"
+            },
+            {
+              "start_timestamp": 1377,
+              "end_timestamp": 1380,
+              "content": "但是呢两个都都能够改显示"
+            },
+            {
+              "start_timestamp": 1380,
+              "end_timestamp": 1381,
+              "content": "所以说你确认一个"
+            },
+            {
+              "start_timestamp": 1381,
+              "end_timestamp": 1382,
+              "content": "比如说我就确认"
+            },
+            {
+              "start_timestamp": 1382,
+              "end_timestamp": 1384,
+              "content": "我就是从这个地方修改均线进入"
+            },
+            {
+              "start_timestamp": 1384,
+              "end_timestamp": 1385,
+              "content": "那就从这儿进入"
+            },
+            {
+              "start_timestamp": 1385,
+              "end_timestamp": 1386,
+              "content": "然后修改"
+            },
+            {
+              "start_timestamp": 1386,
+              "end_timestamp": 1388,
+              "content": "或者说你就从修改参数进入"
+            },
+            {
+              "start_timestamp": 1388,
+              "end_timestamp": 1389,
+              "content": "进入之后修改"
+            },
+            {
+              "start_timestamp": 1389,
+              "end_timestamp": 1391,
+              "content": "有时候如果说你在这儿修改了"
+            },
+            {
+              "start_timestamp": 1391,
+              "end_timestamp": 1392,
+              "content": "添加了"
+            },
+            {
+              "start_timestamp": 1392,
+              "end_timestamp": 1393,
+              "content": "在这修改添加"
+            },
+            {
+              "start_timestamp": 1393,
+              "end_timestamp": 1394,
+              "content": "可能它显示两个地方"
+            },
+            {
+              "start_timestamp": 1394,
+              "end_timestamp": 1395,
+              "content": "显示两个重叠了"
+            },
+            {
+              "start_timestamp": 1395,
+              "end_timestamp": 1397,
+              "content": "你就显得比较那个好吧"
+            },
+            {
+              "start_timestamp": 1397,
+              "end_timestamp": 1398,
+              "content": "这是两个地方"
+            },
+            {
+              "start_timestamp": 1398,
+              "end_timestamp": 1400,
+              "content": "那我们就先修改均线吧"
+            },
+            {
+              "start_timestamp": 1400,
+              "end_timestamp": 1401,
+              "content": "修改均线"
+            },
+            {
+              "start_timestamp": 1401,
+              "end_timestamp": 1403,
+              "content": "那先显示图形啊"
+            },
+            {
+              "start_timestamp": 1403,
+              "end_timestamp": 1404,
+              "content": "就是这个东西"
+            },
+            {
+              "start_timestamp": 1404,
+              "end_timestamp": 1405,
+              "content": "那恢复默认线"
+            },
+            {
+              "start_timestamp": 1405,
+              "end_timestamp": 1408,
+              "content": "恢复默认K线出问题了"
+            },
+            {
+              "start_timestamp": 1408,
+              "end_timestamp": 1408,
+              "content": "或者看不见了"
+            },
+            {
+              "start_timestamp": 1408,
+              "end_timestamp": 1409,
+              "content": "就直接恢复默认就好了吧"
+            },
+            {
+              "start_timestamp": 1409,
+              "end_timestamp": 1411,
+              "content": "点确认好没有了对吧"
+            },
+            {
+              "start_timestamp": 1411,
+              "end_timestamp": 1413,
+              "content": "然后这个均线怎么显示啊"
+            },
+            {
+              "start_timestamp": 1413,
+              "end_timestamp": 1414,
+              "content": "tab键好吧"
+            },
+            {
+              "start_timestamp": 1414,
+              "end_timestamp": 1415,
+              "content": "tab键就可以了"
+            },
+            {
+              "start_timestamp": 1415,
+              "end_timestamp": 1416,
+              "content": "就可以显示了"
+            },
+            {
+              "start_timestamp": 1416,
+              "end_timestamp": 1418,
+              "content": "包括上面这样一些东西"
+            },
+            {
+              "start_timestamp": 1418,
+              "end_timestamp": 1419,
+              "content": "那我们右键选中"
+            },
+            {
+              "start_timestamp": 1419,
+              "end_timestamp": 1422,
+              "content": "就点左键出来这样一些框框什么的"
+            },
+            {
+              "start_timestamp": 1422,
+              "end_timestamp": 1422,
+              "content": "选中它"
+            },
+            {
+              "start_timestamp": 1422,
+              "end_timestamp": 1425,
+              "content": "右键右键修改均线"
+            },
+            {
+              "start_timestamp": 1425,
+              "end_timestamp": 1426,
+              "content": "那我把代码复制进去"
+            },
+            {
+              "start_timestamp": 1426,
+              "end_timestamp": 1428,
+              "content": "就是日K的代码对吧"
+            },
+            {
+              "start_timestamp": 1428,
+              "end_timestamp": 1429,
+              "content": "那就很简单"
+            },
+            {
+              "start_timestamp": 1429,
+              "end_timestamp": 1429,
+              "content": "三行了"
+            },
+            {
+              "start_timestamp": 1429,
+              "end_timestamp": 1430,
+              "content": "三行就搞定了"
+            },
+            {
+              "start_timestamp": 1430,
+              "end_timestamp": 1432,
+              "content": "那我们就回车"
+            },
+            {
+              "start_timestamp": 1432,
+              "end_timestamp": 1434,
+              "content": "然后给它复制进去"
+            },
+            {
+              "start_timestamp": 1434,
+              "end_timestamp": 1435,
+              "content": "然后点显示图形对吧"
+            },
+            {
+              "start_timestamp": 1435,
+              "end_timestamp": 1436,
+              "content": "那现在就可以了"
+            },
+            {
+              "start_timestamp": 1436,
+              "end_timestamp": 1438,
+              "content": "然后点确认嗯"
+            },
+            {
+              "start_timestamp": 1438,
+              "end_timestamp": 1440,
+              "content": "这个位置已经给大家设置好了参数嗯"
+            },
+            {
+              "start_timestamp": 1440,
+              "end_timestamp": 1441,
+              "content": "如果说你要改的话"
+            },
+            {
+              "start_timestamp": 1441,
+              "end_timestamp": 1443,
+              "content": "包括分时啊"
+            },
+            {
+              "start_timestamp": 1443,
+              "end_timestamp": 1445,
+              "content": "包括分时界面"
+            },
+            {
+              "start_timestamp": 1445,
+              "end_timestamp": 1446,
+              "content": "你想把这个位置稍微调一下"
+            },
+            {
+              "start_timestamp": 1446,
+              "end_timestamp": 1448,
+              "content": "也可以怎么调呢"
+            },
+            {
+              "start_timestamp": 1448,
+              "end_timestamp": 1450,
+              "content": "点开更多设置呃"
+            },
+            {
+              "start_timestamp": 1450,
+              "end_timestamp": 1451,
+              "content": "像这种啊"
+            },
+            {
+              "start_timestamp": 1451,
+              "end_timestamp": 1453,
+              "content": "0.60.84"
+            },
+            {
+              "start_timestamp": 1453,
+              "end_timestamp": 1456,
+              "content": "它就是一个横纵坐标的一个修改"
+            },
+            {
+              "start_timestamp": 1456,
+              "end_timestamp": 1457,
+              "content": "比如说我改到0.8"
+            },
+            {
+              "start_timestamp": 1457,
+              "end_timestamp": 1459,
+              "content": "现在现在给大家看一下"
+            },
+            {
+              "start_timestamp": 1459,
+              "end_timestamp": 1460,
+              "content": "这是正常情况"
+            },
+            {
+              "start_timestamp": 1460,
+              "end_timestamp": 1462,
+              "content": "我把这个改到0.8"
+            },
+            {
+              "start_timestamp": 1462,
+              "end_timestamp": 1464,
+              "content": "它会变成什么情况啊"
+            },
+            {
+              "start_timestamp": 1464,
+              "end_timestamp": 1467,
+              "content": "对这个上涨家数是不是就往往右边挪"
+            },
+            {
+              "start_timestamp": 1467,
+              "end_timestamp": 1468,
+              "content": "本来它在这对吧"
+            },
+            {
+              "start_timestamp": 1468,
+              "end_timestamp": 1469,
+              "content": "他变到了0.8"
+            },
+            {
+              "start_timestamp": 1469,
+              "end_timestamp": 1470,
+              "content": "这是0.6的位置"
+            },
+            {
+              "start_timestamp": 1470,
+              "end_timestamp": 1471,
+              "content": "这是0.8的位置"
+            },
+            {
+              "start_timestamp": 1471,
+              "end_timestamp": 1472,
+              "content": "是这个意思"
+            },
+            {
+              "start_timestamp": 1472,
+              "end_timestamp": 1474,
+              "content": "那我变成0.1就到这儿来了"
+            },
+            {
+              "start_timestamp": 1474,
+              "end_timestamp": 1475,
+              "content": "就这个上涨家数啊"
+            },
+            {
+              "start_timestamp": 1475,
+              "end_timestamp": 1477,
+              "content": "比如改成0.1"
+            },
+            {
+              "start_timestamp": 1477,
+              "end_timestamp": 1479,
+              "content": "上涨家数改成0.1对吧"
+            },
+            {
+              "start_timestamp": 1479,
+              "end_timestamp": 1480,
+              "content": "看他就到这来了对吧"
+            },
+            {
+              "start_timestamp": 1480,
+              "end_timestamp": 1481,
+              "content": "这样改的"
+            },
+            {
+              "start_timestamp": 1481,
+              "end_timestamp": 1482,
+              "content": "这是横坐标"
+            },
+            {
+              "start_timestamp": 1482,
+              "end_timestamp": 1485,
+              "content": "就是看我又会恢复到这来了对吧"
+            },
+            {
+              "start_timestamp": 1485,
+              "end_timestamp": 1486,
+              "content": "那这是上涨加数的"
+            },
+            {
+              "start_timestamp": 1486,
+              "end_timestamp": 1488,
+              "content": "改了下跌加速改"
+            },
+            {
+              "start_timestamp": 1488,
+              "end_timestamp": 1490,
+              "content": "那这还有那个嗯行业概念的改"
+            },
+            {
+              "start_timestamp": 1490,
+              "end_timestamp": 1494,
+              "content": "就比如说我改到0.2的位置吧"
+            },
+            {
+              "start_timestamp": 1494,
+              "end_timestamp": 1495,
+              "content": "0.2变成什么了呢"
+            },
+            {
+              "start_timestamp": 1495,
+              "end_timestamp": 1498,
+              "content": "你看是不是往右移了很多啊对吧"
+            },
+            {
+              "start_timestamp": 1498,
+              "end_timestamp": 1499,
+              "content": "所以我们改回来就可以了"
+            },
+            {
+              "start_timestamp": 1499,
+              "end_timestamp": 1503,
+              "content": "0.05这个意思也是横坐标的一个改变"
+            },
+            {
+              "start_timestamp": 1503,
+              "end_timestamp": 1506,
+              "content": "所以说位置大家自己调一下就好了好吧"
+            },
+            {
+              "start_timestamp": 1506,
+              "end_timestamp": 1507,
+              "content": "如果出问题了"
+            },
+            {
+              "start_timestamp": 1507,
+              "end_timestamp": 1509,
+              "content": "那直接恢复默认重新再来一遍就可以了"
+            },
+            {
+              "start_timestamp": 1509,
+              "end_timestamp": 1510,
+              "content": "好吧好"
+            },
+            {
+              "start_timestamp": 1510,
+              "end_timestamp": 1513,
+              "content": "大概这是分时的概念"
+            },
+            {
+              "start_timestamp": 1513,
+              "end_timestamp": 1519,
+              "content": "跟日K的这些概念的一个呃设置就OK了"
+            },
+            {
+              "start_timestamp": 1519,
+              "end_timestamp": 1520,
+              "content": "用tab键就可以了"
+            },
+            {
+              "start_timestamp": 1520,
+              "end_timestamp": 1526,
+              "content": "好那我们再看第三个动态板块跟表头的设置"
+            },
+            {
+              "start_timestamp": 1526,
+              "end_timestamp": 1528,
+              "content": "动态板块的话其实就是一些什么呢"
+            },
+            {
+              "start_timestamp": 1531,
+              "end_timestamp": 1533,
+              "content": "断板四版及以上这样一些啊"
+            },
+            {
+              "start_timestamp": 1533,
+              "end_timestamp": 1535,
+              "content": "就是我们就是你可以用手动"
+            },
+            {
+              "start_timestamp": 1535,
+              "end_timestamp": 1537,
+              "content": "就是每天四版有哪些三班"
+            },
+            {
+              "start_timestamp": 1537,
+              "end_timestamp": 1538,
+              "content": "有哪些二版有哪些"
+            },
+            {
+              "start_timestamp": 1538,
+              "end_timestamp": 1539,
+              "content": "你手动去设置也可以啊"
+            },
+            {
+              "start_timestamp": 1539,
+              "end_timestamp": 1541,
+              "content": "在这儿进行一个设置"
+            },
+            {
+              "start_timestamp": 1541,
+              "end_timestamp": 1542,
+              "content": "但那个会比较麻烦"
+            },
+            {
+              "start_timestamp": 1542,
+              "end_timestamp": 1544,
+              "content": "我一般都是用那个动态板块"
+            },
+            {
+              "start_timestamp": 1544,
+              "end_timestamp": 1546,
+              "content": "那炸板的话他的语句是什么呢"
+            },
+            {
+              "start_timestamp": 1546,
+              "end_timestamp": 1549,
+              "content": "就是炸板非s st s st给排除掉"
+            },
+            {
+              "start_timestamp": 1549,
+              "end_timestamp": 1550,
+              "content": "这是这是炸板的语句"
+            },
+            {
+              "start_timestamp": 1550,
+              "end_timestamp": 1552,
+              "content": "那第二个反包什么意思呢"
+            },
+            {
+              "start_timestamp": 1552,
+              "end_timestamp": 1553,
+              "content": "反包会比较麻烦一点"
+            },
+            {
+              "start_timestamp": 1553,
+              "end_timestamp": 1555,
+              "content": "你要反包是什么"
+            },
+            {
+              "start_timestamp": 1555,
+              "end_timestamp": 1558,
+              "content": "就是它在近两天之内诶涨停过"
+            },
+            {
+              "start_timestamp": 1558,
+              "end_timestamp": 1560,
+              "content": "然后呢呃昨天没有涨停"
+            },
+            {
+              "start_timestamp": 1560,
+              "end_timestamp": 1562,
+              "content": "今天呢他又反包的这种票"
+            },
+            {
+              "start_timestamp": 1562,
+              "end_timestamp": 1563,
+              "content": "这个东西需要什么呢"
+            },
+            {
+              "start_timestamp": 1563,
+              "end_timestamp": 1567,
+              "content": "需要在每天盘面结束之后点一下这个东西"
+            },
+            {
+              "start_timestamp": 1567,
+              "end_timestamp": 1568,
+              "content": "进行一个更新"
+            },
+            {
+              "start_timestamp": 1568,
+              "end_timestamp": 1569,
+              "content": "就把它点开"
+            },
+            {
+              "start_timestamp": 1569,
+              "end_timestamp": 1571,
+              "content": "就比如说我我点个六版吧"
+            },
+            {
+              "start_timestamp": 1571,
+              "end_timestamp": 1571,
+              "content": "把点开"
+            },
+            {
+              "start_timestamp": 1571,
+              "end_timestamp": 1573,
+              "content": "然后再锁上600"
+            },
+            {
+              "start_timestamp": 1573,
+              "end_timestamp": 1575,
+              "content": "像这种涨停的数量"
+            },
+            {
+              "start_timestamp": 1575,
+              "end_timestamp": 1576,
+              "content": "这就比较准确一点"
+            },
+            {
+              "start_timestamp": 1576,
+              "end_timestamp": 1579,
+              "content": "但像这种他对那个时间有很严格的要求"
+            },
+            {
+              "start_timestamp": 1579,
+              "end_timestamp": 1582,
+              "content": "因为你只有在今天按这种方式才能筛选出"
+            },
+            {
+              "start_timestamp": 1582,
+              "end_timestamp": 1583,
+              "content": "这"
+            },
+            {
+              "start_timestamp": 1583,
+              "end_timestamp": 1584,
+              "content": "比如说昨天收盘后"
+            },
+            {
+              "start_timestamp": 1584,
+              "end_timestamp": 1586,
+              "content": "按这种方式可以筛选出这三支票"
+            },
+            {
+              "start_timestamp": 1586,
+              "end_timestamp": 1588,
+              "content": "如果现在我把它一释放一点开"
+            },
+            {
+              "start_timestamp": 1588,
+              "end_timestamp": 1589,
+              "content": "它就没了"
+            },
+            {
+              "start_timestamp": 1589,
+              "end_timestamp": 1591,
+              "content": "因为它是今天的一个时间了对吧"
+            },
+            {
+              "start_timestamp": 1591,
+              "end_timestamp": 1592,
+              "content": "他对时间的要求比较高"
+            },
+            {
+              "start_timestamp": 1592,
+              "end_timestamp": 1595,
+              "content": "所以说你得在收盘之后把它弄清楚"
+            },
+            {
+              "start_timestamp": 1597,
+              "end_timestamp": 1600,
+              "content": "就是你要筛选哪些类型的股票呢"
+            },
+            {
+              "start_timestamp": 1600,
+              "end_timestamp": 1603,
+              "content": "就是说三天内知道涨停过对吧"
+            },
+            {
+              "start_timestamp": 1603,
+              "end_timestamp": 1605,
+              "content": "那然后昨天还还得没有涨停"
+            },
+            {
+              "start_timestamp": 1605,
+              "end_timestamp": 1607,
+              "content": "然后今天呢它又涨停了"
+            },
+            {
+              "start_timestamp": 1607,
+              "end_timestamp": 1608,
+              "content": "大概是这样一个情况"
+            },
+            {
+              "start_timestamp": 1608,
+              "end_timestamp": 1612,
+              "content": "那我们用这个筛选语句的话给大家筛选出来"
+            },
+            {
+              "start_timestamp": 1612,
+              "end_timestamp": 1615,
+              "content": "应该能够覆盖99.9%的一个"
+            },
+            {
+              "start_timestamp": 1615,
+              "end_timestamp": 1616,
+              "content": "个股情况了"
+            },
+            {
+              "start_timestamp": 1616,
+              "end_timestamp": 1619,
+              "content": "就只有可能少数某些在这个范围之外"
+            },
+            {
+              "start_timestamp": 1619,
+              "end_timestamp": 1622,
+              "content": "那基本上他就大概是一个准确的一个筛选了"
+            },
+            {
+              "start_timestamp": 1622,
+              "end_timestamp": 1623,
+              "content": "那语句是什么呢"
+            },
+            {
+              "start_timestamp": 1623,
+              "end_timestamp": 1624,
+              "content": "首先反包啊"
+            },
+            {
+              "start_timestamp": 1624,
+              "end_timestamp": 1627,
+              "content": "反包是大家看一下是什么形态"
+            },
+            {
+              "start_timestamp": 1627,
+              "end_timestamp": 1628,
+              "content": "这就反包对吧"
+            },
+            {
+              "start_timestamp": 1628,
+              "end_timestamp": 1629,
+              "content": "前涨停过"
+            },
+            {
+              "start_timestamp": 1629,
+              "end_timestamp": 1630,
+              "content": "三天内涨停过"
+            },
+            {
+              "start_timestamp": 1630,
+              "end_timestamp": 1632,
+              "content": "然后这样昨天没涨停哇"
+            },
+            {
+              "start_timestamp": 1632,
+              "end_timestamp": 1633,
+              "content": "哇三天就涨"
+            },
+            {
+              "start_timestamp": 1633,
+              "end_timestamp": 1634,
+              "content": "这是就反包啊对吧"
+            },
+            {
+              "start_timestamp": 1634,
+              "end_timestamp": 1636,
+              "content": "那这个是不是也是反包啊"
+            },
+            {
+              "start_timestamp": 1636,
+              "end_timestamp": 1637,
+              "content": "就这个意思"
+            },
+            {
+              "start_timestamp": 1637,
+              "end_timestamp": 1638,
+              "content": "那这个语句的话"
+            },
+            {
+              "start_timestamp": 1638,
+              "end_timestamp": 1640,
+              "content": "首先是非s st嘛对吧"
+            },
+            {
+              "start_timestamp": 1640,
+              "end_timestamp": 1643,
+              "content": "非ST我们用那个分号链接吧"
+            },
+            {
+              "start_timestamp": 1643,
+              "end_timestamp": 1644,
+              "content": "这英文的分号哈"
+            },
+            {
+              "start_timestamp": 1644,
+              "end_timestamp": 1648,
+              "content": "涨停首先排除那个FESTI股涨停"
+            },
+            {
+              "start_timestamp": 1649,
+              "end_timestamp": 1649,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 1649,
+              "end_timestamp": 1650,
+              "content": "有这个条件"
+            },
+            {
+              "start_timestamp": 1650,
+              "end_timestamp": 1652,
+              "content": "然后后面就是比较严格的限制啊"
+            },
+            {
+              "start_timestamp": 1652,
+              "end_timestamp": 1658,
+              "content": "就是三个交易日涨停次数等于二"
+            },
+            {
+              "start_timestamp": 1658,
+              "end_timestamp": 1665,
+              "content": "或四个交易日涨停次数等于二"
+            },
+            {
+              "start_timestamp": 1665,
+              "end_timestamp": 1667,
+              "content": "然后分号分号那个链接"
+            },
+            {
+              "start_timestamp": 1667,
+              "end_timestamp": 1672,
+              "content": "然后前一交易日未涨停"
+            },
+            {
+              "start_timestamp": 1672,
+              "end_timestamp": 1673,
+              "content": "这儿基本上就OK了"
+            },
+            {
+              "start_timestamp": 1673,
+              "end_timestamp": 1675,
+              "content": "就大概这样一个语句"
+            },
+            {
+              "start_timestamp": 1675,
+              "end_timestamp": 1677,
+              "content": "前三个交易日涨停等于二"
+            },
+            {
+              "start_timestamp": 1677,
+              "end_timestamp": 1678,
+              "content": "什么意思呢"
+            },
+            {
+              "start_timestamp": 1678,
+              "end_timestamp": 1680,
+              "content": "就是三天内有两天涨停对吧"
+            },
+            {
+              "start_timestamp": 1680,
+              "end_timestamp": 1682,
+              "content": "然后这个是四天内有两天涨停"
+            },
+            {
+              "start_timestamp": 1682,
+              "end_timestamp": 1684,
+              "content": "但是要排除哪些呢"
+            },
+            {
+              "start_timestamp": 1684,
+              "end_timestamp": 1685,
+              "content": "昨天没有涨停"
+            },
+            {
+              "start_timestamp": 1685,
+              "end_timestamp": 1686,
+              "content": "要排除昨天涨停的那一些"
+            },
+            {
+              "start_timestamp": 1686,
+              "end_timestamp": 1688,
+              "content": "那基本上昨天就是相当于昨天断板"
+            },
+            {
+              "start_timestamp": 1688,
+              "end_timestamp": 1689,
+              "content": "今天又涨停了嘛"
+            },
+            {
+              "start_timestamp": 1689,
+              "end_timestamp": 1689,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 1689,
+              "end_timestamp": 1692,
+              "content": "就是通过这几个条件就把它限制住了"
+            },
+            {
+              "start_timestamp": 1694,
+              "end_timestamp": 1697,
+              "content": "这个就是对时间要求非常严格"
+            },
+            {
+              "start_timestamp": 1697,
+              "end_timestamp": 1700,
+              "content": "就必须是盘后就得那个重新那个筛选一遍"
+            },
+            {
+              "start_timestamp": 1700,
+              "end_timestamp": 1703,
+              "content": "如果说你在这个界面设置啊"
+            },
+            {
+              "start_timestamp": 1703,
+              "end_timestamp": 1705,
+              "content": "就是你不小心把释放了"
+            },
+            {
+              "start_timestamp": 1705,
+              "end_timestamp": 1706,
+              "content": "然后他不出票了"
+            },
+            {
+              "start_timestamp": 1706,
+              "end_timestamp": 1708,
+              "content": "那是因为你时间没搞对"
+            },
+            {
+              "start_timestamp": 1708,
+              "end_timestamp": 1708,
+              "content": "就在这吧"
+            },
+            {
+              "start_timestamp": 1708,
+              "end_timestamp": 1710,
+              "content": "就是你保证每天收盘后"
+            },
+            {
+              "start_timestamp": 1710,
+              "end_timestamp": 1711,
+              "content": "你把它刷新一下就可以了"
+            },
+            {
+              "start_timestamp": 1711,
+              "end_timestamp": 1712,
+              "content": "然后反包票都会自动出来"
+            },
+            {
+              "start_timestamp": 1712,
+              "end_timestamp": 1713,
+              "content": "好吧"
+            },
+            {
+              "start_timestamp": 1715,
+              "end_timestamp": 1717,
+              "content": "那这跌停那就是跌停FST了"
+            },
+            {
+              "start_timestamp": 1718,
+              "end_timestamp": 1719,
+              "content": "我给它跌停"
+            },
+            {
+              "start_timestamp": 1719,
+              "end_timestamp": 1722,
+              "content": "FST逗号或者分号都可以"
+            },
+            {
+              "start_timestamp": 1722,
+              "end_timestamp": 1722,
+              "content": "逗号的话"
+            },
+            {
+              "start_timestamp": 1722,
+              "end_timestamp": 1725,
+              "content": "因为它会自动给你搞成一个分号"
+            },
+            {
+              "start_timestamp": 1725,
+              "end_timestamp": 1726,
+              "content": "直接用分号吧"
+            },
+            {
+              "start_timestamp": 1726,
+              "end_timestamp": 1727,
+              "content": "英文的分号"
+            },
+            {
+              "start_timestamp": 1727,
+              "end_timestamp": 1730,
+              "content": "然后断板的话就是昨日涨停"
+            },
+            {
+              "start_timestamp": 1730,
+              "end_timestamp": 1730,
+              "content": "今日未涨停"
+            },
+            {
+              "start_timestamp": 1730,
+              "end_timestamp": 1733,
+              "content": "除s st非s st和除ST是一样的啊"
+            },
+            {
+              "start_timestamp": 1733,
+              "end_timestamp": 1736,
+              "content": "断板断板也对时间要求会比较高"
+            },
+            {
+              "start_timestamp": 1736,
+              "end_timestamp": 1741,
+              "content": "断板的话是除ST分号昨日涨停"
+            },
+            {
+              "start_timestamp": 1741,
+              "end_timestamp": 1745,
+              "content": "今日未涨停对"
+            },
+            {
+              "start_timestamp": 1745,
+              "end_timestamp": 1748,
+              "content": "然后这就是三个那个动态筛选的预警局"
+            },
+            {
+              "start_timestamp": 1748,
+              "end_timestamp": 1751,
+              "content": "那其他的像400以上的就是就需要怎么筛选呢"
+            },
+            {
+              "start_timestamp": 1751,
+              "end_timestamp": 1752,
+              "content": "涨停对吧"
+            },
+            {
+              "start_timestamp": 1752,
+              "end_timestamp": 1753,
+              "content": "FST要大于300"
+            },
+            {
+              "start_timestamp": 1753,
+              "end_timestamp": 1754,
+              "content": "那是不是就400以上呀"
+            },
+            {
+              "start_timestamp": 1754,
+              "end_timestamp": 1756,
+              "content": "那就这三个筛选的很准确"
+            },
+            {
+              "start_timestamp": 1756,
+              "end_timestamp": 1758,
+              "content": "那这里的话你可以单独列一个"
+            },
+            {
+              "start_timestamp": 1758,
+              "end_timestamp": 1761,
+              "content": "因为有时候啊400以上的票太多了"
+            },
+            {
+              "start_timestamp": 1761,
+              "end_timestamp": 1761,
+              "content": "就456"
+            },
+            {
+              "start_timestamp": 1761,
+              "end_timestamp": 1762,
+              "content": "你不能混在一起吧"
+            },
+            {
+              "start_timestamp": 1762,
+              "end_timestamp": 1765,
+              "content": "所以说那基本上把这些弄上来"
+            },
+            {
+              "start_timestamp": 1765,
+              "end_timestamp": 1766,
+              "content": "这个七版是什么呢"
+            },
+            {
+              "start_timestamp": 1766,
+              "end_timestamp": 1767,
+              "content": "它是大于等于七版"
+            },
+            {
+              "start_timestamp": 1767,
+              "end_timestamp": 1768,
+              "content": "并不仅仅是七啊"
+            },
+            {
+              "start_timestamp": 1768,
+              "end_timestamp": 1770,
+              "content": "我改成七加吧"
+            },
+            {
+              "start_timestamp": 1770,
+              "end_timestamp": 1771,
+              "content": "对还得改个名字啊"
+            },
+            {
+              "start_timestamp": 1771,
+              "end_timestamp": 1772,
+              "content": "就重命名"
+            },
+            {
+              "start_timestamp": 1772,
+              "end_timestamp": 1774,
+              "content": "那改个七版加就可以了"
+            },
+            {
+              "start_timestamp": 1774,
+              "end_timestamp": 1774,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 1774,
+              "end_timestamp": 1775,
+              "content": "就这个意思"
+            },
+            {
+              "start_timestamp": 1775,
+              "end_timestamp": 1778,
+              "content": "大家那这我也改成四板架"
+            },
+            {
+              "start_timestamp": 1778,
+              "end_timestamp": 1780,
+              "content": "石板架"
+            },
+            {
+              "start_timestamp": 1780,
+              "end_timestamp": 1782,
+              "content": "然后刚开始他你出这个条件的时候啊"
+            },
+            {
+              "start_timestamp": 1782,
+              "end_timestamp": 1784,
+              "content": "就是这个条件筛选名"
+            },
+            {
+              "start_timestamp": 1784,
+              "end_timestamp": 1787,
+              "content": "大家可以在这个地方改一下那个重命名好吗"
+            },
+            {
+              "start_timestamp": 1787,
+              "end_timestamp": 1789,
+              "content": "重命名改一下"
+            },
+            {
+              "start_timestamp": 1789,
+              "end_timestamp": 1790,
+              "content": "那包括还可以给它添加一些颜色"
+            },
+            {
+              "start_timestamp": 1790,
+              "end_timestamp": 1791,
+              "content": "比如说反包颜色"
+            },
+            {
+              "start_timestamp": 1791,
+              "end_timestamp": 1792,
+              "content": "我给它添加成什么呢"
+            },
+            {
+              "start_timestamp": 1792,
+              "end_timestamp": 1793,
+              "content": "红色的对吧"
+            },
+            {
+              "start_timestamp": 1793,
+              "end_timestamp": 1795,
+              "content": "在盘中这儿刷新的时候"
+            },
+            {
+              "start_timestamp": 1795,
+              "end_timestamp": 1796,
+              "content": "它可能就是红色的"
+            },
+            {
+              "start_timestamp": 1796,
+              "end_timestamp": 1798,
+              "content": "显色是红色的"
+            },
+            {
+              "start_timestamp": 1798,
+              "end_timestamp": 1799,
+              "content": "会有颜色显示"
+            },
+            {
+              "start_timestamp": 1799,
+              "end_timestamp": 1800,
+              "content": "你可以按自己的喜好了好吧"
+            },
+            {
+              "start_timestamp": 1800,
+              "end_timestamp": 1802,
+              "content": "这是七版及以上对吧"
+            },
+            {
+              "start_timestamp": 1802,
+              "end_timestamp": 1804,
+              "content": "FST大于等于七版"
+            },
+            {
+              "start_timestamp": 1804,
+              "end_timestamp": 1809,
+              "content": "那这个就是六版FST5版FST430板"
+            },
+            {
+              "start_timestamp": 1809,
+              "end_timestamp": 1810,
+              "content": "二板一板对吧"
+            },
+            {
+              "start_timestamp": 1810,
+              "end_timestamp": 1811,
+              "content": "然后这是连板"
+            },
+            {
+              "start_timestamp": 1811,
+              "end_timestamp": 1812,
+              "content": "就直接来个连板就可以了"
+            },
+            {
+              "start_timestamp": 1812,
+              "end_timestamp": 1813,
+              "content": "然后这是涨停"
+            },
+            {
+              "start_timestamp": 1813,
+              "end_timestamp": 1815,
+              "content": "这是全天的一个涨停"
+            },
+            {
+              "start_timestamp": 1815,
+              "end_timestamp": 1816,
+              "content": "这个是什么呢"
+            },
+            {
+              "start_timestamp": 1816,
+              "end_timestamp": 1817,
+              "content": "这个是打开的"
+            },
+            {
+              "start_timestamp": 1817,
+              "end_timestamp": 1819,
+              "content": "就是今天的涨停"
+            },
+            {
+              "start_timestamp": 1819,
+              "end_timestamp": 1820,
+              "content": "就是盘中涨停情况"
+            },
+            {
+              "start_timestamp": 1820,
+              "end_timestamp": 1822,
+              "content": "你给他弄弄出来好吧"
+            },
+            {
+              "start_timestamp": 1822,
+              "end_timestamp": 1823,
+              "content": "包括盘中炸板的一些票"
+            },
+            {
+              "start_timestamp": 1823,
+              "end_timestamp": 1825,
+              "content": "这炸板的话就是什么意思呢"
+            },
+            {
+              "start_timestamp": 1825,
+              "end_timestamp": 1826,
+              "content": "就昨天炸板了"
+            },
+            {
+              "start_timestamp": 1826,
+              "end_timestamp": 1826,
+              "content": "没有回封的"
+            },
+            {
+              "start_timestamp": 1826,
+              "end_timestamp": 1827,
+              "content": "大家看一下"
+            },
+            {
+              "start_timestamp": 1827,
+              "end_timestamp": 1828,
+              "content": "这些都冲过板"
+            },
+            {
+              "start_timestamp": 1828,
+              "end_timestamp": 1828,
+              "content": "然后看炸板"
+            },
+            {
+              "start_timestamp": 1828,
+              "end_timestamp": 1830,
+              "content": "炸板炸板是这个意思"
+            },
+            {
+              "start_timestamp": 1830,
+              "end_timestamp": 1833,
+              "content": "那其实啊为什么要用这个动态板块啊"
+            },
+            {
+              "start_timestamp": 1833,
+              "end_timestamp": 1836,
+              "content": "涉及到后面一些选票的一些方式方法"
+            },
+            {
+              "start_timestamp": 1836,
+              "end_timestamp": 1839,
+              "content": "在这个里面能够选出一些反包意愿很强的票"
+            },
+            {
+              "start_timestamp": 1839,
+              "end_timestamp": 1840,
+              "content": "好吧是这个意思吧"
+            },
+            {
+              "start_timestamp": 1840,
+              "end_timestamp": 1841,
+              "content": "所以把它放在这"
+            },
+            {
+              "start_timestamp": 1841,
+              "end_timestamp": 1843,
+              "content": "那这是第一块"
+            },
+            {
+              "start_timestamp": 1843,
+              "end_timestamp": 1845,
+              "content": "就是它的一个筛选语句"
+            },
+            {
+              "start_timestamp": 1845,
+              "end_timestamp": 1847,
+              "content": "那第二个就是这个了表头了"
+            },
+            {
+              "start_timestamp": 1847,
+              "end_timestamp": 1849,
+              "content": "表头大家编辑一个表头啊"
+            },
+            {
+              "start_timestamp": 1849,
+              "end_timestamp": 1852,
+              "content": "大家在这个自选股界面进行编辑的话"
+            },
+            {
+              "start_timestamp": 1852,
+              "end_timestamp": 1854,
+              "content": "是编辑一个表头之后呢"
+            },
+            {
+              "start_timestamp": 1854,
+              "end_timestamp": 1856,
+              "content": "你可以同步到这所有的方案"
+            },
+            {
+              "start_timestamp": 1856,
+              "end_timestamp": 1859,
+              "content": "可以同步到这些所有的方案里面去"
+            },
+            {
+              "start_timestamp": 1859,
+              "end_timestamp": 1859,
+              "content": "那怎么说呢"
+            },
+            {
+              "start_timestamp": 1859,
+              "end_timestamp": 1861,
+              "content": "比如说我们在这个界面对吧"
+            },
+            {
+              "start_timestamp": 1861,
+              "end_timestamp": 1863,
+              "content": "编辑表头要有哪些东西啊"
+            },
+            {
+              "start_timestamp": 1863,
+              "end_timestamp": 1866,
+              "content": "首先有代码对吧"
+            },
+            {
+              "start_timestamp": 1866,
+              "end_timestamp": 1867,
+              "content": "有名称有涨幅"
+            },
+            {
+              "start_timestamp": 1867,
+              "end_timestamp": 1868,
+              "content": "金价涨幅"
+            },
+            {
+              "start_timestamp": 1868,
+              "end_timestamp": 1870,
+              "content": "早盘金额涨速"
+            },
+            {
+              "start_timestamp": 1870,
+              "end_timestamp": 1872,
+              "content": "这个是我跟左边一样的对吧"
+            },
+            {
+              "start_timestamp": 1872,
+              "end_timestamp": 1875,
+              "content": "跟左边是跟之前那个看盘基本一样的"
+            },
+            {
+              "start_timestamp": 1875,
+              "end_timestamp": 1876,
+              "content": "那这里会多一些什么呢"
+            },
+            {
+              "start_timestamp": 1876,
+              "end_timestamp": 1878,
+              "content": "多一个封单额哦"
+            },
+            {
+              "start_timestamp": 1878,
+              "end_timestamp": 1880,
+              "content": "涨停封单额这个东西你把它改一下"
+            },
+            {
+              "start_timestamp": 1880,
+              "end_timestamp": 1882,
+              "content": "就是变成封单额就可以了"
+            },
+            {
+              "start_timestamp": 1882,
+              "end_timestamp": 1885,
+              "content": "然后你把它放到这个位置就OK了好吗"
+            },
+            {
+              "start_timestamp": 1885,
+              "end_timestamp": 1886,
+              "content": "就是这个东西"
+            },
+            {
+              "start_timestamp": 1886,
+              "end_timestamp": 1887,
+              "content": "然后就主力金额"
+            },
+            {
+              "start_timestamp": 1887,
+              "end_timestamp": 1888,
+              "content": "主利金额是什么意思呢"
+            },
+            {
+              "start_timestamp": 1888,
+              "end_timestamp": 1891,
+              "content": "是主力在盘中流入的净额"
+            },
+            {
+              "start_timestamp": 1891,
+              "end_timestamp": 1894,
+              "content": "这个东西好像是L2才有的吧"
+            },
+            {
+              "start_timestamp": 1894,
+              "end_timestamp": 1895,
+              "content": "L2才能在这儿看到的"
+            },
+            {
+              "start_timestamp": 1895,
+              "end_timestamp": 1898,
+              "content": "就其实就这个指标就是这个"
+            },
+            {
+              "start_timestamp": 1898,
+              "end_timestamp": 1901,
+              "content": "然后首次涨停的时间就是早盘的时候"
+            },
+            {
+              "start_timestamp": 1901,
+              "end_timestamp": 1904,
+              "content": "你看一下这些票的排序"
+            },
+            {
+              "start_timestamp": 1904,
+              "end_timestamp": 1905,
+              "content": "涨停排序"
+            },
+            {
+              "start_timestamp": 1905,
+              "end_timestamp": 1906,
+              "content": "首次涨停时间对"
+            },
+            {
+              "start_timestamp": 1906,
+              "end_timestamp": 1907,
+              "content": "把这个加进去就行了"
+            },
+            {
+              "start_timestamp": 1907,
+              "end_timestamp": 1909,
+              "content": "这儿是218"
+            },
+            {
+              "start_timestamp": 1909,
+              "end_timestamp": 1911,
+              "content": "它它会根据那个时间来吗"
+            },
+            {
+              "start_timestamp": 1911,
+              "end_timestamp": 1912,
+              "content": "每天都会切换一下"
+            },
+            {
+              "start_timestamp": 1912,
+              "end_timestamp": 1913,
+              "content": "可能对"
+            },
+            {
+              "start_timestamp": 1913,
+              "end_timestamp": 1917,
+              "content": "然后后边的话就是一些不是特别重要的东西了"
+            },
+            {
+              "start_timestamp": 1917,
+              "end_timestamp": 1920,
+              "content": "就是大家按照自己的需求来"
+            },
+            {
+              "start_timestamp": 1920,
+              "end_timestamp": 1923,
+              "content": "然后看一下需要把什么加进去好吧"
+            },
+            {
+              "start_timestamp": 1923,
+              "end_timestamp": 1925,
+              "content": "如果说你在这个界面设置的表头"
+            },
+            {
+              "start_timestamp": 1925,
+              "end_timestamp": 1927,
+              "content": "它是一个基础的表头"
+            },
+            {
+              "start_timestamp": 1927,
+              "end_timestamp": 1928,
+              "content": "这个表头如果说你设置好了"
+            },
+            {
+              "start_timestamp": 1928,
+              "end_timestamp": 1932,
+              "content": "你到后面这些地方就我随便起一个啊"
+            },
+            {
+              "start_timestamp": 1932,
+              "end_timestamp": 1933,
+              "content": "我给大家示范一遍"
+            },
+            {
+              "start_timestamp": 1933,
+              "end_timestamp": 1935,
+              "content": "我建一个占版的"
+            },
+            {
+              "start_timestamp": 1935,
+              "end_timestamp": 1936,
+              "content": "这是个新的东西对吧"
+            },
+            {
+              "start_timestamp": 1936,
+              "end_timestamp": 1938,
+              "content": "我保存好"
+            },
+            {
+              "start_timestamp": 1938,
+              "end_timestamp": 1940,
+              "content": "他是不是出来这样一个东西啊"
+            },
+            {
+              "start_timestamp": 1940,
+              "end_timestamp": 1942,
+              "content": "因为已经被重复了"
+            },
+            {
+              "start_timestamp": 1942,
+              "end_timestamp": 1945,
+              "content": "非科创版的这个就基本上没问题了对吧"
+            },
+            {
+              "start_timestamp": 1945,
+              "end_timestamp": 1946,
+              "content": "大家可以看一下名称什么的"
+            },
+            {
+              "start_timestamp": 1946,
+              "end_timestamp": 1949,
+              "content": "是不这些跟我们想要的东西不一样呀"
+            },
+            {
+              "start_timestamp": 1949,
+              "end_timestamp": 1950,
+              "content": "因为我们想要什么"
+            },
+            {
+              "start_timestamp": 1950,
+              "end_timestamp": 1952,
+              "content": "是想这些竞价早盘对吧"
+            },
+            {
+              "start_timestamp": 1952,
+              "end_timestamp": 1956,
+              "content": "那直接这个地方右键点一下同步自选方案哎"
+            },
+            {
+              "start_timestamp": 1956,
+              "end_timestamp": 1958,
+              "content": "是不是就同步了对吧"
+            },
+            {
+              "start_timestamp": 1958,
+              "end_timestamp": 1959,
+              "content": "那后面每个同步一下就可以了"
+            },
+            {
+              "start_timestamp": 1959,
+              "end_timestamp": 1961,
+              "content": "不用每每每一个都去调"
+            },
+            {
+              "start_timestamp": 1961,
+              "end_timestamp": 1964,
+              "content": "大家把那个间隔呀自己自己调一下就OK了"
+            },
+            {
+              "start_timestamp": 1964,
+              "end_timestamp": 1967,
+              "content": "那我们看一下这个跟大家讲清楚了对吧"
+            },
+            {
+              "start_timestamp": 1967,
+              "end_timestamp": 1970,
+              "content": "这个地方就是每天收盘之后啊"
+            },
+            {
+              "start_timestamp": 1970,
+              "end_timestamp": 1971,
+              "content": "你把每天更新一下就可以了"
+            },
+            {
+              "start_timestamp": 1971,
+              "end_timestamp": 1973,
+              "content": "就是各个连板梯队什么的"
+            },
+            {
+              "start_timestamp": 1973,
+              "end_timestamp": 1975,
+              "content": "对我现在讲的内容偏短线啊"
+            },
+            {
+              "start_timestamp": 1975,
+              "end_timestamp": 1977,
+              "content": "如果说职业选选手看盘"
+            },
+            {
+              "start_timestamp": 1977,
+              "end_timestamp": 1979,
+              "content": "需要做到这样的一个程度"
+            },
+            {
+              "start_timestamp": 1979,
+              "end_timestamp": 1982,
+              "content": "看趋势的老铁也不用这样子去做"
+            },
+            {
+              "start_timestamp": 1982,
+              "end_timestamp": 1983,
+              "content": "当然没有什么短线跟趋势一分了"
+            },
+            {
+              "start_timestamp": 1983,
+              "end_timestamp": 1985,
+              "content": "你你想股票做好"
+            },
+            {
+              "start_timestamp": 1985,
+              "end_timestamp": 1987,
+              "content": "那必须得这么做啊"
+            },
+            {
+              "start_timestamp": 1987,
+              "end_timestamp": 1989,
+              "content": "这是动态板块跟表头的设置啊"
+            },
+            {
+              "start_timestamp": 1989,
+              "end_timestamp": 1990,
+              "content": "大家把这个语句啊"
+            },
+            {
+              "start_timestamp": 1990,
+              "end_timestamp": 1992,
+              "content": "大家自己看一下"
+            },
+            {
+              "start_timestamp": 1992,
+              "end_timestamp": 1993,
+              "content": "自己把它那个记下来"
+            },
+            {
+              "start_timestamp": 1993,
+              "end_timestamp": 1996,
+              "content": "然后回看自己记下来语句的话"
+            },
+            {
+              "start_timestamp": 1996,
+              "end_timestamp": 1997,
+              "content": "应该是没有问题的"
+            },
+            {
+              "start_timestamp": 1997,
+              "end_timestamp": 1998,
+              "content": "如果说这里的语句有问题"
+            },
+            {
+              "start_timestamp": 1998,
+              "end_timestamp": 2001,
+              "content": "大家再回到这个界面再看一遍"
+            },
+            {
+              "start_timestamp": 2001,
+              "end_timestamp": 2004,
+              "content": "这上面都有看一遍这个语句怎么写的就可以了"
+            },
+            {
+              "start_timestamp": 2004,
+              "end_timestamp": 2005,
+              "content": "这些地方是分号"
+            },
+            {
+              "start_timestamp": 2005,
+              "end_timestamp": 2006,
+              "content": "英文的分号好吧"
+            },
+            {
+              "start_timestamp": 2006,
+              "end_timestamp": 2007,
+              "content": "那基本上没问题了"
+            },
+            {
+              "start_timestamp": 2007,
+              "end_timestamp": 2008,
+              "content": "这块就过了"
+            },
+            {
+              "start_timestamp": 2008,
+              "end_timestamp": 2010,
+              "content": "通达信是这样一个情况"
+            },
+            {
+              "start_timestamp": 2010,
+              "end_timestamp": 2011,
+              "content": "我们只用它看竞价"
+            },
+            {
+              "start_timestamp": 2011,
+              "end_timestamp": 2012,
+              "content": "看竞价的话"
+            },
+            {
+              "start_timestamp": 2012,
+              "end_timestamp": 2014,
+              "content": "在这右键右键编辑栏目"
+            },
+            {
+              "start_timestamp": 2014,
+              "end_timestamp": 2016,
+              "content": "你把这几个放前面"
+            },
+            {
+              "start_timestamp": 2016,
+              "end_timestamp": 2017,
+              "content": "我们需要用哪几个呢"
+            },
+            {
+              "start_timestamp": 2017,
+              "end_timestamp": 2019,
+              "content": "就是代码名称"
+            },
+            {
+              "start_timestamp": 2019,
+              "end_timestamp": 2020,
+              "content": "细分行业涨幅"
+            },
+            {
+              "start_timestamp": 2020,
+              "end_timestamp": 2021,
+              "content": "封单额"
+            },
+            {
+              "start_timestamp": 2021,
+              "end_timestamp": 2024,
+              "content": "开盘换的时候开盘金额就可以了"
+            },
+            {
+              "start_timestamp": 2024,
+              "end_timestamp": 2025,
+              "content": "这分别是什么意思啊"
+            },
+            {
+              "start_timestamp": 2025,
+              "end_timestamp": 2028,
+              "content": "就是呃封单额就是涨停"
+            },
+            {
+              "start_timestamp": 2028,
+              "end_timestamp": 2029,
+              "content": "封单跟跌停封单嘛对吧"
+            },
+            {
+              "start_timestamp": 2029,
+              "end_timestamp": 2030,
+              "content": "这是涨停封单"
+            },
+            {
+              "start_timestamp": 2030,
+              "end_timestamp": 2032,
+              "content": "跌停封单这一块我们看的是什么呢"
+            },
+            {
+              "start_timestamp": 2032,
+              "end_timestamp": 2033,
+              "content": "看的是隔夜单的情况"
+            },
+            {
+              "start_timestamp": 2033,
+              "end_timestamp": 2036,
+              "content": "竞价的时候隔夜单诶动画软件排名第一"
+            },
+            {
+              "start_timestamp": 2036,
+              "end_timestamp": 2038,
+              "content": "120多多个亿对吧"
+            },
+            {
+              "start_timestamp": 2038,
+              "end_timestamp": 2039,
+              "content": "是跌停"
+            },
+            {
+              "start_timestamp": 2039,
+              "end_timestamp": 2041,
+              "content": "封单它是实时变化的"
+            },
+            {
+              "start_timestamp": 2041,
+              "end_timestamp": 2044,
+              "content": "所以说我们需要在就是看竞价的一些东西的"
+            },
+            {
+              "start_timestamp": 2044,
+              "end_timestamp": 2044,
+              "content": "后边会给大家讲"
+            },
+            {
+              "start_timestamp": 2044,
+              "end_timestamp": 2047,
+              "content": "9.15的时候要截张图"
+            },
+            {
+              "start_timestamp": 2047,
+              "end_timestamp": 2050,
+              "content": "9.20的时候截张图"
+            },
+            {
+              "start_timestamp": 2050,
+              "end_timestamp": 2052,
+              "content": "9.25的时候截张图"
+            },
+            {
+              "start_timestamp": 2052,
+              "end_timestamp": 2056,
+              "content": "通过他们的一些首先是封单的大小变化"
+            },
+            {
+              "start_timestamp": 2056,
+              "end_timestamp": 2061,
+              "content": "以及1亿以上封单的加数的变化进行一个对比"
+            },
+            {
+              "start_timestamp": 2061,
+              "end_timestamp": 2063,
+              "content": "判断它情绪的一个变化情况"
+            },
+            {
+              "start_timestamp": 2063,
+              "end_timestamp": 2066,
+              "content": "这是这个开发患者什么意思呢"
+            },
+            {
+              "start_timestamp": 2066,
+              "end_timestamp": 2069,
+              "content": "就是在竞价阶段就成交和个股的百分比"
+            },
+            {
+              "start_timestamp": 2069,
+              "end_timestamp": 2071,
+              "content": "讲的是这个如果说竞价换手很大的话"
+            },
+            {
+              "start_timestamp": 2071,
+              "end_timestamp": 2073,
+              "content": "它就是如果说在上升期"
+            },
+            {
+              "start_timestamp": 2073,
+              "end_timestamp": 2074,
+              "content": "那可能就是抢筹的一个信号"
+            },
+            {
+              "start_timestamp": 2074,
+              "end_timestamp": 2077,
+              "content": "如果说是在那个啊情绪退潮期"
+            },
+            {
+              "start_timestamp": 2077,
+              "end_timestamp": 2079,
+              "content": "可能他就是一个抢跑的一些一个信号"
+            },
+            {
+              "start_timestamp": 2079,
+              "end_timestamp": 2080,
+              "content": "是分歧大的表现好吗"
+            },
+            {
+              "start_timestamp": 2080,
+              "end_timestamp": 2083,
+              "content": "那开盘金额就是竞价成交的金额了"
+            },
+            {
+              "start_timestamp": 2083,
+              "end_timestamp": 2085,
+              "content": "那杭钢股份竞价成交这么多"
+            },
+            {
+              "start_timestamp": 2085,
+              "end_timestamp": 2087,
+              "content": "就竞价成交很大的那种票"
+            },
+            {
+              "start_timestamp": 2087,
+              "end_timestamp": 2089,
+              "content": "就能够进入你的视野了吗"
+            },
+            {
+              "start_timestamp": 2089,
+              "end_timestamp": 2090,
+              "content": "是这个意思"
+            },
+            {
+              "start_timestamp": 2090,
+              "end_timestamp": 2092,
+              "content": "然后右键编辑栏目"
+            },
+            {
+              "start_timestamp": 2092,
+              "end_timestamp": 2093,
+              "content": "大家把这几个找到"
+            },
+            {
+              "start_timestamp": 2093,
+              "end_timestamp": 2094,
+              "content": "这几个就很好找了"
+            },
+            {
+              "start_timestamp": 2094,
+              "end_timestamp": 2096,
+              "content": "就一定要按照那个来找好吧"
+            },
+            {
+              "start_timestamp": 2096,
+              "end_timestamp": 2098,
+              "content": "那首先是行业细分"
+            },
+            {
+              "start_timestamp": 2098,
+              "end_timestamp": 2099,
+              "content": "一个涨幅"
+            },
+            {
+              "start_timestamp": 2099,
+              "end_timestamp": 2100,
+              "content": "一个封单额"
+            },
+            {
+              "start_timestamp": 2100,
+              "end_timestamp": 2100,
+              "content": "一个开盘换手"
+            },
+            {
+              "start_timestamp": 2100,
+              "end_timestamp": 2102,
+              "content": "一个开盘金额"
+            },
+            {
+              "start_timestamp": 2102,
+              "end_timestamp": 2103,
+              "content": "那其他都可以不要了"
+            },
+            {
+              "start_timestamp": 2103,
+              "end_timestamp": 2106,
+              "content": "我们只需要这前面的五个指标跟名称"
+            },
+            {
+              "start_timestamp": 2106,
+              "end_timestamp": 2108,
+              "content": "跟那个代码是默认的嘛"
+            },
+            {
+              "start_timestamp": 2108,
+              "end_timestamp": 2110,
+              "content": "把它放前面就可以了"
+            },
+            {
+              "start_timestamp": 2110,
+              "end_timestamp": 2111,
+              "content": "通达信就这样子去弄的"
+            },
+            {
+              "start_timestamp": 2111,
+              "end_timestamp": 2113,
+              "content": "那最后就开盘拉了"
+            },
+            {
+              "start_timestamp": 2113,
+              "end_timestamp": 2116,
+              "content": "开盘拉的话是大家需要下载一个模拟器"
+            },
+            {
+              "start_timestamp": 2116,
+              "end_timestamp": 2118,
+              "content": "模拟器的话你用雷电也好"
+            },
+            {
+              "start_timestamp": 2118,
+              "end_timestamp": 2119,
+              "content": "各种各样的模拟器吧"
+            },
+            {
+              "start_timestamp": 2119,
+              "end_timestamp": 2121,
+              "content": "大家那个我用的是雷电哈"
+            },
+            {
+              "start_timestamp": 2121,
+              "end_timestamp": 2124,
+              "content": "弄完之后你再那个软件的中心啊"
+            },
+            {
+              "start_timestamp": 2124,
+              "end_timestamp": 2125,
+              "content": "你搜一下开盘啦"
+            },
+            {
+              "start_timestamp": 2125,
+              "end_timestamp": 2127,
+              "content": "把它下载下来"
+            },
+            {
+              "start_timestamp": 2127,
+              "end_timestamp": 2128,
+              "content": "然后启动启动之后呢"
+            },
+            {
+              "start_timestamp": 2128,
+              "end_timestamp": 2130,
+              "content": "我们平时就用它可以看那个"
+            },
+            {
+              "start_timestamp": 2130,
+              "end_timestamp": 2133,
+              "content": "可以看情绪的一些情况"
+            },
+            {
+              "start_timestamp": 2133,
+              "end_timestamp": 2135,
+              "content": "还可以看那个龙虎榜的一些情况"
+            },
+            {
+              "start_timestamp": 2135,
+              "end_timestamp": 2137,
+              "content": "当然还可以看个股的什么呢"
+            },
+            {
+              "start_timestamp": 2137,
+              "end_timestamp": 2140,
+              "content": "净额因为净额这个东西啊"
+            },
+            {
+              "start_timestamp": 2140,
+              "end_timestamp": 2141,
+              "content": "在我给大家举个例子啊"
+            },
+            {
+              "start_timestamp": 2141,
+              "end_timestamp": 2143,
+              "content": "就是可以看时间轴"
+            },
+            {
+              "start_timestamp": 2143,
+              "end_timestamp": 2145,
+              "content": "然后对金额进行一个对比"
+            },
+            {
+              "start_timestamp": 2145,
+              "end_timestamp": 2148,
+              "content": "比如说这个区间我就拿昨天那个什么票来说吧"
+            },
+            {
+              "start_timestamp": 2148,
+              "end_timestamp": 2150,
+              "content": "那叫什么中文互联是吧"
+            },
+            {
+              "start_timestamp": 2150,
+              "end_timestamp": 2151,
+              "content": "中文互联这种票"
+            },
+            {
+              "start_timestamp": 2151,
+              "end_timestamp": 2153,
+              "content": "哎这个区间到底主力在流入还是流出呢"
+            },
+            {
+              "start_timestamp": 2153,
+              "end_timestamp": 2156,
+              "content": "就比如说我们就看这这里对吧"
+            },
+            {
+              "start_timestamp": 2156,
+              "end_timestamp": 2158,
+              "content": "哎最后尾盘的时候这么杀"
+            },
+            {
+              "start_timestamp": 2158,
+              "end_timestamp": 2159,
+              "content": "主力还在净流入额"
+            },
+            {
+              "start_timestamp": 2159,
+              "end_timestamp": 2160,
+              "content": "往后看好"
+            },
+            {
+              "start_timestamp": 2160,
+              "end_timestamp": 2160,
+              "content": "这是流出了"
+            },
+            {
+              "start_timestamp": 2160,
+              "end_timestamp": 2161,
+              "content": "就是从炸板开始"
+            },
+            {
+              "start_timestamp": 2161,
+              "end_timestamp": 2163,
+              "content": "他主力是净流出的"
+            },
+            {
+              "start_timestamp": 2163,
+              "end_timestamp": 2165,
+              "content": "说明这个地方散户承接多对吧"
+            },
+            {
+              "start_timestamp": 2165,
+              "end_timestamp": 2166,
+              "content": "在这个地方炸板的时候"
+            },
+            {
+              "start_timestamp": 2166,
+              "end_timestamp": 2169,
+              "content": "比如这个区间额主力干进去多少多少亿对吧哈"
+            },
+            {
+              "start_timestamp": 2169,
+              "end_timestamp": 2172,
+              "content": "这个区间从这炸板开始啊"
+            },
+            {
+              "start_timestamp": 2172,
+              "end_timestamp": 2172,
+              "content": "到这个区间"
+            },
+            {
+              "start_timestamp": 2172,
+              "end_timestamp": 2174,
+              "content": "主力干进去要三个亿"
+            },
+            {
+              "start_timestamp": 2174,
+              "end_timestamp": 2176,
+              "content": "就可以这样子去弄"
+            },
+            {
+              "start_timestamp": 2176,
+              "end_timestamp": 2178,
+              "content": "就是同花顺的L2"
+            },
+            {
+              "start_timestamp": 2178,
+              "end_timestamp": 2179,
+              "content": "他是没办没办法做到这种程度的"
+            },
+            {
+              "start_timestamp": 2179,
+              "end_timestamp": 2181,
+              "content": "比如说在上板的时候"
+            },
+            {
+              "start_timestamp": 2181,
+              "end_timestamp": 2182,
+              "content": "那主力是是吧"
+            },
+            {
+              "start_timestamp": 2182,
+              "end_timestamp": 2183,
+              "content": "干了7000多万"
+            },
+            {
+              "start_timestamp": 2183,
+              "end_timestamp": 2184,
+              "content": "那拉升过程中呢"
+            },
+            {
+              "start_timestamp": 2184,
+              "end_timestamp": 2185,
+              "content": "看下这样啊"
+            },
+            {
+              "start_timestamp": 2185,
+              "end_timestamp": 2188,
+              "content": "那到这从从最低点到这上板干了"
+            },
+            {
+              "start_timestamp": 2188,
+              "end_timestamp": 2190,
+              "content": "总力净干了两个亿"
+            },
+            {
+              "start_timestamp": 2190,
+              "end_timestamp": 2191,
+              "content": "大概可以这样去做"
+            },
+            {
+              "start_timestamp": 2191,
+              "end_timestamp": 2193,
+              "content": "它这个功能挺好用的"
+            },
+            {
+              "start_timestamp": 2193,
+              "end_timestamp": 2195,
+              "content": "就是如果你对股票分析更细致一点"
+            },
+            {
+              "start_timestamp": 2195,
+              "end_timestamp": 2197,
+              "content": "就可以用这个功能好吗"
+            },
+            {
+              "start_timestamp": 2197,
+              "end_timestamp": 2198,
+              "content": "可以看出哪个阶段主力在吃货"
+            },
+            {
+              "start_timestamp": 2198,
+              "end_timestamp": 2200,
+              "content": "哪个阶段可能主力没干活了"
+            },
+            {
+              "start_timestamp": 2200,
+              "end_timestamp": 2201,
+              "content": "那昨天尾盘是吧"
+            },
+            {
+              "start_timestamp": 2201,
+              "end_timestamp": 2202,
+              "content": "主力就摆烂了"
+            },
+            {
+              "start_timestamp": 2202,
+              "end_timestamp": 2205,
+              "content": "在这这肯定是有大资金砸的"
+            },
+            {
+              "start_timestamp": 2205,
+              "end_timestamp": 2206,
+              "content": "也有大主力接"
+            },
+            {
+              "start_timestamp": 2206,
+              "end_timestamp": 2207,
+              "content": "并不是他没干活"
+            },
+            {
+              "start_timestamp": 2207,
+              "end_timestamp": 2210,
+              "content": "只是说卖的人比买的人多一点"
+            },
+            {
+              "start_timestamp": 2210,
+              "end_timestamp": 2211,
+              "content": "所以说这个地方就下来了一点"
+            },
+            {
+              "start_timestamp": 2211,
+              "end_timestamp": 2213,
+              "content": "但其实在之前都是大吃货"
+            },
+            {
+              "start_timestamp": 2213,
+              "end_timestamp": 2215,
+              "content": "就在这炸板之前吧"
+            },
+            {
+              "start_timestamp": 2215,
+              "end_timestamp": 2217,
+              "content": "你看从这儿到这儿都是一个大吃货"
+            },
+            {
+              "start_timestamp": 2217,
+              "end_timestamp": 2219,
+              "content": "吃了六个多亿的一个金额"
+            },
+            {
+              "start_timestamp": 2219,
+              "end_timestamp": 2220,
+              "content": "好吧嗯"
+            },
+            {
+              "start_timestamp": 2220,
+              "end_timestamp": 2221,
+              "content": "是这个意思啊"
+            },
+            {
+              "start_timestamp": 2221,
+              "end_timestamp": 2222,
+              "content": "这个就很好用对"
+            },
+            {
+              "start_timestamp": 2222,
+              "end_timestamp": 2224,
+              "content": "然后再讲同花顺的一个指标"
+            },
+            {
+              "start_timestamp": 2224,
+              "end_timestamp": 2225,
+              "content": "就是L2满"
+            },
+            {
+              "start_timestamp": 2225,
+              "end_timestamp": 2227,
+              "content": "就是下面这些东西啊"
+            },
+            {
+              "start_timestamp": 2227,
+              "end_timestamp": 2230,
+              "content": "它是需要那个每每年200多吧"
+            },
+            {
+              "start_timestamp": 2230,
+              "end_timestamp": 2231,
+              "content": "298就是基础"
+            },
+            {
+              "start_timestamp": 2231,
+              "end_timestamp": 2232,
+              "content": "他能298"
+            },
+            {
+              "start_timestamp": 2232,
+              "end_timestamp": 2234,
+              "content": "他有时候会打折200块钱什么的"
+            },
+            {
+              "start_timestamp": 2234,
+              "end_timestamp": 2235,
+              "content": "大家开一下就可以了"
+            },
+            {
+              "start_timestamp": 2235,
+              "end_timestamp": 2236,
+              "content": "很便宜"
+            },
+            {
+              "start_timestamp": 2236,
+              "end_timestamp": 2238,
+              "content": "在这儿有个大单分时金额吗"
+            },
+            {
+              "start_timestamp": 2238,
+              "end_timestamp": 2240,
+              "content": "大单金额分时吗"
+            },
+            {
+              "start_timestamp": 2240,
+              "end_timestamp": 2241,
+              "content": "大家这个地方设置一下"
+            },
+            {
+              "start_timestamp": 2241,
+              "end_timestamp": 2243,
+              "content": "从这个地方查找指标"
+            },
+            {
+              "start_timestamp": 2243,
+              "end_timestamp": 2246,
+              "content": "大单分时金额对"
+            },
+            {
+              "start_timestamp": 2246,
+              "end_timestamp": 2248,
+              "content": "找出来在这儿对吧"
+            },
+            {
+              "start_timestamp": 2248,
+              "end_timestamp": 2252,
+              "content": "大家反正在L2level2特色指标"
+            },
+            {
+              "start_timestamp": 2252,
+              "end_timestamp": 2254,
+              "content": "然后再分时指标大单金额"
+            },
+            {
+              "start_timestamp": 2254,
+              "end_timestamp": 2255,
+              "content": "让大家把它添加过去"
+            },
+            {
+              "start_timestamp": 2255,
+              "end_timestamp": 2257,
+              "content": "我这是已经添加了对吧"
+            },
+            {
+              "start_timestamp": 2257,
+              "end_timestamp": 2257,
+              "content": "添加到这儿"
+            },
+            {
+              "start_timestamp": 2257,
+              "end_timestamp": 2258,
+              "content": "你可以当还可以挪下位置"
+            },
+            {
+              "start_timestamp": 2258,
+              "end_timestamp": 2260,
+              "content": "下移下移下移下移移到最后对吧"
+            },
+            {
+              "start_timestamp": 2260,
+              "end_timestamp": 2261,
+              "content": "或上移"
+            },
+            {
+              "start_timestamp": 2261,
+              "end_timestamp": 2263,
+              "content": "大家放在一个舒服的位置就行"
+            },
+            {
+              "start_timestamp": 2263,
+              "end_timestamp": 2264,
+              "content": "然后保存"
+            },
+            {
+              "start_timestamp": 2264,
+              "end_timestamp": 2265,
+              "content": "然后它就在这儿了对吧"
+            },
+            {
+              "start_timestamp": 2265,
+              "end_timestamp": 2266,
+              "content": "那点一下就行了"
+            },
+            {
+              "start_timestamp": 2266,
+              "end_timestamp": 2269,
+              "content": "那这样子这是一个点哈"
+            },
+            {
+              "start_timestamp": 2269,
+              "end_timestamp": 2270,
+              "content": "那还有一些盘面的设置啊"
+            },
+            {
+              "start_timestamp": 2270,
+              "end_timestamp": 2274,
+              "content": "就比如说有些人问你怎么显示四行呀对吧"
+            },
+            {
+              "start_timestamp": 2274,
+              "end_timestamp": 2275,
+              "content": "有个快捷键"
+            },
+            {
+              "start_timestamp": 2275,
+              "end_timestamp": 2282,
+              "content": "快捷键的话是a alt加234234"
+            },
+            {
+              "start_timestamp": 2282,
+              "end_timestamp": 2285,
+              "content": "比如说我用这个键加二"
+            },
+            {
+              "start_timestamp": 2285,
+              "end_timestamp": 2287,
+              "content": "他就是两个版面了"
+            },
+            {
+              "start_timestamp": 2287,
+              "end_timestamp": 2289,
+              "content": "三三个版面"
+            },
+            {
+              "start_timestamp": 2289,
+              "end_timestamp": 2289,
+              "content": "四四个版面"
+            },
+            {
+              "start_timestamp": 2289,
+              "end_timestamp": 2290,
+              "content": "五五个版面"
+            },
+            {
+              "start_timestamp": 2290,
+              "end_timestamp": 2290,
+              "content": "六个版面"
+            },
+            {
+              "start_timestamp": 2290,
+              "end_timestamp": 2292,
+              "content": "七个版面对吧"
+            },
+            {
+              "start_timestamp": 2292,
+              "end_timestamp": 2293,
+              "content": "呃只有只有246"
+            },
+            {
+              "start_timestamp": 2293,
+              "end_timestamp": 2294,
+              "content": "最多六个版面"
+            },
+            {
+              "start_timestamp": 2294,
+              "end_timestamp": 2297,
+              "content": "我一般用那个三个或者四个三个版面就够了"
+            },
+            {
+              "start_timestamp": 2297,
+              "end_timestamp": 2298,
+              "content": "好吧"
+            },
+            {
+              "start_timestamp": 2298,
+              "end_timestamp": 2299,
+              "content": "看盘界面的分享呀"
+            },
+            {
+              "start_timestamp": 2299,
+              "end_timestamp": 2301,
+              "content": "基本上就先到这儿了"
+            },
+            {
+              "start_timestamp": 2301,
+              "end_timestamp": 2303,
+              "content": "好吧嗯好"
+            },
+            {
+              "start_timestamp": 2303,
+              "end_timestamp": 2304,
+              "content": "那今天先这样吧"
+            },
+            {
+              "start_timestamp": 2304,
+              "end_timestamp": 2305,
+              "content": "大家按照这个设置好"
+            },
+            {
+              "start_timestamp": 2305,
+              "end_timestamp": 2308,
+              "content": "后面再给大家讲一些其他东西"
+            },
+            {
+              "start_timestamp": 2308,
+              "end_timestamp": 2310,
+              "content": "好吧嗯好拜拜"
+            }
+          ],
+          "timestamp": 2
+        }
+      ]
+    },
+    "stid": "1983128016777086987",
+    "status": 0,
+    "like_num": 0,
+    "dislike_num": 0
+  }
+}

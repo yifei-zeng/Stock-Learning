@@ -1,0 +1,2807 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "code": 0,
+    "model_result": {
+      "result_type": 2,
+      "summary": "逻辑哥四步复盘框架：分析指数、短线情绪、题材主线及布局策略，结合波浪理论、连板梯队和市场节奏，解析情绪周期四阶段操作要点，强调低吸避高、聚焦主线、规避混沌期风险，提出主线五要素与中军观察法，提供精准投资策略参考。",
+      "outline": [
+        {
+          "title": "四步框架复盘主线与操作策略",
+          "part_outline": [
+            {
+              "timestamp": 62,
+              "content": "四步框架整合宏观至微观分析与操作计划"
+            },
+            {
+              "timestamp": 128,
+              "content": "指标识别主线题材及情绪周期定位策略"
+            },
+            {
+              "timestamp": 377,
+              "content": "关键点位判断与双头风险防范方法"
+            }
+          ],
+          "timestamp": 1
+        },
+        {
+          "title": "四步框架锁定主线操作策略",
+          "part_outline": [
+            {
+              "timestamp": 614,
+              "content": "观察竞价高开一字板及板块强度需至少三个以上"
+            },
+            {
+              "timestamp": 751,
+              "content": "追高风险极高应低吸，遵循“低频聚焦”原则避免盲目跟风"
+            },
+            {
+              "timestamp": 903,
+              "content": "主线需满足五要素：逻辑硬、盘面强度、定性明确及次日验证"
+            }
+          ],
+          "timestamp": 589
+        },
+        {
+          "title": "四步框架锁定主线策略",
+          "part_outline": [
+            {
+              "timestamp": 1172,
+              "content": "提供四步框架连接宏观判断与具体操作计划"
+            }
+          ],
+          "timestamp": 1172
+        }
+      ],
+      "subtitle": [
+        {
+          "title": "",
+          "part_subtitle": [
+            {
+              "start_timestamp": 0,
+              "end_timestamp": 1,
+              "content": "我是你们的逻辑哥"
+            },
+            {
+              "start_timestamp": 1,
+              "end_timestamp": 3,
+              "content": "跟大家讲一下你逻辑哥是什么样的人"
+            },
+            {
+              "start_timestamp": 3,
+              "end_timestamp": 7,
+              "content": "你不要对逻辑哥抱有太高的这种期待"
+            },
+            {
+              "start_timestamp": 7,
+              "end_timestamp": 7,
+              "content": "为什么"
+            },
+            {
+              "start_timestamp": 7,
+              "end_timestamp": 10,
+              "content": "因为你期待的我不会给你"
+            },
+            {
+              "start_timestamp": 10,
+              "end_timestamp": 13,
+              "content": "但是你想学方法学内容"
+            },
+            {
+              "start_timestamp": 13,
+              "end_timestamp": 14,
+              "content": "我会分享给你"
+            },
+            {
+              "start_timestamp": 14,
+              "end_timestamp": 20,
+              "content": "那么这是整个逻辑歌复盘笔记的方法论"
+            },
+            {
+              "start_timestamp": 20,
+              "end_timestamp": 23,
+              "content": "学习笔记怎么去看复盘"
+            },
+            {
+              "start_timestamp": 23,
+              "end_timestamp": 24,
+              "content": "怎么去梳理"
+            },
+            {
+              "start_timestamp": 24,
+              "end_timestamp": 25,
+              "content": "接下来核心的内容"
+            },
+            {
+              "start_timestamp": 25,
+              "end_timestamp": 29,
+              "content": "首先本笔记居罗辑哥8月31日至9月2日"
+            },
+            {
+              "start_timestamp": 29,
+              "end_timestamp": 32,
+              "content": "连续3日复盘和9月A股策策略"
+            },
+            {
+              "start_timestamp": 32,
+              "end_timestamp": 34,
+              "content": "以及牛市板块配置的指南"
+            },
+            {
+              "start_timestamp": 34,
+              "end_timestamp": 35,
+              "content": "共五份"
+            },
+            {
+              "start_timestamp": 35,
+              "end_timestamp": 37,
+              "content": "材料整理由粉丝提供啊"
+            },
+            {
+              "start_timestamp": 37,
+              "end_timestamp": 40,
+              "content": "来自我们深圳的阿峰"
+            },
+            {
+              "start_timestamp": 40,
+              "end_timestamp": 43,
+              "content": "那么它主要提炼出我的复盘"
+            },
+            {
+              "start_timestamp": 43,
+              "end_timestamp": 48,
+              "content": "分析框架及操作的核心纪律供学习参考"
+            },
+            {
+              "start_timestamp": 48,
+              "end_timestamp": 51,
+              "content": "不构成任何投资建议"
+            },
+            {
+              "start_timestamp": 51,
+              "end_timestamp": 56,
+              "content": "今天这条视频所有的内容仅作为学习参考"
+            },
+            {
+              "start_timestamp": 56,
+              "end_timestamp": 58,
+              "content": "不作为任何投资建议"
+            },
+            {
+              "start_timestamp": 58,
+              "end_timestamp": 60,
+              "content": "不构成投资建议"
+            },
+            {
+              "start_timestamp": 60,
+              "end_timestamp": 62,
+              "content": "那么我们去讲清楚"
+            },
+            {
+              "start_timestamp": 62,
+              "end_timestamp": 64,
+              "content": "复盘又有框架对吧"
+            },
+            {
+              "start_timestamp": 64,
+              "end_timestamp": 66,
+              "content": "之前一直强调过复盘要有框架"
+            },
+            {
+              "start_timestamp": 66,
+              "end_timestamp": 67,
+              "content": "框架到底是什么"
+            },
+            {
+              "start_timestamp": 67,
+              "end_timestamp": 70,
+              "content": "我应该从哪个地方开始"
+            },
+            {
+              "start_timestamp": 70,
+              "end_timestamp": 74,
+              "content": "首先逻辑哥的每日复盘遵循固定的四部结构"
+            },
+            {
+              "start_timestamp": 74,
+              "end_timestamp": 75,
+              "content": "从宏观到微观"
+            },
+            {
+              "start_timestamp": 75,
+              "end_timestamp": 78,
+              "content": "从判断到我们应对"
+            },
+            {
+              "start_timestamp": 78,
+              "end_timestamp": 79,
+              "content": "不能讲操作啊"
+            },
+            {
+              "start_timestamp": 79,
+              "end_timestamp": 81,
+              "content": "叫做应对策略"
+            },
+            {
+              "start_timestamp": 81,
+              "end_timestamp": 83,
+              "content": "记住叫做应对"
+            },
+            {
+              "start_timestamp": 83,
+              "end_timestamp": 87,
+              "content": "或者说叫做操作计划"
+            },
+            {
+              "start_timestamp": 88,
+              "end_timestamp": 90,
+              "content": "哎呀这个字不好意思啊"
+            },
+            {
+              "start_timestamp": 90,
+              "end_timestamp": 92,
+              "content": "叫做操作计划"
+            },
+            {
+              "start_timestamp": 92,
+              "end_timestamp": 93,
+              "content": "不构成任何投资建议"
+            },
+            {
+              "start_timestamp": 93,
+              "end_timestamp": 94,
+              "content": "讲清楚"
+            },
+            {
+              "start_timestamp": 94,
+              "end_timestamp": 96,
+              "content": "那么形成了一个完整的闭环"
+            },
+            {
+              "start_timestamp": 96,
+              "end_timestamp": 99,
+              "content": "那么首先第一步我们需要做的是什么呢"
+            },
+            {
+              "start_timestamp": 99,
+              "end_timestamp": 101,
+              "content": "是来自于指数分析"
+            },
+            {
+              "start_timestamp": 101,
+              "end_timestamp": 104,
+              "content": "就大盘方向在哪里"
+            },
+            {
+              "start_timestamp": 104,
+              "end_timestamp": 106,
+              "content": "变盘了没有"
+            },
+            {
+              "start_timestamp": 106,
+              "end_timestamp": 108,
+              "content": "还能不能向上走强"
+            },
+            {
+              "start_timestamp": 108,
+              "end_timestamp": 109,
+              "content": "还是说唉我要拐头了"
+            },
+            {
+              "start_timestamp": 109,
+              "end_timestamp": 113,
+              "content": "那么这是首先去判断好你的方向"
+            },
+            {
+              "start_timestamp": 113,
+              "end_timestamp": 115,
+              "content": "做好预选的分析"
+            },
+            {
+              "start_timestamp": 115,
+              "end_timestamp": 117,
+              "content": "只是做一个思路理解"
+            },
+            {
+              "start_timestamp": 117,
+              "end_timestamp": 120,
+              "content": "那么关键性点位怎么去看"
+            },
+            {
+              "start_timestamp": 120,
+              "end_timestamp": 123,
+              "content": "来各位跟着我的节奏去看"
+            },
+            {
+              "start_timestamp": 123,
+              "end_timestamp": 124,
+              "content": "第二步是什么呢"
+            },
+            {
+              "start_timestamp": 124,
+              "end_timestamp": 125,
+              "content": "去看短线情绪"
+            },
+            {
+              "start_timestamp": 125,
+              "end_timestamp": 128,
+              "content": "第三步是去看题材分析"
+            },
+            {
+              "start_timestamp": 128,
+              "end_timestamp": 130,
+              "content": "题材分析是确定当下主线是什么"
+            },
+            {
+              "start_timestamp": 130,
+              "end_timestamp": 132,
+              "content": "谁在接力"
+            },
+            {
+              "start_timestamp": 132,
+              "end_timestamp": 136,
+              "content": "那么主线分级1234以及标的方向的内容"
+            },
+            {
+              "start_timestamp": 136,
+              "end_timestamp": 139,
+              "content": "那么同时市场的情绪处于什么位置"
+            },
+            {
+              "start_timestamp": 139,
+              "end_timestamp": 139,
+              "content": "哎"
+            },
+            {
+              "start_timestamp": 139,
+              "end_timestamp": 140,
+              "content": "处于什么样的阶段"
+            },
+            {
+              "start_timestamp": 140,
+              "end_timestamp": 144,
+              "content": "情绪周期的定位和接力策略是否应该去做"
+            },
+            {
+              "start_timestamp": 144,
+              "end_timestamp": 146,
+              "content": "第四步是布局策略"
+            },
+            {
+              "start_timestamp": 146,
+              "end_timestamp": 147,
+              "content": "明天应该怎么去切"
+            },
+            {
+              "start_timestamp": 147,
+              "end_timestamp": 151,
+              "content": "那么今天视频会相对来说稍微的啊"
+            },
+            {
+              "start_timestamp": 151,
+              "end_timestamp": 152,
+              "content": "没那么长"
+            },
+            {
+              "start_timestamp": 152,
+              "end_timestamp": 154,
+              "content": "跟以前没有没有说什么"
+            },
+            {
+              "start_timestamp": 154,
+              "end_timestamp": 154,
+              "content": "40分钟"
+            },
+            {
+              "start_timestamp": 154,
+              "end_timestamp": 155,
+              "content": "50分钟了"
+            },
+            {
+              "start_timestamp": 155,
+              "end_timestamp": 156,
+              "content": "最多20分钟没讲完"
+            },
+            {
+              "start_timestamp": 156,
+              "end_timestamp": 158,
+              "content": "就当没讲完就可以了"
+            },
+            {
+              "start_timestamp": 159,
+              "end_timestamp": 162,
+              "content": "那么指数分析我们怎么去看大盘"
+            },
+            {
+              "start_timestamp": 162,
+              "end_timestamp": 164,
+              "content": "这是一个关键性的内容"
+            },
+            {
+              "start_timestamp": 164,
+              "end_timestamp": 168,
+              "content": "首先第一个每天复盘记住市场五要素"
+            },
+            {
+              "start_timestamp": 168,
+              "end_timestamp": 169,
+              "content": "哪五要素"
+            },
+            {
+              "start_timestamp": 174,
+              "end_timestamp": 175,
+              "content": "去看上证"
+            },
+            {
+              "start_timestamp": 175,
+              "end_timestamp": 176,
+              "content": "深圳创业"
+            },
+            {
+              "start_timestamp": 176,
+              "end_timestamp": 178,
+              "content": "北证科创它的涨幅"
+            },
+            {
+              "start_timestamp": 178,
+              "end_timestamp": 179,
+              "content": "所有人去看完啊"
+            },
+            {
+              "start_timestamp": 179,
+              "end_timestamp": 180,
+              "content": "去看清楚"
+            },
+            {
+              "start_timestamp": 180,
+              "end_timestamp": 182,
+              "content": "注意收盘价是否全天等于最高价"
+            },
+            {
+              "start_timestamp": 182,
+              "end_timestamp": 188,
+              "content": "是不是光头光头光脚的阳线还是光头阴线"
+            },
+            {
+              "start_timestamp": 188,
+              "end_timestamp": 191,
+              "content": "另外成交额今天的成交额有没有放大呀"
+            },
+            {
+              "start_timestamp": 191,
+              "end_timestamp": 192,
+              "content": "今天是否出现了放量唉"
+            },
+            {
+              "start_timestamp": 192,
+              "end_timestamp": 196,
+              "content": "现在这个时间点是否需要放量去拉升"
+            },
+            {
+              "start_timestamp": 196,
+              "end_timestamp": 197,
+              "content": "放量的去定高度"
+            },
+            {
+              "start_timestamp": 197,
+              "end_timestamp": 199,
+              "content": "还是说赚钱效应在哪里"
+            },
+            {
+              "start_timestamp": 199,
+              "end_timestamp": 200,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 200,
+              "end_timestamp": 202,
+              "content": "上涨加速下跌加速啊"
+            },
+            {
+              "start_timestamp": 202,
+              "end_timestamp": 202,
+              "content": "涨跌停的数量"
+            },
+            {
+              "start_timestamp": 202,
+              "end_timestamp": 203,
+              "content": "炸板率"
+            },
+            {
+              "start_timestamp": 203,
+              "end_timestamp": 206,
+              "content": "这是你需要去考虑的成交量"
+            },
+            {
+              "start_timestamp": 206,
+              "end_timestamp": 209,
+              "content": "ETF主要重点看ETF的成交额的变化"
+            },
+            {
+              "start_timestamp": 209,
+              "end_timestamp": 211,
+              "content": "反映机构和量化资金动向"
+            },
+            {
+              "start_timestamp": 211,
+              "end_timestamp": 212,
+              "content": "结构性特征"
+            },
+            {
+              "start_timestamp": 212,
+              "end_timestamp": 214,
+              "content": "大小票是否割裂"
+            },
+            {
+              "start_timestamp": 214,
+              "end_timestamp": 216,
+              "content": "那么第二部分是节奏和浪型"
+            },
+            {
+              "start_timestamp": 216,
+              "end_timestamp": 218,
+              "content": "当下处于什么样的一个浪型"
+            },
+            {
+              "start_timestamp": 218,
+              "end_timestamp": 218,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 218,
+              "end_timestamp": 219,
+              "content": "现在讲的是扩地浪"
+            },
+            {
+              "start_timestamp": 219,
+              "end_timestamp": 224,
+              "content": "那么阔地浪就就要去关注每一次是不是回踩"
+            },
+            {
+              "start_timestamp": 224,
+              "end_timestamp": 226,
+              "content": "就是机会来记住"
+            },
+            {
+              "start_timestamp": 226,
+              "end_timestamp": 229,
+              "content": "那么关键性的点位怎么去看"
+            },
+            {
+              "start_timestamp": 229,
+              "end_timestamp": 231,
+              "content": "打开你的通达信"
+            },
+            {
+              "start_timestamp": 231,
+              "end_timestamp": 233,
+              "content": "所有人跟我都是一样滴"
+            },
+            {
+              "start_timestamp": 233,
+              "end_timestamp": 234,
+              "content": "那么打开通达信之后"
+            },
+            {
+              "start_timestamp": 234,
+              "end_timestamp": 236,
+              "content": "来点开它"
+            },
+            {
+              "start_timestamp": 236,
+              "end_timestamp": 237,
+              "content": "打开通达信之后"
+            },
+            {
+              "start_timestamp": 237,
+              "end_timestamp": 241,
+              "content": "现在上方压力是不是93994.18"
+            },
+            {
+              "start_timestamp": 241,
+              "end_timestamp": 243,
+              "content": "这是他的压力点"
+            },
+            {
+              "start_timestamp": 243,
+              "end_timestamp": 248,
+              "content": "那么下方的小幅支撑是不是打到3926附近"
+            },
+            {
+              "start_timestamp": 248,
+              "end_timestamp": 248,
+              "content": "为什么呢"
+            },
+            {
+              "start_timestamp": 248,
+              "end_timestamp": 250,
+              "content": "来看到这一天3926.53"
+            },
+            {
+              "start_timestamp": 250,
+              "end_timestamp": 252,
+              "content": "形成了这一段时间的区间"
+            },
+            {
+              "start_timestamp": 252,
+              "end_timestamp": 255,
+              "content": "底部能理解吗"
+            },
+            {
+              "start_timestamp": 255,
+              "end_timestamp": 258,
+              "content": "各位3926哪来的来"
+            },
+            {
+              "start_timestamp": 258,
+              "end_timestamp": 261,
+              "content": "3926.50哪儿来的"
+            },
+            {
+              "start_timestamp": 261,
+              "end_timestamp": 262,
+              "content": "因为在这一天"
+            },
+            {
+              "start_timestamp": 262,
+              "end_timestamp": 264,
+              "content": "8月31号那天的低点来这个位置"
+            },
+            {
+              "start_timestamp": 264,
+              "end_timestamp": 266,
+              "content": "3932.25"
+            },
+            {
+              "start_timestamp": 266,
+              "end_timestamp": 268,
+              "content": "是不是也形成区间的一个小底部啊"
+            },
+            {
+              "start_timestamp": 268,
+              "end_timestamp": 270,
+              "content": "那么我们就要去看日线级别的支撑"
+            },
+            {
+              "start_timestamp": 270,
+              "end_timestamp": 272,
+              "content": "还在不在这浪形自己去画就行了"
+            },
+            {
+              "start_timestamp": 272,
+              "end_timestamp": 276,
+              "content": "波浪理论怎么去做高低点自己切"
+            },
+            {
+              "start_timestamp": 276,
+              "end_timestamp": 277,
+              "content": "很简单啊"
+            },
+            {
+              "start_timestamp": 277,
+              "end_timestamp": 278,
+              "content": "非常简单"
+            },
+            {
+              "start_timestamp": 278,
+              "end_timestamp": 280,
+              "content": "不懂就问AI"
+            },
+            {
+              "start_timestamp": 280,
+              "end_timestamp": 281,
+              "content": "因为说了就20来分钟"
+            },
+            {
+              "start_timestamp": 281,
+              "end_timestamp": 283,
+              "content": "所以我内容会讲的比较快"
+            },
+            {
+              "start_timestamp": 283,
+              "end_timestamp": 284,
+              "content": "量能配合"
+            },
+            {
+              "start_timestamp": 284,
+              "end_timestamp": 286,
+              "content": "记记住突破必须放量"
+            },
+            {
+              "start_timestamp": 286,
+              "end_timestamp": 287,
+              "content": "配合时间性的调整"
+            },
+            {
+              "start_timestamp": 287,
+              "end_timestamp": 288,
+              "content": "空间要对称"
+            },
+            {
+              "start_timestamp": 288,
+              "end_timestamp": 291,
+              "content": "比方说某一波用时八八个30分钟"
+            },
+            {
+              "start_timestamp": 291,
+              "end_timestamp": 294,
+              "content": "那么下一波调整也应该接近这个长"
+            },
+            {
+              "start_timestamp": 294,
+              "end_timestamp": 295,
+              "content": "接近这个长度"
+            },
+            {
+              "start_timestamp": 295,
+              "end_timestamp": 296,
+              "content": "很简单"
+            },
+            {
+              "start_timestamp": 296,
+              "end_timestamp": 300,
+              "content": "把15分钟拉出来来"
+            },
+            {
+              "start_timestamp": 300,
+              "end_timestamp": 303,
+              "content": "从上一波从这个位置调整到下方"
+            },
+            {
+              "start_timestamp": 303,
+              "end_timestamp": 305,
+              "content": "中间用了十次"
+            },
+            {
+              "start_timestamp": 305,
+              "end_timestamp": 306,
+              "content": "用了周期用了十个"
+            },
+            {
+              "start_timestamp": 306,
+              "end_timestamp": 310,
+              "content": "那么我们看他从反弹到高点用了多久"
+            },
+            {
+              "start_timestamp": 310,
+              "end_timestamp": 311,
+              "content": "来"
+            },
+            {
+              "start_timestamp": 311,
+              "end_timestamp": 316,
+              "content": "来看清楚反弹到高点是不是依旧也是十好"
+            },
+            {
+              "start_timestamp": 316,
+              "end_timestamp": 318,
+              "content": "这一步1234来"
+            },
+            {
+              "start_timestamp": 318,
+              "end_timestamp": 320,
+              "content": "1234好"
+            },
+            {
+              "start_timestamp": 320,
+              "end_timestamp": 320,
+              "content": "再开始回调"
+            },
+            {
+              "start_timestamp": 320,
+              "end_timestamp": 326,
+              "content": "从这个位置开始回调到这几个九个好"
+            },
+            {
+              "start_timestamp": 326,
+              "end_timestamp": 328,
+              "content": "从这一天反弹开始往上去算"
+            },
+            {
+              "start_timestamp": 328,
+              "end_timestamp": 334,
+              "content": "应该是到这一天几个七个好到高点来"
+            },
+            {
+              "start_timestamp": 334,
+              "end_timestamp": 338,
+              "content": "如果说后面之后开始进入回调来"
+            },
+            {
+              "start_timestamp": 338,
+              "end_timestamp": 343,
+              "content": "也就是说九个是从这算算到这算到这儿"
+            },
+            {
+              "start_timestamp": 343,
+              "end_timestamp": 345,
+              "content": "算到这个位置"
+            },
+            {
+              "start_timestamp": 345,
+              "end_timestamp": 347,
+              "content": "因为它是出现过的好"
+            },
+            {
+              "start_timestamp": 347,
+              "end_timestamp": 349,
+              "content": "那么现在回调1234"
+            },
+            {
+              "start_timestamp": 349,
+              "end_timestamp": 352,
+              "content": "如果说到这为止结束好"
+            },
+            {
+              "start_timestamp": 352,
+              "end_timestamp": 353,
+              "content": "这个小浪就确定六个"
+            },
+            {
+              "start_timestamp": 353,
+              "end_timestamp": 357,
+              "content": "那么上升周期15分钟一样是六个好"
+            },
+            {
+              "start_timestamp": 357,
+              "end_timestamp": 359,
+              "content": "要往后面还有六次理解了吧"
+            },
+            {
+              "start_timestamp": 359,
+              "end_timestamp": 360,
+              "content": "这是一个东西"
+            },
+            {
+              "start_timestamp": 360,
+              "end_timestamp": 360,
+              "content": "自己去复制"
+            },
+            {
+              "start_timestamp": 360,
+              "end_timestamp": 361,
+              "content": "这个过去怎么走"
+            },
+            {
+              "start_timestamp": 361,
+              "end_timestamp": 363,
+              "content": "现在还是怎么走"
+            },
+            {
+              "start_timestamp": 363,
+              "end_timestamp": 366,
+              "content": "浪行时间和空间双双完整"
+            },
+            {
+              "start_timestamp": 366,
+              "end_timestamp": 367,
+              "content": "会有一个对称"
+            },
+            {
+              "start_timestamp": 367,
+              "end_timestamp": 372,
+              "content": "记住叫做调整浪的时间和空间是要对称底"
+            },
+            {
+              "start_timestamp": 372,
+              "end_timestamp": 373,
+              "content": "简单给你举个例子而已啊"
+            },
+            {
+              "start_timestamp": 373,
+              "end_timestamp": 375,
+              "content": "不作为什么投资建议自己去梳理就好"
+            },
+            {
+              "start_timestamp": 375,
+              "end_timestamp": 377,
+              "content": "变盘定新法是当指数到了"
+            },
+            {
+              "start_timestamp": 377,
+              "end_timestamp": 381,
+              "content": "关键是你的压力区或者支撑区必须做半变盘"
+            },
+            {
+              "start_timestamp": 381,
+              "end_timestamp": 383,
+              "content": "定性方法是设定一个分水岭的点"
+            },
+            {
+              "start_timestamp": 384,
+              "end_timestamp": 386,
+              "content": "记住乐观乐观情形"
+            },
+            {
+              "start_timestamp": 386,
+              "end_timestamp": 390,
+              "content": "哪怕只要突破3994.18"
+            },
+            {
+              "start_timestamp": 390,
+              "end_timestamp": 394,
+              "content": "我们那天是不是3995.18打掉"
+            },
+            {
+              "start_timestamp": 394,
+              "end_timestamp": 396,
+              "content": "哪怕只是突破0.01样"
+            },
+            {
+              "start_timestamp": 396,
+              "end_timestamp": 400,
+              "content": "记住可以判断为上升浪的延续期间"
+            },
+            {
+              "start_timestamp": 400,
+              "end_timestamp": 402,
+              "content": "所有的震荡回调都是属于途中调整"
+            },
+            {
+              "start_timestamp": 402,
+              "end_timestamp": 403,
+              "content": "持股可以更从容"
+            },
+            {
+              "start_timestamp": 403,
+              "end_timestamp": 406,
+              "content": "只要但凡摁下去就是低吸的机会"
+            },
+            {
+              "start_timestamp": 406,
+              "end_timestamp": 407,
+              "content": "讲清楚了"
+            },
+            {
+              "start_timestamp": 407,
+              "end_timestamp": 410,
+              "content": "那么谨慎的情形迟迟不能突破啊"
+            },
+            {
+              "start_timestamp": 410,
+              "end_timestamp": 413,
+              "content": "压力下压力区下沿持续徘徊"
+            },
+            {
+              "start_timestamp": 413,
+              "end_timestamp": 415,
+              "content": "那么叠加顶背离或者高九信号"
+            },
+            {
+              "start_timestamp": 415,
+              "end_timestamp": 417,
+              "content": "记住要防范的是双头"
+            },
+            {
+              "start_timestamp": 417,
+              "end_timestamp": 421,
+              "content": "只讲指数操作机率上突破则持"
+            },
+            {
+              "start_timestamp": 421,
+              "end_timestamp": 422,
+              "content": "失手则减"
+            },
+            {
+              "start_timestamp": 422,
+              "end_timestamp": 424,
+              "content": "在确结果确认之前"
+            },
+            {
+              "start_timestamp": 424,
+              "end_timestamp": 427,
+              "content": "不要有任何的倾向性的意念"
+            },
+            {
+              "start_timestamp": 427,
+              "end_timestamp": 428,
+              "content": "平等的看待"
+            },
+            {
+              "start_timestamp": 428,
+              "end_timestamp": 430,
+              "content": "同时海外海外跟踪"
+            },
+            {
+              "start_timestamp": 430,
+              "end_timestamp": 431,
+              "content": "这个就根据他实际的情况"
+            },
+            {
+              "start_timestamp": 431,
+              "end_timestamp": 433,
+              "content": "就每天必须跟踪啊"
+            },
+            {
+              "start_timestamp": 433,
+              "end_timestamp": 435,
+              "content": "记住每天都必须跟踪它"
+            },
+            {
+              "start_timestamp": 435,
+              "end_timestamp": 436,
+              "content": "时时会有变化的"
+            },
+            {
+              "start_timestamp": 436,
+              "end_timestamp": 437,
+              "content": "你自己去看就好了"
+            },
+            {
+              "start_timestamp": 437,
+              "end_timestamp": 439,
+              "content": "国内的政策资金面同样也是如此"
+            },
+            {
+              "start_timestamp": 439,
+              "end_timestamp": 441,
+              "content": "政策先出来"
+            },
+            {
+              "start_timestamp": 441,
+              "end_timestamp": 442,
+              "content": "顶层设计先出来"
+            },
+            {
+              "start_timestamp": 442,
+              "end_timestamp": 443,
+              "content": "后续要看落地"
+            },
+            {
+              "start_timestamp": 443,
+              "end_timestamp": 444,
+              "content": "落地跟的越快"
+            },
+            {
+              "start_timestamp": 444,
+              "end_timestamp": 445,
+              "content": "这个地方跑的越好"
+            },
+            {
+              "start_timestamp": 445,
+              "end_timestamp": 447,
+              "content": "就拿去年的15规划当中讲的"
+            },
+            {
+              "start_timestamp": 449,
+              "end_timestamp": 450,
+              "content": "15规划一出来"
+            },
+            {
+              "start_timestamp": 451,
+              "end_timestamp": 453,
+              "content": "这个地方报的是最快的"
+            },
+            {
+              "start_timestamp": 453,
+              "end_timestamp": 454,
+              "content": "理解了吧"
+            },
+            {
+              "start_timestamp": 454,
+              "end_timestamp": 456,
+              "content": "自己回去回溯一遍就可以了"
+            },
+            {
+              "start_timestamp": 456,
+              "end_timestamp": 458,
+              "content": "那么即现在到了短线情绪周期"
+            },
+            {
+              "start_timestamp": 458,
+              "end_timestamp": 461,
+              "content": "情绪周期当中我们要去怎么分析"
+            },
+            {
+              "start_timestamp": 461,
+              "end_timestamp": 462,
+              "content": "如何去看情绪周期"
+            },
+            {
+              "start_timestamp": 462,
+              "end_timestamp": 464,
+              "content": "很多人不懂啊"
+            },
+            {
+              "start_timestamp": 464,
+              "end_timestamp": 465,
+              "content": "说实话"
+            },
+            {
+              "start_timestamp": 465,
+              "end_timestamp": 466,
+              "content": "外面讲的经济周期"
+            },
+            {
+              "start_timestamp": 466,
+              "end_timestamp": 469,
+              "content": "这帮人我看不上都是菜"
+            },
+            {
+              "start_timestamp": 469,
+              "end_timestamp": 471,
+              "content": "为什么怎么看"
+            },
+            {
+              "start_timestamp": 471,
+              "end_timestamp": 472,
+              "content": "连板梯队分析法"
+            },
+            {
+              "start_timestamp": 472,
+              "end_timestamp": 474,
+              "content": "第一步是要看市场高度"
+            },
+            {
+              "start_timestamp": 474,
+              "end_timestamp": 477,
+              "content": "连板梯队是最快而且最直观的温度计"
+            },
+            {
+              "start_timestamp": 477,
+              "end_timestamp": 479,
+              "content": "每天必须记录且对比"
+            },
+            {
+              "start_timestamp": 479,
+              "end_timestamp": 482,
+              "content": "我之前做过那种连板梯队的这个excel表格"
+            },
+            {
+              "start_timestamp": 482,
+              "end_timestamp": 484,
+              "content": "我做了大概4年还是5年的数据"
+            },
+            {
+              "start_timestamp": 484,
+              "end_timestamp": 486,
+              "content": "我就不给你放了啊"
+            },
+            {
+              "start_timestamp": 486,
+              "end_timestamp": 488,
+              "content": "省得你到时候说说哥哥吹牛逼"
+            },
+            {
+              "start_timestamp": 488,
+              "end_timestamp": 489,
+              "content": "确实在家里底边电脑上"
+            },
+            {
+              "start_timestamp": 489,
+              "end_timestamp": 493,
+              "content": "我很少会在这个这个这这边电脑上装装上"
+            },
+            {
+              "start_timestamp": 493,
+              "end_timestamp": 494,
+              "content": "因为内容太多"
+            },
+            {
+              "start_timestamp": 494,
+              "end_timestamp": 497,
+              "content": "第二个记住市场高度越好"
+            },
+            {
+              "start_timestamp": 497,
+              "end_timestamp": 500,
+              "content": "说明强度情绪越高"
+            },
+            {
+              "start_timestamp": 500,
+              "end_timestamp": 501,
+              "content": "高度压缩"
+            },
+            {
+              "start_timestamp": 501,
+              "end_timestamp": 503,
+              "content": "比方说监管态度摆在这儿"
+            },
+            {
+              "start_timestamp": 503,
+              "end_timestamp": 505,
+              "content": "你你告诉我还敢顶吗"
+            },
+            {
+              "start_timestamp": 505,
+              "end_timestamp": 506,
+              "content": "肯定不敢了嘛"
+            },
+            {
+              "start_timestamp": 506,
+              "end_timestamp": 507,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 507,
+              "end_timestamp": 509,
+              "content": "第二个是连板梯队的完整度"
+            },
+            {
+              "start_timestamp": 509,
+              "end_timestamp": 510,
+              "content": "梯队完整越好"
+            },
+            {
+              "start_timestamp": 510,
+              "end_timestamp": 513,
+              "content": "梯队内54321是否各有标的"
+            },
+            {
+              "start_timestamp": 513,
+              "end_timestamp": 516,
+              "content": "梯队完完整说明市场资金的活跃"
+            },
+            {
+              "start_timestamp": 516,
+              "end_timestamp": 518,
+              "content": "断层说明接力困难"
+            },
+            {
+              "start_timestamp": 518,
+              "end_timestamp": 523,
+              "content": "来我们看一下2026年9月4号"
+            },
+            {
+              "start_timestamp": 523,
+              "end_timestamp": 525,
+              "content": "连板梯队好看吗"
+            },
+            {
+              "start_timestamp": 525,
+              "end_timestamp": 528,
+              "content": "好像并不好看"
+            },
+            {
+              "start_timestamp": 529,
+              "end_timestamp": 533,
+              "content": "兄弟9月4号今天的数据好看吗"
+            },
+            {
+              "start_timestamp": 533,
+              "end_timestamp": 535,
+              "content": "532好不好看"
+            },
+            {
+              "start_timestamp": 535,
+              "end_timestamp": 537,
+              "content": "中间断层断了一个四"
+            },
+            {
+              "start_timestamp": 537,
+              "end_timestamp": 539,
+              "content": "而且五剩一个三"
+            },
+            {
+              "start_timestamp": 539,
+              "end_timestamp": 540,
+              "content": "剩一个"
+            },
+            {
+              "start_timestamp": 540,
+              "end_timestamp": 540,
+              "content": "一般般"
+            },
+            {
+              "start_timestamp": 540,
+              "end_timestamp": 543,
+              "content": "现在的时间是2026年9月4号"
+            },
+            {
+              "start_timestamp": 543,
+              "end_timestamp": 544,
+              "content": "13.26分"
+            },
+            {
+              "start_timestamp": 544,
+              "end_timestamp": 547,
+              "content": "来各位晋级和断板要去看他晋级率和断板率"
+            },
+            {
+              "start_timestamp": 547,
+              "end_timestamp": 549,
+              "content": "左右连板晋级率如何"
+            },
+            {
+              "start_timestamp": 549,
+              "end_timestamp": 553,
+              "content": "高标断板是红盘断板温和的段还是跌停段"
+            },
+            {
+              "start_timestamp": 553,
+              "end_timestamp": 555,
+              "content": "这是反映出情绪的好和坏"
+            },
+            {
+              "start_timestamp": 555,
+              "end_timestamp": 557,
+              "content": "就是恶劣与否"
+            },
+            {
+              "start_timestamp": 557,
+              "end_timestamp": 560,
+              "content": "新面孔二版梯队当中新的面孔有没有多"
+            },
+            {
+              "start_timestamp": 560,
+              "end_timestamp": 563,
+              "content": "如果多说明资金弃高就低"
+            },
+            {
+              "start_timestamp": 563,
+              "end_timestamp": 566,
+              "content": "意味着接力高位的接力难度大好"
+            },
+            {
+              "start_timestamp": 566,
+              "end_timestamp": 569,
+              "content": "我们来看一下现在今天的200"
+            },
+            {
+              "start_timestamp": 571,
+              "end_timestamp": 573,
+              "content": "稍微那么一等来"
+            },
+            {
+              "start_timestamp": 573,
+              "end_timestamp": 575,
+              "content": "今天的二版梯队好看吗"
+            },
+            {
+              "start_timestamp": 575,
+              "end_timestamp": 577,
+              "content": "一字板这个好看吗"
+            },
+            {
+              "start_timestamp": 577,
+              "end_timestamp": 578,
+              "content": "是新的还是旧的"
+            },
+            {
+              "start_timestamp": 578,
+              "end_timestamp": 580,
+              "content": "这个是新的还是旧的"
+            },
+            {
+              "start_timestamp": 580,
+              "end_timestamp": 581,
+              "content": "这个是新的还是旧的"
+            },
+            {
+              "start_timestamp": 581,
+              "end_timestamp": 582,
+              "content": "这个是新的还是旧的"
+            },
+            {
+              "start_timestamp": 582,
+              "end_timestamp": 584,
+              "content": "全都是新的"
+            },
+            {
+              "start_timestamp": 584,
+              "end_timestamp": 589,
+              "content": "也就意味着昨天啊礼拜四讲的杀高利心"
+            },
+            {
+              "start_timestamp": 589,
+              "end_timestamp": 590,
+              "content": "记住了"
+            },
+            {
+              "start_timestamp": 590,
+              "end_timestamp": 591,
+              "content": "杀高利清确定"
+            },
+            {
+              "start_timestamp": 591,
+              "end_timestamp": 593,
+              "content": "那么盘面上我们分成三段式观察"
+            },
+            {
+              "start_timestamp": 593,
+              "end_timestamp": 595,
+              "content": "我们把整个交易日的时间"
+            },
+            {
+              "start_timestamp": 595,
+              "end_timestamp": 600,
+              "content": "分成上竞价和上午以及下午这几个时间段去聊"
+            },
+            {
+              "start_timestamp": 600,
+              "end_timestamp": 604,
+              "content": "记住分别观察的是题材的启动和轮动"
+            },
+            {
+              "start_timestamp": 604,
+              "end_timestamp": 605,
+              "content": "题材的启动和轮动"
+            },
+            {
+              "start_timestamp": 605,
+              "end_timestamp": 607,
+              "content": "首先第一个竞价的过程当中"
+            },
+            {
+              "start_timestamp": 607,
+              "end_timestamp": 608,
+              "content": "我们先看什么"
+            },
+            {
+              "start_timestamp": 608,
+              "end_timestamp": 612,
+              "content": "先看的是哪些板块出现高高开一次啊"
+            },
+            {
+              "start_timestamp": 612,
+              "end_timestamp": 612,
+              "content": "有没有高开"
+            },
+            {
+              "start_timestamp": 612,
+              "end_timestamp": 614,
+              "content": "有没有一字板块强对啊"
+            },
+            {
+              "start_timestamp": 614,
+              "end_timestamp": 616,
+              "content": "比方说这个像谁呢"
+            },
+            {
+              "start_timestamp": 616,
+              "end_timestamp": 619,
+              "content": "像9月4号的这个无人驾驶当中哎"
+            },
+            {
+              "start_timestamp": 619,
+              "end_timestamp": 620,
+              "content": "顶出来两个一字板"
+            },
+            {
+              "start_timestamp": 620,
+              "end_timestamp": 626,
+              "content": "但是正常来说我们记住板块墙要三个及以上"
+            },
+            {
+              "start_timestamp": 626,
+              "end_timestamp": 629,
+              "content": "一子记住板块要强势"
+            },
+            {
+              "start_timestamp": 629,
+              "end_timestamp": 631,
+              "content": "必须三个及以上"
+            },
+            {
+              "start_timestamp": 631,
+              "end_timestamp": 632,
+              "content": "而且我们要看回流"
+            },
+            {
+              "start_timestamp": 632,
+              "end_timestamp": 633,
+              "content": "你不能开出来哎"
+            },
+            {
+              "start_timestamp": 633,
+              "end_timestamp": 634,
+              "content": "这个板块你我立马追"
+            },
+            {
+              "start_timestamp": 634,
+              "end_timestamp": 634,
+              "content": "不能追"
+            },
+            {
+              "start_timestamp": 634,
+              "end_timestamp": 636,
+              "content": "要看强度"
+            },
+            {
+              "start_timestamp": 636,
+              "end_timestamp": 638,
+              "content": "第二个哪些低开出现跌停"
+            },
+            {
+              "start_timestamp": 638,
+              "end_timestamp": 640,
+              "content": "证明板块今天略弱啊"
+            },
+            {
+              "start_timestamp": 640,
+              "end_timestamp": 641,
+              "content": "要注意安全"
+            },
+            {
+              "start_timestamp": 641,
+              "end_timestamp": 644,
+              "content": "同时要判判断的是资金隔夜态度"
+            },
+            {
+              "start_timestamp": 644,
+              "end_timestamp": 645,
+              "content": "竞价强势"
+            },
+            {
+              "start_timestamp": 645,
+              "end_timestamp": 649,
+              "content": "但全天走弱说明是脉冲赏金一波流没有持续性"
+            },
+            {
+              "start_timestamp": 649,
+              "end_timestamp": 651,
+              "content": "要看后续了"
+            },
+            {
+              "start_timestamp": 651,
+              "end_timestamp": 654,
+              "content": "好上午阶段看题材延续性和新题材的启动"
+            },
+            {
+              "start_timestamp": 654,
+              "end_timestamp": 658,
+              "content": "连板晋级情况记住祖训讲了啊"
+            },
+            {
+              "start_timestamp": 658,
+              "end_timestamp": 660,
+              "content": "在礼拜五的这个时间段"
+            },
+            {
+              "start_timestamp": 660,
+              "end_timestamp": 661,
+              "content": "记住了"
+            },
+            {
+              "start_timestamp": 661,
+              "end_timestamp": 662,
+              "content": "要怎么着"
+            },
+            {
+              "start_timestamp": 662,
+              "end_timestamp": 665,
+              "content": "自己回去想高开要怎么着"
+            },
+            {
+              "start_timestamp": 666,
+              "end_timestamp": 667,
+              "content": "跳了之后要怎么着"
+            },
+            {
+              "start_timestamp": 667,
+              "end_timestamp": 669,
+              "content": "每次的回调都是什么"
+            },
+            {
+              "start_timestamp": 669,
+              "end_timestamp": 671,
+              "content": "另外下午阶段是要看什么呢"
+            },
+            {
+              "start_timestamp": 671,
+              "end_timestamp": 673,
+              "content": "是否有新的题材去爆发"
+            },
+            {
+              "start_timestamp": 673,
+              "end_timestamp": 675,
+              "content": "带动其指数"
+            },
+            {
+              "start_timestamp": 675,
+              "end_timestamp": 679,
+              "content": "尾盘是否有资金抢筹或者出逃"
+            },
+            {
+              "start_timestamp": 679,
+              "end_timestamp": 681,
+              "content": "那么情绪四阶段"
+            },
+            {
+              "start_timestamp": 681,
+              "end_timestamp": 683,
+              "content": "当这个是盘面观察"
+            },
+            {
+              "start_timestamp": 683,
+              "end_timestamp": 685,
+              "content": "要去看反馈啊"
+            },
+            {
+              "start_timestamp": 685,
+              "end_timestamp": 688,
+              "content": "具体的到时候你自己看复盘的时候就能明白了"
+            },
+            {
+              "start_timestamp": 688,
+              "end_timestamp": 690,
+              "content": "那么情绪周期四阶段的定位"
+            },
+            {
+              "start_timestamp": 690,
+              "end_timestamp": 693,
+              "content": "这个地方我需要给大家放大"
+            },
+            {
+              "start_timestamp": 693,
+              "end_timestamp": 695,
+              "content": "我需要给大家放大"
+            },
+            {
+              "start_timestamp": 697,
+              "end_timestamp": 700,
+              "content": "来情绪周期四阶段当中"
+            },
+            {
+              "start_timestamp": 700,
+              "end_timestamp": 704,
+              "content": "最关键的是我们怎么去抓住启动期"
+            },
+            {
+              "start_timestamp": 704,
+              "end_timestamp": 706,
+              "content": "避开退潮期"
+            },
+            {
+              "start_timestamp": 706,
+              "end_timestamp": 708,
+              "content": "首先第一个启动基属于什么呢"
+            },
+            {
+              "start_timestamp": 708,
+              "end_timestamp": 709,
+              "content": "是新题材"
+            },
+            {
+              "start_timestamp": 709,
+              "end_timestamp": 710,
+              "content": "首板潮"
+            },
+            {
+              "start_timestamp": 710,
+              "end_timestamp": 712,
+              "content": "高度板开始拓展"
+            },
+            {
+              "start_timestamp": 712,
+              "end_timestamp": 717,
+              "content": "记住8月31号那天是液冷的第一波高潮"
+            },
+            {
+              "start_timestamp": 717,
+              "end_timestamp": 719,
+              "content": "首板潮开始"
+            },
+            {
+              "start_timestamp": 719,
+              "end_timestamp": 720,
+              "content": "第二步是高潮"
+            },
+            {
+              "start_timestamp": 720,
+              "end_timestamp": 724,
+              "content": "当板块内哦启动期的时候应该怎么办"
+            },
+            {
+              "start_timestamp": 724,
+              "end_timestamp": 726,
+              "content": "积极地参与手板和他的低位接力"
+            },
+            {
+              "start_timestamp": 726,
+              "end_timestamp": 727,
+              "content": "那么在高潮期"
+            },
+            {
+              "start_timestamp": 727,
+              "end_timestamp": 729,
+              "content": "当板块出现批量性的涨停"
+            },
+            {
+              "start_timestamp": 729,
+              "end_timestamp": 731,
+              "content": "龙头加速ETF霸榜的时候"
+            },
+            {
+              "start_timestamp": 731,
+              "end_timestamp": 733,
+              "content": "持仓做T不追高潮很简单"
+            },
+            {
+              "start_timestamp": 733,
+              "end_timestamp": 733,
+              "content": "是谁呢"
+            },
+            {
+              "start_timestamp": 733,
+              "end_timestamp": 738,
+              "content": "就是前面讲过的厄尔尼诺当中带来的农业"
+            },
+            {
+              "start_timestamp": 738,
+              "end_timestamp": 739,
+              "content": "种业方向"
+            },
+            {
+              "start_timestamp": 739,
+              "end_timestamp": 743,
+              "content": "那么分歧其是龙头断板板块内部分化"
+            },
+            {
+              "start_timestamp": 743,
+              "end_timestamp": 747,
+              "content": "同时要怎么着炸板增多"
+            },
+            {
+              "start_timestamp": 747,
+              "end_timestamp": 750,
+              "content": "你做的时间点就是分歧低吸"
+            },
+            {
+              "start_timestamp": 750,
+              "end_timestamp": 751,
+              "content": "不要去追高"
+            },
+            {
+              "start_timestamp": 751,
+              "end_timestamp": 752,
+              "content": "莫要追高"
+            },
+            {
+              "start_timestamp": 752,
+              "end_timestamp": 754,
+              "content": "千万千万别追高"
+            },
+            {
+              "start_timestamp": 754,
+              "end_timestamp": 757,
+              "content": "追高穷三代"
+            },
+            {
+              "start_timestamp": 757,
+              "end_timestamp": 757,
+              "content": "记住啊"
+            },
+            {
+              "start_timestamp": 757,
+              "end_timestamp": 759,
+              "content": "追高穷三代"
+            },
+            {
+              "start_timestamp": 759,
+              "end_timestamp": 760,
+              "content": "低吸富一生"
+            },
+            {
+              "start_timestamp": 760,
+              "end_timestamp": 762,
+              "content": "就跟这个摄影师啊"
+            },
+            {
+              "start_timestamp": 762,
+              "end_timestamp": 764,
+              "content": "摄像师玩相机的一样"
+            },
+            {
+              "start_timestamp": 764,
+              "end_timestamp": 766,
+              "content": "那么最后是退潮期"
+            },
+            {
+              "start_timestamp": 766,
+              "end_timestamp": 768,
+              "content": "当高位股开始出现跌停"
+            },
+            {
+              "start_timestamp": 768,
+              "end_timestamp": 769,
+              "content": "亏钱效应"
+            },
+            {
+              "start_timestamp": 769,
+              "end_timestamp": 769,
+              "content": "整体性扩散"
+            },
+            {
+              "start_timestamp": 769,
+              "end_timestamp": 772,
+              "content": "梯队断层走控制"
+            },
+            {
+              "start_timestamp": 772,
+              "end_timestamp": 774,
+              "content": "或者说转向防御"
+            },
+            {
+              "start_timestamp": 774,
+              "end_timestamp": 778,
+              "content": "亦或者是新方向的启动"
+            },
+            {
+              "start_timestamp": 778,
+              "end_timestamp": 780,
+              "content": "新方向的启动"
+            },
+            {
+              "start_timestamp": 780,
+              "end_timestamp": 782,
+              "content": "这个地方理解清楚"
+            },
+            {
+              "start_timestamp": 782,
+              "end_timestamp": 785,
+              "content": "那么当下的市场处于什么呢"
+            },
+            {
+              "start_timestamp": 785,
+              "end_timestamp": 789,
+              "content": "处于混沌期向新周期转变的时间"
+            },
+            {
+              "start_timestamp": 789,
+              "end_timestamp": 793,
+              "content": "为什么混沌为什么当下是混沌"
+            },
+            {
+              "start_timestamp": 793,
+              "end_timestamp": 795,
+              "content": "第一天第一句话叫做猫一天"
+            },
+            {
+              "start_timestamp": 795,
+              "end_timestamp": 796,
+              "content": "狗一天涨一天"
+            },
+            {
+              "start_timestamp": 796,
+              "end_timestamp": 797,
+              "content": "跌一天"
+            },
+            {
+              "start_timestamp": 797,
+              "end_timestamp": 797,
+              "content": "昨天涨停"
+            },
+            {
+              "start_timestamp": 799,
+              "end_timestamp": 800,
+              "content": "它是一个好的市场吗"
+            },
+            {
+              "start_timestamp": 800,
+              "end_timestamp": 803,
+              "content": "不是板块在反复的启动"
+            },
+            {
+              "start_timestamp": 803,
+              "end_timestamp": 804,
+              "content": "分期再启动当天高潮"
+            },
+            {
+              "start_timestamp": 804,
+              "end_timestamp": 806,
+              "content": "而且没有持续性"
+            },
+            {
+              "start_timestamp": 806,
+              "end_timestamp": 807,
+              "content": "即为混沌"
+            },
+            {
+              "start_timestamp": 807,
+              "end_timestamp": 809,
+              "content": "即为混沌期"
+            },
+            {
+              "start_timestamp": 809,
+              "end_timestamp": 812,
+              "content": "此时必须坚守的两个原则是"
+            },
+            {
+              "start_timestamp": 812,
+              "end_timestamp": 815,
+              "content": "就现在依旧可能说礼拜五之后啊"
+            },
+            {
+              "start_timestamp": 815,
+              "end_timestamp": 817,
+              "content": "现在因为是礼拜五的13:30"
+            },
+            {
+              "start_timestamp": 817,
+              "end_timestamp": 818,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 818,
+              "end_timestamp": 821,
+              "content": "但是有可能礼拜五之后情绪又开始好转对吧"
+            },
+            {
+              "start_timestamp": 821,
+              "end_timestamp": 823,
+              "content": "内容就已经开始好起来了"
+            },
+            {
+              "start_timestamp": 823,
+              "end_timestamp": 825,
+              "content": "记住这个这些内容"
+            },
+            {
+              "start_timestamp": 825,
+              "end_timestamp": 826,
+              "content": "我会在周天的复盘当中"
+            },
+            {
+              "start_timestamp": 826,
+              "end_timestamp": 829,
+              "content": "或者周天直播的过程当中跟大家讲清楚"
+            },
+            {
+              "start_timestamp": 829,
+              "end_timestamp": 833,
+              "content": "记住混沌期当中必须坚守的两个原则叫低频"
+            },
+            {
+              "start_timestamp": 833,
+              "end_timestamp": 836,
+              "content": "只有想清楚的个别聚焦才能够"
+            },
+            {
+              "start_timestamp": 836,
+              "end_timestamp": 839,
+              "content": "或者说才值得你去"
+            },
+            {
+              "start_timestamp": 839,
+              "end_timestamp": 842,
+              "content": "不因为盘面的热闹而被诱惑"
+            },
+            {
+              "start_timestamp": 842,
+              "end_timestamp": 844,
+              "content": "这个长得好看"
+            },
+            {
+              "start_timestamp": 844,
+              "end_timestamp": 845,
+              "content": "那个也挺不错啊"
+            },
+            {
+              "start_timestamp": 845,
+              "end_timestamp": 850,
+              "content": "这个这个我喜欢那个形态也好看"
+            },
+            {
+              "start_timestamp": 850,
+              "end_timestamp": 851,
+              "content": "这一个是什么呢"
+            },
+            {
+              "start_timestamp": 851,
+              "end_timestamp": 852,
+              "content": "逻辑硬"
+            },
+            {
+              "start_timestamp": 852,
+              "end_timestamp": 853,
+              "content": "但是有什么用呢"
+            },
+            {
+              "start_timestamp": 854,
+              "end_timestamp": 856,
+              "content": "盘面的热闹与你何干"
+            },
+            {
+              "start_timestamp": 856,
+              "end_timestamp": 858,
+              "content": "热闹是别人的"
+            },
+            {
+              "start_timestamp": 858,
+              "end_timestamp": 861,
+              "content": "你要的是我只赚我认知内的钱"
+            },
+            {
+              "start_timestamp": 861,
+              "end_timestamp": 864,
+              "content": "那么前置是要信就早信"
+            },
+            {
+              "start_timestamp": 864,
+              "end_timestamp": 865,
+              "content": "开盘直接就信"
+            },
+            {
+              "start_timestamp": 865,
+              "end_timestamp": 867,
+              "content": "不要等到后面了啊"
+            },
+            {
+              "start_timestamp": 867,
+              "end_timestamp": 868,
+              "content": "它涨停了"
+            },
+            {
+              "start_timestamp": 868,
+              "end_timestamp": 869,
+              "content": "哎这个好这个好"
+            },
+            {
+              "start_timestamp": 869,
+              "end_timestamp": 872,
+              "content": "这个好板块走强后不再追"
+            },
+            {
+              "start_timestamp": 872,
+              "end_timestamp": 874,
+              "content": "走强之后莫要追"
+            },
+            {
+              "start_timestamp": 874,
+              "end_timestamp": 875,
+              "content": "很容易套"
+            },
+            {
+              "start_timestamp": 875,
+              "end_timestamp": 876,
+              "content": "特别容易被套"
+            },
+            {
+              "start_timestamp": 876,
+              "end_timestamp": 878,
+              "content": "我宁可你等一波低吸也行"
+            },
+            {
+              "start_timestamp": 878,
+              "end_timestamp": 879,
+              "content": "无所谓"
+            },
+            {
+              "start_timestamp": 880,
+              "end_timestamp": 881,
+              "content": "早盘不去的"
+            },
+            {
+              "start_timestamp": 881,
+              "end_timestamp": 882,
+              "content": "后面就不要去追了啊"
+            },
+            {
+              "start_timestamp": 882,
+              "end_timestamp": 883,
+              "content": "千万别追了"
+            },
+            {
+              "start_timestamp": 883,
+              "end_timestamp": 886,
+              "content": "因为有可能第二天你不能够活着出来"
+            },
+            {
+              "start_timestamp": 886,
+              "end_timestamp": 887,
+              "content": "也许你今天涨停了"
+            },
+            {
+              "start_timestamp": 887,
+              "end_timestamp": 888,
+              "content": "也许你今天大涨了"
+            },
+            {
+              "start_timestamp": 888,
+              "end_timestamp": 889,
+              "content": "但是第二天你不能活着出来"
+            },
+            {
+              "start_timestamp": 889,
+              "end_timestamp": 890,
+              "content": "你跟我聊个什么"
+            },
+            {
+              "start_timestamp": 890,
+              "end_timestamp": 892,
+              "content": "那你这笔交易不就是在浪费钱吗"
+            },
+            {
+              "start_timestamp": 892,
+              "end_timestamp": 895,
+              "content": "那么题材上怎么去找主线"
+            },
+            {
+              "start_timestamp": 895,
+              "end_timestamp": 896,
+              "content": "主线五要素"
+            },
+            {
+              "start_timestamp": 896,
+              "end_timestamp": 899,
+              "content": "判断一个题材的是否能为能够成为主线"
+            },
+            {
+              "start_timestamp": 899,
+              "end_timestamp": 901,
+              "content": "必须考察五个要素"
+            },
+            {
+              "start_timestamp": 901,
+              "end_timestamp": 902,
+              "content": "第一驱动逻辑"
+            },
+            {
+              "start_timestamp": 902,
+              "end_timestamp": 903,
+              "content": "产业上"
+            },
+            {
+              "start_timestamp": 903,
+              "end_timestamp": 904,
+              "content": "政策上"
+            },
+            {
+              "start_timestamp": 904,
+              "end_timestamp": 904,
+              "content": "业绩上"
+            },
+            {
+              "start_timestamp": 904,
+              "end_timestamp": 906,
+              "content": "技术突破上"
+            },
+            {
+              "start_timestamp": 906,
+              "end_timestamp": 908,
+              "content": "逻辑越硬越不可证伪"
+            },
+            {
+              "start_timestamp": 908,
+              "end_timestamp": 910,
+              "content": "所以你去看看你现在关心的"
+            },
+            {
+              "start_timestamp": 910,
+              "end_timestamp": 913,
+              "content": "你手上拿着的是不是有这个底层逻辑"
+            },
+            {
+              "start_timestamp": 914,
+              "end_timestamp": 915,
+              "content": "到底它有多硬"
+            },
+            {
+              "start_timestamp": 915,
+              "end_timestamp": 918,
+              "content": "第二是从盘面表现上"
+            },
+            {
+              "start_timestamp": 918,
+              "end_timestamp": 919,
+              "content": "涨停家数"
+            },
+            {
+              "start_timestamp": 919,
+              "end_timestamp": 919,
+              "content": "龙头高度"
+            },
+            {
+              "start_timestamp": 919,
+              "end_timestamp": 920,
+              "content": "板块涨幅"
+            },
+            {
+              "start_timestamp": 920,
+              "end_timestamp": 921,
+              "content": "ETF整体表现"
+            },
+            {
+              "start_timestamp": 921,
+              "end_timestamp": 922,
+              "content": "ETF代表什么"
+            },
+            {
+              "start_timestamp": 922,
+              "end_timestamp": 926,
+              "content": "代表着机构有没有来批量性的涨停"
+            },
+            {
+              "start_timestamp": 926,
+              "end_timestamp": 929,
+              "content": "代表着梯队批量性出现涨停"
+            },
+            {
+              "start_timestamp": 929,
+              "end_timestamp": 931,
+              "content": "然后板块梯队完整"
+            },
+            {
+              "start_timestamp": 931,
+              "end_timestamp": 934,
+              "content": "那么意味着强度能持续"
+            },
+            {
+              "start_timestamp": 934,
+              "end_timestamp": 937,
+              "content": "这是从盘面性感受上去看它"
+            },
+            {
+              "start_timestamp": 937,
+              "end_timestamp": 940,
+              "content": "那么另外一个是判断定性"
+            },
+            {
+              "start_timestamp": 940,
+              "end_timestamp": 944,
+              "content": "是要明确新题材的爆发还是轮动性补涨"
+            },
+            {
+              "start_timestamp": 944,
+              "end_timestamp": 946,
+              "content": "到底是趋势的延续"
+            },
+            {
+              "start_timestamp": 946,
+              "end_timestamp": 948,
+              "content": "还是说利好兑现"
+            },
+            {
+              "start_timestamp": 948,
+              "end_timestamp": 949,
+              "content": "定性不同"
+            },
+            {
+              "start_timestamp": 949,
+              "end_timestamp": 951,
+              "content": "他的操作就完全不一样"
+            },
+            {
+              "start_timestamp": 951,
+              "end_timestamp": 952,
+              "content": "如果是利好兑现"
+            },
+            {
+              "start_timestamp": 952,
+              "end_timestamp": 954,
+              "content": "我只能留一张强中强"
+            },
+            {
+              "start_timestamp": 954,
+              "end_timestamp": 955,
+              "content": "如果是趋势性延续"
+            },
+            {
+              "start_timestamp": 955,
+              "end_timestamp": 958,
+              "content": "那么每一次的回踩都是我们低吸的点"
+            },
+            {
+              "start_timestamp": 958,
+              "end_timestamp": 959,
+              "content": "能理解了吧"
+            },
+            {
+              "start_timestamp": 959,
+              "end_timestamp": 960,
+              "content": "新题材的启动"
+            },
+            {
+              "start_timestamp": 960,
+              "end_timestamp": 962,
+              "content": "就按照刚刚讲的启动打法去做就可以了"
+            },
+            {
+              "start_timestamp": 962,
+              "end_timestamp": 963,
+              "content": "如果是轮动补涨"
+            },
+            {
+              "start_timestamp": 963,
+              "end_timestamp": 965,
+              "content": "那就1A顶"
+            },
+            {
+              "start_timestamp": 965,
+              "end_timestamp": 966,
+              "content": "我去做BB顶"
+            },
+            {
+              "start_timestamp": 966,
+              "end_timestamp": 970,
+              "content": "我去做C做低不做高延伸跟踪"
+            },
+            {
+              "start_timestamp": 970,
+              "end_timestamp": 972,
+              "content": "要去梳理产业上下游"
+            },
+            {
+              "start_timestamp": 972,
+              "end_timestamp": 974,
+              "content": "找出技术的供应方"
+            },
+            {
+              "start_timestamp": 974,
+              "end_timestamp": 974,
+              "content": "IP运营方"
+            },
+            {
+              "start_timestamp": 974,
+              "end_timestamp": 975,
+              "content": "上游配套"
+            },
+            {
+              "start_timestamp": 975,
+              "end_timestamp": 976,
+              "content": "就是我是做什么"
+            },
+            {
+              "start_timestamp": 976,
+              "end_timestamp": 979,
+              "content": "比方说我逻辑哥在B站输出内容"
+            },
+            {
+              "start_timestamp": 979,
+              "end_timestamp": 981,
+              "content": "当某一天逻辑哥出圈了"
+            },
+            {
+              "start_timestamp": 981,
+              "end_timestamp": 984,
+              "content": "利好什么利好B站核心利好的是B站"
+            },
+            {
+              "start_timestamp": 984,
+              "end_timestamp": 988,
+              "content": "第二利好跟逻辑哥相关的内容"
+            },
+            {
+              "start_timestamp": 988,
+              "end_timestamp": 988,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 988,
+              "end_timestamp": 990,
+              "content": "第三个是什么上游配套"
+            },
+            {
+              "start_timestamp": 990,
+              "end_timestamp": 993,
+              "content": "或者说IP运营方相关的东西"
+            },
+            {
+              "start_timestamp": 993,
+              "end_timestamp": 995,
+              "content": "那我在B站跟B站合作了"
+            },
+            {
+              "start_timestamp": 995,
+              "end_timestamp": 997,
+              "content": "那就是核心的供应商"
+            },
+            {
+              "start_timestamp": 997,
+              "end_timestamp": 999,
+              "content": "B站本身哔哩哔哩也是一家上市公司"
+            },
+            {
+              "start_timestamp": 999,
+              "end_timestamp": 1002,
+              "content": "它也是能够会被关注到的啊"
+            },
+            {
+              "start_timestamp": 1002,
+              "end_timestamp": 1004,
+              "content": "就像之前的这个李子柒出圈一样"
+            },
+            {
+              "start_timestamp": 1004,
+              "end_timestamp": 1005,
+              "content": "理解了吗"
+            },
+            {
+              "start_timestamp": 1005,
+              "end_timestamp": 1007,
+              "content": "就像之前的离子棋出圈一样"
+            },
+            {
+              "start_timestamp": 1008,
+              "end_timestamp": 1011,
+              "content": "第二第五个部分是主线"
+            },
+            {
+              "start_timestamp": 1011,
+              "end_timestamp": 1014,
+              "content": "五五要素当中是第五部分是次日验证"
+            },
+            {
+              "start_timestamp": 1014,
+              "end_timestamp": 1018,
+              "content": "记住第二天必须要去看接力的反馈情况"
+            },
+            {
+              "start_timestamp": 1018,
+              "end_timestamp": 1020,
+              "content": "接力强则持续性强"
+            },
+            {
+              "start_timestamp": 1020,
+              "end_timestamp": 1023,
+              "content": "我这边指的接力是当板块起来之后"
+            },
+            {
+              "start_timestamp": 1023,
+              "end_timestamp": 1025,
+              "content": "第二天还能够向上"
+            },
+            {
+              "start_timestamp": 1025,
+              "end_timestamp": 1026,
+              "content": "这也是属于一种接力"
+            },
+            {
+              "start_timestamp": 1026,
+              "end_timestamp": 1028,
+              "content": "叫做板块接力"
+            },
+            {
+              "start_timestamp": 1028,
+              "end_timestamp": 1030,
+              "content": "板块会迎来什么呢"
+            },
+            {
+              "start_timestamp": 1030,
+              "end_timestamp": 1031,
+              "content": "叫做启动"
+            },
+            {
+              "start_timestamp": 1033,
+              "end_timestamp": 1034,
+              "content": "高潮"
+            },
+            {
+              "start_timestamp": 1036,
+              "end_timestamp": 1040,
+              "content": "分歧跟个股是一样的啊"
+            },
+            {
+              "start_timestamp": 1040,
+              "end_timestamp": 1044,
+              "content": "分歧分化退潮"
+            },
+            {
+              "start_timestamp": 1045,
+              "end_timestamp": 1046,
+              "content": "来分化在前"
+            },
+            {
+              "start_timestamp": 1046,
+              "end_timestamp": 1047,
+              "content": "分歧在后啊"
+            },
+            {
+              "start_timestamp": 1047,
+              "end_timestamp": 1049,
+              "content": "分化在这"
+            },
+            {
+              "start_timestamp": 1049,
+              "end_timestamp": 1052,
+              "content": "那么在它的启动点高潮之后"
+            },
+            {
+              "start_timestamp": 1052,
+              "end_timestamp": 1055,
+              "content": "我们就要去看他的次日接力情况"
+            },
+            {
+              "start_timestamp": 1055,
+              "end_timestamp": 1057,
+              "content": "第二天的接力接力强"
+            },
+            {
+              "start_timestamp": 1057,
+              "end_timestamp": 1059,
+              "content": "则意味着我持续性还有啊"
+            },
+            {
+              "start_timestamp": 1059,
+              "end_timestamp": 1061,
+              "content": "我还没有进入到这种完全分化阶段啊"
+            },
+            {
+              "start_timestamp": 1061,
+              "end_timestamp": 1062,
+              "content": "我还能继续往下去走"
+            },
+            {
+              "start_timestamp": 1062,
+              "end_timestamp": 1065,
+              "content": "走的这个地方只需要看中军"
+            },
+            {
+              "start_timestamp": 1065,
+              "end_timestamp": 1068,
+              "content": "重点记住两句两个字叫做看中军表现"
+            },
+            {
+              "start_timestamp": 1068,
+              "end_timestamp": 1069,
+              "content": "谁是中军机购票"
+            },
+            {
+              "start_timestamp": 1069,
+              "end_timestamp": 1071,
+              "content": "不知道机购票怎么筛的"
+            },
+            {
+              "start_timestamp": 1071,
+              "end_timestamp": 1073,
+              "content": "来把这个图给我截一张"
+            },
+            {
+              "start_timestamp": 1073,
+              "end_timestamp": 1076,
+              "content": "不知道怎么去看中军的这张图"
+            },
+            {
+              "start_timestamp": 1076,
+              "end_timestamp": 1077,
+              "content": "好吧"
+            },
+            {
+              "start_timestamp": 1077,
+              "end_timestamp": 1078,
+              "content": "各位跳过来"
+            },
+            {
+              "start_timestamp": 1078,
+              "end_timestamp": 1081,
+              "content": "因为内容我今天说了就20来分钟"
+            },
+            {
+              "start_timestamp": 1081,
+              "end_timestamp": 1082,
+              "content": "现在已经18分钟了"
+            },
+            {
+              "start_timestamp": 1082,
+              "end_timestamp": 1083,
+              "content": "主线分级的方法"
+            },
+            {
+              "start_timestamp": 1083,
+              "end_timestamp": 1085,
+              "content": "首先第一个每天复盘"
+            },
+            {
+              "start_timestamp": 1085,
+              "end_timestamp": 1090,
+              "content": "将主线当中活跃题材和持续性分成五类等级"
+            },
+            {
+              "start_timestamp": 1090,
+              "end_timestamp": 1092,
+              "content": "不明白的到时候看复盘就可以了"
+            },
+            {
+              "start_timestamp": 1092,
+              "end_timestamp": 1094,
+              "content": "不明白到时候看复盘就可以了"
+            },
+            {
+              "start_timestamp": 1094,
+              "end_timestamp": 1096,
+              "content": "一级主线是今天最强主线"
+            },
+            {
+              "start_timestamp": 1096,
+              "end_timestamp": 1097,
+              "content": "批量性的涨停"
+            },
+            {
+              "start_timestamp": 1097,
+              "end_timestamp": 1098,
+              "content": "龙特加速指数共振"
+            },
+            {
+              "start_timestamp": 1098,
+              "end_timestamp": 1100,
+              "content": "那么在短线上积极参与"
+            },
+            {
+              "start_timestamp": 1100,
+              "end_timestamp": 1102,
+              "content": "要去看接力反馈"
+            },
+            {
+              "start_timestamp": 1102,
+              "end_timestamp": 1104,
+              "content": "这是我第二天他还能不能走起来"
+            },
+            {
+              "start_timestamp": 1104,
+              "end_timestamp": 1106,
+              "content": "我就重点是强中强"
+            },
+            {
+              "start_timestamp": 1106,
+              "end_timestamp": 1109,
+              "content": "二级主线是只做什么呢"
+            },
+            {
+              "start_timestamp": 1109,
+              "end_timestamp": 1110,
+              "content": "回答第一"
+            },
+            {
+              "start_timestamp": 1110,
+              "end_timestamp": 1111,
+              "content": "因为它逻辑够硬"
+            },
+            {
+              "start_timestamp": 1111,
+              "end_timestamp": 1114,
+              "content": "走震荡中走趋势强度"
+            },
+            {
+              "start_timestamp": 1114,
+              "end_timestamp": 1116,
+              "content": "还有我就做回调低吸"
+            },
+            {
+              "start_timestamp": 1116,
+              "end_timestamp": 1119,
+              "content": "永不追高追高我就是狗"
+            },
+            {
+              "start_timestamp": 1119,
+              "end_timestamp": 1122,
+              "content": "第三种是中期底层逻辑硬"
+            },
+            {
+              "start_timestamp": 1122,
+              "end_timestamp": 1125,
+              "content": "但是呢现在的爆点没出来"
+            },
+            {
+              "start_timestamp": 1125,
+              "end_timestamp": 1126,
+              "content": "他逻辑很硬"
+            },
+            {
+              "start_timestamp": 1126,
+              "end_timestamp": 1129,
+              "content": "产业逻辑应从概念转向业绩实际变现"
+            },
+            {
+              "start_timestamp": 1129,
+              "end_timestamp": 1130,
+              "content": "能够实际落地"
+            },
+            {
+              "start_timestamp": 1130,
+              "end_timestamp": 1134,
+              "content": "但是这个时间段是从0~1的过程"
+            },
+            {
+              "start_timestamp": 1134,
+              "end_timestamp": 1135,
+              "content": "需要一点点时间"
+            },
+            {
+              "start_timestamp": 1135,
+              "end_timestamp": 1138,
+              "content": "会有一丢丢的时间理解吗"
+            },
+            {
+              "start_timestamp": 1138,
+              "end_timestamp": 1140,
+              "content": "所以做反复去做"
+            },
+            {
+              "start_timestamp": 1140,
+              "end_timestamp": 1142,
+              "content": "只能去分歧低吸"
+            },
+            {
+              "start_timestamp": 1142,
+              "end_timestamp": 1143,
+              "content": "另外昨天有有朋友说"
+            },
+            {
+              "start_timestamp": 1143,
+              "end_timestamp": 1147,
+              "content": "你不是跟我讲这个夜冷是穿越了吗"
+            },
+            {
+              "start_timestamp": 1147,
+              "end_timestamp": 1150,
+              "content": "礼拜二哎"
+            },
+            {
+              "start_timestamp": 1150,
+              "end_timestamp": 1151,
+              "content": "9月2号跟你讲"
+            },
+            {
+              "start_timestamp": 1151,
+              "end_timestamp": 1152,
+              "content": "是分期的穿越"
+            },
+            {
+              "start_timestamp": 1152,
+              "end_timestamp": 1153,
+              "content": "分歧中穿越"
+            },
+            {
+              "start_timestamp": 1153,
+              "end_timestamp": 1155,
+              "content": "9月3号跟你讲什么"
+            },
+            {
+              "start_timestamp": 1155,
+              "end_timestamp": 1158,
+              "content": "告诉你分期业冷只能看分期低息"
+            },
+            {
+              "start_timestamp": 1158,
+              "end_timestamp": 1160,
+              "content": "现在是9月4号"
+            },
+            {
+              "start_timestamp": 1160,
+              "end_timestamp": 1161,
+              "content": "你告诉我"
+            },
+            {
+              "start_timestamp": 1161,
+              "end_timestamp": 1163,
+              "content": "你昨天不是跟我讲主线吗"
+            },
+            {
+              "start_timestamp": 1163,
+              "end_timestamp": 1164,
+              "content": "就这样"
+            },
+            {
+              "start_timestamp": 1164,
+              "end_timestamp": 1166,
+              "content": "这是四级主线内容就到这"
+            },
+            {
+              "start_timestamp": 1166,
+              "end_timestamp": 1168,
+              "content": "剩下的我不想讲了"
+            },
+            {
+              "start_timestamp": 1168,
+              "end_timestamp": 1170,
+              "content": "OK视频数据上不去"
+            },
+            {
+              "start_timestamp": 1170,
+              "end_timestamp": 1171,
+              "content": "你不要跟我讲题材轮动"
+            },
+            {
+              "start_timestamp": 1171,
+              "end_timestamp": 1172,
+              "content": "这些东西我给你去看"
+            },
+            {
+              "start_timestamp": 1172,
+              "end_timestamp": 1173,
+              "content": "没有拜拜"
+            }
+          ],
+          "timestamp": 1
+        }
+      ]
+    },
+    "stid": "4263355561156729349",
+    "status": 0,
+    "like_num": 0,
+    "dislike_num": 0
+  }
+}

@@ -1,0 +1,1210 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "code": 1,
+    "model_result": {
+      "result_type": 0,
+      "summary": "",
+      "outline": [],
+      "subtitle": [
+        {
+          "title": "",
+          "part_subtitle": [
+            {
+              "start_timestamp": 1,
+              "end_timestamp": 1,
+              "content": "同学们好"
+            },
+            {
+              "start_timestamp": 1,
+              "end_timestamp": 4,
+              "content": "今天呢我们讲一下日内题材的判断"
+            },
+            {
+              "start_timestamp": 4,
+              "end_timestamp": 6,
+              "content": "以及做票思路"
+            },
+            {
+              "start_timestamp": 6,
+              "end_timestamp": 9,
+              "content": "每日题材方向的判断及机会的把握"
+            },
+            {
+              "start_timestamp": 9,
+              "end_timestamp": 10,
+              "content": "是课程的一个重点"
+            },
+            {
+              "start_timestamp": 10,
+              "end_timestamp": 15,
+              "content": "其中题材方向的判断我们又分为竞价和盘中"
+            },
+            {
+              "start_timestamp": 15,
+              "end_timestamp": 16,
+              "content": "那竞价阶段"
+            },
+            {
+              "start_timestamp": 16,
+              "end_timestamp": 19,
+              "content": "我们通过一字板的数量来判断题材方向啊"
+            },
+            {
+              "start_timestamp": 19,
+              "end_timestamp": 22,
+              "content": "为什么可以看封单去定题材呢"
+            },
+            {
+              "start_timestamp": 22,
+              "end_timestamp": 24,
+              "content": "因为在竞价阶段"
+            },
+            {
+              "start_timestamp": 24,
+              "end_timestamp": 26,
+              "content": "最敏感的资金去抢筹的那些标的方向"
+            },
+            {
+              "start_timestamp": 26,
+              "end_timestamp": 30,
+              "content": "很有可能是当天的短线题材方向"
+            },
+            {
+              "start_timestamp": 30,
+              "end_timestamp": 31,
+              "content": "那你不管盘迁啊"
+            },
+            {
+              "start_timestamp": 31,
+              "end_timestamp": 32,
+              "content": "多少人去吹票"
+            },
+            {
+              "start_timestamp": 32,
+              "end_timestamp": 33,
+              "content": "吹题材"
+            },
+            {
+              "start_timestamp": 33,
+              "end_timestamp": 35,
+              "content": "竞价阶段不表态啊"
+            },
+            {
+              "start_timestamp": 35,
+              "end_timestamp": 36,
+              "content": "都是没用的"
+            },
+            {
+              "start_timestamp": 36,
+              "end_timestamp": 40,
+              "content": "比如盘前某个方向出了一个大的利好对吧"
+            },
+            {
+              "start_timestamp": 40,
+              "end_timestamp": 43,
+              "content": "那但是竞价阶段呢他没有一字板"
+            },
+            {
+              "start_timestamp": 43,
+              "end_timestamp": 45,
+              "content": "就是资金不认"
+            },
+            {
+              "start_timestamp": 45,
+              "end_timestamp": 47,
+              "content": "那资金不认就不是利好"
+            },
+            {
+              "start_timestamp": 47,
+              "end_timestamp": 51,
+              "content": "反之如果某个方向盘前有利空出来"
+            },
+            {
+              "start_timestamp": 51,
+              "end_timestamp": 55,
+              "content": "竞价阶段反而好多一字板就是利空出境"
+            },
+            {
+              "start_timestamp": 55,
+              "end_timestamp": 56,
+              "content": "就是利好"
+            },
+            {
+              "start_timestamp": 56,
+              "end_timestamp": 58,
+              "content": "那对利好利空的判断呢"
+            },
+            {
+              "start_timestamp": 58,
+              "end_timestamp": 61,
+              "content": "我们也不要过分的相信吹票和消息面的东西"
+            },
+            {
+              "start_timestamp": 61,
+              "end_timestamp": 65,
+              "content": "一定要落实到竞价表态上面来啊"
+            },
+            {
+              "start_timestamp": 65,
+              "end_timestamp": 66,
+              "content": "这是非常关键的"
+            },
+            {
+              "start_timestamp": 66,
+              "end_timestamp": 69,
+              "content": "理解A股短线生态的点"
+            },
+            {
+              "start_timestamp": 69,
+              "end_timestamp": 71,
+              "content": "大家呢一定要记牢了"
+            },
+            {
+              "start_timestamp": 71,
+              "end_timestamp": 74,
+              "content": "那当然竞价阶段呢它分为题材"
+            },
+            {
+              "start_timestamp": 74,
+              "end_timestamp": 78,
+              "content": "有方向和题材无方向两个啊"
+            },
+            {
+              "start_timestamp": 78,
+              "end_timestamp": 80,
+              "content": "我们先看题材有方向"
+            },
+            {
+              "start_timestamp": 80,
+              "end_timestamp": 84,
+              "content": "如如果说竞价阶段有三个及以上家属"
+            },
+            {
+              "start_timestamp": 84,
+              "end_timestamp": 85,
+              "content": "同一题材的啊"
+            },
+            {
+              "start_timestamp": 85,
+              "end_timestamp": 86,
+              "content": "一字板"
+            },
+            {
+              "start_timestamp": 86,
+              "end_timestamp": 88,
+              "content": "那且封单额大于一个亿的啊"
+            },
+            {
+              "start_timestamp": 88,
+              "end_timestamp": 91,
+              "content": "那就可以判定竞价题材有方向"
+            },
+            {
+              "start_timestamp": 91,
+              "end_timestamp": 92,
+              "content": "情绪强势时"
+            },
+            {
+              "start_timestamp": 92,
+              "end_timestamp": 94,
+              "content": "竞价有时可能是十几家"
+            },
+            {
+              "start_timestamp": 94,
+              "end_timestamp": 99,
+              "content": "一字一字加数最多的题材是竞价最强的题材"
+            },
+            {
+              "start_timestamp": 99,
+              "end_timestamp": 100,
+              "content": "第二的次之"
+            },
+            {
+              "start_timestamp": 100,
+              "end_timestamp": 102,
+              "content": "依此排序"
+            },
+            {
+              "start_timestamp": 102,
+              "end_timestamp": 103,
+              "content": "那比如说啊"
+            },
+            {
+              "start_timestamp": 103,
+              "end_timestamp": 105,
+              "content": "这一天我们可以看到"
+            },
+            {
+              "start_timestamp": 105,
+              "end_timestamp": 108,
+              "content": "计价阶段封单额大于一个亿以上的呢"
+            },
+            {
+              "start_timestamp": 108,
+              "end_timestamp": 110,
+              "content": "是有32家"
+            },
+            {
+              "start_timestamp": 110,
+              "end_timestamp": 113,
+              "content": "那就说明当天的市场情绪比较好"
+            },
+            {
+              "start_timestamp": 113,
+              "end_timestamp": 117,
+              "content": "同时呢我们也看到这32家都属于哪些方向"
+            },
+            {
+              "start_timestamp": 117,
+              "end_timestamp": 121,
+              "content": "从而就可以判断出当天最强的方向是谁了"
+            },
+            {
+              "start_timestamp": 121,
+              "end_timestamp": 123,
+              "content": "那我们再看这个案例啊"
+            },
+            {
+              "start_timestamp": 123,
+              "end_timestamp": 125,
+              "content": "这是24年7月10号当天"
+            },
+            {
+              "start_timestamp": 125,
+              "end_timestamp": 129,
+              "content": "一个亿封单的呢是有六家"
+            },
+            {
+              "start_timestamp": 129,
+              "end_timestamp": 135,
+              "content": "其中新网宇达天迈科技锦江再现啊"
+            },
+            {
+              "start_timestamp": 135,
+              "end_timestamp": 137,
+              "content": "他们呢都是炒作的是无人驾驶"
+            },
+            {
+              "start_timestamp": 137,
+              "end_timestamp": 140,
+              "content": "这也就是有三家一个亿以上的"
+            },
+            {
+              "start_timestamp": 140,
+              "end_timestamp": 142,
+              "content": "同一题材的一字板"
+            },
+            {
+              "start_timestamp": 142,
+              "end_timestamp": 144,
+              "content": "这就说明当天无人驾驶最强"
+            },
+            {
+              "start_timestamp": 144,
+              "end_timestamp": 148,
+              "content": "而后续呢无人驾驶呢也经历了一波"
+            },
+            {
+              "start_timestamp": 148,
+              "end_timestamp": 150,
+              "content": "波澜壮阔的题材炒作"
+            },
+            {
+              "start_timestamp": 150,
+              "end_timestamp": 153,
+              "content": "那最具代表性的就是大众交通啊"
+            },
+            {
+              "start_timestamp": 153,
+              "end_timestamp": 155,
+              "content": "第二个呢就是题材无方向"
+            },
+            {
+              "start_timestamp": 155,
+              "end_timestamp": 157,
+              "content": "首先呢如果说情绪一般时"
+            },
+            {
+              "start_timestamp": 157,
+              "end_timestamp": 160,
+              "content": "进价题材只有一到两个一字板"
+            },
+            {
+              "start_timestamp": 160,
+              "end_timestamp": 163,
+              "content": "那若一字板的加数少于三加呢"
+            },
+            {
+              "start_timestamp": 163,
+              "end_timestamp": 165,
+              "content": "那则进价是无方向的"
+            },
+            {
+              "start_timestamp": 165,
+              "end_timestamp": 167,
+              "content": "只能说明题材较强"
+            },
+            {
+              "start_timestamp": 167,
+              "end_timestamp": 169,
+              "content": "那需要看开盘是否走强"
+            },
+            {
+              "start_timestamp": 169,
+              "end_timestamp": 172,
+              "content": "那第二个呢就是题材它无方向"
+            },
+            {
+              "start_timestamp": 172,
+              "end_timestamp": 175,
+              "content": "但是某个方向它是靠前的"
+            },
+            {
+              "start_timestamp": 175,
+              "end_timestamp": 176,
+              "content": "情绪较弱时"
+            },
+            {
+              "start_timestamp": 176,
+              "end_timestamp": 177,
+              "content": "竞价有可能没有一字板"
+            },
+            {
+              "start_timestamp": 177,
+              "end_timestamp": 180,
+              "content": "只有某个板块指数涨幅靠前"
+            },
+            {
+              "start_timestamp": 180,
+              "end_timestamp": 182,
+              "content": "这个时候题材是无方向的"
+            },
+            {
+              "start_timestamp": 182,
+              "end_timestamp": 184,
+              "content": "那该题材涨幅靠前啊"
+            },
+            {
+              "start_timestamp": 184,
+              "end_timestamp": 188,
+              "content": "那我们需要看开盘是否加强或者结构性走强"
+            },
+            {
+              "start_timestamp": 188,
+              "end_timestamp": 192,
+              "content": "比如说这一天稀土永磁和人形机器人涨幅居前"
+            },
+            {
+              "start_timestamp": 192,
+              "end_timestamp": 194,
+              "content": "那开盘后系统永磁走弱啊"
+            },
+            {
+              "start_timestamp": 194,
+              "end_timestamp": 196,
+              "content": "人形机器人开始走强"
+            },
+            {
+              "start_timestamp": 196,
+              "end_timestamp": 201,
+              "content": "那当天确定机器人方向呢为最强的啊方向"
+            },
+            {
+              "start_timestamp": 201,
+              "end_timestamp": 204,
+              "content": "那第二点盘中去定题材方向"
+            },
+            {
+              "start_timestamp": 204,
+              "end_timestamp": 204,
+              "content": "题材方向"
+            },
+            {
+              "start_timestamp": 204,
+              "end_timestamp": 207,
+              "content": "很多时候我们在竞价阶段就可以确定下来"
+            },
+            {
+              "start_timestamp": 207,
+              "end_timestamp": 210,
+              "content": "但是呢有些时候呢还是需要在开盘之后确定"
+            },
+            {
+              "start_timestamp": 210,
+              "end_timestamp": 214,
+              "content": "而且竞价强的题材开盘不一定续强"
+            },
+            {
+              "start_timestamp": 214,
+              "end_timestamp": 215,
+              "content": "完全有兑现的可能"
+            },
+            {
+              "start_timestamp": 215,
+              "end_timestamp": 220,
+              "content": "那有些题材方向是盘中由于突发的消息等原因"
+            },
+            {
+              "start_timestamp": 220,
+              "end_timestamp": 221,
+              "content": "开始走强的"
+            },
+            {
+              "start_timestamp": 221,
+              "end_timestamp": 223,
+              "content": "所以竞价及开盘是两个阶段"
+            },
+            {
+              "start_timestamp": 223,
+              "end_timestamp": 228,
+              "content": "那下面呢我们来说一说竞价题材的判定啊"
+            },
+            {
+              "start_timestamp": 228,
+              "end_timestamp": 229,
+              "content": "需要注意些什么"
+            },
+            {
+              "start_timestamp": 229,
+              "end_timestamp": 232,
+              "content": "首先竞价题材有方向的时候"
+            },
+            {
+              "start_timestamp": 232,
+              "end_timestamp": 234,
+              "content": "如果说竞价题材过热啊"
+            },
+            {
+              "start_timestamp": 234,
+              "end_timestamp": 236,
+              "content": "若是在题材运行早期"
+            },
+            {
+              "start_timestamp": 236,
+              "end_timestamp": 238,
+              "content": "题材呢就有十几个一字板"
+            },
+            {
+              "start_timestamp": 238,
+              "end_timestamp": 240,
+              "content": "那开盘呢就会有一个良性的分化"
+            },
+            {
+              "start_timestamp": 240,
+              "end_timestamp": 242,
+              "content": "那前排继续一字"
+            },
+            {
+              "start_timestamp": 242,
+              "end_timestamp": 245,
+              "content": "后排炸板补量或者走弱题材呢会继续"
+            },
+            {
+              "start_timestamp": 245,
+              "end_timestamp": 248,
+              "content": "那如果说是在题材运行的末期"
+            },
+            {
+              "start_timestamp": 248,
+              "end_timestamp": 250,
+              "content": "竞价题材过热啊"
+            },
+            {
+              "start_timestamp": 250,
+              "end_timestamp": 252,
+              "content": "那依然有N个一字板"
+            },
+            {
+              "start_timestamp": 252,
+              "end_timestamp": 256,
+              "content": "这个时候呢我们要注意开盘是否有资金兑现"
+            },
+            {
+              "start_timestamp": 256,
+              "end_timestamp": 260,
+              "content": "如果前排兑现题材可能以极致的兑现开始退潮"
+            },
+            {
+              "start_timestamp": 260,
+              "end_timestamp": 261,
+              "content": "这个时候就要谨慎"
+            },
+            {
+              "start_timestamp": 261,
+              "end_timestamp": 263,
+              "content": "尽量让利润落袋"
+            },
+            {
+              "start_timestamp": 263,
+              "end_timestamp": 268,
+              "content": "那比如说这个24年10月30日这一天"
+            },
+            {
+              "start_timestamp": 268,
+              "end_timestamp": 270,
+              "content": "那我们知道市场当时呢开始大爆发"
+            },
+            {
+              "start_timestamp": 270,
+              "end_timestamp": 273,
+              "content": "封单额有一个亿以上呢"
+            },
+            {
+              "start_timestamp": 273,
+              "end_timestamp": 275,
+              "content": "是有28家"
+            },
+            {
+              "start_timestamp": 275,
+              "end_timestamp": 276,
+              "content": "情绪非常好"
+            },
+            {
+              "start_timestamp": 276,
+              "end_timestamp": 278,
+              "content": "当天的金融啊"
+            },
+            {
+              "start_timestamp": 278,
+              "end_timestamp": 278,
+              "content": "地产啊"
+            },
+            {
+              "start_timestamp": 278,
+              "end_timestamp": 280,
+              "content": "消费全面大涨"
+            },
+            {
+              "start_timestamp": 280,
+              "end_timestamp": 283,
+              "content": "这也是刚刚启动的阶段"
+            },
+            {
+              "start_timestamp": 283,
+              "end_timestamp": 286,
+              "content": "那前排呢我们发现全部都是一字"
+            },
+            {
+              "start_timestamp": 286,
+              "end_timestamp": 286,
+              "content": "当然了"
+            },
+            {
+              "start_timestamp": 286,
+              "end_timestamp": 287,
+              "content": "当天市场特别好"
+            },
+            {
+              "start_timestamp": 287,
+              "end_timestamp": 289,
+              "content": "后排炸板的票也会补量"
+            },
+            {
+              "start_timestamp": 289,
+              "end_timestamp": 291,
+              "content": "但是如果市场一般的情况下"
+            },
+            {
+              "start_timestamp": 291,
+              "end_timestamp": 294,
+              "content": "后排呢极有可能就会走兑现了"
+            },
+            {
+              "start_timestamp": 294,
+              "end_timestamp": 298,
+              "content": "那第二个呢竞价阶段题材有方向"
+            },
+            {
+              "start_timestamp": 298,
+              "end_timestamp": 300,
+              "content": "但是一字板不多啊"
+            },
+            {
+              "start_timestamp": 300,
+              "end_timestamp": 303,
+              "content": "如果说竞价阶段啊一字数量不多"
+            },
+            {
+              "start_timestamp": 303,
+              "end_timestamp": 306,
+              "content": "开盘该题材涨停数量呢它是增加的"
+            },
+            {
+              "start_timestamp": 306,
+              "end_timestamp": 307,
+              "content": "持续走强"
+            },
+            {
+              "start_timestamp": 307,
+              "end_timestamp": 311,
+              "content": "那就能确认该题材为日内的主流题材"
+            },
+            {
+              "start_timestamp": 311,
+              "end_timestamp": 312,
+              "content": "良性运行"
+            },
+            {
+              "start_timestamp": 312,
+              "end_timestamp": 314,
+              "content": "操作上可以半路前排"
+            },
+            {
+              "start_timestamp": 314,
+              "end_timestamp": 316,
+              "content": "或者说连板中的卡位晋级"
+            },
+            {
+              "start_timestamp": 316,
+              "end_timestamp": 320,
+              "content": "那如果说开盘题材涨停板不增加"
+            },
+            {
+              "start_timestamp": 320,
+              "end_timestamp": 322,
+              "content": "或者说一字板炸本走弱"
+            },
+            {
+              "start_timestamp": 322,
+              "end_timestamp": 325,
+              "content": "那题材呢就会跟着走弱啊"
+            },
+            {
+              "start_timestamp": 325,
+              "end_timestamp": 327,
+              "content": "说明资金并不热衷攻击这个方向"
+            },
+            {
+              "start_timestamp": 327,
+              "end_timestamp": 329,
+              "content": "那有仓位的可以减仓"
+            },
+            {
+              "start_timestamp": 329,
+              "end_timestamp": 330,
+              "content": "如果说没有回流"
+            },
+            {
+              "start_timestamp": 330,
+              "end_timestamp": 331,
+              "content": "不涨停的呢"
+            },
+            {
+              "start_timestamp": 331,
+              "end_timestamp": 334,
+              "content": "我们也要出局为主"
+            },
+            {
+              "start_timestamp": 334,
+              "end_timestamp": 338,
+              "content": "那第二个呢竞价题材没有方向式啊"
+            },
+            {
+              "start_timestamp": 338,
+              "end_timestamp": 338,
+              "content": "那这也分为"
+            },
+            {
+              "start_timestamp": 338,
+              "end_timestamp": 340,
+              "content": "如果说竞价有一字板"
+            },
+            {
+              "start_timestamp": 340,
+              "end_timestamp": 342,
+              "content": "但是不足三个的话"
+            },
+            {
+              "start_timestamp": 342,
+              "end_timestamp": 344,
+              "content": "那如果开盘该涨停数增多"
+            },
+            {
+              "start_timestamp": 344,
+              "end_timestamp": 346,
+              "content": "题材集体异动"
+            },
+            {
+              "start_timestamp": 346,
+              "end_timestamp": 350,
+              "content": "就可以判断为日内的题材方向了啊"
+            },
+            {
+              "start_timestamp": 350,
+              "end_timestamp": 354,
+              "content": "那如果说啊板块进价涨幅靠前"
+            },
+            {
+              "start_timestamp": 354,
+              "end_timestamp": 357,
+              "content": "那开盘板块前盘迅速涨停后啊"
+            },
+            {
+              "start_timestamp": 357,
+              "end_timestamp": 361,
+              "content": "整个的题材集体移动也能判断为日内题材方向"
+            },
+            {
+              "start_timestamp": 361,
+              "end_timestamp": 362,
+              "content": "操作上呢"
+            },
+            {
+              "start_timestamp": 362,
+              "end_timestamp": 366,
+              "content": "我们可以做该板块竞价涨幅靠前的个股"
+            },
+            {
+              "start_timestamp": 366,
+              "end_timestamp": 368,
+              "content": "往往啊是最先上板的啊"
+            },
+            {
+              "start_timestamp": 368,
+              "end_timestamp": 370,
+              "content": "也会成为日内龙"
+            },
+            {
+              "start_timestamp": 370,
+              "end_timestamp": 372,
+              "content": "那第三个呢是既没有涨停板"
+            },
+            {
+              "start_timestamp": 372,
+              "end_timestamp": 373,
+              "content": "也没有板块加持"
+            },
+            {
+              "start_timestamp": 373,
+              "end_timestamp": 376,
+              "content": "那如果说第一个贴边上板的票"
+            },
+            {
+              "start_timestamp": 376,
+              "end_timestamp": 378,
+              "content": "就有可能成为日内题材的方向"
+            },
+            {
+              "start_timestamp": 378,
+              "end_timestamp": 380,
+              "content": "上板后若带动题材集体移动"
+            },
+            {
+              "start_timestamp": 380,
+              "end_timestamp": 381,
+              "content": "就可以确定"
+            },
+            {
+              "start_timestamp": 381,
+              "end_timestamp": 383,
+              "content": "那若响应者寥寥无几"
+            },
+            {
+              "start_timestamp": 383,
+              "end_timestamp": 386,
+              "content": "则说明只是单票的主力行为啊"
+            },
+            {
+              "start_timestamp": 386,
+              "end_timestamp": 389,
+              "content": "并不是题材的集体炒作"
+            },
+            {
+              "start_timestamp": 389,
+              "end_timestamp": 392,
+              "content": "接下来呢我们讲一下做票的思路"
+            },
+            {
+              "start_timestamp": 392,
+              "end_timestamp": 394,
+              "content": "短线呢毫无疑问要先做竞价最强题材"
+            },
+            {
+              "start_timestamp": 394,
+              "end_timestamp": 397,
+              "content": "因为盘中突然爆发的题材具有突发性"
+            },
+            {
+              "start_timestamp": 397,
+              "end_timestamp": 398,
+              "content": "把握难度较大"
+            },
+            {
+              "start_timestamp": 398,
+              "end_timestamp": 400,
+              "content": "持续性也从一啊"
+            },
+            {
+              "start_timestamp": 400,
+              "end_timestamp": 403,
+              "content": "一般这种盘中的突发题材真有持续性啊"
+            },
+            {
+              "start_timestamp": 403,
+              "end_timestamp": 404,
+              "content": "第二天肯定还有上车机会"
+            },
+            {
+              "start_timestamp": 404,
+              "end_timestamp": 406,
+              "content": "所以不能追第一个呢"
+            },
+            {
+              "start_timestamp": 406,
+              "end_timestamp": 409,
+              "content": "竞价最强的题材的三种坐票思路"
+            },
+            {
+              "start_timestamp": 409,
+              "end_timestamp": 410,
+              "content": "我们先讲一下啊"
+            },
+            {
+              "start_timestamp": 410,
+              "end_timestamp": 412,
+              "content": "第一个是炸板地基"
+            },
+            {
+              "start_timestamp": 412,
+              "end_timestamp": 413,
+              "content": "像竞价过热"
+            },
+            {
+              "start_timestamp": 413,
+              "end_timestamp": 415,
+              "content": "开盘呢会有一个良性的分歧的过程"
+            },
+            {
+              "start_timestamp": 415,
+              "end_timestamp": 417,
+              "content": "如果前排炸板"
+            },
+            {
+              "start_timestamp": 417,
+              "end_timestamp": 421,
+              "content": "则根据这个炸板六原则做炸板的低基"
+            },
+            {
+              "start_timestamp": 421,
+              "end_timestamp": 424,
+              "content": "那第二个呢就是进价三一啊"
+            },
+            {
+              "start_timestamp": 424,
+              "end_timestamp": 426,
+              "content": "比如说竞价阶段就爆量换手"
+            },
+            {
+              "start_timestamp": 426,
+              "end_timestamp": 427,
+              "content": "完成分期转移制的"
+            },
+            {
+              "start_timestamp": 427,
+              "end_timestamp": 432,
+              "content": "往往开盘后会直接上板或者补量啊"
+            },
+            {
+              "start_timestamp": 432,
+              "end_timestamp": 433,
+              "content": "去封板"
+            },
+            {
+              "start_timestamp": 433,
+              "end_timestamp": 435,
+              "content": "这个时候可以运用我们的三一原则"
+            },
+            {
+              "start_timestamp": 435,
+              "end_timestamp": 437,
+              "content": "去做到市场选出来的最强的票"
+            },
+            {
+              "start_timestamp": 437,
+              "end_timestamp": 438,
+              "content": "也就是三一呢"
+            },
+            {
+              "start_timestamp": 438,
+              "end_timestamp": 441,
+              "content": "也就是所谓的第一唯一和专一"
+            },
+            {
+              "start_timestamp": 441,
+              "end_timestamp": 445,
+              "content": "那第三个呢我们做如果说一个题材开盘走强"
+            },
+            {
+              "start_timestamp": 445,
+              "end_timestamp": 449,
+              "content": "那题材的最高板容易被打造成龙头"
+            },
+            {
+              "start_timestamp": 449,
+              "end_timestamp": 450,
+              "content": "第二个"
+            },
+            {
+              "start_timestamp": 450,
+              "end_timestamp": 454,
+              "content": "我们讲一下盘中走强的题材的三种坐标思路啊"
+            },
+            {
+              "start_timestamp": 454,
+              "end_timestamp": 455,
+              "content": "第一个呢就是日内容"
+            },
+            {
+              "start_timestamp": 455,
+              "end_timestamp": 457,
+              "content": "你比如说题材集体运动时"
+            },
+            {
+              "start_timestamp": 457,
+              "end_timestamp": 459,
+              "content": "那最具主动性的"
+            },
+            {
+              "start_timestamp": 459,
+              "end_timestamp": 461,
+              "content": "有带动性的啊"
+            },
+            {
+              "start_timestamp": 461,
+              "end_timestamp": 462,
+              "content": "第一个上板的啊"
+            },
+            {
+              "start_timestamp": 462,
+              "end_timestamp": 465,
+              "content": "这个呢要求是眼力与手速"
+            },
+            {
+              "start_timestamp": 465,
+              "end_timestamp": 467,
+              "content": "那第二个呢就是题材集体运动时"
+            },
+            {
+              "start_timestamp": 467,
+              "end_timestamp": 470,
+              "content": "小弟呢纷纷走强封板"
+            },
+            {
+              "start_timestamp": 470,
+              "end_timestamp": 472,
+              "content": "此时板块内有身位优势"
+            },
+            {
+              "start_timestamp": 472,
+              "end_timestamp": 475,
+              "content": "但还未上榜的票就是便宜老大"
+            },
+            {
+              "start_timestamp": 475,
+              "end_timestamp": 477,
+              "content": "这就要求我们的记盘功力"
+            },
+            {
+              "start_timestamp": 477,
+              "end_timestamp": 478,
+              "content": "盯盘功力啊"
+            },
+            {
+              "start_timestamp": 478,
+              "end_timestamp": 480,
+              "content": "以及理解力啊"
+            },
+            {
+              "start_timestamp": 480,
+              "end_timestamp": 484,
+              "content": "比如说22年10月14号当天开盘后呢"
+            },
+            {
+              "start_timestamp": 484,
+              "end_timestamp": 485,
+              "content": "医药方向走走强"
+            },
+            {
+              "start_timestamp": 485,
+              "end_timestamp": 488,
+              "content": "我们可以看到在9.40之前"
+            },
+            {
+              "start_timestamp": 488,
+              "end_timestamp": 492,
+              "content": "就已经啊有四只以上的个股涨停了"
+            },
+            {
+              "start_timestamp": 492,
+              "end_timestamp": 495,
+              "content": "那当时身位最高的是谁呢"
+            },
+            {
+              "start_timestamp": 495,
+              "end_timestamp": 497,
+              "content": "哎其实就是万方发展"
+            },
+            {
+              "start_timestamp": 497,
+              "end_timestamp": 499,
+              "content": "他也有医药方向"
+            },
+            {
+              "start_timestamp": 499,
+              "end_timestamp": 504,
+              "content": "而且呢这一天的时候呢是刚好三进四的这一天"
+            },
+            {
+              "start_timestamp": 504,
+              "end_timestamp": 507,
+              "content": "那也是所有医药方向最高的吧"
+            },
+            {
+              "start_timestamp": 507,
+              "end_timestamp": 510,
+              "content": "那万方发展在9.40之前在哪里呢"
+            },
+            {
+              "start_timestamp": 510,
+              "end_timestamp": 512,
+              "content": "那还在水下往上冲的呢"
+            },
+            {
+              "start_timestamp": 512,
+              "end_timestamp": 514,
+              "content": "当你发现啊医药大批量涨停的时候"
+            },
+            {
+              "start_timestamp": 514,
+              "end_timestamp": 516,
+              "content": "结果老大还在水下呢"
+            },
+            {
+              "start_timestamp": 516,
+              "end_timestamp": 518,
+              "content": "那就是便宜老大"
+            },
+            {
+              "start_timestamp": 518,
+              "end_timestamp": 520,
+              "content": "那后面的走势呢我们也可以看到啊"
+            },
+            {
+              "start_timestamp": 520,
+              "end_timestamp": 523,
+              "content": "连续的晋级了三个一字板"
+            },
+            {
+              "start_timestamp": 523,
+              "end_timestamp": 525,
+              "content": "那第三个就是前期辨识度"
+            },
+            {
+              "start_timestamp": 525,
+              "end_timestamp": 527,
+              "content": "题材集体异动时"
+            },
+            {
+              "start_timestamp": 527,
+              "end_timestamp": 528,
+              "content": "如果说板块"
+            },
+            {
+              "start_timestamp": 528,
+              "end_timestamp": 530,
+              "content": "那前期辨识度再加上盘口攻击"
+            },
+            {
+              "start_timestamp": 530,
+              "end_timestamp": 533,
+              "content": "就可以选择埋伏或者半路啊"
+            },
+            {
+              "start_timestamp": 533,
+              "end_timestamp": 537,
+              "content": "这个就需要记盘与盘口的一些能力"
+            },
+            {
+              "start_timestamp": 537,
+              "end_timestamp": 538,
+              "content": "那这里边也要注意的是"
+            },
+            {
+              "start_timestamp": 538,
+              "end_timestamp": 540,
+              "content": "题材盘中走强"
+            },
+            {
+              "start_timestamp": 540,
+              "end_timestamp": 541,
+              "content": "尽量不做后排和跟风"
+            },
+            {
+              "start_timestamp": 541,
+              "end_timestamp": 544,
+              "content": "如果说题材强度有所回落"
+            },
+            {
+              "start_timestamp": 544,
+              "end_timestamp": 547,
+              "content": "后排极易冲高回落吃面"
+            },
+            {
+              "start_timestamp": 547,
+              "end_timestamp": 549,
+              "content": "那要做最好也是低吸"
+            },
+            {
+              "start_timestamp": 549,
+              "end_timestamp": 550,
+              "content": "盘口掌握极好的"
+            },
+            {
+              "start_timestamp": 550,
+              "end_timestamp": 551,
+              "content": "老铁可以做半路"
+            },
+            {
+              "start_timestamp": 551,
+              "end_timestamp": 553,
+              "content": "因为盘口强度"
+            },
+            {
+              "start_timestamp": 553,
+              "end_timestamp": 556,
+              "content": "一定程度上代表了主力资金的行为"
+            },
+            {
+              "start_timestamp": 556,
+              "end_timestamp": 557,
+              "content": "这样的票即使回落了"
+            },
+            {
+              "start_timestamp": 557,
+              "end_timestamp": 559,
+              "content": "后续反包的概率也会比较大"
+            },
+            {
+              "start_timestamp": 559,
+              "end_timestamp": 562,
+              "content": "好今天的课程呢我们就讲到这里啊"
+            },
+            {
+              "start_timestamp": 562,
+              "end_timestamp": 562,
+              "content": "谢谢大家"
+            }
+          ],
+          "timestamp": 1
+        }
+      ]
+    },
+    "stid": "0",
+    "status": 0,
+    "like_num": 0,
+    "dislike_num": 0
+  }
+}

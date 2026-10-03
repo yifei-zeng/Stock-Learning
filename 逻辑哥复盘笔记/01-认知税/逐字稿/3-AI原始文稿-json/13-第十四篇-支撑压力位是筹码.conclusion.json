@@ -1,0 +1,1967 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "code": 0,
+    "model_result": {
+      "result_type": 2,
+      "summary": "正确区分支撑和压力位的方法，强调其本质为筹码密集区，通过三档划线法（前高/低、密集成交区、整数关口/均线）逐级确认，结合成交量、突破逻辑与量缩回踩判断有效性，避免机械操作，四步减法优化分析，深入解析筹码分布、五均线修正及市场认可度，后续将延伸压力、缺口、换手率与情绪周期等内容。",
+      "outline": [
+        {
+          "title": "支撑压力为筹码区间关键点",
+          "part_outline": [
+            {
+              "timestamp": 29,
+              "content": "支撑压力本质为筹码密集区间，反映市场行为与资金分布"
+            },
+            {
+              "timestamp": 131,
+              "content": "成交量越大筹码强度越高，支撑压力随筹码变化动态转换"
+            },
+            {
+              "timestamp": 346,
+              "content": "筹码密集区横盘时间越长，突破后回踩不回补缺口更可靠"
+            }
+          ],
+          "timestamp": 1
+        },
+        {
+          "title": "支撑压力位需结合筹码分析",
+          "part_outline": [
+            {
+              "timestamp": 514,
+              "content": "突破需结合筹码支撑与量能验证，避免随意选点"
+            },
+            {
+              "timestamp": 634,
+              "content": "压力位有效突破后转为支撑，需动态修正线位逻辑"
+            },
+            {
+              "timestamp": 761,
+              "content": "回踩关键位缩量时参与，明确交易条件而非机械操作"
+            }
+          ],
+          "timestamp": 475
+        }
+      ],
+      "subtitle": [
+        {
+          "title": "",
+          "part_subtitle": [
+            {
+              "start_timestamp": 0,
+              "end_timestamp": 1,
+              "content": "我是你们逻辑哥"
+            },
+            {
+              "start_timestamp": 1,
+              "end_timestamp": 5,
+              "content": "逻辑哥是全网最硬核实战派财经主播"
+            },
+            {
+              "start_timestamp": 5,
+              "end_timestamp": 9,
+              "content": "整个A级A加几排序"
+            },
+            {
+              "start_timestamp": 9,
+              "end_timestamp": 10,
+              "content": "S级是谁"
+            },
+            {
+              "start_timestamp": 10,
+              "end_timestamp": 11,
+              "content": "S级是游资"
+            },
+            {
+              "start_timestamp": 11,
+              "end_timestamp": 11,
+              "content": "是机构"
+            },
+            {
+              "start_timestamp": 11,
+              "end_timestamp": 15,
+              "content": "那么今天来教大家一招支撑力"
+            },
+            {
+              "start_timestamp": 15,
+              "end_timestamp": 19,
+              "content": "支撑压力到底怎么画才能有用"
+            },
+            {
+              "start_timestamp": 19,
+              "end_timestamp": 21,
+              "content": "其实走到现在为止"
+            },
+            {
+              "start_timestamp": 21,
+              "end_timestamp": 23,
+              "content": "其实很多朋友一直在问我说"
+            },
+            {
+              "start_timestamp": 23,
+              "end_timestamp": 26,
+              "content": "我们到底怎么去梳理核心点"
+            },
+            {
+              "start_timestamp": 26,
+              "end_timestamp": 29,
+              "content": "那么跟大家讲清楚支撑和压力"
+            },
+            {
+              "start_timestamp": 29,
+              "end_timestamp": 32,
+              "content": "他其实并不是单纯的线"
+            },
+            {
+              "start_timestamp": 32,
+              "end_timestamp": 36,
+              "content": "把支撑压力理解为是密集的区间"
+            },
+            {
+              "start_timestamp": 36,
+              "end_timestamp": 37,
+              "content": "它是什么"
+            },
+            {
+              "start_timestamp": 37,
+              "end_timestamp": 41,
+              "content": "它是一个筹码的实质上的变点"
+            },
+            {
+              "start_timestamp": 41,
+              "end_timestamp": 43,
+              "content": "那么跟着我来跟大家讲清楚"
+            },
+            {
+              "start_timestamp": 43,
+              "end_timestamp": 46,
+              "content": "一共是几种划线法"
+            },
+            {
+              "start_timestamp": 46,
+              "end_timestamp": 50,
+              "content": "以及说常见的错画以及五类转换的关系"
+            },
+            {
+              "start_timestamp": 50,
+              "end_timestamp": 55,
+              "content": "那么本期导航本质上支撑压力他都是人的行为"
+            },
+            {
+              "start_timestamp": 55,
+              "end_timestamp": 55,
+              "content": "他不是线"
+            },
+            {
+              "start_timestamp": 55,
+              "end_timestamp": 57,
+              "content": "是筹码"
+            },
+            {
+              "start_timestamp": 57,
+              "end_timestamp": 58,
+              "content": "三档划线法"
+            },
+            {
+              "start_timestamp": 58,
+              "end_timestamp": 59,
+              "content": "从粗到细"
+            },
+            {
+              "start_timestamp": 59,
+              "end_timestamp": 62,
+              "content": "逐级的确认四种常见可能画错的地方"
+            },
+            {
+              "start_timestamp": 62,
+              "end_timestamp": 64,
+              "content": "因为画多了可能会有影响嘛对吧"
+            },
+            {
+              "start_timestamp": 64,
+              "end_timestamp": 67,
+              "content": "再就突破和和转换"
+            },
+            {
+              "start_timestamp": 67,
+              "end_timestamp": 69,
+              "content": "跌破支撑变压力"
+            },
+            {
+              "start_timestamp": 69,
+              "end_timestamp": 73,
+              "content": "那么突破压力变成支撑落地点"
+            },
+            {
+              "start_timestamp": 73,
+              "end_timestamp": 74,
+              "content": "四步减法怎么去做"
+            },
+            {
+              "start_timestamp": 76,
+              "end_timestamp": 77,
+              "content": "首先跟大家讲清楚"
+            },
+            {
+              "start_timestamp": 77,
+              "end_timestamp": 78,
+              "content": "同样是划线"
+            },
+            {
+              "start_timestamp": 78,
+              "end_timestamp": 80,
+              "content": "那我们讲清楚画的是什么"
+            },
+            {
+              "start_timestamp": 80,
+              "end_timestamp": 83,
+              "content": "几种完全不同类型的理解"
+            },
+            {
+              "start_timestamp": 83,
+              "end_timestamp": 84,
+              "content": "同样是画一条线"
+            },
+            {
+              "start_timestamp": 84,
+              "end_timestamp": 86,
+              "content": "背后的理解决定了这条线到底有没有作用"
+            },
+            {
+              "start_timestamp": 86,
+              "end_timestamp": 89,
+              "content": "那么以前到这儿反弹过"
+            },
+            {
+              "start_timestamp": 89,
+              "end_timestamp": 93,
+              "content": "那么解释的是在这儿友谊区来"
+            },
+            {
+              "start_timestamp": 95,
+              "end_timestamp": 98,
+              "content": "如果说这一群有有被套的人"
+            },
+            {
+              "start_timestamp": 98,
+              "end_timestamp": 98,
+              "content": "诶"
+            },
+            {
+              "start_timestamp": 98,
+              "end_timestamp": 101,
+              "content": "高点到这下来对吗"
+            },
+            {
+              "start_timestamp": 101,
+              "end_timestamp": 105,
+              "content": "那么也就是意味着这个位置上有大批量被套人"
+            },
+            {
+              "start_timestamp": 105,
+              "end_timestamp": 107,
+              "content": "那么如果换成红色的"
+            },
+            {
+              "start_timestamp": 107,
+              "end_timestamp": 107,
+              "content": "哎"
+            },
+            {
+              "start_timestamp": 107,
+              "end_timestamp": 109,
+              "content": "我打到这儿做反弹"
+            },
+            {
+              "start_timestamp": 109,
+              "end_timestamp": 110,
+              "content": "那是什么呢"
+            },
+            {
+              "start_timestamp": 110,
+              "end_timestamp": 114,
+              "content": "在这个区间底下有一批密集的城郊区"
+            },
+            {
+              "start_timestamp": 114,
+              "end_timestamp": 115,
+              "content": "这帮人不愿意走"
+            },
+            {
+              "start_timestamp": 115,
+              "end_timestamp": 119,
+              "content": "那么现象级的记录是已"
+            },
+            {
+              "start_timestamp": 119,
+              "end_timestamp": 123,
+              "content": "只是记录了过去的一些事情发生了"
+            },
+            {
+              "start_timestamp": 123,
+              "end_timestamp": 125,
+              "content": "没有办法解释为什么有效"
+            },
+            {
+              "start_timestamp": 125,
+              "end_timestamp": 127,
+              "content": "然后呢换一支票就会失效"
+            },
+            {
+              "start_timestamp": 127,
+              "end_timestamp": 129,
+              "content": "无法判断什么时候会失效"
+            },
+            {
+              "start_timestamp": 129,
+              "end_timestamp": 131,
+              "content": "那么线本身是没有力量的"
+            },
+            {
+              "start_timestamp": 131,
+              "end_timestamp": 133,
+              "content": "事实上是在线上的人"
+            },
+            {
+              "start_timestamp": 133,
+              "end_timestamp": 136,
+              "content": "线上的筹码在干嘛"
+            },
+            {
+              "start_timestamp": 136,
+              "end_timestamp": 137,
+              "content": "解释了背后的机制"
+            },
+            {
+              "start_timestamp": 137,
+              "end_timestamp": 138,
+              "content": "能判断强弱"
+            },
+            {
+              "start_timestamp": 138,
+              "end_timestamp": 139,
+              "content": "成交量越大"
+            },
+            {
+              "start_timestamp": 139,
+              "end_timestamp": 142,
+              "content": "那么也就意味着它的强度越高"
+            },
+            {
+              "start_timestamp": 142,
+              "end_timestamp": 145,
+              "content": "同时它能够实现跨表底"
+            },
+            {
+              "start_timestamp": 145,
+              "end_timestamp": 149,
+              "content": "包括说能够预判突破后的转换"
+            },
+            {
+              "start_timestamp": 149,
+              "end_timestamp": 153,
+              "content": "那么支撑这自身压力都不是线啊"
+            },
+            {
+              "start_timestamp": 153,
+              "end_timestamp": 154,
+              "content": "都不是单纯的线"
+            },
+            {
+              "start_timestamp": 154,
+              "end_timestamp": 157,
+              "content": "而是人的不同的行为的体现"
+            },
+            {
+              "start_timestamp": 158,
+              "end_timestamp": 160,
+              "content": "压力指的是套牢盘"
+            },
+            {
+              "start_timestamp": 160,
+              "end_timestamp": 161,
+              "content": "解压的抛"
+            },
+            {
+              "start_timestamp": 161,
+              "end_timestamp": 163,
+              "content": "解套的抛压"
+            },
+            {
+              "start_timestamp": 163,
+              "end_timestamp": 165,
+              "content": "支撑是获利盘的回补"
+            },
+            {
+              "start_timestamp": 166,
+              "end_timestamp": 168,
+              "content": "以及踏空者的这个接货"
+            },
+            {
+              "start_timestamp": 168,
+              "end_timestamp": 170,
+              "content": "那么强弱取决于在那个区"
+            },
+            {
+              "start_timestamp": 170,
+              "end_timestamp": 174,
+              "content": "那个区间位置到底成交了多少筹码"
+            },
+            {
+              "start_timestamp": 174,
+              "end_timestamp": 177,
+              "content": "那么支撑和压力的来源是压力"
+            },
+            {
+              "start_timestamp": 177,
+              "end_timestamp": 178,
+              "content": "是在更高价格买入"
+            },
+            {
+              "start_timestamp": 178,
+              "end_timestamp": 180,
+              "content": "目前被套的人"
+            },
+            {
+              "start_timestamp": 180,
+              "end_timestamp": 183,
+              "content": "他们的行为经常性就是回本就卖出"
+            },
+            {
+              "start_timestamp": 183,
+              "end_timestamp": 186,
+              "content": "那么就会构成解套抛压"
+            },
+            {
+              "start_timestamp": 187,
+              "end_timestamp": 190,
+              "content": "而支撑是在该价位买入"
+            },
+            {
+              "start_timestamp": 190,
+              "end_timestamp": 192,
+              "content": "持有目前盈利的人"
+            },
+            {
+              "start_timestamp": 192,
+              "end_timestamp": 194,
+              "content": "那么回落时会愿意加仓"
+            },
+            {
+              "start_timestamp": 194,
+              "end_timestamp": 196,
+              "content": "这属于我们讲的回补买盘"
+            },
+            {
+              "start_timestamp": 196,
+              "end_timestamp": 202,
+              "content": "还有一个是支撑之前前期出现踏空"
+            },
+            {
+              "start_timestamp": 202,
+              "end_timestamp": 207,
+              "content": "或者说前期区间位置上前一次的低点"
+            },
+            {
+              "start_timestamp": 207,
+              "end_timestamp": 210,
+              "content": "那么这个地方叫做到目标位"
+            },
+            {
+              "start_timestamp": 210,
+              "end_timestamp": 213,
+              "content": "问愿意去接货接货的买盘"
+            },
+            {
+              "start_timestamp": 213,
+              "end_timestamp": 218,
+              "content": "那么我们简单来理解一下类似的这种反馈"
+            },
+            {
+              "start_timestamp": 218,
+              "end_timestamp": 223,
+              "content": "这张图就是我们很典型的回踩压力区间"
+            },
+            {
+              "start_timestamp": 224,
+              "end_timestamp": 226,
+              "content": "来看清楚"
+            },
+            {
+              "start_timestamp": 227,
+              "end_timestamp": 229,
+              "content": "这张图就很典型的"
+            },
+            {
+              "start_timestamp": 229,
+              "end_timestamp": 232,
+              "content": "那么如果再放大一点来"
+            },
+            {
+              "start_timestamp": 232,
+              "end_timestamp": 235,
+              "content": "稍微等我给你们放大一点点去看好吗"
+            },
+            {
+              "start_timestamp": 235,
+              "end_timestamp": 239,
+              "content": "在这个区间上出现了多少资金的这个买盘情况"
+            },
+            {
+              "start_timestamp": 239,
+              "end_timestamp": 244,
+              "content": "那么我们来看清楚来下方的支撑"
+            },
+            {
+              "start_timestamp": 244,
+              "end_timestamp": 248,
+              "content": "用黄色箭头来表示它的压力来"
+            },
+            {
+              "start_timestamp": 248,
+              "end_timestamp": 253,
+              "content": "这就是我们说的压力和区间区间平台的支撑"
+            },
+            {
+              "start_timestamp": 253,
+              "end_timestamp": 255,
+              "content": "包括说底下几根不同的线"
+            },
+            {
+              "start_timestamp": 255,
+              "end_timestamp": 260,
+              "content": "都是它的压力和支撑的关键点来看清楚"
+            },
+            {
+              "start_timestamp": 260,
+              "end_timestamp": 262,
+              "content": "那么白绿色这根虚线"
+            },
+            {
+              "start_timestamp": 262,
+              "end_timestamp": 266,
+              "content": "是前期平台区间形成的压力点"
+            },
+            {
+              "start_timestamp": 266,
+              "end_timestamp": 268,
+              "content": "而这根线的点在哪一天呢"
+            },
+            {
+              "start_timestamp": 268,
+              "end_timestamp": 270,
+              "content": "9月4号好"
+            },
+            {
+              "start_timestamp": 270,
+              "end_timestamp": 271,
+              "content": "这个位置形成了压力"
+            },
+            {
+              "start_timestamp": 271,
+              "end_timestamp": 273,
+              "content": "那么下一步我是不是要走上压力之后"
+            },
+            {
+              "start_timestamp": 273,
+              "end_timestamp": 274,
+              "content": "才形成上升"
+            },
+            {
+              "start_timestamp": 274,
+              "end_timestamp": 278,
+              "content": "同样二次我跌破之际的区间"
+            },
+            {
+              "start_timestamp": 278,
+              "end_timestamp": 280,
+              "content": "我回踩到这个位置"
+            },
+            {
+              "start_timestamp": 280,
+              "end_timestamp": 284,
+              "content": "同样是属于落到支撑点"
+            },
+            {
+              "start_timestamp": 284,
+              "end_timestamp": 286,
+              "content": "所以记住了你的支撑点怎么来"
+            },
+            {
+              "start_timestamp": 286,
+              "end_timestamp": 288,
+              "content": "当我的压力已经突破了"
+            },
+            {
+              "start_timestamp": 288,
+              "end_timestamp": 292,
+              "content": "我转转过头就会成为支撑"
+            },
+            {
+              "start_timestamp": 292,
+              "end_timestamp": 294,
+              "content": "同样在这个区间"
+            },
+            {
+              "start_timestamp": 294,
+              "end_timestamp": 297,
+              "content": "当中还有一次叫做回踩哎"
+            },
+            {
+              "start_timestamp": 297,
+              "end_timestamp": 300,
+              "content": "谁想要去到目标位接获"
+            },
+            {
+              "start_timestamp": 300,
+              "end_timestamp": 302,
+              "content": "在当时这个区间当中"
+            },
+            {
+              "start_timestamp": 302,
+              "end_timestamp": 306,
+              "content": "我整个上升趋势当中回落的情况下"
+            },
+            {
+              "start_timestamp": 306,
+              "end_timestamp": 307,
+              "content": "谁来接货"
+            },
+            {
+              "start_timestamp": 307,
+              "end_timestamp": 309,
+              "content": "就是到目标位愿意接货的人"
+            },
+            {
+              "start_timestamp": 309,
+              "end_timestamp": 311,
+              "content": "这属于接货买盘"
+            },
+            {
+              "start_timestamp": 311,
+              "end_timestamp": 313,
+              "content": "不属于回补买盘"
+            },
+            {
+              "start_timestamp": 313,
+              "end_timestamp": 316,
+              "content": "在这个位置上来看清楚啊"
+            },
+            {
+              "start_timestamp": 316,
+              "end_timestamp": 320,
+              "content": "在这个位置上属于回补买盘"
+            },
+            {
+              "start_timestamp": 320,
+              "end_timestamp": 326,
+              "content": "在这那么用黄色来表示什么叫做接货买盘来"
+            },
+            {
+              "start_timestamp": 326,
+              "end_timestamp": 327,
+              "content": "如图所示"
+            },
+            {
+              "start_timestamp": 327,
+              "end_timestamp": 330,
+              "content": "这个位置属于接货买盘"
+            },
+            {
+              "start_timestamp": 330,
+              "end_timestamp": 332,
+              "content": "就到了目标区间啊"
+            },
+            {
+              "start_timestamp": 332,
+              "end_timestamp": 333,
+              "content": "确实你掉下去了对吧"
+            },
+            {
+              "start_timestamp": 333,
+              "end_timestamp": 335,
+              "content": "但是又没有完全破趋势"
+            },
+            {
+              "start_timestamp": 335,
+              "end_timestamp": 338,
+              "content": "这个位置属于接货买盘"
+            },
+            {
+              "start_timestamp": 338,
+              "end_timestamp": 340,
+              "content": "这张图大概能理解就好"
+            },
+            {
+              "start_timestamp": 340,
+              "end_timestamp": 341,
+              "content": "不能理解呢"
+            },
+            {
+              "start_timestamp": 341,
+              "end_timestamp": 342,
+              "content": "多看两遍"
+            },
+            {
+              "start_timestamp": 342,
+              "end_timestamp": 345,
+              "content": "因为这篇视频时间也比较长"
+            },
+            {
+              "start_timestamp": 346,
+              "end_timestamp": 350,
+              "content": "那么两个关键性的推论就是筹码的成交区"
+            },
+            {
+              "start_timestamp": 350,
+              "end_timestamp": 351,
+              "content": "筹码越多越硬"
+            },
+            {
+              "start_timestamp": 351,
+              "end_timestamp": 352,
+              "content": "横盘时间越长"
+            },
+            {
+              "start_timestamp": 352,
+              "end_timestamp": 356,
+              "content": "成交量越大的价格区间就是筹码密集"
+            },
+            {
+              "start_timestamp": 356,
+              "end_timestamp": 359,
+              "content": "记住它是区间"
+            },
+            {
+              "start_timestamp": 359,
+              "end_timestamp": 361,
+              "content": "并不是单一的某根线"
+            },
+            {
+              "start_timestamp": 361,
+              "end_timestamp": 365,
+              "content": "另外无成交区当中几乎没有任何的阻力"
+            },
+            {
+              "start_timestamp": 367,
+              "end_timestamp": 368,
+              "content": "快速通过"
+            },
+            {
+              "start_timestamp": 368,
+              "end_timestamp": 370,
+              "content": "几乎没有任何成交的价格区间"
+            },
+            {
+              "start_timestamp": 370,
+              "end_timestamp": 372,
+              "content": "那么回来时几乎是没有任何阻力的"
+            },
+            {
+              "start_timestamp": 372,
+              "end_timestamp": 378,
+              "content": "这也就意味着突破之后是回踩"
+            },
+            {
+              "start_timestamp": 378,
+              "end_timestamp": 380,
+              "content": "但不回补缺口"
+            },
+            {
+              "start_timestamp": 380,
+              "end_timestamp": 384,
+              "content": "记住回踩但不回补"
+            },
+            {
+              "start_timestamp": 385,
+              "end_timestamp": 388,
+              "content": "来继续三档的划线法"
+            },
+            {
+              "start_timestamp": 388,
+              "end_timestamp": 389,
+              "content": "从粗到细"
+            },
+            {
+              "start_timestamp": 389,
+              "end_timestamp": 390,
+              "content": "一步步跟你讲明白"
+            },
+            {
+              "start_timestamp": 390,
+              "end_timestamp": 394,
+              "content": "讲清楚什么叫做逐级确认"
+            },
+            {
+              "start_timestamp": 394,
+              "end_timestamp": 397,
+              "content": "低档是前高和前低"
+            },
+            {
+              "start_timestamp": 397,
+              "end_timestamp": 398,
+              "content": "这是市场公认的"
+            },
+            {
+              "start_timestamp": 398,
+              "end_timestamp": 402,
+              "content": "也就是我们当下用的最多的这个区间"
+            },
+            {
+              "start_timestamp": 402,
+              "end_timestamp": 406,
+              "content": "那么第二档是密集成交区中等"
+            },
+            {
+              "start_timestamp": 406,
+              "end_timestamp": 411,
+              "content": "最后是最细部分是整数关口和均线位置"
+            },
+            {
+              "start_timestamp": 411,
+              "end_timestamp": 412,
+              "content": "作为最细化"
+            },
+            {
+              "start_timestamp": 412,
+              "end_timestamp": 415,
+              "content": "以及说就最小的那一根"
+            },
+            {
+              "start_timestamp": 415,
+              "end_timestamp": 419,
+              "content": "所以从上到下逐级确认"
+            },
+            {
+              "start_timestamp": 420,
+              "end_timestamp": 423,
+              "content": "怎么去理解这个地方"
+            },
+            {
+              "start_timestamp": 423,
+              "end_timestamp": 427,
+              "content": "记住精度上用谁来看"
+            },
+            {
+              "start_timestamp": 429,
+              "end_timestamp": 432,
+              "content": "前高前低是公认的心理关口"
+            },
+            {
+              "start_timestamp": 432,
+              "end_timestamp": 433,
+              "content": "参与者是最多的"
+            },
+            {
+              "start_timestamp": 433,
+              "end_timestamp": 437,
+              "content": "所以把它当做明显的转折点"
+            },
+            {
+              "start_timestamp": 437,
+              "end_timestamp": 439,
+              "content": "上行则强"
+            },
+            {
+              "start_timestamp": 440,
+              "end_timestamp": 443,
+              "content": "回落则破则弱"
+            },
+            {
+              "start_timestamp": 443,
+              "end_timestamp": 445,
+              "content": "那么第二档是密集成交区"
+            },
+            {
+              "start_timestamp": 445,
+              "end_timestamp": 448,
+              "content": "横盘九成交大筹码密集"
+            },
+            {
+              "start_timestamp": 448,
+              "end_timestamp": 451,
+              "content": "那么这个地方化成的是区区间"
+            },
+            {
+              "start_timestamp": 451,
+              "end_timestamp": 456,
+              "content": "筹码就在这个箱体区间大批量的资金形成"
+            },
+            {
+              "start_timestamp": 456,
+              "end_timestamp": 459,
+              "content": "那么这个位置记清楚了"
+            },
+            {
+              "start_timestamp": 459,
+              "end_timestamp": 460,
+              "content": "他画的是区间"
+            },
+            {
+              "start_timestamp": 460,
+              "end_timestamp": 462,
+              "content": "而不是线"
+            },
+            {
+              "start_timestamp": 462,
+              "end_timestamp": 464,
+              "content": "第三档是整数关口或者均线"
+            },
+            {
+              "start_timestamp": 464,
+              "end_timestamp": 466,
+              "content": "那么止损止盈"
+            },
+            {
+              "start_timestamp": 466,
+              "end_timestamp": 467,
+              "content": "止损通常是整数位"
+            },
+            {
+              "start_timestamp": 467,
+              "end_timestamp": 470,
+              "content": "均线约等于区间的平均成本"
+            },
+            {
+              "start_timestamp": 470,
+              "end_timestamp": 473,
+              "content": "那么可以以最细"
+            },
+            {
+              "start_timestamp": 473,
+              "end_timestamp": 475,
+              "content": "那么第一档是来定范围"
+            },
+            {
+              "start_timestamp": 475,
+              "end_timestamp": 477,
+              "content": "二档所区间"
+            },
+            {
+              "start_timestamp": 477,
+              "end_timestamp": 479,
+              "content": "三档找参照"
+            },
+            {
+              "start_timestamp": 479,
+              "end_timestamp": 483,
+              "content": "矛盾时以第二党为准"
+            },
+            {
+              "start_timestamp": 483,
+              "end_timestamp": 487,
+              "content": "记住矛盾时以第二档为准"
+            },
+            {
+              "start_timestamp": 488,
+              "end_timestamp": 491,
+              "content": "因为什么他不用那么细啊"
+            },
+            {
+              "start_timestamp": 491,
+              "end_timestamp": 494,
+              "content": "也能既能够有这个低档"
+            },
+            {
+              "start_timestamp": 494,
+              "end_timestamp": 497,
+              "content": "前高前低的箱体区间的理解"
+            },
+            {
+              "start_timestamp": 497,
+              "end_timestamp": 500,
+              "content": "也能够承接指数"
+            },
+            {
+              "start_timestamp": 500,
+              "end_timestamp": 505,
+              "content": "这个或者说我们理解为均线位置的理解好"
+            },
+            {
+              "start_timestamp": 506,
+              "end_timestamp": 508,
+              "content": "那么第四种啊"
+            },
+            {
+              "start_timestamp": 508,
+              "end_timestamp": 512,
+              "content": "第三个部分就是四种常见的错画线"
+            },
+            {
+              "start_timestamp": 512,
+              "end_timestamp": 514,
+              "content": "画的太多等于没有信息"
+            },
+            {
+              "start_timestamp": 514,
+              "end_timestamp": 515,
+              "content": "不要写那么多啊"
+            },
+            {
+              "start_timestamp": 515,
+              "end_timestamp": 516,
+              "content": "写少一点"
+            },
+            {
+              "start_timestamp": 516,
+              "end_timestamp": 519,
+              "content": "第二连现点选的太随意"
+            },
+            {
+              "start_timestamp": 519,
+              "end_timestamp": 520,
+              "content": "没有筹码的支撑"
+            },
+            {
+              "start_timestamp": 520,
+              "end_timestamp": 523,
+              "content": "记住筹码一定要有那么突破之后不休整"
+            },
+            {
+              "start_timestamp": 523,
+              "end_timestamp": 524,
+              "content": "一直在等回调"
+            },
+            {
+              "start_timestamp": 524,
+              "end_timestamp": 529,
+              "content": "以及说把线当做买卖点而参考变指令"
+            },
+            {
+              "start_timestamp": 529,
+              "end_timestamp": 531,
+              "content": "这就是容易出现的问题"
+            },
+            {
+              "start_timestamp": 531,
+              "end_timestamp": 533,
+              "content": "首先线太多"
+            },
+            {
+              "start_timestamp": 533,
+              "end_timestamp": 535,
+              "content": "一张图七八条线"
+            },
+            {
+              "start_timestamp": 535,
+              "end_timestamp": 538,
+              "content": "一般性四条线足以一条"
+            },
+            {
+              "start_timestamp": 538,
+              "end_timestamp": 539,
+              "content": "一般性来说"
+            },
+            {
+              "start_timestamp": 539,
+              "end_timestamp": 542,
+              "content": "我们说支撑压力可以算理解为一根线"
+            },
+            {
+              "start_timestamp": 542,
+              "end_timestamp": 546,
+              "content": "然后呢上行区间我正常来说"
+            },
+            {
+              "start_timestamp": 546,
+              "end_timestamp": 547,
+              "content": "我现在用的是五根线啊"
+            },
+            {
+              "start_timestamp": 547,
+              "end_timestamp": 549,
+              "content": "五线法"
+            },
+            {
+              "start_timestamp": 550,
+              "end_timestamp": 552,
+              "content": "不要用那么多区间"
+            },
+            {
+              "start_timestamp": 552,
+              "end_timestamp": 553,
+              "content": "上来之后"
+            },
+            {
+              "start_timestamp": 553,
+              "end_timestamp": 556,
+              "content": "比方说我们随便找一张图吧"
+            },
+            {
+              "start_timestamp": 557,
+              "end_timestamp": 559,
+              "content": "来我们随便找一张图"
+            },
+            {
+              "start_timestamp": 560,
+              "end_timestamp": 566,
+              "content": "这个区间当中它分别体现的内容点就会不一样"
+            },
+            {
+              "start_timestamp": 567,
+              "end_timestamp": 570,
+              "content": "来一共是五根线"
+            },
+            {
+              "start_timestamp": 570,
+              "end_timestamp": 572,
+              "content": "黄到红的白色虚线"
+            },
+            {
+              "start_timestamp": 572,
+              "end_timestamp": 576,
+              "content": "以及上下一根绿色压啊"
+            },
+            {
+              "start_timestamp": 576,
+              "end_timestamp": 578,
+              "content": "绿色的压力线和红色的支撑线啊"
+            },
+            {
+              "start_timestamp": 578,
+              "end_timestamp": 582,
+              "content": "红色虚线的这个支撑就是前高前低"
+            },
+            {
+              "start_timestamp": 582,
+              "end_timestamp": 583,
+              "content": "那么出来之后"
+            },
+            {
+              "start_timestamp": 583,
+              "end_timestamp": 589,
+              "content": "我们是一段段的要去理解我上行区间怎么去做"
+            },
+            {
+              "start_timestamp": 589,
+              "end_timestamp": 590,
+              "content": "下行区间怎么去切"
+            },
+            {
+              "start_timestamp": 590,
+              "end_timestamp": 591,
+              "content": "来"
+            },
+            {
+              "start_timestamp": 591,
+              "end_timestamp": 594,
+              "content": "当我在底下下方之际"
+            },
+            {
+              "start_timestamp": 594,
+              "end_timestamp": 596,
+              "content": "我需要的做的就是"
+            },
+            {
+              "start_timestamp": 596,
+              "end_timestamp": 599,
+              "content": "我只看底下这根黄色的没有破"
+            },
+            {
+              "start_timestamp": 599,
+              "end_timestamp": 600,
+              "content": "一切好说"
+            },
+            {
+              "start_timestamp": 600,
+              "end_timestamp": 602,
+              "content": "破了暂时就没有机会"
+            },
+            {
+              "start_timestamp": 602,
+              "end_timestamp": 604,
+              "content": "只要你一直收盘价一直在这上方"
+            },
+            {
+              "start_timestamp": 604,
+              "end_timestamp": 607,
+              "content": "我就坚定地继续等待"
+            },
+            {
+              "start_timestamp": 607,
+              "end_timestamp": 608,
+              "content": "等待你的爆发"
+            },
+            {
+              "start_timestamp": 608,
+              "end_timestamp": 611,
+              "content": "如果当你走上突破点的之际"
+            },
+            {
+              "start_timestamp": 611,
+              "end_timestamp": 613,
+              "content": "那就按照之前启动突破的理解去做就可以了"
+            },
+            {
+              "start_timestamp": 613,
+              "end_timestamp": 616,
+              "content": "好记住选点不要随意"
+            },
+            {
+              "start_timestamp": 616,
+              "end_timestamp": 618,
+              "content": "最近的两个低点一连就叫直升"
+            },
+            {
+              "start_timestamp": 618,
+              "end_timestamp": 620,
+              "content": "这他妈是有病的"
+            },
+            {
+              "start_timestamp": 620,
+              "end_timestamp": 625,
+              "content": "选点是两个低点之间要形成区间成交"
+            },
+            {
+              "start_timestamp": 625,
+              "end_timestamp": 626,
+              "content": "要有价格"
+            },
+            {
+              "start_timestamp": 626,
+              "end_timestamp": 628,
+              "content": "要有量量"
+            },
+            {
+              "start_timestamp": 628,
+              "end_timestamp": 631,
+              "content": "一定要有没有量就叫耍流氓"
+            },
+            {
+              "start_timestamp": 631,
+              "end_timestamp": 634,
+              "content": "然后突破之后依旧当它化成是压力线"
+            },
+            {
+              "start_timestamp": 634,
+              "end_timestamp": 635,
+              "content": "那就不对"
+            },
+            {
+              "start_timestamp": 635,
+              "end_timestamp": 639,
+              "content": "突破之后上行空间压力变成下方支撑了"
+            },
+            {
+              "start_timestamp": 639,
+              "end_timestamp": 641,
+              "content": "那么性质已经反转"
+            },
+            {
+              "start_timestamp": 641,
+              "end_timestamp": 643,
+              "content": "不会再去回到你的旧逻辑"
+            },
+            {
+              "start_timestamp": 643,
+              "end_timestamp": 644,
+              "content": "你不要去想着说哎"
+            },
+            {
+              "start_timestamp": 644,
+              "end_timestamp": 645,
+              "content": "我等它回踩到这个位置"
+            },
+            {
+              "start_timestamp": 645,
+              "end_timestamp": 646,
+              "content": "回调到这个位置再来"
+            },
+            {
+              "start_timestamp": 646,
+              "end_timestamp": 647,
+              "content": "不对了"
+            },
+            {
+              "start_timestamp": 647,
+              "end_timestamp": 652,
+              "content": "另外不要把支撑和压力当作是你的买卖"
+            },
+            {
+              "start_timestamp": 652,
+              "end_timestamp": 655,
+              "content": "这个呢就很容易机械化的交易"
+            },
+            {
+              "start_timestamp": 655,
+              "end_timestamp": 657,
+              "content": "如果你是单纯只做箱体的"
+            },
+            {
+              "start_timestamp": 657,
+              "end_timestamp": 658,
+              "content": "可以这么理解"
+            },
+            {
+              "start_timestamp": 658,
+              "end_timestamp": 660,
+              "content": "但一般来说不建议记住"
+            },
+            {
+              "start_timestamp": 660,
+              "end_timestamp": 663,
+              "content": "把画图只是记录它"
+            },
+            {
+              "start_timestamp": 663,
+              "end_timestamp": 665,
+              "content": "不是分析分析"
+            },
+            {
+              "start_timestamp": 665,
+              "end_timestamp": 668,
+              "content": "是解释为什么会如此"
+            },
+            {
+              "start_timestamp": 669,
+              "end_timestamp": 674,
+              "content": "好记住画图指示记录分析解释分析"
+            },
+            {
+              "start_timestamp": 674,
+              "end_timestamp": 675,
+              "content": "事实上解释为什么"
+            },
+            {
+              "start_timestamp": 675,
+              "end_timestamp": 676,
+              "content": "因为什么只会画"
+            },
+            {
+              "start_timestamp": 676,
+              "end_timestamp": 677,
+              "content": "不会解释"
+            },
+            {
+              "start_timestamp": 677,
+              "end_timestamp": 679,
+              "content": "那么线就是装饰"
+            },
+            {
+              "start_timestamp": 679,
+              "end_timestamp": 681,
+              "content": "怎么去解释它突破"
+            },
+            {
+              "start_timestamp": 681,
+              "end_timestamp": 683,
+              "content": "突破和压力互相转换"
+            },
+            {
+              "start_timestamp": 683,
+              "end_timestamp": 685,
+              "content": "压力被有效突破"
+            },
+            {
+              "start_timestamp": 685,
+              "end_timestamp": 685,
+              "content": "转为支撑"
+            },
+            {
+              "start_timestamp": 685,
+              "end_timestamp": 687,
+              "content": "如图所示"
+            },
+            {
+              "start_timestamp": 687,
+              "end_timestamp": 689,
+              "content": "来收盘价一定要站上关键位"
+            },
+            {
+              "start_timestamp": 689,
+              "end_timestamp": 692,
+              "content": "盘中插针后的回落就属于假突破"
+            },
+            {
+              "start_timestamp": 692,
+              "end_timestamp": 694,
+              "content": "第二突破时一定要放量配合"
+            },
+            {
+              "start_timestamp": 694,
+              "end_timestamp": 696,
+              "content": "如果缩量假"
+            },
+            {
+              "start_timestamp": 696,
+              "end_timestamp": 698,
+              "content": "另外持续性两到三天能站稳"
+            },
+            {
+              "start_timestamp": 698,
+              "end_timestamp": 699,
+              "content": "就像指数一样"
+            },
+            {
+              "start_timestamp": 699,
+              "end_timestamp": 702,
+              "content": "我之前讲过3958站不上去就是垃圾"
+            },
+            {
+              "start_timestamp": 702,
+              "end_timestamp": 704,
+              "content": "次日直接低开跌回原位"
+            },
+            {
+              "start_timestamp": 704,
+              "end_timestamp": 706,
+              "content": "这样一一样是假突破"
+            },
+            {
+              "start_timestamp": 706,
+              "end_timestamp": 707,
+              "content": "一定要记记住"
+            },
+            {
+              "start_timestamp": 707,
+              "end_timestamp": 708,
+              "content": "连续3日"
+            },
+            {
+              "start_timestamp": 708,
+              "end_timestamp": 713,
+              "content": "那么性转变是当压力转变为支撑之后"
+            },
+            {
+              "start_timestamp": 713,
+              "end_timestamp": 715,
+              "content": "就不要去理解原压力就是压力了"
+            },
+            {
+              "start_timestamp": 715,
+              "end_timestamp": 717,
+              "content": "记住抛压释放完毕"
+            },
+            {
+              "start_timestamp": 717,
+              "end_timestamp": 720,
+              "content": "将上新资金成本再突破位"
+            },
+            {
+              "start_timestamp": 720,
+              "end_timestamp": 723,
+              "content": "那么从有人想卖变成有人想走"
+            },
+            {
+              "start_timestamp": 723,
+              "end_timestamp": 726,
+              "content": "或者有人想买啊"
+            },
+            {
+              "start_timestamp": 726,
+              "end_timestamp": 729,
+              "content": "来整体性落地四步减法"
+            },
+            {
+              "start_timestamp": 729,
+              "end_timestamp": 731,
+              "content": "先删线再划线"
+            },
+            {
+              "start_timestamp": 731,
+              "end_timestamp": 733,
+              "content": "第一个只画三个位置"
+            },
+            {
+              "start_timestamp": 733,
+              "end_timestamp": 737,
+              "content": "第二每个位置都要能够说得出理由"
+            },
+            {
+              "start_timestamp": 737,
+              "end_timestamp": 738,
+              "content": "说得出"
+            },
+            {
+              "start_timestamp": 738,
+              "end_timestamp": 739,
+              "content": "你能够自圆其说"
+            },
+            {
+              "start_timestamp": 739,
+              "end_timestamp": 742,
+              "content": "你能够理解并且能够应用"
+            },
+            {
+              "start_timestamp": 742,
+              "end_timestamp": 745,
+              "content": "第三步是突破之后立即修正"
+            },
+            {
+              "start_timestamp": 745,
+              "end_timestamp": 747,
+              "content": "第四步把它写成条件"
+            },
+            {
+              "start_timestamp": 747,
+              "end_timestamp": 751,
+              "content": "不要写成你的交易指令好"
+            },
+            {
+              "start_timestamp": 751,
+              "end_timestamp": 752,
+              "content": "怎么去理解"
+            },
+            {
+              "start_timestamp": 752,
+              "end_timestamp": 755,
+              "content": "我们只画关键性的"
+            },
+            {
+              "start_timestamp": 755,
+              "end_timestamp": 756,
+              "content": "最保留的三"
+            },
+            {
+              "start_timestamp": 756,
+              "end_timestamp": 757,
+              "content": "最重要的三个位置"
+            },
+            {
+              "start_timestamp": 757,
+              "end_timestamp": 759,
+              "content": "刚刚已经给你们截过图了啊"
+            },
+            {
+              "start_timestamp": 759,
+              "end_timestamp": 760,
+              "content": "那么说出理由"
+            },
+            {
+              "start_timestamp": 760,
+              "end_timestamp": 761,
+              "content": "这里为什么有筹码"
+            },
+            {
+              "start_timestamp": 761,
+              "end_timestamp": 765,
+              "content": "而说不出为什么有筹码的删掉"
+            },
+            {
+              "start_timestamp": 765,
+              "end_timestamp": 768,
+              "content": "第二突破即修正有效突破"
+            },
+            {
+              "start_timestamp": 768,
+              "end_timestamp": 771,
+              "content": "当天或者次日把压力线改为支撑线"
+            },
+            {
+              "start_timestamp": 771,
+              "end_timestamp": 774,
+              "content": "第四是要写成条件"
+            },
+            {
+              "start_timestamp": 774,
+              "end_timestamp": 775,
+              "content": "回踩某个区间且量缩"
+            },
+            {
+              "start_timestamp": 775,
+              "end_timestamp": 776,
+              "content": "可按计划参与"
+            },
+            {
+              "start_timestamp": 776,
+              "end_timestamp": 778,
+              "content": "而不是到这就买"
+            },
+            {
+              "start_timestamp": 778,
+              "end_timestamp": 780,
+              "content": "回踩到区间且量缩"
+            },
+            {
+              "start_timestamp": 780,
+              "end_timestamp": 784,
+              "content": "那么我在它下跌的过程当中"
+            },
+            {
+              "start_timestamp": 784,
+              "end_timestamp": 787,
+              "content": "如果是上升趋势回踩诶"
+            },
+            {
+              "start_timestamp": 787,
+              "end_timestamp": 788,
+              "content": "这个地方缩量是不是可以"
+            },
+            {
+              "start_timestamp": 788,
+              "end_timestamp": 791,
+              "content": "但是如果在下跌的路上缩量"
+            },
+            {
+              "start_timestamp": 791,
+              "end_timestamp": 793,
+              "content": "你告诉我是机会吗"
+            },
+            {
+              "start_timestamp": 793,
+              "end_timestamp": 795,
+              "content": "并不是回踩"
+            },
+            {
+              "start_timestamp": 795,
+              "end_timestamp": 800,
+              "content": "是我上行通道当中每一次的关键位置的回落"
+            },
+            {
+              "start_timestamp": 800,
+              "end_timestamp": 801,
+              "content": "比方说回踩20日均线"
+            },
+            {
+              "start_timestamp": 801,
+              "end_timestamp": 802,
+              "content": "回踩20日均线啊"
+            },
+            {
+              "start_timestamp": 802,
+              "end_timestamp": 803,
+              "content": "我区间不破"
+            },
+            {
+              "start_timestamp": 803,
+              "end_timestamp": 804,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 804,
+              "end_timestamp": 807,
+              "content": "好再去理解清楚"
+            },
+            {
+              "start_timestamp": 807,
+              "end_timestamp": 809,
+              "content": "那么图上现在各位有几根线"
+            },
+            {
+              "start_timestamp": 809,
+              "end_timestamp": 811,
+              "content": "五根线是五根"
+            },
+            {
+              "start_timestamp": 811,
+              "end_timestamp": 812,
+              "content": "记住五根足矣"
+            },
+            {
+              "start_timestamp": 812,
+              "end_timestamp": 814,
+              "content": "五根足以"
+            },
+            {
+              "start_timestamp": 814,
+              "end_timestamp": 815,
+              "content": "你不要抄"
+            },
+            {
+              "start_timestamp": 815,
+              "end_timestamp": 817,
+              "content": "第二随便挑一条线"
+            },
+            {
+              "start_timestamp": 817,
+              "end_timestamp": 819,
+              "content": "你能说出到底有多少筹码"
+            },
+            {
+              "start_timestamp": 819,
+              "end_timestamp": 821,
+              "content": "有没有把最低的两个低点相连"
+            },
+            {
+              "start_timestamp": 821,
+              "end_timestamp": 823,
+              "content": "就作为是支撑"
+            },
+            {
+              "start_timestamp": 823,
+              "end_timestamp": 824,
+              "content": "第二啊"
+            },
+            {
+              "start_timestamp": 824,
+              "end_timestamp": 826,
+              "content": "另外一个突破发生之后"
+            },
+            {
+              "start_timestamp": 826,
+              "end_timestamp": 827,
+              "content": "有没有把线改过来"
+            },
+            {
+              "start_timestamp": 827,
+              "end_timestamp": 829,
+              "content": "我这边呢是正常会自动修正啊"
+            },
+            {
+              "start_timestamp": 829,
+              "end_timestamp": 830,
+              "content": "就不用多"
+            },
+            {
+              "start_timestamp": 830,
+              "end_timestamp": 833,
+              "content": "就不用去做过多的这个理解"
+            },
+            {
+              "start_timestamp": 833,
+              "end_timestamp": 836,
+              "content": "像这一张来你们来看"
+            },
+            {
+              "start_timestamp": 836,
+              "end_timestamp": 840,
+              "content": "那像这样的一个它的区间"
+            },
+            {
+              "start_timestamp": 840,
+              "end_timestamp": 844,
+              "content": "其实就是在我们想要的支撑点上"
+            },
+            {
+              "start_timestamp": 844,
+              "end_timestamp": 846,
+              "content": "我连续一直没有破位啊"
+            },
+            {
+              "start_timestamp": 846,
+              "end_timestamp": 849,
+              "content": "我收盘价一直没有破"
+            },
+            {
+              "start_timestamp": 849,
+              "end_timestamp": 851,
+              "content": "这也是资金在前期动作会去做的"
+            },
+            {
+              "start_timestamp": 851,
+              "end_timestamp": 853,
+              "content": "这这样做的这样类型"
+            },
+            {
+              "start_timestamp": 853,
+              "end_timestamp": 857,
+              "content": "包括说之前也遇到过探底到下方支撑对吧"
+            },
+            {
+              "start_timestamp": 857,
+              "end_timestamp": 858,
+              "content": "那如果是探底的下方支撑"
+            },
+            {
+              "start_timestamp": 858,
+              "end_timestamp": 860,
+              "content": "我就按下方支撑的去理解"
+            },
+            {
+              "start_timestamp": 860,
+              "end_timestamp": 864,
+              "content": "而这一根是很典型的前期洗盘"
+            },
+            {
+              "start_timestamp": 864,
+              "end_timestamp": 867,
+              "content": "然后因为事件的催化爆发"
+            },
+            {
+              "start_timestamp": 868,
+              "end_timestamp": 871,
+              "content": "那么还有一个是有没有在支撑位挂单买入"
+            },
+            {
+              "start_timestamp": 871,
+              "end_timestamp": 872,
+              "content": "然后被跌穿"
+            },
+            {
+              "start_timestamp": 872,
+              "end_timestamp": 875,
+              "content": "这种情况下基本上出现的频率还比较多"
+            },
+            {
+              "start_timestamp": 875,
+              "end_timestamp": 876,
+              "content": "所以跟大家讲一下"
+            },
+            {
+              "start_timestamp": 876,
+              "end_timestamp": 880,
+              "content": "就一定要回踩执行有效才要去给我落下来"
+            },
+            {
+              "start_timestamp": 880,
+              "end_timestamp": 882,
+              "content": "否则记住"
+            },
+            {
+              "start_timestamp": 882,
+              "end_timestamp": 885,
+              "content": "否则不要急"
+            },
+            {
+              "start_timestamp": 885,
+              "end_timestamp": 888,
+              "content": "那么有没有说以前以前反弹过"
+            },
+            {
+              "start_timestamp": 888,
+              "end_timestamp": 889,
+              "content": "但是你说不出原因的"
+            },
+            {
+              "start_timestamp": 889,
+              "end_timestamp": 890,
+              "content": "慢慢来啊"
+            },
+            {
+              "start_timestamp": 890,
+              "end_timestamp": 891,
+              "content": "不着急"
+            },
+            {
+              "start_timestamp": 891,
+              "end_timestamp": 892,
+              "content": "所以呢这一块上"
+            },
+            {
+              "start_timestamp": 892,
+              "end_timestamp": 896,
+              "content": "后期呢我会给大家去讲更多的内容"
+            },
+            {
+              "start_timestamp": 896,
+              "end_timestamp": 898,
+              "content": "那么记住支撑压力不是地板和天花板"
+            },
+            {
+              "start_timestamp": 898,
+              "end_timestamp": 899,
+              "content": "他只告诉你"
+            },
+            {
+              "start_timestamp": 899,
+              "end_timestamp": 900,
+              "content": "有一群人"
+            },
+            {
+              "start_timestamp": 900,
+              "end_timestamp": 901,
+              "content": "他们可能会怎么做"
+            },
+            {
+              "start_timestamp": 901,
+              "end_timestamp": 903,
+              "content": "人会不会动是另外一回事"
+            },
+            {
+              "start_timestamp": 903,
+              "end_timestamp": 906,
+              "content": "市场认可即可好吗"
+            },
+            {
+              "start_timestamp": 906,
+              "end_timestamp": 908,
+              "content": "各位安心的去切"
+            },
+            {
+              "start_timestamp": 910,
+              "end_timestamp": 914,
+              "content": "好另外这是后后期当中会去跟大家讲的"
+            },
+            {
+              "start_timestamp": 914,
+              "end_timestamp": 916,
+              "content": "这个前面讲的成交量对吧"
+            },
+            {
+              "start_timestamp": 916,
+              "end_timestamp": 918,
+              "content": "现在今天讲的压力"
+            },
+            {
+              "start_timestamp": 918,
+              "end_timestamp": 920,
+              "content": "明天我们去讲缺口理论"
+            },
+            {
+              "start_timestamp": 920,
+              "end_timestamp": 922,
+              "content": "以及说后续讲换手率"
+            },
+            {
+              "start_timestamp": 922,
+              "end_timestamp": 922,
+              "content": "再讲龙虎榜"
+            },
+            {
+              "start_timestamp": 922,
+              "end_timestamp": 925,
+              "content": "现在龙虎榜的话基本上已经已经没有了啊"
+            },
+            {
+              "start_timestamp": 925,
+              "end_timestamp": 927,
+              "content": "这个席位识别就不用再去看了"
+            },
+            {
+              "start_timestamp": 927,
+              "end_timestamp": 929,
+              "content": "但是可以作为未来"
+            },
+            {
+              "start_timestamp": 929,
+              "end_timestamp": 930,
+              "content": "如果还有啊"
+            },
+            {
+              "start_timestamp": 930,
+              "end_timestamp": 932,
+              "content": "就在到时候再再去聊一聊"
+            },
+            {
+              "start_timestamp": 932,
+              "end_timestamp": 937,
+              "content": "那么再是竞价的10分钟以及涨跌停板的制度"
+            },
+            {
+              "start_timestamp": 937,
+              "end_timestamp": 940,
+              "content": "以及分时图和情绪四周期四阶段啊"
+            },
+            {
+              "start_timestamp": 940,
+              "end_timestamp": 942,
+              "content": "再重新再给你讲一遍"
+            },
+            {
+              "start_timestamp": 942,
+              "end_timestamp": 944,
+              "content": "那么再次龙头是怎么走出来的"
+            },
+            {
+              "start_timestamp": 944,
+              "end_timestamp": 946,
+              "content": "各位辛苦看到这里"
+            },
+            {
+              "start_timestamp": 946,
+              "end_timestamp": 948,
+              "content": "然后帮忙做做数据好吧"
+            }
+          ],
+          "timestamp": 1
+        }
+      ]
+    },
+    "stid": "5068361069078365339",
+    "status": 0,
+    "like_num": 0,
+    "dislike_num": 0
+  }
+}

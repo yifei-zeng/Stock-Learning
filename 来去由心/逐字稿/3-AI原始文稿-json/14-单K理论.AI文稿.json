@@ -1,0 +1,1785 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "code": 1,
+    "model_result": {
+      "result_type": 0,
+      "summary": "",
+      "outline": [],
+      "subtitle": [
+        {
+          "title": "",
+          "part_subtitle": [
+            {
+              "start_timestamp": 0,
+              "end_timestamp": 1,
+              "content": "大家好"
+            },
+            {
+              "start_timestamp": 1,
+              "end_timestamp": 4,
+              "content": "今天呢我们讲一下第二季K线组合的"
+            },
+            {
+              "start_timestamp": 4,
+              "end_timestamp": 8,
+              "content": "单K理论中的关键的一些K线及其应用"
+            },
+            {
+              "start_timestamp": 8,
+              "end_timestamp": 12,
+              "content": "好我们首先看上下影线的以及应用"
+            },
+            {
+              "start_timestamp": 12,
+              "end_timestamp": 14,
+              "content": "第一个呢我们先看上影线"
+            },
+            {
+              "start_timestamp": 14,
+              "end_timestamp": 16,
+              "content": "上影线一般有两个意义啊"
+            },
+            {
+              "start_timestamp": 16,
+              "end_timestamp": 17,
+              "content": "第一个就是试盘"
+            },
+            {
+              "start_timestamp": 17,
+              "end_timestamp": 19,
+              "content": "第二个就是洗套牢盘"
+            },
+            {
+              "start_timestamp": 19,
+              "end_timestamp": 19,
+              "content": "当然了"
+            },
+            {
+              "start_timestamp": 19,
+              "end_timestamp": 21,
+              "content": "我们还要更深层次的去理解一下"
+            },
+            {
+              "start_timestamp": 21,
+              "end_timestamp": 26,
+              "content": "这里面主要区分是主力是休息了还是被砸了"
+            },
+            {
+              "start_timestamp": 26,
+              "end_timestamp": 28,
+              "content": "那主要呢分为三种情况"
+            },
+            {
+              "start_timestamp": 28,
+              "end_timestamp": 31,
+              "content": "第一种情况就是真实的砸盘"
+            },
+            {
+              "start_timestamp": 31,
+              "end_timestamp": 32,
+              "content": "主力攻击呢"
+            },
+            {
+              "start_timestamp": 32,
+              "end_timestamp": 33,
+              "content": "但是空投力量太强"
+            },
+            {
+              "start_timestamp": 33,
+              "end_timestamp": 36,
+              "content": "攻击到一半的位置被人给爆头了"
+            },
+            {
+              "start_timestamp": 36,
+              "end_timestamp": 37,
+              "content": "被人给狙击了啊"
+            },
+            {
+              "start_timestamp": 37,
+              "end_timestamp": 38,
+              "content": "那被空投给砸坏了"
+            },
+            {
+              "start_timestamp": 38,
+              "end_timestamp": 42,
+              "content": "这种情况往往就会有尖角波的出现"
+            },
+            {
+              "start_timestamp": 42,
+              "end_timestamp": 44,
+              "content": "那这样的话我们就要非常谨慎了"
+            },
+            {
+              "start_timestamp": 44,
+              "end_timestamp": 46,
+              "content": "因为尖角波意味着没有承接了"
+            },
+            {
+              "start_timestamp": 46,
+              "end_timestamp": 48,
+              "content": "当然也有洗盘的可能性啊"
+            },
+            {
+              "start_timestamp": 48,
+              "end_timestamp": 52,
+              "content": "那这里主要是看后续横盘的过程当中"
+            },
+            {
+              "start_timestamp": 52,
+              "end_timestamp": 53,
+              "content": "有没有失控"
+            },
+            {
+              "start_timestamp": 53,
+              "end_timestamp": 57,
+              "content": "如果说午后再往下一杀啊"
+            },
+            {
+              "start_timestamp": 57,
+              "end_timestamp": 58,
+              "content": "那就属于失控了"
+            },
+            {
+              "start_timestamp": 58,
+              "end_timestamp": 63,
+              "content": "但如果说还能够在均线上方横盘震荡"
+            },
+            {
+              "start_timestamp": 63,
+              "end_timestamp": 66,
+              "content": "那洗盘的可能性就比较大"
+            },
+            {
+              "start_timestamp": 66,
+              "end_timestamp": 68,
+              "content": "那第二种情况呢就是洗套牢盘"
+            },
+            {
+              "start_timestamp": 68,
+              "end_timestamp": 70,
+              "content": "前面有套牢盘的情况下"
+            },
+            {
+              "start_timestamp": 70,
+              "end_timestamp": 72,
+              "content": "有很多主力资金的操盘手法"
+            },
+            {
+              "start_timestamp": 72,
+              "end_timestamp": 75,
+              "content": "就是我故意一笔资金啊急拉上去"
+            },
+            {
+              "start_timestamp": 75,
+              "end_timestamp": 78,
+              "content": "但是呢并没有持续性啊"
+            },
+            {
+              "start_timestamp": 78,
+              "end_timestamp": 80,
+              "content": "把前面的套牢盘统一下"
+            },
+            {
+              "start_timestamp": 80,
+              "end_timestamp": 83,
+              "content": "那这边的人呢有时候经常是套了这三个月啊"
+            },
+            {
+              "start_timestamp": 83,
+              "end_timestamp": 84,
+              "content": "啊或者更久"
+            },
+            {
+              "start_timestamp": 84,
+              "end_timestamp": 87,
+              "content": "哎呀我股股价终于回到我这个地方来了"
+            },
+            {
+              "start_timestamp": 87,
+              "end_timestamp": 89,
+              "content": "哎结果一到这个地方呢"
+            },
+            {
+              "start_timestamp": 89,
+              "end_timestamp": 91,
+              "content": "他只是简单的碰触了一下"
+            },
+            {
+              "start_timestamp": 91,
+              "end_timestamp": 94,
+              "content": "并没有说想持续上攻的意思对吧"
+            },
+            {
+              "start_timestamp": 94,
+              "end_timestamp": 95,
+              "content": "那这帮人就急了"
+            },
+            {
+              "start_timestamp": 95,
+              "end_timestamp": 97,
+              "content": "你说好不容易等了三个月了啊"
+            },
+            {
+              "start_timestamp": 97,
+              "end_timestamp": 98,
+              "content": "终于也解套了"
+            },
+            {
+              "start_timestamp": 98,
+              "end_timestamp": 99,
+              "content": "我还没下车呢"
+            },
+            {
+              "start_timestamp": 99,
+              "end_timestamp": 100,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 100,
+              "end_timestamp": 101,
+              "content": "你先别走啊"
+            },
+            {
+              "start_timestamp": 101,
+              "end_timestamp": 102,
+              "content": "你就会急着交筹码"
+            },
+            {
+              "start_timestamp": 102,
+              "end_timestamp": 103,
+              "content": "那这一交筹码的话"
+            },
+            {
+              "start_timestamp": 103,
+              "end_timestamp": 105,
+              "content": "股价呢它也会回落"
+            },
+            {
+              "start_timestamp": 105,
+              "end_timestamp": 107,
+              "content": "哎股价回落以后呢"
+            },
+            {
+              "start_timestamp": 107,
+              "end_timestamp": 110,
+              "content": "如果说第二天还能够继续上攻"
+            },
+            {
+              "start_timestamp": 110,
+              "end_timestamp": 113,
+              "content": "那就说明前面的套牢筹码已经洗的差不多了"
+            },
+            {
+              "start_timestamp": 113,
+              "end_timestamp": 117,
+              "content": "就会开启一个新的波段的行情"
+            },
+            {
+              "start_timestamp": 117,
+              "end_timestamp": 119,
+              "content": "那第三种情况呢"
+            },
+            {
+              "start_timestamp": 119,
+              "end_timestamp": 121,
+              "content": "主力呢本来是有攻击意图的"
+            },
+            {
+              "start_timestamp": 121,
+              "end_timestamp": 123,
+              "content": "前5分钟或者15分钟"
+            },
+            {
+              "start_timestamp": 123,
+              "end_timestamp": 125,
+              "content": "他都是按照计划去拉伸的"
+            },
+            {
+              "start_timestamp": 125,
+              "end_timestamp": 127,
+              "content": "但是攻击到一半"
+            },
+            {
+              "start_timestamp": 127,
+              "end_timestamp": 129,
+              "content": "结果发现啊盘面不对了"
+            },
+            {
+              "start_timestamp": 129,
+              "end_timestamp": 130,
+              "content": "就放弃拉升了"
+            },
+            {
+              "start_timestamp": 130,
+              "end_timestamp": 133,
+              "content": "那有时候是盘面的主流题材发生了变化"
+            },
+            {
+              "start_timestamp": 133,
+              "end_timestamp": 136,
+              "content": "有的时候是被外资或者其他的资金给砸盘了"
+            },
+            {
+              "start_timestamp": 136,
+              "end_timestamp": 138,
+              "content": "嗯大家一看今天就没戏了"
+            },
+            {
+              "start_timestamp": 138,
+              "end_timestamp": 139,
+              "content": "哪怕我使劲拉"
+            },
+            {
+              "start_timestamp": 139,
+              "end_timestamp": 141,
+              "content": "也要被人给砸破头"
+            },
+            {
+              "start_timestamp": 141,
+              "end_timestamp": 142,
+              "content": "那我也不干了"
+            },
+            {
+              "start_timestamp": 142,
+              "end_timestamp": 146,
+              "content": "上面这三种情况呢就容易出现上影线"
+            },
+            {
+              "start_timestamp": 146,
+              "end_timestamp": 148,
+              "content": "那上影线之后我们该怎么办呢"
+            },
+            {
+              "start_timestamp": 148,
+              "end_timestamp": 151,
+              "content": "这就会涉及到仙人指路战法"
+            },
+            {
+              "start_timestamp": 151,
+              "end_timestamp": 151,
+              "content": "一般啊"
+            },
+            {
+              "start_timestamp": 151,
+              "end_timestamp": 153,
+              "content": "第二天就需要高开"
+            },
+            {
+              "start_timestamp": 153,
+              "end_timestamp": 154,
+              "content": "那具体的操作呢"
+            },
+            {
+              "start_timestamp": 154,
+              "end_timestamp": 157,
+              "content": "后面的课程我们也会详细的去讲"
+            },
+            {
+              "start_timestamp": 158,
+              "end_timestamp": 162,
+              "content": "第二个呢我们讲一下下影线的意义及其应用"
+            },
+            {
+              "start_timestamp": 162,
+              "end_timestamp": 164,
+              "content": "下影线一般有两个意义"
+            },
+            {
+              "start_timestamp": 164,
+              "end_timestamp": 166,
+              "content": "第一个就是真实的出货"
+            },
+            {
+              "start_timestamp": 166,
+              "end_timestamp": 168,
+              "content": "第二个就是洗获利盘"
+            },
+            {
+              "start_timestamp": 169,
+              "end_timestamp": 171,
+              "content": "那首先我们看第一个啊"
+            },
+            {
+              "start_timestamp": 171,
+              "end_timestamp": 172,
+              "content": "真实的出货"
+            },
+            {
+              "start_timestamp": 172,
+              "end_timestamp": 174,
+              "content": "像真实的下杀"
+            },
+            {
+              "start_timestamp": 174,
+              "end_timestamp": 176,
+              "content": "他一般都是带量的"
+            },
+            {
+              "start_timestamp": 176,
+              "end_timestamp": 177,
+              "content": "角度呢也是比较陡"
+            },
+            {
+              "start_timestamp": 177,
+              "end_timestamp": 180,
+              "content": "往往啊下面的大单净额他也是一样的"
+            },
+            {
+              "start_timestamp": 180,
+              "end_timestamp": 181,
+              "content": "比较陡的"
+            },
+            {
+              "start_timestamp": 181,
+              "end_timestamp": 182,
+              "content": "这是真实的出货"
+            },
+            {
+              "start_timestamp": 182,
+              "end_timestamp": 184,
+              "content": "所以我们要回避这种情况"
+            },
+            {
+              "start_timestamp": 184,
+              "end_timestamp": 185,
+              "content": "你搞不清楚的时候"
+            },
+            {
+              "start_timestamp": 185,
+              "end_timestamp": 187,
+              "content": "你就说跳空高开往下山"
+            },
+            {
+              "start_timestamp": 187,
+              "end_timestamp": 190,
+              "content": "跳空低开往下杀还带量啊"
+            },
+            {
+              "start_timestamp": 190,
+              "end_timestamp": 191,
+              "content": "那尽量回避"
+            },
+            {
+              "start_timestamp": 191,
+              "end_timestamp": 193,
+              "content": "哪怕说不带量往下杀的力度很大"
+            },
+            {
+              "start_timestamp": 193,
+              "end_timestamp": 194,
+              "content": "我们也要回避"
+            },
+            {
+              "start_timestamp": 194,
+              "end_timestamp": 197,
+              "content": "那有些跌停板啊是缩量跌停板"
+            },
+            {
+              "start_timestamp": 197,
+              "end_timestamp": 198,
+              "content": "为什么就是出货太急"
+            },
+            {
+              "start_timestamp": 198,
+              "end_timestamp": 200,
+              "content": "市场根本接不住"
+            },
+            {
+              "start_timestamp": 200,
+              "end_timestamp": 202,
+              "content": "比如说大众的天帝宝二"
+            },
+            {
+              "start_timestamp": 202,
+              "end_timestamp": 205,
+              "content": "深圳华强的开盘击杀都是自己先跑了再说"
+            },
+            {
+              "start_timestamp": 205,
+              "end_timestamp": 209,
+              "content": "把别人给焊死在这个车门里的嗯"
+            },
+            {
+              "start_timestamp": 210,
+              "end_timestamp": 212,
+              "content": "那第二个呢就是洗获利盘"
+            },
+            {
+              "start_timestamp": 212,
+              "end_timestamp": 216,
+              "content": "股价呢是从底部往上运行的过程当中"
+            },
+            {
+              "start_timestamp": 216,
+              "end_timestamp": 217,
+              "content": "开始走到波段了"
+            },
+            {
+              "start_timestamp": 217,
+              "end_timestamp": 218,
+              "content": "走到一定阶段"
+            },
+            {
+              "start_timestamp": 218,
+              "end_timestamp": 220,
+              "content": "获利盘呢又比较大"
+            },
+            {
+              "start_timestamp": 220,
+              "end_timestamp": 221,
+              "content": "我再往上拉升就比较费劲"
+            },
+            {
+              "start_timestamp": 221,
+              "end_timestamp": 224,
+              "content": "经常就会以这种下影线的方式去洗盘"
+            },
+            {
+              "start_timestamp": 224,
+              "end_timestamp": 225,
+              "content": "典型的是什么呢"
+            },
+            {
+              "start_timestamp": 225,
+              "end_timestamp": 227,
+              "content": "就是前一天一个涨停板"
+            },
+            {
+              "start_timestamp": 227,
+              "end_timestamp": 229,
+              "content": "第二天稍微一高开呃"
+            },
+            {
+              "start_timestamp": 229,
+              "end_timestamp": 230,
+              "content": "来一个往下杀"
+            },
+            {
+              "start_timestamp": 230,
+              "end_timestamp": 231,
+              "content": "杀完之后呢"
+            },
+            {
+              "start_timestamp": 231,
+              "end_timestamp": 232,
+              "content": "迅速的给收回去"
+            },
+            {
+              "start_timestamp": 232,
+              "end_timestamp": 234,
+              "content": "再给你来一个涨停板"
+            },
+            {
+              "start_timestamp": 234,
+              "end_timestamp": 237,
+              "content": "那这种情况其实大家见的都比较多啊是吧"
+            },
+            {
+              "start_timestamp": 237,
+              "end_timestamp": 239,
+              "content": "稍微一个小高开啊"
+            },
+            {
+              "start_timestamp": 239,
+              "end_timestamp": 241,
+              "content": "给你往下俯冲一段"
+            },
+            {
+              "start_timestamp": 241,
+              "end_timestamp": 242,
+              "content": "你怕不怕吧"
+            },
+            {
+              "start_timestamp": 242,
+              "end_timestamp": 243,
+              "content": "你怕你就叫筹码"
+            },
+            {
+              "start_timestamp": 243,
+              "end_timestamp": 244,
+              "content": "叫筹码就把你吸走"
+            },
+            {
+              "start_timestamp": 244,
+              "end_timestamp": 247,
+              "content": "吸走之后接着就往上拉"
+            },
+            {
+              "start_timestamp": 247,
+              "end_timestamp": 250,
+              "content": "那到底怎么判断它是洗盘还是出货呢"
+            },
+            {
+              "start_timestamp": 250,
+              "end_timestamp": 254,
+              "content": "这其实也是做股票一个非常难的难点"
+            },
+            {
+              "start_timestamp": 254,
+              "end_timestamp": 256,
+              "content": "你只能说根据当年的题材方向啊"
+            },
+            {
+              "start_timestamp": 256,
+              "end_timestamp": 257,
+              "content": "这是大环境"
+            },
+            {
+              "start_timestamp": 257,
+              "end_timestamp": 259,
+              "content": "如果说整个题材走弱"
+            },
+            {
+              "start_timestamp": 259,
+              "end_timestamp": 262,
+              "content": "那洗盘的可能性就小一点啊"
+            },
+            {
+              "start_timestamp": 262,
+              "end_timestamp": 264,
+              "content": "出货的可能性就大一点"
+            },
+            {
+              "start_timestamp": 264,
+              "end_timestamp": 266,
+              "content": "那如果说题材还很强的情况下"
+            },
+            {
+              "start_timestamp": 266,
+              "end_timestamp": 268,
+              "content": "而且这个个股也挺有地位的"
+            },
+            {
+              "start_timestamp": 268,
+              "end_timestamp": 270,
+              "content": "那洗盘的可能性就比较大"
+            },
+            {
+              "start_timestamp": 270,
+              "end_timestamp": 271,
+              "content": "这是第一点"
+            },
+            {
+              "start_timestamp": 271,
+              "end_timestamp": 272,
+              "content": "第二点"
+            },
+            {
+              "start_timestamp": 272,
+              "end_timestamp": 274,
+              "content": "我们还要看量能的情况"
+            },
+            {
+              "start_timestamp": 274,
+              "end_timestamp": 276,
+              "content": "和大单分时净额的一些情况"
+            },
+            {
+              "start_timestamp": 276,
+              "end_timestamp": 278,
+              "content": "比如下杀的时候是否带量啊"
+            },
+            {
+              "start_timestamp": 278,
+              "end_timestamp": 280,
+              "content": "大单净额是否也往下冲"
+            },
+            {
+              "start_timestamp": 280,
+              "end_timestamp": 281,
+              "content": "如果是"
+            },
+            {
+              "start_timestamp": 281,
+              "end_timestamp": 283,
+              "content": "那出货的可能性就比较大"
+            },
+            {
+              "start_timestamp": 283,
+              "end_timestamp": 285,
+              "content": "那如果说下杀的过程当中啊"
+            },
+            {
+              "start_timestamp": 285,
+              "end_timestamp": 286,
+              "content": "他不带量"
+            },
+            {
+              "start_timestamp": 286,
+              "end_timestamp": 287,
+              "content": "大单净额还是红的"
+            },
+            {
+              "start_timestamp": 287,
+              "end_timestamp": 290,
+              "content": "那洗盘的可能性就大一点"
+            },
+            {
+              "start_timestamp": 290,
+              "end_timestamp": 292,
+              "content": "那除了上下影线比较关键"
+            },
+            {
+              "start_timestamp": 292,
+              "end_timestamp": 294,
+              "content": "还有什么样的K线也很关键呢"
+            },
+            {
+              "start_timestamp": 294,
+              "end_timestamp": 296,
+              "content": "首先我们看攻击线"
+            },
+            {
+              "start_timestamp": 296,
+              "end_timestamp": 300,
+              "content": "攻击线又分多头攻击或者空头攻击"
+            },
+            {
+              "start_timestamp": 300,
+              "end_timestamp": 302,
+              "content": "攻击线需要的力度足够大"
+            },
+            {
+              "start_timestamp": 302,
+              "end_timestamp": 303,
+              "content": "量能配合"
+            },
+            {
+              "start_timestamp": 303,
+              "end_timestamp": 306,
+              "content": "那突破所有的均线粘合或平台的时候"
+            },
+            {
+              "start_timestamp": 306,
+              "end_timestamp": 309,
+              "content": "这根线往往就会成为一个关键的K线"
+            },
+            {
+              "start_timestamp": 309,
+              "end_timestamp": 312,
+              "content": "关键的K线都是关键的压力和支撑"
+            },
+            {
+              "start_timestamp": 312,
+              "end_timestamp": 315,
+              "content": "那攻击线呢又可以分为底部有效长红石"
+            },
+            {
+              "start_timestamp": 315,
+              "end_timestamp": 316,
+              "content": "顶部有效长"
+            },
+            {
+              "start_timestamp": 316,
+              "end_timestamp": 319,
+              "content": "黑中还有扩充线三种"
+            },
+            {
+              "start_timestamp": 319,
+              "end_timestamp": 323,
+              "content": "我们可以理解为就是长阳线或者长阴线"
+            },
+            {
+              "start_timestamp": 324,
+              "end_timestamp": 326,
+              "content": "第一个底部有效长虹尺"
+            },
+            {
+              "start_timestamp": 326,
+              "end_timestamp": 328,
+              "content": "一个票启动的时候"
+            },
+            {
+              "start_timestamp": 328,
+              "end_timestamp": 332,
+              "content": "底部的有效长红线就是一支股票启动的标志"
+            },
+            {
+              "start_timestamp": 332,
+              "end_timestamp": 334,
+              "content": "什么叫有效长虹"
+            },
+            {
+              "start_timestamp": 334,
+              "end_timestamp": 339,
+              "content": "第一点长虹它是指至少7%以上的涨幅"
+            },
+            {
+              "start_timestamp": 339,
+              "end_timestamp": 341,
+              "content": "最好呢是这种涨停板"
+            },
+            {
+              "start_timestamp": 341,
+              "end_timestamp": 342,
+              "content": "涨不停的"
+            },
+            {
+              "start_timestamp": 342,
+              "end_timestamp": 343,
+              "content": "炸板的也需要看一下"
+            },
+            {
+              "start_timestamp": 343,
+              "end_timestamp": 345,
+              "content": "如果是20cm的话"
+            },
+            {
+              "start_timestamp": 345,
+              "end_timestamp": 346,
+              "content": "那就乘以二"
+            },
+            {
+              "start_timestamp": 346,
+              "end_timestamp": 348,
+              "content": "那什么叫有效有效"
+            },
+            {
+              "start_timestamp": 348,
+              "end_timestamp": 350,
+              "content": "取决于两个方面"
+            },
+            {
+              "start_timestamp": 350,
+              "end_timestamp": 352,
+              "content": "第一个方面是有量能的配合"
+            },
+            {
+              "start_timestamp": 352,
+              "end_timestamp": 356,
+              "content": "最好是一个突破120天线的量能线"
+            },
+            {
+              "start_timestamp": 356,
+              "end_timestamp": 356,
+              "content": "第二个方面"
+            },
+            {
+              "start_timestamp": 356,
+              "end_timestamp": 358,
+              "content": "第二天一般需要有持续性"
+            },
+            {
+              "start_timestamp": 358,
+              "end_timestamp": 360,
+              "content": "就比如说跳空高开"
+            },
+            {
+              "start_timestamp": 360,
+              "end_timestamp": 364,
+              "content": "第二天这个收盘价不破前一天的高点"
+            },
+            {
+              "start_timestamp": 364,
+              "end_timestamp": 365,
+              "content": "这就叫有持续性"
+            },
+            {
+              "start_timestamp": 365,
+              "end_timestamp": 366,
+              "content": "那万一没有持续性呢"
+            },
+            {
+              "start_timestamp": 366,
+              "end_timestamp": 367,
+              "content": "调整的时候"
+            },
+            {
+              "start_timestamp": 367,
+              "end_timestamp": 373,
+              "content": "最差你也不能跌破这一根阳线的支撑位"
+            },
+            {
+              "start_timestamp": 373,
+              "end_timestamp": 375,
+              "content": "第二个是顶部有效长黑"
+            },
+            {
+              "start_timestamp": 375,
+              "end_timestamp": 380,
+              "content": "中顶部的或者相对高位的这种分时大震荡"
+            },
+            {
+              "start_timestamp": 380,
+              "end_timestamp": 382,
+              "content": "再配合着爆量的阴线"
+            },
+            {
+              "start_timestamp": 383,
+              "end_timestamp": 387,
+              "content": "这个分式大震荡的长阴线就属于长黑了"
+            },
+            {
+              "start_timestamp": 387,
+              "end_timestamp": 388,
+              "content": "那什么叫有效"
+            },
+            {
+              "start_timestamp": 388,
+              "end_timestamp": 391,
+              "content": "第一个它的震荡幅度足够大啊"
+            },
+            {
+              "start_timestamp": 391,
+              "end_timestamp": 392,
+              "content": "或者绝对的跌幅够大"
+            },
+            {
+              "start_timestamp": 392,
+              "end_timestamp": 394,
+              "content": "负的7%以上"
+            },
+            {
+              "start_timestamp": 394,
+              "end_timestamp": 396,
+              "content": "或者说是分时的大震荡啊"
+            },
+            {
+              "start_timestamp": 396,
+              "end_timestamp": 397,
+              "content": "超过7%"
+            },
+            {
+              "start_timestamp": 397,
+              "end_timestamp": 398,
+              "content": "甚至超过10%"
+            },
+            {
+              "start_timestamp": 398,
+              "end_timestamp": 401,
+              "content": "然后呢量呢必须是爆量"
+            },
+            {
+              "start_timestamp": 401,
+              "end_timestamp": 405,
+              "content": "哪怕说前面有一根量能比它还大的话"
+            },
+            {
+              "start_timestamp": 405,
+              "end_timestamp": 407,
+              "content": "那当然是近期的啊"
+            },
+            {
+              "start_timestamp": 407,
+              "end_timestamp": 408,
+              "content": "太远的我们就不看了"
+            },
+            {
+              "start_timestamp": 408,
+              "end_timestamp": 411,
+              "content": "就还可以对他略微的高看一眼"
+            },
+            {
+              "start_timestamp": 411,
+              "end_timestamp": 412,
+              "content": "可能说还没死透"
+            },
+            {
+              "start_timestamp": 412,
+              "end_timestamp": 416,
+              "content": "那如果说一旦这一根大英镑子是爆量"
+            },
+            {
+              "start_timestamp": 416,
+              "end_timestamp": 420,
+              "content": "超过了前面所有的量能的话"
+            },
+            {
+              "start_timestamp": 420,
+              "end_timestamp": 422,
+              "content": "第二天一旦低开往下杀"
+            },
+            {
+              "start_timestamp": 422,
+              "end_timestamp": 424,
+              "content": "那就容易是一个顶部信号啊"
+            },
+            {
+              "start_timestamp": 424,
+              "end_timestamp": 425,
+              "content": "就一定要注意"
+            },
+            {
+              "start_timestamp": 425,
+              "end_timestamp": 428,
+              "content": "那第三个呢就是破撑线"
+            },
+            {
+              "start_timestamp": 428,
+              "end_timestamp": 429,
+              "content": "那什么叫破撑线呢"
+            },
+            {
+              "start_timestamp": 429,
+              "end_timestamp": 433,
+              "content": "就是跌破支撑的破位的意思啊"
+            },
+            {
+              "start_timestamp": 433,
+              "end_timestamp": 436,
+              "content": "本来这个地方是有个平台支撑的啊对吧"
+            },
+            {
+              "start_timestamp": 436,
+              "end_timestamp": 439,
+              "content": "直接一根大阴棒子给你砸下来"
+            },
+            {
+              "start_timestamp": 439,
+              "end_timestamp": 440,
+              "content": "把支撑给跌破了"
+            },
+            {
+              "start_timestamp": 440,
+              "end_timestamp": 442,
+              "content": "那一破颈线成空方"
+            },
+            {
+              "start_timestamp": 442,
+              "end_timestamp": 444,
+              "content": "一旦跌破颈线"
+            },
+            {
+              "start_timestamp": 444,
+              "end_timestamp": 446,
+              "content": "就是一个空头波段的开始了"
+            },
+            {
+              "start_timestamp": 446,
+              "end_timestamp": 448,
+              "content": "那第二个呢就是整理线"
+            },
+            {
+              "start_timestamp": 448,
+              "end_timestamp": 450,
+              "content": "整理线就是波动足够窄"
+            },
+            {
+              "start_timestamp": 450,
+              "end_timestamp": 452,
+              "content": "量指稀啊"
+            },
+            {
+              "start_timestamp": 452,
+              "end_timestamp": 453,
+              "content": "也就是一个波段的最小量"
+            },
+            {
+              "start_timestamp": 453,
+              "end_timestamp": 457,
+              "content": "还有调整不破关键支撑啊"
+            },
+            {
+              "start_timestamp": 457,
+              "end_timestamp": 459,
+              "content": "这往往是主力成本的地方"
+            },
+            {
+              "start_timestamp": 459,
+              "end_timestamp": 461,
+              "content": "那跌破了就比较麻烦"
+            },
+            {
+              "start_timestamp": 461,
+              "end_timestamp": 464,
+              "content": "整理线比较关键的就是震荡线和巨量线"
+            },
+            {
+              "start_timestamp": 464,
+              "end_timestamp": 466,
+              "content": "上一节呢我们已经讲过"
+            },
+            {
+              "start_timestamp": 466,
+              "end_timestamp": 468,
+              "content": "我们首先要看震荡线"
+            },
+            {
+              "start_timestamp": 468,
+              "end_timestamp": 471,
+              "content": "震荡线就是那种长上下影线"
+            },
+            {
+              "start_timestamp": 471,
+              "end_timestamp": 472,
+              "content": "震荡幅度比较大"
+            },
+            {
+              "start_timestamp": 472,
+              "end_timestamp": 476,
+              "content": "大幅的震荡线往往是多空博弈极其激烈的时候"
+            },
+            {
+              "start_timestamp": 476,
+              "end_timestamp": 478,
+              "content": "一旦第二天开始选择方向的时候"
+            },
+            {
+              "start_timestamp": 478,
+              "end_timestamp": 478,
+              "content": "就要注意了"
+            },
+            {
+              "start_timestamp": 478,
+              "end_timestamp": 480,
+              "content": "方向可以选择向上"
+            },
+            {
+              "start_timestamp": 480,
+              "end_timestamp": 482,
+              "content": "也可以选择向下"
+            },
+            {
+              "start_timestamp": 482,
+              "end_timestamp": 487,
+              "content": "所以震荡线也是比较重要的变盘节点"
+            },
+            {
+              "start_timestamp": 487,
+              "end_timestamp": 489,
+              "content": "那还有呢就是巨量线"
+            },
+            {
+              "start_timestamp": 489,
+              "end_timestamp": 492,
+              "content": "巨量线就是幅度比较小啊"
+            },
+            {
+              "start_timestamp": 492,
+              "end_timestamp": 493,
+              "content": "量能比较大"
+            },
+            {
+              "start_timestamp": 493,
+              "end_timestamp": 495,
+              "content": "巨量线后面但凡是突破的话"
+            },
+            {
+              "start_timestamp": 495,
+              "end_timestamp": 498,
+              "content": "这地方都会有很强的支撑"
+            },
+            {
+              "start_timestamp": 498,
+              "end_timestamp": 501,
+              "content": "了解了这些关键的K线之后"
+            },
+            {
+              "start_timestamp": 501,
+              "end_timestamp": 502,
+              "content": "我们该怎么运用呢"
+            },
+            {
+              "start_timestamp": 502,
+              "end_timestamp": 503,
+              "content": "第一点"
+            },
+            {
+              "start_timestamp": 503,
+              "end_timestamp": 505,
+              "content": "所有的K线在不同的位置"
+            },
+            {
+              "start_timestamp": 505,
+              "end_timestamp": 507,
+              "content": "它的意义是完全不一样的"
+            },
+            {
+              "start_timestamp": 507,
+              "end_timestamp": 509,
+              "content": "比如说同样的一根长红线"
+            },
+            {
+              "start_timestamp": 509,
+              "end_timestamp": 511,
+              "content": "在底部的时候"
+            },
+            {
+              "start_timestamp": 511,
+              "end_timestamp": 512,
+              "content": "他就是底部有效"
+            },
+            {
+              "start_timestamp": 512,
+              "end_timestamp": 514,
+              "content": "长虹市往往是主力行为"
+            },
+            {
+              "start_timestamp": 514,
+              "end_timestamp": 515,
+              "content": "是主力吃货的地方"
+            },
+            {
+              "start_timestamp": 515,
+              "end_timestamp": 519,
+              "content": "但如果把这根长红线放在很高的位置上面"
+            },
+            {
+              "start_timestamp": 519,
+              "end_timestamp": 520,
+              "content": "它很有可能就是出货"
+            },
+            {
+              "start_timestamp": 520,
+              "end_timestamp": 522,
+              "content": "吃货就变成出货了"
+            },
+            {
+              "start_timestamp": 522,
+              "end_timestamp": 527,
+              "content": "所以高档长红线第二天如果还低开的话"
+            },
+            {
+              "start_timestamp": 527,
+              "end_timestamp": 528,
+              "content": "是非常危险的信号"
+            },
+            {
+              "start_timestamp": 528,
+              "end_timestamp": 531,
+              "content": "高档长红线第二天低开"
+            },
+            {
+              "start_timestamp": 531,
+              "end_timestamp": 534,
+              "content": "就说明前一天的主力出货是出了很多"
+            },
+            {
+              "start_timestamp": 534,
+              "end_timestamp": 536,
+              "content": "如果说还往下杀的话"
+            },
+            {
+              "start_timestamp": 536,
+              "end_timestamp": 538,
+              "content": "那这个票就挂了"
+            },
+            {
+              "start_timestamp": 538,
+              "end_timestamp": 540,
+              "content": "很容易形成一个波段的顶"
+            },
+            {
+              "start_timestamp": 540,
+              "end_timestamp": 542,
+              "content": "及时往上拉"
+            },
+            {
+              "start_timestamp": 542,
+              "end_timestamp": 545,
+              "content": "也是赶紧减仓或者出局的时候"
+            },
+            {
+              "start_timestamp": 545,
+              "end_timestamp": 547,
+              "content": "因为风险信号已经来临了"
+            },
+            {
+              "start_timestamp": 547,
+              "end_timestamp": 550,
+              "content": "高档长红线再一个跳空高开"
+            },
+            {
+              "start_timestamp": 550,
+              "end_timestamp": 551,
+              "content": "加速是很强吗"
+            },
+            {
+              "start_timestamp": 551,
+              "end_timestamp": 553,
+              "content": "这也是风险信号"
+            },
+            {
+              "start_timestamp": 553,
+              "end_timestamp": 554,
+              "content": "尤其是对很多的趋势票"
+            },
+            {
+              "start_timestamp": 554,
+              "end_timestamp": 556,
+              "content": "大家也听过一句话"
+            },
+            {
+              "start_timestamp": 556,
+              "end_timestamp": 558,
+              "content": "那趋势票一旦开始走加速"
+            },
+            {
+              "start_timestamp": 558,
+              "end_timestamp": 559,
+              "content": "就基本上快要到顶"
+            },
+            {
+              "start_timestamp": 559,
+              "end_timestamp": 561,
+              "content": "趋势票就怕加速"
+            },
+            {
+              "start_timestamp": 561,
+              "end_timestamp": 563,
+              "content": "特别是后面缩量涨停"
+            },
+            {
+              "start_timestamp": 563,
+              "end_timestamp": 565,
+              "content": "你搞不好午后直接炸吧"
+            },
+            {
+              "start_timestamp": 565,
+              "end_timestamp": 567,
+              "content": "所以在分析K线意义的时候"
+            },
+            {
+              "start_timestamp": 567,
+              "end_timestamp": 568,
+              "content": "第一个要考虑的因素"
+            },
+            {
+              "start_timestamp": 568,
+              "end_timestamp": 572,
+              "content": "就是它的位置是相对高位还是相对低位"
+            },
+            {
+              "start_timestamp": 572,
+              "end_timestamp": 576,
+              "content": "不同的位置含义是完全不一样的"
+            },
+            {
+              "start_timestamp": 576,
+              "end_timestamp": 578,
+              "content": "第二点我们还要看环境"
+            },
+            {
+              "start_timestamp": 578,
+              "end_timestamp": 582,
+              "content": "你所关注的票的K线和当时的环境的强弱的"
+            },
+            {
+              "start_timestamp": 582,
+              "end_timestamp": 583,
+              "content": "对比"
+            },
+            {
+              "start_timestamp": 583,
+              "end_timestamp": 585,
+              "content": "强弱它是永远比较出来的"
+            },
+            {
+              "start_timestamp": 585,
+              "end_timestamp": 588,
+              "content": "你要把你的个股的K线和大盘的去比较"
+            },
+            {
+              "start_timestamp": 588,
+              "end_timestamp": 590,
+              "content": "和板块的去比较"
+            },
+            {
+              "start_timestamp": 590,
+              "end_timestamp": 592,
+              "content": "这个K线和他们的强弱对比"
+            },
+            {
+              "start_timestamp": 592,
+              "end_timestamp": 594,
+              "content": "有时候甚至要比较他们的分时走势"
+            },
+            {
+              "start_timestamp": 594,
+              "end_timestamp": 597,
+              "content": "明明啊大家都是往上走的时候"
+            },
+            {
+              "start_timestamp": 597,
+              "end_timestamp": 599,
+              "content": "说你是往下走的"
+            },
+            {
+              "start_timestamp": 599,
+              "end_timestamp": 600,
+              "content": "那你不是弱"
+            },
+            {
+              "start_timestamp": 600,
+              "end_timestamp": 602,
+              "content": "那就说明你是被动带起来的"
+            },
+            {
+              "start_timestamp": 602,
+              "end_timestamp": 606,
+              "content": "反过来大盘指数和题材都在往下的时候"
+            },
+            {
+              "start_timestamp": 606,
+              "end_timestamp": 607,
+              "content": "没有拐头的时候"
+            },
+            {
+              "start_timestamp": 607,
+              "end_timestamp": 609,
+              "content": "你居然说提前往上走了"
+            },
+            {
+              "start_timestamp": 609,
+              "end_timestamp": 610,
+              "content": "那就说明你是主动的"
+            },
+            {
+              "start_timestamp": 610,
+              "end_timestamp": 611,
+              "content": "你就很强"
+            },
+            {
+              "start_timestamp": 611,
+              "end_timestamp": 615,
+              "content": "那为什么会有这种所谓的主动和被动的问题呢"
+            },
+            {
+              "start_timestamp": 615,
+              "end_timestamp": 617,
+              "content": "主动就说明有资金是看好他"
+            },
+            {
+              "start_timestamp": 617,
+              "end_timestamp": 620,
+              "content": "愿意提早把它当成分标和标杆"
+            },
+            {
+              "start_timestamp": 620,
+              "end_timestamp": 622,
+              "content": "或者说旗帜那样的票"
+            },
+            {
+              "start_timestamp": 622,
+              "end_timestamp": 623,
+              "content": "那你去参与的话"
+            },
+            {
+              "start_timestamp": 623,
+              "end_timestamp": 624,
+              "content": "它的溢价当然高了"
+            },
+            {
+              "start_timestamp": 624,
+              "end_timestamp": 627,
+              "content": "那些跟风的票看见前面涨了一帮乌合之众"
+            },
+            {
+              "start_timestamp": 627,
+              "end_timestamp": 631,
+              "content": "怕踏空就去做了补涨那样的票啊"
+            },
+            {
+              "start_timestamp": 631,
+              "end_timestamp": 633,
+              "content": "没有主力在里面主导的话"
+            },
+            {
+              "start_timestamp": 633,
+              "end_timestamp": 635,
+              "content": "他就不太容易形成比较好的涨幅"
+            },
+            {
+              "start_timestamp": 635,
+              "end_timestamp": 636,
+              "content": "所以个股的强弱"
+            },
+            {
+              "start_timestamp": 636,
+              "end_timestamp": 640,
+              "content": "一方面通过最终的K线形态可以看出来"
+            },
+            {
+              "start_timestamp": 640,
+              "end_timestamp": 643,
+              "content": "另一方面也要看你所关注的股票的分时"
+            },
+            {
+              "start_timestamp": 643,
+              "end_timestamp": 647,
+              "content": "相当时的大盘的分时和板块指数的分时"
+            },
+            {
+              "start_timestamp": 647,
+              "end_timestamp": 649,
+              "content": "他们的一个关系是怎么样的"
+            },
+            {
+              "start_timestamp": 649,
+              "end_timestamp": 651,
+              "content": "那第三点就要看结构了"
+            },
+            {
+              "start_timestamp": 651,
+              "end_timestamp": 653,
+              "content": "就是每一根K线"
+            },
+            {
+              "start_timestamp": 653,
+              "end_timestamp": 655,
+              "content": "哪怕它外面的形状是一样的"
+            },
+            {
+              "start_timestamp": 655,
+              "end_timestamp": 656,
+              "content": "它里面的分时也是不一样的"
+            },
+            {
+              "start_timestamp": 656,
+              "end_timestamp": 658,
+              "content": "同样一根K线"
+            },
+            {
+              "start_timestamp": 658,
+              "end_timestamp": 659,
+              "content": "它有开盘价"
+            },
+            {
+              "start_timestamp": 659,
+              "end_timestamp": 660,
+              "content": "收盘价"
+            },
+            {
+              "start_timestamp": 660,
+              "end_timestamp": 662,
+              "content": "最高价还有最低价"
+            },
+            {
+              "start_timestamp": 662,
+              "end_timestamp": 664,
+              "content": "那么它盘中到底是怎么形成的"
+            },
+            {
+              "start_timestamp": 664,
+              "end_timestamp": 666,
+              "content": "这根K线呢是有区别的"
+            },
+            {
+              "start_timestamp": 666,
+              "end_timestamp": 668,
+              "content": "你看第一种方式"
+            },
+            {
+              "start_timestamp": 668,
+              "end_timestamp": 669,
+              "content": "它是先冲高再回落"
+            },
+            {
+              "start_timestamp": 669,
+              "end_timestamp": 671,
+              "content": "然后再拉回来"
+            },
+            {
+              "start_timestamp": 671,
+              "end_timestamp": 673,
+              "content": "这种方式啊特别容易去追票啊"
+            },
+            {
+              "start_timestamp": 673,
+              "end_timestamp": 674,
+              "content": "这种方式洗的就是套牢盘"
+            },
+            {
+              "start_timestamp": 674,
+              "end_timestamp": 677,
+              "content": "同时呢拉高整体的持仓成本"
+            },
+            {
+              "start_timestamp": 677,
+              "end_timestamp": 678,
+              "content": "你想尼急拉"
+            },
+            {
+              "start_timestamp": 678,
+              "end_timestamp": 680,
+              "content": "你又有很多人追进来了"
+            },
+            {
+              "start_timestamp": 680,
+              "end_timestamp": 680,
+              "content": "一追进来"
+            },
+            {
+              "start_timestamp": 680,
+              "end_timestamp": 682,
+              "content": "主力一砸砸你个尖角波呃"
+            },
+            {
+              "start_timestamp": 682,
+              "end_timestamp": 683,
+              "content": "就下来了"
+            },
+            {
+              "start_timestamp": 683,
+              "end_timestamp": 684,
+              "content": "那老的被套的人全跑了"
+            },
+            {
+              "start_timestamp": 684,
+              "end_timestamp": 688,
+              "content": "因为老的被套的人的话拉起来终于解套跑了"
+            },
+            {
+              "start_timestamp": 688,
+              "end_timestamp": 690,
+              "content": "那新的进来的这帮人呢套进来了"
+            },
+            {
+              "start_timestamp": 690,
+              "end_timestamp": 692,
+              "content": "那这帮人筹码就稳定了"
+            },
+            {
+              "start_timestamp": 692,
+              "end_timestamp": 695,
+              "content": "因为新的被套的人他不容易那么快卖票"
+            },
+            {
+              "start_timestamp": 695,
+              "end_timestamp": 699,
+              "content": "那第二种方式呢就是先下杀再拉上去"
+            },
+            {
+              "start_timestamp": 699,
+              "end_timestamp": 700,
+              "content": "然后再这样下来"
+            },
+            {
+              "start_timestamp": 700,
+              "end_timestamp": 702,
+              "content": "很多票都是这种情况啊"
+            },
+            {
+              "start_timestamp": 702,
+              "end_timestamp": 704,
+              "content": "这种票呢大家其实往往拿不住"
+            },
+            {
+              "start_timestamp": 704,
+              "end_timestamp": 706,
+              "content": "开盘一下杀就跑了啊"
+            },
+            {
+              "start_timestamp": 706,
+              "end_timestamp": 707,
+              "content": "不玩了是吧"
+            },
+            {
+              "start_timestamp": 707,
+              "end_timestamp": 708,
+              "content": "为什么这种票容易拿不住呢"
+            },
+            {
+              "start_timestamp": 708,
+              "end_timestamp": 711,
+              "content": "啊因为这种方式洗的就是获利盘"
+            },
+            {
+              "start_timestamp": 712,
+              "end_timestamp": 715,
+              "content": "同样同一个涨停板内部结构也不一样"
+            },
+            {
+              "start_timestamp": 715,
+              "end_timestamp": 719,
+              "content": "像第一种往往就是早上一开盘就直接秒板啊"
+            },
+            {
+              "start_timestamp": 719,
+              "end_timestamp": 720,
+              "content": "是非常强势的"
+            },
+            {
+              "start_timestamp": 720,
+              "end_timestamp": 723,
+              "content": "那很多老铁呢还是怕那些秒板的票"
+            },
+            {
+              "start_timestamp": 723,
+              "end_timestamp": 725,
+              "content": "怕秒板之后呢直接给炸板回来"
+            },
+            {
+              "start_timestamp": 725,
+              "end_timestamp": 728,
+              "content": "之所以会有这样根深蒂固的恐惧"
+            },
+            {
+              "start_timestamp": 728,
+              "end_timestamp": 732,
+              "content": "是因为当时大家在选票能力和对环境的把握"
+            },
+            {
+              "start_timestamp": 732,
+              "end_timestamp": 736,
+              "content": "仓位的控制还没有到位的情况下去做那些票"
+            },
+            {
+              "start_timestamp": 736,
+              "end_timestamp": 738,
+              "content": "最后这个呢就是转势板"
+            },
+            {
+              "start_timestamp": 738,
+              "end_timestamp": 739,
+              "content": "你震荡了一段时间"
+            },
+            {
+              "start_timestamp": 739,
+              "end_timestamp": 742,
+              "content": "下午突然一根直线拉至涨停板"
+            },
+            {
+              "start_timestamp": 742,
+              "end_timestamp": 744,
+              "content": "如果说转势板第二天没有溢价的话"
+            },
+            {
+              "start_timestamp": 744,
+              "end_timestamp": 746,
+              "content": "那是很降温市场情绪的"
+            },
+            {
+              "start_timestamp": 746,
+              "end_timestamp": 749,
+              "content": "中间呢这几个都属于比较弱的涨停板"
+            },
+            {
+              "start_timestamp": 749,
+              "end_timestamp": 750,
+              "content": "K线要想看明白"
+            },
+            {
+              "start_timestamp": 750,
+              "end_timestamp": 754,
+              "content": "是需要看好位置环境和结构的"
+            },
+            {
+              "start_timestamp": 754,
+              "end_timestamp": 757,
+              "content": "同时还需要结合各个级别的K线综合分析好"
+            },
+            {
+              "start_timestamp": 757,
+              "end_timestamp": 759,
+              "content": "这就是单K的一些知识"
+            },
+            {
+              "start_timestamp": 759,
+              "end_timestamp": 760,
+              "content": "谢谢大家"
+            }
+          ],
+          "timestamp": 1
+        }
+      ]
+    },
+    "stid": "0",
+    "status": 0,
+    "like_num": 0,
+    "dislike_num": 0
+  }
+}

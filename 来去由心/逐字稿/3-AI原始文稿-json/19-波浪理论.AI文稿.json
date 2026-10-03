@@ -1,0 +1,1400 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "code": 1,
+    "model_result": {
+      "result_type": 0,
+      "summary": "",
+      "outline": [],
+      "subtitle": [
+        {
+          "title": "",
+          "part_subtitle": [
+            {
+              "start_timestamp": 1,
+              "end_timestamp": 2,
+              "content": "大家好"
+            },
+            {
+              "start_timestamp": 2,
+              "end_timestamp": 5,
+              "content": "今天呢我们讲一下波浪理论"
+            },
+            {
+              "start_timestamp": 5,
+              "end_timestamp": 8,
+              "content": "波浪理论呢想必大家都不陌生了"
+            },
+            {
+              "start_timestamp": 8,
+              "end_timestamp": 12,
+              "content": "它是由美国证券分析家拉尔夫纳尔逊艾略特"
+            },
+            {
+              "start_timestamp": 12,
+              "end_timestamp": 14,
+              "content": "利用道琼斯工业平均指数"
+            },
+            {
+              "start_timestamp": 14,
+              "end_timestamp": 17,
+              "content": "作为研究工具而创建的一种理论"
+            },
+            {
+              "start_timestamp": 17,
+              "end_timestamp": 20,
+              "content": "那波浪理论呢讲的就是股价的波动"
+            },
+            {
+              "start_timestamp": 20,
+              "end_timestamp": 23,
+              "content": "如果说一个票啊行情比较大的话"
+            },
+            {
+              "start_timestamp": 23,
+              "end_timestamp": 25,
+              "content": "一般会以波段的方式来走出来"
+            },
+            {
+              "start_timestamp": 25,
+              "end_timestamp": 29,
+              "content": "首先呢它会分为趋势浪和调整浪"
+            },
+            {
+              "start_timestamp": 29,
+              "end_timestamp": 32,
+              "content": "那趋势浪呢就是三段五波啊"
+            },
+            {
+              "start_timestamp": 32,
+              "end_timestamp": 33,
+              "content": "这里是一浪二浪"
+            },
+            {
+              "start_timestamp": 33,
+              "end_timestamp": 35,
+              "content": "三浪四浪五浪"
+            },
+            {
+              "start_timestamp": 35,
+              "end_timestamp": 38,
+              "content": "那调整浪呢是两段三波啊"
+            },
+            {
+              "start_timestamp": 38,
+              "end_timestamp": 42,
+              "content": "也就是这里的A浪B浪和C浪"
+            },
+            {
+              "start_timestamp": 42,
+              "end_timestamp": 45,
+              "content": "其次呢波浪理论啊有几个核心的条件"
+            },
+            {
+              "start_timestamp": 45,
+              "end_timestamp": 49,
+              "content": "第一个呢就是第一浪跟第四浪它不能重叠"
+            },
+            {
+              "start_timestamp": 49,
+              "end_timestamp": 52,
+              "content": "比如说啊第一浪的高度啊"
+            },
+            {
+              "start_timestamp": 52,
+              "end_timestamp": 53,
+              "content": "在这个位置"
+            },
+            {
+              "start_timestamp": 53,
+              "end_timestamp": 56,
+              "content": "那四浪的低点呢在这个地方"
+            },
+            {
+              "start_timestamp": 56,
+              "end_timestamp": 57,
+              "content": "那一浪啊"
+            },
+            {
+              "start_timestamp": 57,
+              "end_timestamp": 61,
+              "content": "一浪和四浪之间呢它们不能重叠"
+            },
+            {
+              "start_timestamp": 61,
+              "end_timestamp": 66,
+              "content": "那如果说一浪和四浪之间重叠的话"
+            },
+            {
+              "start_timestamp": 66,
+              "end_timestamp": 68,
+              "content": "会发生什么情况呢"
+            },
+            {
+              "start_timestamp": 68,
+              "end_timestamp": 69,
+              "content": "哎那还是个浪吗"
+            },
+            {
+              "start_timestamp": 69,
+              "end_timestamp": 71,
+              "content": "那就不是个浪啊"
+            },
+            {
+              "start_timestamp": 71,
+              "end_timestamp": 73,
+              "content": "那就成为箱体震荡了"
+            },
+            {
+              "start_timestamp": 73,
+              "end_timestamp": 77,
+              "content": "所以如果说一浪跟四浪它重叠的话"
+            },
+            {
+              "start_timestamp": 77,
+              "end_timestamp": 79,
+              "content": "他就会走箱体震荡"
+            },
+            {
+              "start_timestamp": 79,
+              "end_timestamp": 81,
+              "content": "而不是浪浪"
+            },
+            {
+              "start_timestamp": 81,
+              "end_timestamp": 85,
+              "content": "那第二个呢三浪不最短"
+            },
+            {
+              "start_timestamp": 85,
+              "end_timestamp": 88,
+              "content": "三浪的话要么比第一浪长啊"
+            },
+            {
+              "start_timestamp": 88,
+              "end_timestamp": 90,
+              "content": "要么就比第五浪要长"
+            },
+            {
+              "start_timestamp": 90,
+              "end_timestamp": 93,
+              "content": "三浪如果比第一浪要长的话"
+            },
+            {
+              "start_timestamp": 93,
+              "end_timestamp": 94,
+              "content": "一般来讲啊"
+            },
+            {
+              "start_timestamp": 94,
+              "end_timestamp": 98,
+              "content": "三浪会是一浪的1.618倍啊"
+            },
+            {
+              "start_timestamp": 98,
+              "end_timestamp": 100,
+              "content": "当然呢这个并不绝对啊"
+            },
+            {
+              "start_timestamp": 100,
+              "end_timestamp": 101,
+              "content": "属于经验数据"
+            },
+            {
+              "start_timestamp": 101,
+              "end_timestamp": 105,
+              "content": "如果说三浪它是比第一浪长的话"
+            },
+            {
+              "start_timestamp": 105,
+              "end_timestamp": 108,
+              "content": "那么三浪就是主升浪啊"
+            },
+            {
+              "start_timestamp": 108,
+              "end_timestamp": 110,
+              "content": "主升浪呢往往是这135"
+            },
+            {
+              "start_timestamp": 110,
+              "end_timestamp": 114,
+              "content": "这三个上升趋势浪里面最长的一段"
+            },
+            {
+              "start_timestamp": 114,
+              "end_timestamp": 118,
+              "content": "所以为什么我们老说要吃主升浪的肉啊"
+            },
+            {
+              "start_timestamp": 118,
+              "end_timestamp": 119,
+              "content": "因为一浪的时候啊"
+            },
+            {
+              "start_timestamp": 119,
+              "end_timestamp": 122,
+              "content": "一个票呢他刚刚还在启动的阶段"
+            },
+            {
+              "start_timestamp": 122,
+              "end_timestamp": 124,
+              "content": "你都不知道他到底止跌没有"
+            },
+            {
+              "start_timestamp": 124,
+              "end_timestamp": 126,
+              "content": "所以这个时候呢一般也不敢干"
+            },
+            {
+              "start_timestamp": 126,
+              "end_timestamp": 128,
+              "content": "并且量能在这个时候也没有放出来"
+            },
+            {
+              "start_timestamp": 130,
+              "end_timestamp": 134,
+              "content": "那有的时候呢五浪是可以比三浪啊还要长"
+            },
+            {
+              "start_timestamp": 134,
+              "end_timestamp": 137,
+              "content": "那么第五浪它就是一个延伸浪"
+            },
+            {
+              "start_timestamp": 137,
+              "end_timestamp": 140,
+              "content": "那有时候开玩笑就叫做疯狗浪啊"
+            },
+            {
+              "start_timestamp": 140,
+              "end_timestamp": 141,
+              "content": "因为不知道浪哪里去了"
+            },
+            {
+              "start_timestamp": 141,
+              "end_timestamp": 144,
+              "content": "总之呢三浪它不能最短"
+            },
+            {
+              "start_timestamp": 144,
+              "end_timestamp": 147,
+              "content": "三浪如果最短的话啊"
+            },
+            {
+              "start_timestamp": 147,
+              "end_timestamp": 148,
+              "content": "那就不像主升的样子了"
+            },
+            {
+              "start_timestamp": 148,
+              "end_timestamp": 152,
+              "content": "因为三浪它是承前启后的一个波浪"
+            },
+            {
+              "start_timestamp": 152,
+              "end_timestamp": 154,
+              "content": "所以不能最短"
+            },
+            {
+              "start_timestamp": 154,
+              "end_timestamp": 159,
+              "content": "那第三个呢啊浪与浪之间是符合黄金分割的啊"
+            },
+            {
+              "start_timestamp": 159,
+              "end_timestamp": 161,
+              "content": "往往呢在各种软件上面啊"
+            },
+            {
+              "start_timestamp": 161,
+              "end_timestamp": 163,
+              "content": "一般都会有黄金分割线啊"
+            },
+            {
+              "start_timestamp": 163,
+              "end_timestamp": 167,
+              "content": "是这个有时候呢有些人也喜欢用黄金分割的"
+            },
+            {
+              "start_timestamp": 167,
+              "end_timestamp": 169,
+              "content": "这个所谓的战法啊"
+            },
+            {
+              "start_timestamp": 169,
+              "end_timestamp": 172,
+              "content": "从底端啊拉一根黄金分割啊"
+            },
+            {
+              "start_timestamp": 172,
+              "end_timestamp": 178,
+              "content": "线下来啪这一线啊啊一拉线出来几条线一画啊"
+            },
+            {
+              "start_timestamp": 178,
+              "end_timestamp": 180,
+              "content": "那这里呀大概要调整到这个位置啊"
+            },
+            {
+              "start_timestamp": 180,
+              "end_timestamp": 181,
+              "content": "就要止跌了"
+            },
+            {
+              "start_timestamp": 181,
+              "end_timestamp": 184,
+              "content": "那这个地方的我们的目标价是多少呢"
+            },
+            {
+              "start_timestamp": 184,
+              "end_timestamp": 188,
+              "content": "啊这个操作方法呢啊是在10年前很普遍"
+            },
+            {
+              "start_timestamp": 188,
+              "end_timestamp": 191,
+              "content": "现在来讲的话就太不精确化了啊"
+            },
+            {
+              "start_timestamp": 191,
+              "end_timestamp": 195,
+              "content": "那浪与浪之间呢是他如何去符合黄金分割呢"
+            },
+            {
+              "start_timestamp": 195,
+              "end_timestamp": 197,
+              "content": "第一个就是第一浪"
+            },
+            {
+              "start_timestamp": 197,
+              "end_timestamp": 201,
+              "content": "它启动之后回调的幅度往往会比较深啊"
+            },
+            {
+              "start_timestamp": 201,
+              "end_timestamp": 204,
+              "content": "往往会回调到50%左右"
+            },
+            {
+              "start_timestamp": 204,
+              "end_timestamp": 207,
+              "content": "甚至是有时候会调到啊67.5%"
+            },
+            {
+              "start_timestamp": 207,
+              "end_timestamp": 208,
+              "content": "为什么呢"
+            },
+            {
+              "start_timestamp": 208,
+              "end_timestamp": 214,
+              "content": "因为这个时候啊啊刚刚从空头浪转过来"
+            },
+            {
+              "start_timestamp": 214,
+              "end_timestamp": 215,
+              "content": "大家信心还不足"
+            },
+            {
+              "start_timestamp": 215,
+              "end_timestamp": 218,
+              "content": "搞不好的话这个地方一跌穿啊"
+            },
+            {
+              "start_timestamp": 218,
+              "end_timestamp": 221,
+              "content": "那这就是空头的延伸浪啊"
+            },
+            {
+              "start_timestamp": 221,
+              "end_timestamp": 224,
+              "content": "所以呢第一呢会调得比较深"
+            },
+            {
+              "start_timestamp": 224,
+              "end_timestamp": 230,
+              "content": "那第二呢啊三浪往往是一浪的1.618倍"
+            },
+            {
+              "start_timestamp": 230,
+              "end_timestamp": 232,
+              "content": "那1.618倍啊"
+            },
+            {
+              "start_timestamp": 232,
+              "end_timestamp": 234,
+              "content": "也是个黄金分割的数据"
+            },
+            {
+              "start_timestamp": 234,
+              "end_timestamp": 236,
+              "content": "当然这个啊仅作为一个参考"
+            },
+            {
+              "start_timestamp": 236,
+              "end_timestamp": 238,
+              "content": "这里注意的是"
+            },
+            {
+              "start_timestamp": 238,
+              "end_timestamp": 240,
+              "content": "这些呢都属于经验方面的统计"
+            },
+            {
+              "start_timestamp": 240,
+              "end_timestamp": 242,
+              "content": "并不是科学"
+            },
+            {
+              "start_timestamp": 242,
+              "end_timestamp": 243,
+              "content": "就是有很多做股票的人"
+            },
+            {
+              "start_timestamp": 243,
+              "end_timestamp": 245,
+              "content": "尤其老股民呢"
+            },
+            {
+              "start_timestamp": 245,
+              "end_timestamp": 247,
+              "content": "他们还在用这些方法去做这个参考"
+            },
+            {
+              "start_timestamp": 247,
+              "end_timestamp": 250,
+              "content": "那因为啊这里面会有个心理作用"
+            },
+            {
+              "start_timestamp": 250,
+              "end_timestamp": 251,
+              "content": "对不对啊"
+            },
+            {
+              "start_timestamp": 251,
+              "end_timestamp": 255,
+              "content": "就是大家觉得这个票啊跌到了50%了"
+            },
+            {
+              "start_timestamp": 255,
+              "end_timestamp": 256,
+              "content": "那么跌了37.5%了"
+            },
+            {
+              "start_timestamp": 256,
+              "end_timestamp": 259,
+              "content": "哎好那符合黄金分割率了啊"
+            },
+            {
+              "start_timestamp": 259,
+              "end_timestamp": 261,
+              "content": "跌到这个位置也就差不多啊"
+            },
+            {
+              "start_timestamp": 261,
+              "end_timestamp": 261,
+              "content": "就要涨了"
+            },
+            {
+              "start_timestamp": 261,
+              "end_timestamp": 265,
+              "content": "所以说很多人如果是这么想问题的话"
+            },
+            {
+              "start_timestamp": 265,
+              "end_timestamp": 268,
+              "content": "那在这个点位你去买它不就自然形成止跌了吗"
+            },
+            {
+              "start_timestamp": 268,
+              "end_timestamp": 271,
+              "content": "所以这是一个预言自我实现的过程"
+            },
+            {
+              "start_timestamp": 271,
+              "end_timestamp": 273,
+              "content": "不是说有什么原理在里面啊"
+            },
+            {
+              "start_timestamp": 273,
+              "end_timestamp": 273,
+              "content": "当然了"
+            },
+            {
+              "start_timestamp": 273,
+              "end_timestamp": 277,
+              "content": "黄金分割它本来就是自然界的一个客观规律"
+            },
+            {
+              "start_timestamp": 277,
+              "end_timestamp": 278,
+              "content": "客观规律的话"
+            },
+            {
+              "start_timestamp": 278,
+              "end_timestamp": 280,
+              "content": "股市里面存不存在啊"
+            },
+            {
+              "start_timestamp": 280,
+              "end_timestamp": 281,
+              "content": "不一定存在"
+            },
+            {
+              "start_timestamp": 281,
+              "end_timestamp": 283,
+              "content": "但如果说很多人都相信"
+            },
+            {
+              "start_timestamp": 283,
+              "end_timestamp": 285,
+              "content": "他就预言自我实现了"
+            },
+            {
+              "start_timestamp": 285,
+              "end_timestamp": 287,
+              "content": "哎这个是幅度啊方面啊"
+            },
+            {
+              "start_timestamp": 287,
+              "end_timestamp": 289,
+              "content": "是符合所谓的黄金分割的啊"
+            },
+            {
+              "start_timestamp": 289,
+              "end_timestamp": 290,
+              "content": "就算不符合"
+            },
+            {
+              "start_timestamp": 290,
+              "end_timestamp": 293,
+              "content": "你也可以拿这个黄金分割做个参考对吧"
+            },
+            {
+              "start_timestamp": 293,
+              "end_timestamp": 294,
+              "content": "把他线画出来"
+            },
+            {
+              "start_timestamp": 294,
+              "end_timestamp": 295,
+              "content": "唉它符合了"
+            },
+            {
+              "start_timestamp": 295,
+              "end_timestamp": 297,
+              "content": "那我觉得这个挺准的啊"
+            },
+            {
+              "start_timestamp": 297,
+              "end_timestamp": 299,
+              "content": "不符合呢也无所谓"
+            },
+            {
+              "start_timestamp": 300,
+              "end_timestamp": 302,
+              "content": "那在下一个时间方面啊"
+            },
+            {
+              "start_timestamp": 302,
+              "end_timestamp": 305,
+              "content": "在调整的时间方面呢符合什么呢"
+            },
+            {
+              "start_timestamp": 305,
+              "end_timestamp": 307,
+              "content": "就是费不拉切数列啊"
+            },
+            {
+              "start_timestamp": 307,
+              "end_timestamp": 308,
+              "content": "也叫face系数"
+            },
+            {
+              "start_timestamp": 308,
+              "end_timestamp": 310,
+              "content": "这个呢可能有的老铁比较熟悉啊"
+            },
+            {
+              "start_timestamp": 310,
+              "end_timestamp": 311,
+              "content": "有的老铁不太熟悉"
+            },
+            {
+              "start_timestamp": 311,
+              "end_timestamp": 314,
+              "content": "这里简单的说一下费布拉切数列"
+            },
+            {
+              "start_timestamp": 314,
+              "end_timestamp": 317,
+              "content": "又称黄金分割数列啊"
+            },
+            {
+              "start_timestamp": 317,
+              "end_timestamp": 319,
+              "content": "因数学家这个莱昂纳多费布拉切"
+            },
+            {
+              "start_timestamp": 319,
+              "end_timestamp": 322,
+              "content": "以兔子繁殖为例子而引入孤"
+            },
+            {
+              "start_timestamp": 322,
+              "end_timestamp": 323,
+              "content": "又称兔子数列"
+            },
+            {
+              "start_timestamp": 323,
+              "end_timestamp": 327,
+              "content": "其数值呢是112358 13"
+            },
+            {
+              "start_timestamp": 327,
+              "end_timestamp": 329,
+              "content": "二十一三十四啊"
+            },
+            {
+              "start_timestamp": 329,
+              "end_timestamp": 330,
+              "content": "五十五八十九"
+            },
+            {
+              "start_timestamp": 330,
+              "end_timestamp": 331,
+              "content": "以此类推"
+            },
+            {
+              "start_timestamp": 331,
+              "end_timestamp": 333,
+              "content": "也就是说从第三项开始"
+            },
+            {
+              "start_timestamp": 333,
+              "end_timestamp": 338,
+              "content": "每一项它都等于前两项之和啊"
+            },
+            {
+              "start_timestamp": 338,
+              "end_timestamp": 340,
+              "content": "也就是说后面的这个数字"
+            },
+            {
+              "start_timestamp": 340,
+              "end_timestamp": 344,
+              "content": "它是前两项这个数字的之和啊"
+            },
+            {
+              "start_timestamp": 344,
+              "end_timestamp": 347,
+              "content": "那比如说我们看到八也就是三和五之和"
+            },
+            {
+              "start_timestamp": 347,
+              "end_timestamp": 350,
+              "content": "13呢就是五和八之和"
+            },
+            {
+              "start_timestamp": 350,
+              "end_timestamp": 353,
+              "content": "21呢就是八和13之和啊"
+            },
+            {
+              "start_timestamp": 353,
+              "end_timestamp": 353,
+              "content": "以此类推"
+            },
+            {
+              "start_timestamp": 353,
+              "end_timestamp": 356,
+              "content": "大家都知道后面的数字应该去填什么了"
+            },
+            {
+              "start_timestamp": 356,
+              "end_timestamp": 358,
+              "content": "那这个是调整的时间"
+            },
+            {
+              "start_timestamp": 358,
+              "end_timestamp": 362,
+              "content": "那有的时候呢啊有的票啊他调整一天对吧"
+            },
+            {
+              "start_timestamp": 362,
+              "end_timestamp": 363,
+              "content": "他就反包了啊"
+            },
+            {
+              "start_timestamp": 363,
+              "end_timestamp": 364,
+              "content": "这个厉害"
+            },
+            {
+              "start_timestamp": 364,
+              "end_timestamp": 367,
+              "content": "那有的票呢他可能调整两天啊"
+            },
+            {
+              "start_timestamp": 367,
+              "end_timestamp": 370,
+              "content": "然后呢有的票呢又调整三天啊"
+            },
+            {
+              "start_timestamp": 370,
+              "end_timestamp": 372,
+              "content": "那有的票呢调整五天啊也比较合适"
+            },
+            {
+              "start_timestamp": 372,
+              "end_timestamp": 375,
+              "content": "如果说调整八天还没有调整完"
+            },
+            {
+              "start_timestamp": 375,
+              "end_timestamp": 376,
+              "content": "那就调整13天啊"
+            },
+            {
+              "start_timestamp": 376,
+              "end_timestamp": 378,
+              "content": "或者21天"
+            },
+            {
+              "start_timestamp": 378,
+              "end_timestamp": 380,
+              "content": "那比如说我们看着这个案例啊"
+            },
+            {
+              "start_timestamp": 380,
+              "end_timestamp": 382,
+              "content": "啊在这个上涨的过程中呢"
+            },
+            {
+              "start_timestamp": 382,
+              "end_timestamp": 384,
+              "content": "这里呢调整了三天"
+            },
+            {
+              "start_timestamp": 384,
+              "end_timestamp": 386,
+              "content": "这里呢调整了两天啊"
+            },
+            {
+              "start_timestamp": 386,
+              "end_timestamp": 389,
+              "content": "那这里呢调整了八天啊"
+            },
+            {
+              "start_timestamp": 389,
+              "end_timestamp": 393,
+              "content": "那这个波段呢它调整了21天呢"
+            },
+            {
+              "start_timestamp": 393,
+              "end_timestamp": 395,
+              "content": "开始有止跌的迹象"
+            },
+            {
+              "start_timestamp": 395,
+              "end_timestamp": 397,
+              "content": "当然这都不是绝对的"
+            },
+            {
+              "start_timestamp": 397,
+              "end_timestamp": 398,
+              "content": "具体的情况呢"
+            },
+            {
+              "start_timestamp": 398,
+              "end_timestamp": 404,
+              "content": "还得根据盘面啊和题材的一个运行综合而定的"
+            },
+            {
+              "start_timestamp": 404,
+              "end_timestamp": 405,
+              "content": "那第五个呢"
+            },
+            {
+              "start_timestamp": 405,
+              "end_timestamp": 411,
+              "content": "二浪和四浪它的调整方式是交替出现的"
+            },
+            {
+              "start_timestamp": 411,
+              "end_timestamp": 412,
+              "content": "什么意思"
+            },
+            {
+              "start_timestamp": 412,
+              "end_timestamp": 416,
+              "content": "第二浪和第四浪对吧"
+            },
+            {
+              "start_timestamp": 416,
+              "end_timestamp": 417,
+              "content": "叫调整了"
+            },
+            {
+              "start_timestamp": 417,
+              "end_timestamp": 421,
+              "content": "那如果说二浪以单式调整的话啊"
+            },
+            {
+              "start_timestamp": 421,
+              "end_timestamp": 422,
+              "content": "这就叫单式调整"
+            },
+            {
+              "start_timestamp": 422,
+              "end_timestamp": 423,
+              "content": "就一根线下来了"
+            },
+            {
+              "start_timestamp": 423,
+              "end_timestamp": 426,
+              "content": "那四浪往往会是复式调整"
+            },
+            {
+              "start_timestamp": 426,
+              "end_timestamp": 429,
+              "content": "类似的这种就叫做复式调整"
+            },
+            {
+              "start_timestamp": 429,
+              "end_timestamp": 433,
+              "content": "那如果二浪是复式调整的话"
+            },
+            {
+              "start_timestamp": 433,
+              "end_timestamp": 436,
+              "content": "那么四浪往往是单式调整"
+            },
+            {
+              "start_timestamp": 436,
+              "end_timestamp": 440,
+              "content": "这就是调整浪里面的复式和单式"
+            },
+            {
+              "start_timestamp": 440,
+              "end_timestamp": 442,
+              "content": "它会交替进行"
+            },
+            {
+              "start_timestamp": 442,
+              "end_timestamp": 445,
+              "content": "并且呢一旦说前面是一个复式调整浪的话"
+            },
+            {
+              "start_timestamp": 445,
+              "end_timestamp": 449,
+              "content": "它后面的这个波浪往往会很长啊"
+            },
+            {
+              "start_timestamp": 449,
+              "end_timestamp": 450,
+              "content": "因为复试调整的话"
+            },
+            {
+              "start_timestamp": 450,
+              "end_timestamp": 453,
+              "content": "筹码呢会洗的比较充分啊"
+            },
+            {
+              "start_timestamp": 453,
+              "end_timestamp": 455,
+              "content": "这个呢有时候也是比较管用的"
+            },
+            {
+              "start_timestamp": 455,
+              "end_timestamp": 459,
+              "content": "那接下来呢我们再说一下波浪理论的弊端"
+            },
+            {
+              "start_timestamp": 459,
+              "end_timestamp": 462,
+              "content": "波浪铝呢是百年前搞出来理论啊"
+            },
+            {
+              "start_timestamp": 462,
+              "end_timestamp": 464,
+              "content": "所以说还有很多的弊端"
+            },
+            {
+              "start_timestamp": 464,
+              "end_timestamp": 467,
+              "content": "最大的弊端呢是有两点"
+            },
+            {
+              "start_timestamp": 467,
+              "end_timestamp": 469,
+              "content": "第一个呢就是事后诸葛亮啊"
+            },
+            {
+              "start_timestamp": 469,
+              "end_timestamp": 470,
+              "content": "波中有浪"
+            },
+            {
+              "start_timestamp": 470,
+              "end_timestamp": 471,
+              "content": "浪中有波"
+            },
+            {
+              "start_timestamp": 471,
+              "end_timestamp": 474,
+              "content": "事后呢我们看起来非常的清晰啊"
+            },
+            {
+              "start_timestamp": 474,
+              "end_timestamp": 478,
+              "content": "但是从前往后看是一塌糊涂"
+            },
+            {
+              "start_timestamp": 478,
+              "end_timestamp": 479,
+              "content": "根本就看不清楚啊"
+            },
+            {
+              "start_timestamp": 479,
+              "end_timestamp": 481,
+              "content": "到底是在哪个浪上面"
+            },
+            {
+              "start_timestamp": 481,
+              "end_timestamp": 484,
+              "content": "还是说啊在哪个波上面"
+            },
+            {
+              "start_timestamp": 484,
+              "end_timestamp": 487,
+              "content": "但是从后往前看啊"
+            },
+            {
+              "start_timestamp": 487,
+              "end_timestamp": 488,
+              "content": "每一个人都是专家啊"
+            },
+            {
+              "start_timestamp": 488,
+              "end_timestamp": 489,
+              "content": "都能说的头头是道啊"
+            },
+            {
+              "start_timestamp": 489,
+              "end_timestamp": 493,
+              "content": "比如说这是一浪二浪三浪四浪五浪啊"
+            },
+            {
+              "start_timestamp": 493,
+              "end_timestamp": 494,
+              "content": "结束啊"
+            },
+            {
+              "start_timestamp": 494,
+              "end_timestamp": 496,
+              "content": "但是即使他有这个呢"
+            },
+            {
+              "start_timestamp": 496,
+              "end_timestamp": 499,
+              "content": "我们都还是要大致去用这个东西作为一个参考"
+            },
+            {
+              "start_timestamp": 499,
+              "end_timestamp": 503,
+              "content": "因为股价呢确实是以这种波动的方式进行的啊"
+            },
+            {
+              "start_timestamp": 503,
+              "end_timestamp": 504,
+              "content": "我总得给他一个比值吧"
+            },
+            {
+              "start_timestamp": 504,
+              "end_timestamp": 506,
+              "content": "啊我没有一个比值的话"
+            },
+            {
+              "start_timestamp": 506,
+              "end_timestamp": 509,
+              "content": "就没有办法很好的去描述这个事情"
+            },
+            {
+              "start_timestamp": 509,
+              "end_timestamp": 512,
+              "content": "那有这个参考和比照之后"
+            },
+            {
+              "start_timestamp": 512,
+              "end_timestamp": 513,
+              "content": "我就可以说啊"
+            },
+            {
+              "start_timestamp": 513,
+              "end_timestamp": 515,
+              "content": "这个事情呢它是符合这个比照"
+            },
+            {
+              "start_timestamp": 515,
+              "end_timestamp": 516,
+              "content": "或者不符合这个比照啊"
+            },
+            {
+              "start_timestamp": 516,
+              "end_timestamp": 518,
+              "content": "这也是一种研究方法"
+            },
+            {
+              "start_timestamp": 518,
+              "end_timestamp": 521,
+              "content": "那第二个非常大的缺点就是什么呢"
+            },
+            {
+              "start_timestamp": 521,
+              "end_timestamp": 524,
+              "content": "它没有把量能放进去啊"
+            },
+            {
+              "start_timestamp": 524,
+              "end_timestamp": 527,
+              "content": "以前的波浪理论呢都没有把量能放进去啊"
+            },
+            {
+              "start_timestamp": 527,
+              "end_timestamp": 529,
+              "content": "没有把量能放进去的话"
+            },
+            {
+              "start_timestamp": 529,
+              "end_timestamp": 531,
+              "content": "就没有真正的去解析清楚"
+            },
+            {
+              "start_timestamp": 531,
+              "end_timestamp": 534,
+              "content": "这个波浪理论内在的动因是什么"
+            },
+            {
+              "start_timestamp": 534,
+              "end_timestamp": 537,
+              "content": "呃如果说只看股价K线形态波动的话"
+            },
+            {
+              "start_timestamp": 537,
+              "end_timestamp": 542,
+              "content": "它到底是怎么能够产生这个大浪小浪的"
+            },
+            {
+              "start_timestamp": 542,
+              "end_timestamp": 544,
+              "content": "而是完全搞不清楚的"
+            },
+            {
+              "start_timestamp": 544,
+              "end_timestamp": 545,
+              "content": "那不就成玄学了吗"
+            },
+            {
+              "start_timestamp": 545,
+              "end_timestamp": 548,
+              "content": "所以我们必须要把量能加进去啊"
+            },
+            {
+              "start_timestamp": 548,
+              "end_timestamp": 551,
+              "content": "那如果说把量能加进去呢"
+            },
+            {
+              "start_timestamp": 551,
+              "end_timestamp": 554,
+              "content": "这就是所谓的量化波浪理论了"
+            },
+            {
+              "start_timestamp": 554,
+              "end_timestamp": 556,
+              "content": "那什么叫做把量能加进去呢"
+            },
+            {
+              "start_timestamp": 556,
+              "end_timestamp": 559,
+              "content": "比如说啊前面一个空头波段下来"
+            },
+            {
+              "start_timestamp": 559,
+              "end_timestamp": 562,
+              "content": "那这个量能呢基本上都趴在地上了"
+            },
+            {
+              "start_timestamp": 562,
+              "end_timestamp": 563,
+              "content": "属于地量了啊"
+            },
+            {
+              "start_timestamp": 563,
+              "end_timestamp": 566,
+              "content": "那就很长时间无人问津了"
+            },
+            {
+              "start_timestamp": 566,
+              "end_timestamp": 568,
+              "content": "那这个票啊啊就是一点点量了"
+            },
+            {
+              "start_timestamp": 568,
+              "end_timestamp": 571,
+              "content": "比如说一个票他炒过一大波啊"
+            },
+            {
+              "start_timestamp": 571,
+              "end_timestamp": 574,
+              "content": "那前面有这个一大波的涨幅了"
+            },
+            {
+              "start_timestamp": 574,
+              "end_timestamp": 576,
+              "content": "那一大波涨幅炒完之后呢"
+            },
+            {
+              "start_timestamp": 576,
+              "end_timestamp": 580,
+              "content": "后面整个半年一年的就是在调整啊"
+            },
+            {
+              "start_timestamp": 580,
+              "end_timestamp": 583,
+              "content": "那这个时候呢量能基本上都是低量了"
+            },
+            {
+              "start_timestamp": 583,
+              "end_timestamp": 585,
+              "content": "什么时候会开始出现行情呢"
+            },
+            {
+              "start_timestamp": 585,
+              "end_timestamp": 587,
+              "content": "价缓增啊"
+            },
+            {
+              "start_timestamp": 587,
+              "end_timestamp": 588,
+              "content": "开始有量了啊"
+            },
+            {
+              "start_timestamp": 588,
+              "end_timestamp": 591,
+              "content": "那一点点的不断的价缓增"
+            },
+            {
+              "start_timestamp": 591,
+              "end_timestamp": 593,
+              "content": "然后呢K线走穗阳的一个走势啊"
+            },
+            {
+              "start_timestamp": 593,
+              "end_timestamp": 594,
+              "content": "会比较好"
+            },
+            {
+              "start_timestamp": 594,
+              "end_timestamp": 598,
+              "content": "有时候呢也会以一个涨停板的方式开始启动啊"
+            },
+            {
+              "start_timestamp": 598,
+              "end_timestamp": 598,
+              "content": "也是可以的"
+            },
+            {
+              "start_timestamp": 598,
+              "end_timestamp": 600,
+              "content": "当然这里呀就需要高看一眼了"
+            },
+            {
+              "start_timestamp": 600,
+              "end_timestamp": 602,
+              "content": "那第一浪结束之后呢"
+            },
+            {
+              "start_timestamp": 602,
+              "end_timestamp": 605,
+              "content": "它会有一个回调浪"
+            },
+            {
+              "start_timestamp": 605,
+              "end_timestamp": 606,
+              "content": "那肯定会有回调浪的"
+            },
+            {
+              "start_timestamp": 606,
+              "end_timestamp": 611,
+              "content": "如果说在一浪的过程当中是以缓增量啊"
+            },
+            {
+              "start_timestamp": 611,
+              "end_timestamp": 612,
+              "content": "走到顶部的时候"
+            },
+            {
+              "start_timestamp": 612,
+              "end_timestamp": 617,
+              "content": "基本上啊是要啊报一个大量的啊"
+            },
+            {
+              "start_timestamp": 617,
+              "end_timestamp": 619,
+              "content": "你看他往回拉的时候呢"
+            },
+            {
+              "start_timestamp": 619,
+              "end_timestamp": 624,
+              "content": "哎是不是前面的关键的支撑位啊"
+            },
+            {
+              "start_timestamp": 624,
+              "end_timestamp": 626,
+              "content": "如果说中间的这个波段呢"
+            },
+            {
+              "start_timestamp": 626,
+              "end_timestamp": 629,
+              "content": "中间某个位置来个涨停板啊"
+            },
+            {
+              "start_timestamp": 629,
+              "end_timestamp": 631,
+              "content": "再是一个大量的花"
+            },
+            {
+              "start_timestamp": 631,
+              "end_timestamp": 633,
+              "content": "那往往拉回的地方啊"
+            },
+            {
+              "start_timestamp": 633,
+              "end_timestamp": 636,
+              "content": "这个地方呢就是有很强的支撑啊"
+            },
+            {
+              "start_timestamp": 636,
+              "end_timestamp": 639,
+              "content": "那如果这个地方呢顶部爆了大量了"
+            },
+            {
+              "start_timestamp": 639,
+              "end_timestamp": 641,
+              "content": "你就要去考虑啊"
+            },
+            {
+              "start_timestamp": 641,
+              "end_timestamp": 643,
+              "content": "是不是一个逃命波"
+            },
+            {
+              "start_timestamp": 643,
+              "end_timestamp": 644,
+              "content": "逃命量啥意思啊"
+            },
+            {
+              "start_timestamp": 644,
+              "end_timestamp": 647,
+              "content": "就是这个前面好不容易套了很久的啊"
+            },
+            {
+              "start_timestamp": 647,
+              "end_timestamp": 648,
+              "content": "这么久对吧"
+            },
+            {
+              "start_timestamp": 648,
+              "end_timestamp": 650,
+              "content": "突然一个涨停板上来了啊"
+            },
+            {
+              "start_timestamp": 650,
+              "end_timestamp": 651,
+              "content": "那都跑路了"
+            },
+            {
+              "start_timestamp": 651,
+              "end_timestamp": 652,
+              "content": "跑路之后呢"
+            },
+            {
+              "start_timestamp": 652,
+              "end_timestamp": 654,
+              "content": "后面再继续往下跌的话"
+            },
+            {
+              "start_timestamp": 654,
+              "end_timestamp": 656,
+              "content": "那就是空头波段啊"
+            },
+            {
+              "start_timestamp": 656,
+              "end_timestamp": 658,
+              "content": "接着延伸下来了"
+            },
+            {
+              "start_timestamp": 658,
+              "end_timestamp": 662,
+              "content": "所以一旦第一波拉出一个涨停板之后啊"
+            },
+            {
+              "start_timestamp": 662,
+              "end_timestamp": 664,
+              "content": "形成一个大量之后"
+            },
+            {
+              "start_timestamp": 664,
+              "end_timestamp": 666,
+              "content": "这个大量就非常关键了"
+            },
+            {
+              "start_timestamp": 666,
+              "end_timestamp": 669,
+              "content": "只要这个地方支撑有效"
+            },
+            {
+              "start_timestamp": 669,
+              "end_timestamp": 671,
+              "content": "股价回调到这个地方呢"
+            },
+            {
+              "start_timestamp": 671,
+              "end_timestamp": 672,
+              "content": "往往就是一个买点"
+            },
+            {
+              "start_timestamp": 672,
+              "end_timestamp": 674,
+              "content": "那具体的量价关系呢"
+            },
+            {
+              "start_timestamp": 674,
+              "end_timestamp": 677,
+              "content": "我们会在以后的课程去讲"
+            },
+            {
+              "start_timestamp": 677,
+              "end_timestamp": 679,
+              "content": "那今天的课程呢就到这里啊"
+            },
+            {
+              "start_timestamp": 679,
+              "end_timestamp": 680,
+              "content": "谢谢大家"
+            }
+          ],
+          "timestamp": 1
+        }
+      ]
+    },
+    "stid": "0",
+    "status": 0,
+    "like_num": 0,
+    "dislike_num": 0
+  }
+}

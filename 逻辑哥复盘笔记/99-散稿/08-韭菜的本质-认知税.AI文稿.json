@@ -1,0 +1,4463 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "code": 0,
+    "model_result": {
+      "result_type": 2,
+      "summary": "散户亏损根源在于“认知税”，即信息滞后、情绪驱动（追涨杀跌、处置效应）及规则劣势（交易摩擦、速度碾压）的三重叠加，强调避免频繁交易、减少跟风与情绪干扰，通过深耕基本面、建立理性决策框架和长期策略，提升认知能力以降低系统性损失，实现投资理性化与认知变现。",
+      "outline": [
+        {
+          "title": "认知不足引发持续亏损",
+          "part_outline": [
+            {
+              "timestamp": 259,
+              "content": "认知不足导致信息差、情绪差被系统性收割"
+            },
+            {
+              "timestamp": 357,
+              "content": "依赖二手信息易接盘跟风导致亏损循环"
+            },
+            {
+              "timestamp": 544,
+              "content": "情绪化交易与平台算法共同加剧“认知税”损耗"
+            }
+          ],
+          "timestamp": 1
+        },
+        {
+          "title": "认知不足导致散户亏损",
+          "part_outline": [
+            {
+              "timestamp": 634,
+              "content": "厄尔尼诺引发全球4900万粮食危机加剧不安全状态"
+            },
+            {
+              "timestamp": 711,
+              "content": "散户亏损源于信息滞后、情绪驱动与规则落后三重认知税"
+            },
+            {
+              "timestamp": 1018,
+              "content": "频繁交易与处置效应导致年化收益低于长期持有者20%"
+            }
+          ],
+          "timestamp": 601
+        },
+        {
+          "title": "认知税致散户亏损需觉醒",
+          "part_outline": [
+            {
+              "timestamp": 1304,
+              "content": "结构性规则不对称导致散户长期亏损"
+            },
+            {
+              "timestamp": 1322,
+              "content": "三重认知税闭环加剧投资决策失误"
+            },
+            {
+              "timestamp": 1722,
+              "content": "代际认知差异影响投资策略适配性"
+            }
+          ],
+          "timestamp": 1200
+        },
+        {
+          "title": "认知重塑避税，克制长线投资",
+          "part_outline": [
+            {
+              "timestamp": 1825,
+              "content": "重塑行为模式减少情绪波动与频繁操作"
+            },
+            {
+              "timestamp": 1876,
+              "content": "深研行业逻辑与公司基本面获取信息优势"
+            },
+            {
+              "timestamp": 2055,
+              "content": "通过克制贪婪/恐惧与长期视角降低认知税"
+            }
+          ],
+          "timestamp": 1800
+        }
+      ],
+      "subtitle": [
+        {
+          "title": "",
+          "part_subtitle": [
+            {
+              "start_timestamp": 0,
+              "end_timestamp": 1,
+              "content": "我是你们逻辑哥"
+            },
+            {
+              "start_timestamp": 1,
+              "end_timestamp": 6,
+              "content": "今天呢讲一个比较直观的东西"
+            },
+            {
+              "start_timestamp": 6,
+              "end_timestamp": 9,
+              "content": "就是韭菜的本质到底是什么"
+            },
+            {
+              "start_timestamp": 9,
+              "end_timestamp": 11,
+              "content": "两个字认知"
+            },
+            {
+              "start_timestamp": 11,
+              "end_timestamp": 17,
+              "content": "而你所产生的折损在我的理解上叫认知税"
+            },
+            {
+              "start_timestamp": 19,
+              "end_timestamp": 21,
+              "content": "很多朋友就是刚买进就掉"
+            },
+            {
+              "start_timestamp": 21,
+              "end_timestamp": 23,
+              "content": "刚卖出就涨对吧"
+            },
+            {
+              "start_timestamp": 23,
+              "end_timestamp": 25,
+              "content": "好像市场就专门只盯着你一个人"
+            },
+            {
+              "start_timestamp": 25,
+              "end_timestamp": 27,
+              "content": "如果你有这种感觉"
+            },
+            {
+              "start_timestamp": 27,
+              "end_timestamp": 28,
+              "content": "那么这一期的内容"
+            },
+            {
+              "start_timestamp": 28,
+              "end_timestamp": 31,
+              "content": "可能会彻底改变你对亏钱这件事情的理解"
+            },
+            {
+              "start_timestamp": 31,
+              "end_timestamp": 33,
+              "content": "你亏的不是钱"
+            },
+            {
+              "start_timestamp": 33,
+              "end_timestamp": 37,
+              "content": "是对这个世界运行规则的学费"
+            },
+            {
+              "start_timestamp": 38,
+              "end_timestamp": 40,
+              "content": "从几个层面上跟大家去讲"
+            },
+            {
+              "start_timestamp": 41,
+              "end_timestamp": 45,
+              "content": "第一个散户亏损的数据全图"
+            },
+            {
+              "start_timestamp": 45,
+              "end_timestamp": 48,
+              "content": "第二个是信息税"
+            },
+            {
+              "start_timestamp": 48,
+              "end_timestamp": 50,
+              "content": "情绪税以及规则税"
+            },
+            {
+              "start_timestamp": 51,
+              "end_timestamp": 54,
+              "content": "再从四代投资者为何亏法不同"
+            },
+            {
+              "start_timestamp": 54,
+              "end_timestamp": 56,
+              "content": "但是都在亏"
+            },
+            {
+              "start_timestamp": 57,
+              "end_timestamp": 60,
+              "content": "这是待机画像觉醒指南"
+            },
+            {
+              "start_timestamp": 60,
+              "end_timestamp": 63,
+              "content": "也是最简单的部分"
+            },
+            {
+              "start_timestamp": 63,
+              "end_timestamp": 66,
+              "content": "就是我最终怎么去少交学费"
+            },
+            {
+              "start_timestamp": 66,
+              "end_timestamp": 69,
+              "content": "从几个行动建议上去讲"
+            },
+            {
+              "start_timestamp": 70,
+              "end_timestamp": 72,
+              "content": "第一个是亏损的数据全景"
+            },
+            {
+              "start_timestamp": 72,
+              "end_timestamp": 74,
+              "content": "我用数据去还原"
+            },
+            {
+              "start_timestamp": 74,
+              "end_timestamp": 77,
+              "content": "绝大多数人被收割的真实的途径"
+            },
+            {
+              "start_timestamp": 78,
+              "end_timestamp": 80,
+              "content": "A股2.4亿账户的背后"
+            },
+            {
+              "start_timestamp": 80,
+              "end_timestamp": 83,
+              "content": "81%的散户是在亏损的"
+            },
+            {
+              "start_timestamp": 83,
+              "end_timestamp": 85,
+              "content": "人均亏2.1万的现实"
+            },
+            {
+              "start_timestamp": 85,
+              "end_timestamp": 88,
+              "content": "揭露的是一个很实实在在的真相"
+            },
+            {
+              "start_timestamp": 88,
+              "end_timestamp": 91,
+              "content": "而且可能每段时间亏损金额都会不一样"
+            },
+            {
+              "start_timestamp": 91,
+              "end_timestamp": 96,
+              "content": "但是绝大多数80%以上的是绿的"
+            },
+            {
+              "start_timestamp": 96,
+              "end_timestamp": 98,
+              "content": "就一道绿光照在你的脸上"
+            },
+            {
+              "start_timestamp": 98,
+              "end_timestamp": 101,
+              "content": "就像昨天这个我们录的这个VLOG对吧"
+            },
+            {
+              "start_timestamp": 101,
+              "end_timestamp": 104,
+              "content": "在浪潮的顶端有泛绿光"
+            },
+            {
+              "start_timestamp": 104,
+              "end_timestamp": 106,
+              "content": "而那道绿光是谁来造就的"
+            },
+            {
+              "start_timestamp": 106,
+              "end_timestamp": 109,
+              "content": "是散户的造就死亡归天"
+            },
+            {
+              "start_timestamp": 109,
+              "end_timestamp": 110,
+              "content": "它不是一个个体运气问题"
+            },
+            {
+              "start_timestamp": 110,
+              "end_timestamp": 113,
+              "content": "而是信息心理以及规则"
+            },
+            {
+              "start_timestamp": 113,
+              "end_timestamp": 115,
+              "content": "三重不对称的结构性困局"
+            },
+            {
+              "start_timestamp": 115,
+              "end_timestamp": 118,
+              "content": "那么理解这个困局的情况之下"
+            },
+            {
+              "start_timestamp": 118,
+              "end_timestamp": 122,
+              "content": "是你停止交认知税的第一步"
+            },
+            {
+              "start_timestamp": 122,
+              "end_timestamp": 128,
+              "content": "首先累计应该是2.4到2.5亿账户"
+            },
+            {
+              "start_timestamp": 128,
+              "end_timestamp": 131,
+              "content": "也就是说相当于每5~6个人"
+            },
+            {
+              "start_timestamp": 131,
+              "end_timestamp": 133,
+              "content": "中国人就有一个开户的"
+            },
+            {
+              "start_timestamp": 133,
+              "end_timestamp": 136,
+              "content": "散户的参与的广度远超多数人想象"
+            },
+            {
+              "start_timestamp": 136,
+              "end_timestamp": 140,
+              "content": "我们说这个棒子全名对吧"
+            },
+            {
+              "start_timestamp": 140,
+              "end_timestamp": 140,
+              "content": "全民参与"
+            },
+            {
+              "start_timestamp": 140,
+              "end_timestamp": 142,
+              "content": "我们何尝不是呢"
+            },
+            {
+              "start_timestamp": 142,
+              "end_timestamp": 144,
+              "content": "你想想你的家庭"
+            },
+            {
+              "start_timestamp": 144,
+              "end_timestamp": 146,
+              "content": "包括每一条看到视频的朋友"
+            },
+            {
+              "start_timestamp": 146,
+              "end_timestamp": 147,
+              "content": "你身边是不是也是这样的"
+            },
+            {
+              "start_timestamp": 147,
+              "end_timestamp": 149,
+              "content": "一个也是这样的一个情况"
+            },
+            {
+              "start_timestamp": 149,
+              "end_timestamp": 153,
+              "content": "那么截止的这个数据是到2025年上半年"
+            },
+            {
+              "start_timestamp": 153,
+              "end_timestamp": 156,
+              "content": "统计是81%的散户属于亏损状态"
+            },
+            {
+              "start_timestamp": 156,
+              "end_timestamp": 158,
+              "content": "盈利者不足两成"
+            },
+            {
+              "start_timestamp": 158,
+              "end_timestamp": 161,
+              "content": "七亏两平一赚格局已经进一步恶化"
+            },
+            {
+              "start_timestamp": 163,
+              "end_timestamp": 166,
+              "content": "而且平均折损率小"
+            },
+            {
+              "start_timestamp": 166,
+              "end_timestamp": 170,
+              "content": "资金的10万以下的亏损比例高达9%"
+            },
+            {
+              "start_timestamp": 170,
+              "end_timestamp": 171,
+              "content": "18.7"
+            },
+            {
+              "start_timestamp": 171,
+              "end_timestamp": 174,
+              "content": "本金越少越容易被消耗"
+            },
+            {
+              "start_timestamp": 175,
+              "end_timestamp": 178,
+              "content": "那么我们再用另外一个PPT来看"
+            },
+            {
+              "start_timestamp": 179,
+              "end_timestamp": 181,
+              "content": "你交的税是在哪里"
+            },
+            {
+              "start_timestamp": 181,
+              "end_timestamp": 183,
+              "content": "为什么你每天拼了命的努力"
+            },
+            {
+              "start_timestamp": 183,
+              "end_timestamp": 187,
+              "content": "但是越努力越像是在交税"
+            },
+            {
+              "start_timestamp": 189,
+              "end_timestamp": 190,
+              "content": "拆解三个地方"
+            },
+            {
+              "start_timestamp": 191,
+              "end_timestamp": 192,
+              "content": "你所认为的笨"
+            },
+            {
+              "start_timestamp": 192,
+              "end_timestamp": 194,
+              "content": "所认为你个人不行"
+            },
+            {
+              "start_timestamp": 194,
+              "end_timestamp": 196,
+              "content": "我从来不去否定你"
+            },
+            {
+              "start_timestamp": 196,
+              "end_timestamp": 198,
+              "content": "你亏的不是你自己智商不够"
+            },
+            {
+              "start_timestamp": 198,
+              "end_timestamp": 202,
+              "content": "而是踩在了所谓系统性的收费点额"
+            },
+            {
+              "start_timestamp": 202,
+              "end_timestamp": 204,
+              "content": "就到了4000收费站对吧"
+            },
+            {
+              "start_timestamp": 204,
+              "end_timestamp": 205,
+              "content": "1~4000收费站"
+            },
+            {
+              "start_timestamp": 206,
+              "end_timestamp": 208,
+              "content": "你是不是有种感受"
+            },
+            {
+              "start_timestamp": 208,
+              "end_timestamp": 212,
+              "content": "那么这一届这一期不是做任何推荐"
+            },
+            {
+              "start_timestamp": 212,
+              "end_timestamp": 216,
+              "content": "是你去帮你理解你折损这件事情的本身结构"
+            },
+            {
+              "start_timestamp": 216,
+              "end_timestamp": 218,
+              "content": "你的信息差情绪"
+            },
+            {
+              "start_timestamp": 218,
+              "end_timestamp": 219,
+              "content": "然后时间"
+            },
+            {
+              "start_timestamp": 219,
+              "end_timestamp": 221,
+              "content": "然后到底是谁在收税"
+            },
+            {
+              "start_timestamp": 221,
+              "end_timestamp": 224,
+              "content": "怎么去少交"
+            },
+            {
+              "start_timestamp": 224,
+              "end_timestamp": 225,
+              "content": "我们来看到这里"
+            },
+            {
+              "start_timestamp": 225,
+              "end_timestamp": 227,
+              "content": "你一共中了几条"
+            },
+            {
+              "start_timestamp": 227,
+              "end_timestamp": 229,
+              "content": "这几条一买就跌"
+            },
+            {
+              "start_timestamp": 229,
+              "end_timestamp": 230,
+              "content": "一卖就涨"
+            },
+            {
+              "start_timestamp": 230,
+              "end_timestamp": 233,
+              "content": "仿佛整个市场就在盯着你一个人对吧"
+            },
+            {
+              "start_timestamp": 233,
+              "end_timestamp": 234,
+              "content": "第二个听消息"
+            },
+            {
+              "start_timestamp": 234,
+              "end_timestamp": 235,
+              "content": "看大V加群"
+            },
+            {
+              "start_timestamp": 235,
+              "end_timestamp": 239,
+              "content": "每次都觉得自己这一次终于跟上了"
+            },
+            {
+              "start_timestamp": 239,
+              "end_timestamp": 241,
+              "content": "而且每天你耗费在盯盘复盘的时间"
+            },
+            {
+              "start_timestamp": 241,
+              "end_timestamp": 243,
+              "content": "五六个小时甚至七八个小时"
+            },
+            {
+              "start_timestamp": 243,
+              "end_timestamp": 245,
+              "content": "你的K线越看越焦虑"
+            },
+            {
+              "start_timestamp": 245,
+              "end_timestamp": 247,
+              "content": "操作是越来越多"
+            },
+            {
+              "start_timestamp": 247,
+              "end_timestamp": 250,
+              "content": "而且你越努力研究账户的缩水就越快"
+            },
+            {
+              "start_timestamp": 250,
+              "end_timestamp": 254,
+              "content": "但是你却说不清楚自己到底错在哪儿"
+            },
+            {
+              "start_timestamp": 254,
+              "end_timestamp": 257,
+              "content": "这些都不是因为你笨"
+            },
+            {
+              "start_timestamp": 258,
+              "end_timestamp": 259,
+              "content": "都不是因为你笨"
+            },
+            {
+              "start_timestamp": 259,
+              "end_timestamp": 264,
+              "content": "只是因为你踩在了系统性的收费节点"
+            },
+            {
+              "start_timestamp": 265,
+              "end_timestamp": 268,
+              "content": "韭菜的真相是认知税"
+            },
+            {
+              "start_timestamp": 269,
+              "end_timestamp": 272,
+              "content": "当你的认知能力小于市场所需时"
+            },
+            {
+              "start_timestamp": 272,
+              "end_timestamp": 275,
+              "content": "你每次的决策都在为为信息差"
+            },
+            {
+              "start_timestamp": 275,
+              "end_timestamp": 276,
+              "content": "为情绪差"
+            },
+            {
+              "start_timestamp": 276,
+              "end_timestamp": 277,
+              "content": "为时间买单"
+            },
+            {
+              "start_timestamp": 277,
+              "end_timestamp": 280,
+              "content": "而这笔税就是认知税"
+            },
+            {
+              "start_timestamp": 280,
+              "end_timestamp": 282,
+              "content": "没有人说不交税"
+            },
+            {
+              "start_timestamp": 282,
+              "end_timestamp": 283,
+              "content": "但是你能不能少交"
+            },
+            {
+              "start_timestamp": 283,
+              "end_timestamp": 285,
+              "content": "能不能少错"
+            },
+            {
+              "start_timestamp": 285,
+              "end_timestamp": 287,
+              "content": "能不能少去顶几条"
+            },
+            {
+              "start_timestamp": 287,
+              "end_timestamp": 290,
+              "content": "那么我们从认知的几个架构上"
+            },
+            {
+              "start_timestamp": 290,
+              "end_timestamp": 292,
+              "content": "信息差情绪"
+            },
+            {
+              "start_timestamp": 292,
+              "end_timestamp": 294,
+              "content": "然后时间你层层叠加"
+            },
+            {
+              "start_timestamp": 294,
+              "end_timestamp": 296,
+              "content": "第一个信息差"
+            },
+            {
+              "start_timestamp": 296,
+              "end_timestamp": 298,
+              "content": "你现在看到的所有内容"
+            },
+            {
+              "start_timestamp": 298,
+              "end_timestamp": 301,
+              "content": "我们存在一个信息茧房"
+            },
+            {
+              "start_timestamp": 301,
+              "end_timestamp": 305,
+              "content": "你看到的都是别人想让你看到的"
+            },
+            {
+              "start_timestamp": 305,
+              "end_timestamp": 306,
+              "content": "上市公司讲故事"
+            },
+            {
+              "start_timestamp": 306,
+              "end_timestamp": 307,
+              "content": "大V筛选观点"
+            },
+            {
+              "start_timestamp": 307,
+              "end_timestamp": 309,
+              "content": "庄家操盘口"
+            },
+            {
+              "start_timestamp": 309,
+              "end_timestamp": 310,
+              "content": "而普通的散户"
+            },
+            {
+              "start_timestamp": 310,
+              "end_timestamp": 314,
+              "content": "个人投资者总是处在信息链的末端"
+            },
+            {
+              "start_timestamp": 314,
+              "end_timestamp": 316,
+              "content": "就像之前讲过厄尔尼诺"
+            },
+            {
+              "start_timestamp": 317,
+              "end_timestamp": 321,
+              "content": "当你知道厄尔尼诺在整个全网爆发的时候"
+            },
+            {
+              "start_timestamp": 321,
+              "end_timestamp": 324,
+              "content": "我在什么时间里跟你们提过"
+            },
+            {
+              "start_timestamp": 324,
+              "end_timestamp": 326,
+              "content": "我说了逻辑一定要在前"
+            },
+            {
+              "start_timestamp": 326,
+              "end_timestamp": 328,
+              "content": "你思考的东西一定要在前面"
+            },
+            {
+              "start_timestamp": 328,
+              "end_timestamp": 330,
+              "content": "不是等到爆发了"
+            },
+            {
+              "start_timestamp": 330,
+              "end_timestamp": 334,
+              "content": "不是等到整个都已经浪潮顶到天上去了"
+            },
+            {
+              "start_timestamp": 334,
+              "end_timestamp": 335,
+              "content": "对啊站在光里"
+            },
+            {
+              "start_timestamp": 335,
+              "end_timestamp": 336,
+              "content": "不要光站在那里"
+            },
+            {
+              "start_timestamp": 336,
+              "end_timestamp": 338,
+              "content": "这句话什么时候出来的"
+            },
+            {
+              "start_timestamp": 338,
+              "end_timestamp": 339,
+              "content": "你们知道吗"
+            },
+            {
+              "start_timestamp": 339,
+              "end_timestamp": 341,
+              "content": "5月中下旬是啊"
+            },
+            {
+              "start_timestamp": 341,
+              "end_timestamp": 343,
+              "content": "5月中下旬的光美吗"
+            },
+            {
+              "start_timestamp": 343,
+              "end_timestamp": 345,
+              "content": "视频是真的很美"
+            },
+            {
+              "start_timestamp": 345,
+              "end_timestamp": 347,
+              "content": "因为它绿的发光"
+            },
+            {
+              "start_timestamp": 347,
+              "end_timestamp": 349,
+              "content": "那道光叫绿光"
+            },
+            {
+              "start_timestamp": 349,
+              "end_timestamp": 350,
+              "content": "你5月底6月份来"
+            },
+            {
+              "start_timestamp": 350,
+              "end_timestamp": 352,
+              "content": "光站在光里吗"
+            },
+            {
+              "start_timestamp": 352,
+              "end_timestamp": 355,
+              "content": "那个时候到底是谁记住了"
+            },
+            {
+              "start_timestamp": 357,
+              "end_timestamp": 360,
+              "content": "你不要让自己处在信息链的末端"
+            },
+            {
+              "start_timestamp": 360,
+              "end_timestamp": 362,
+              "content": "你越去依赖二手信息"
+            },
+            {
+              "start_timestamp": 362,
+              "end_timestamp": 364,
+              "content": "就容易在别人想出货时接盘"
+            },
+            {
+              "start_timestamp": 364,
+              "end_timestamp": 366,
+              "content": "在别人想洗手时割肉"
+            },
+            {
+              "start_timestamp": 366,
+              "end_timestamp": 367,
+              "content": "你的信息源"
+            },
+            {
+              "start_timestamp": 367,
+              "end_timestamp": 368,
+              "content": "财报趋势"
+            },
+            {
+              "start_timestamp": 368,
+              "end_timestamp": 370,
+              "content": "大V观点"
+            },
+            {
+              "start_timestamp": 370,
+              "end_timestamp": 371,
+              "content": "新闻盘口信号"
+            },
+            {
+              "start_timestamp": 371,
+              "end_timestamp": 375,
+              "content": "而传播链是筛选放大情绪化包装"
+            },
+            {
+              "start_timestamp": 375,
+              "end_timestamp": 378,
+              "content": "最后你去在最尾端"
+            },
+            {
+              "start_timestamp": 378,
+              "end_timestamp": 381,
+              "content": "也就记住了核心点的一个东西"
+            },
+            {
+              "start_timestamp": 381,
+              "end_timestamp": 384,
+              "content": "叫做越靠信息的末端越先接盘"
+            },
+            {
+              "start_timestamp": 384,
+              "end_timestamp": 386,
+              "content": "最后离场"
+            },
+            {
+              "start_timestamp": 386,
+              "end_timestamp": 390,
+              "content": "那么从情绪点上我们去看到"
+            },
+            {
+              "start_timestamp": 390,
+              "end_timestamp": 392,
+              "content": "频繁交易者"
+            },
+            {
+              "start_timestamp": 392,
+              "end_timestamp": 396,
+              "content": "年化收益是落后于整个市场基准的百分点的"
+            },
+            {
+              "start_timestamp": 396,
+              "end_timestamp": 397,
+              "content": "不要平反"
+            },
+            {
+              "start_timestamp": 397,
+              "end_timestamp": 398,
+              "content": "为什么拒绝频繁"
+            },
+            {
+              "start_timestamp": 398,
+              "end_timestamp": 400,
+              "content": "尤其是追涨杀跌"
+            },
+            {
+              "start_timestamp": 400,
+              "end_timestamp": 403,
+              "content": "而散户卖出盈利股的概率是"
+            },
+            {
+              "start_timestamp": 403,
+              "end_timestamp": 407,
+              "content": "卖出亏损股的倍数是1.5倍甚至两倍"
+            },
+            {
+              "start_timestamp": 407,
+              "end_timestamp": 409,
+              "content": "之前这边统计过"
+            },
+            {
+              "start_timestamp": 409,
+              "end_timestamp": 410,
+              "content": "我用了两个端口"
+            },
+            {
+              "start_timestamp": 410,
+              "end_timestamp": 412,
+              "content": "一个是美国家庭账户"
+            },
+            {
+              "start_timestamp": 412,
+              "end_timestamp": 415,
+              "content": "他的反馈和当下A股的反馈"
+            },
+            {
+              "start_timestamp": 415,
+              "end_timestamp": 418,
+              "content": "两代两个市场"
+            },
+            {
+              "start_timestamp": 418,
+              "end_timestamp": 419,
+              "content": "同样的"
+            },
+            {
+              "start_timestamp": 419,
+              "end_timestamp": 420,
+              "content": "你说唉每股对吧"
+            },
+            {
+              "start_timestamp": 420,
+              "end_timestamp": 423,
+              "content": "漂亮这边每天往上走啊"
+            },
+            {
+              "start_timestamp": 423,
+              "end_timestamp": 424,
+              "content": "天天创新高"
+            },
+            {
+              "start_timestamp": 424,
+              "end_timestamp": 427,
+              "content": "阶段性阶段性的新高不断创"
+            },
+            {
+              "start_timestamp": 427,
+              "end_timestamp": 429,
+              "content": "但是实际上追涨杀跌"
+            },
+            {
+              "start_timestamp": 429,
+              "end_timestamp": 431,
+              "content": "频繁交易"
+            },
+            {
+              "start_timestamp": 431,
+              "end_timestamp": 432,
+              "content": "割肉离场"
+            },
+            {
+              "start_timestamp": 433,
+              "end_timestamp": 436,
+              "content": "所以市场在利用你的恐惧与贪婪"
+            },
+            {
+              "start_timestamp": 436,
+              "end_timestamp": 437,
+              "content": "自动扣款"
+            },
+            {
+              "start_timestamp": 437,
+              "end_timestamp": 440,
+              "content": "每天一打开手机想退钱"
+            },
+            {
+              "start_timestamp": 440,
+              "end_timestamp": 441,
+              "content": "老了"
+            },
+            {
+              "start_timestamp": 441,
+              "end_timestamp": 444,
+              "content": "第三层是你的时间和注意力"
+            },
+            {
+              "start_timestamp": 444,
+              "end_timestamp": 445,
+              "content": "平凡的交易"
+            },
+            {
+              "start_timestamp": 445,
+              "end_timestamp": 446,
+              "content": "你以为的努力"
+            },
+            {
+              "start_timestamp": 446,
+              "end_timestamp": 446,
+              "content": "我说了"
+            },
+            {
+              "start_timestamp": 446,
+              "end_timestamp": 448,
+              "content": "为什么有时候不要去努力"
+            },
+            {
+              "start_timestamp": 448,
+              "end_timestamp": 449,
+              "content": "为什么不要努力"
+            },
+            {
+              "start_timestamp": 449,
+              "end_timestamp": 452,
+              "content": "努力的结果有什么努力没有结果"
+            },
+            {
+              "start_timestamp": 452,
+              "end_timestamp": 455,
+              "content": "努力可能迎接到你的手上的结果"
+            },
+            {
+              "start_timestamp": 455,
+              "end_timestamp": 459,
+              "content": "就是兄弟不好意思折损掉了"
+            },
+            {
+              "start_timestamp": 460,
+              "end_timestamp": 462,
+              "content": "所以更要注意是什么"
+            },
+            {
+              "start_timestamp": 462,
+              "end_timestamp": 465,
+              "content": "我们除了每次你每笔交易"
+            },
+            {
+              "start_timestamp": 465,
+              "end_timestamp": 467,
+              "content": "要需要需要付出的手续"
+            },
+            {
+              "start_timestamp": 467,
+              "end_timestamp": 468,
+              "content": "手续费"
+            },
+            {
+              "start_timestamp": 468,
+              "end_timestamp": 471,
+              "content": "印花划点就划点是波动啊"
+            },
+            {
+              "start_timestamp": 471,
+              "end_timestamp": 472,
+              "content": "单笔看似不起眼"
+            },
+            {
+              "start_timestamp": 472,
+              "end_timestamp": 474,
+              "content": "但是一年操作几百次"
+            },
+            {
+              "start_timestamp": 474,
+              "end_timestamp": 475,
+              "content": "甚至有有兄弟说"
+            },
+            {
+              "start_timestamp": 475,
+              "end_timestamp": 477,
+              "content": "我一年1000次累积的磨损"
+            },
+            {
+              "start_timestamp": 477,
+              "end_timestamp": 480,
+              "content": "能把你的本金磨掉一层皮"
+            },
+            {
+              "start_timestamp": 482,
+              "end_timestamp": 485,
+              "content": "第二更隐蔽的是注意力的水"
+            },
+            {
+              "start_timestamp": 485,
+              "end_timestamp": 486,
+              "content": "你去刷视频"
+            },
+            {
+              "start_timestamp": 486,
+              "end_timestamp": 487,
+              "content": "看直播"
+            },
+            {
+              "start_timestamp": 487,
+              "end_timestamp": 488,
+              "content": "盯群聊"
+            },
+            {
+              "start_timestamp": 488,
+              "end_timestamp": 490,
+              "content": "以为是在获取信息"
+            },
+            {
+              "start_timestamp": 490,
+              "end_timestamp": 494,
+              "content": "其实算法一直都在把你的情绪训练成"
+            },
+            {
+              "start_timestamp": 494,
+              "end_timestamp": 495,
+              "content": "下一波交易的燃料"
+            },
+            {
+              "start_timestamp": 496,
+              "end_timestamp": 498,
+              "content": "少动不是懒"
+            },
+            {
+              "start_timestamp": 500,
+              "end_timestamp": 504,
+              "content": "你的注意力是会被持续性的收割"
+            },
+            {
+              "start_timestamp": 504,
+              "end_timestamp": 505,
+              "content": "你看我的视频"
+            },
+            {
+              "start_timestamp": 505,
+              "end_timestamp": 506,
+              "content": "看一条"
+            },
+            {
+              "start_timestamp": 506,
+              "end_timestamp": 507,
+              "content": "看两条"
+            },
+            {
+              "start_timestamp": 507,
+              "end_timestamp": 507,
+              "content": "看三条"
+            },
+            {
+              "start_timestamp": 507,
+              "end_timestamp": 509,
+              "content": "你觉得能学习的地方"
+            },
+            {
+              "start_timestamp": 509,
+              "end_timestamp": 510,
+              "content": "你记下笔记"
+            },
+            {
+              "start_timestamp": 510,
+              "end_timestamp": 514,
+              "content": "你去看所有告诉你新闻类的"
+            },
+            {
+              "start_timestamp": 514,
+              "end_timestamp": 516,
+              "content": "如果只是单纯的新闻"
+            },
+            {
+              "start_timestamp": 516,
+              "end_timestamp": 519,
+              "content": "如果单纯只是这个人在口述"
+            },
+            {
+              "start_timestamp": 519,
+              "end_timestamp": 523,
+              "content": "你实际上的学习能力有吗"
+            },
+            {
+              "start_timestamp": 524,
+              "end_timestamp": 528,
+              "content": "站在我的角度上来理解你能够看到的信息"
+            },
+            {
+              "start_timestamp": 528,
+              "end_timestamp": 530,
+              "content": "等到到你手上的信息"
+            },
+            {
+              "start_timestamp": 530,
+              "end_timestamp": 532,
+              "content": "告诉你厄尔尼诺多好的故事"
+            },
+            {
+              "start_timestamp": 532,
+              "end_timestamp": 534,
+              "content": "在等到你知道的时候"
+            },
+            {
+              "start_timestamp": 534,
+              "end_timestamp": 536,
+              "content": "你就是末端"
+            },
+            {
+              "start_timestamp": 537,
+              "end_timestamp": 538,
+              "content": "我之前说过"
+            },
+            {
+              "start_timestamp": 538,
+              "end_timestamp": 542,
+              "content": "能够到你手上的消息都他妈不是消息"
+            },
+            {
+              "start_timestamp": 542,
+              "end_timestamp": 544,
+              "content": "懂吗"
+            },
+            {
+              "start_timestamp": 544,
+              "end_timestamp": 548,
+              "content": "你都能知道的消息算什么消息呢"
+            },
+            {
+              "start_timestamp": 548,
+              "end_timestamp": 549,
+              "content": "想清楚这句话"
+            },
+            {
+              "start_timestamp": 550,
+              "end_timestamp": 554,
+              "content": "所以谁在收谁"
+            },
+            {
+              "start_timestamp": 554,
+              "end_timestamp": 556,
+              "content": "我们才能怎么去少交"
+            },
+            {
+              "start_timestamp": 556,
+              "end_timestamp": 558,
+              "content": "不是说对手盘或者怎么样"
+            },
+            {
+              "start_timestamp": 558,
+              "end_timestamp": 561,
+              "content": "我们之前讲过庄家主力机构"
+            },
+            {
+              "start_timestamp": 561,
+              "end_timestamp": 564,
+              "content": "他们利用的是拥有的是信息优势"
+            },
+            {
+              "start_timestamp": 564,
+              "end_timestamp": 565,
+              "content": "能够去制造波动"
+            },
+            {
+              "start_timestamp": 565,
+              "end_timestamp": 568,
+              "content": "而且有资金优势引导预期对吧"
+            },
+            {
+              "start_timestamp": 568,
+              "end_timestamp": 569,
+              "content": "还有一种是什么呢"
+            },
+            {
+              "start_timestamp": 569,
+              "end_timestamp": 571,
+              "content": "无良的大兵直接甩单晒图"
+            },
+            {
+              "start_timestamp": 571,
+              "end_timestamp": 573,
+              "content": "给你营造出狂欢的氛围"
+            },
+            {
+              "start_timestamp": 573,
+              "end_timestamp": 576,
+              "content": "但实际呢实际情况到底如何"
+            },
+            {
+              "start_timestamp": 576,
+              "end_timestamp": 578,
+              "content": "自己心里也都有数"
+            },
+            {
+              "start_timestamp": 578,
+              "end_timestamp": 581,
+              "content": "第三个叫做平台的算法"
+            },
+            {
+              "start_timestamp": 581,
+              "end_timestamp": 582,
+              "content": "给的是你想看的"
+            },
+            {
+              "start_timestamp": 582,
+              "end_timestamp": 583,
+              "content": "让你爽的"
+            },
+            {
+              "start_timestamp": 583,
+              "end_timestamp": 584,
+              "content": "让你焦虑的"
+            },
+            {
+              "start_timestamp": 584,
+              "end_timestamp": 589,
+              "content": "把你的情绪放大放大到训练成高频交易的开关"
+            },
+            {
+              "start_timestamp": 589,
+              "end_timestamp": 592,
+              "content": "你自己才是最大的受税者"
+            },
+            {
+              "start_timestamp": 592,
+              "end_timestamp": 594,
+              "content": "是你自己的认知盲区"
+            },
+            {
+              "start_timestamp": 594,
+              "end_timestamp": 595,
+              "content": "盲区不补"
+            },
+            {
+              "start_timestamp": 595,
+              "end_timestamp": 601,
+              "content": "上面的三种人永远都有机会记住了"
+            },
+            {
+              "start_timestamp": 601,
+              "end_timestamp": 602,
+              "content": "懂了吗"
+            },
+            {
+              "start_timestamp": 602,
+              "end_timestamp": 605,
+              "content": "有朋友会有一个消息公开前就异动"
+            },
+            {
+              "start_timestamp": 605,
+              "end_timestamp": 609,
+              "content": "会因为内部交易被风险账号和罚款吗"
+            },
+            {
+              "start_timestamp": 610,
+              "end_timestamp": 613,
+              "content": "我消息为什么要公开"
+            },
+            {
+              "start_timestamp": 613,
+              "end_timestamp": 615,
+              "content": "基于市场公开信息梳理内容"
+            },
+            {
+              "start_timestamp": 615,
+              "end_timestamp": 617,
+              "content": "这是基于市场公开信息"
+            },
+            {
+              "start_timestamp": 617,
+              "end_timestamp": 619,
+              "content": "厄尔尼诺的事件是公开的"
+            },
+            {
+              "start_timestamp": 619,
+              "end_timestamp": 621,
+              "content": "还是说滞后的"
+            },
+            {
+              "start_timestamp": 621,
+              "end_timestamp": 623,
+              "content": "厄尔尼诺的事件什么时候来的"
+            },
+            {
+              "start_timestamp": 624,
+              "end_timestamp": 626,
+              "content": "看清楚什么时候来的"
+            },
+            {
+              "start_timestamp": 626,
+              "end_timestamp": 629,
+              "content": "厄尔尼诺的故事讲的时间更早"
+            },
+            {
+              "start_timestamp": 629,
+              "end_timestamp": 631,
+              "content": "它来自于共识是什么"
+            },
+            {
+              "start_timestamp": 634,
+              "end_timestamp": 635,
+              "content": "来自于是什么"
+            },
+            {
+              "start_timestamp": 635,
+              "end_timestamp": 637,
+              "content": "联合国世界粮食计划署"
+            },
+            {
+              "start_timestamp": 637,
+              "end_timestamp": 640,
+              "content": "WF发布了一份震动全球的报告"
+            },
+            {
+              "start_timestamp": 640,
+              "end_timestamp": 643,
+              "content": "一场强厄尔尼诺天气事件可能导致"
+            },
+            {
+              "start_timestamp": 643,
+              "end_timestamp": 644,
+              "content": "2027年年底之前"
+            },
+            {
+              "start_timestamp": 644,
+              "end_timestamp": 648,
+              "content": "全球部分最脆弱地区将新增近4900万人"
+            },
+            {
+              "start_timestamp": 648,
+              "end_timestamp": 650,
+              "content": "陷入严重粮食不安全状态"
+            },
+            {
+              "start_timestamp": 650,
+              "end_timestamp": 651,
+              "content": "转瞬即逝"
+            },
+            {
+              "start_timestamp": 651,
+              "end_timestamp": 652,
+              "content": "来到了8月份"
+            },
+            {
+              "start_timestamp": 652,
+              "end_timestamp": 654,
+              "content": "8月10号对吗"
+            },
+            {
+              "start_timestamp": 654,
+              "end_timestamp": 656,
+              "content": "谁给你的消息"
+            },
+            {
+              "start_timestamp": 656,
+              "end_timestamp": 658,
+              "content": "上个周的周一周天晚上"
+            },
+            {
+              "start_timestamp": 658,
+              "end_timestamp": 662,
+              "content": "摩根大通发布这是否公开信息"
+            },
+            {
+              "start_timestamp": 663,
+              "end_timestamp": 664,
+              "content": "基于市场公开信息"
+            },
+            {
+              "start_timestamp": 664,
+              "end_timestamp": 667,
+              "content": "等你知道的消息晚了吗"
+            },
+            {
+              "start_timestamp": 667,
+              "end_timestamp": 670,
+              "content": "而我提前什么时候跟你讲厄尔尼诺"
+            },
+            {
+              "start_timestamp": 670,
+              "end_timestamp": 671,
+              "content": "我说天气已经变化了"
+            },
+            {
+              "start_timestamp": 671,
+              "end_timestamp": 673,
+              "content": "变化特别大"
+            },
+            {
+              "start_timestamp": 673,
+              "end_timestamp": 676,
+              "content": "所以散户最大的痛点"
+            },
+            {
+              "start_timestamp": 676,
+              "end_timestamp": 679,
+              "content": "你被收割的永远不是钱"
+            },
+            {
+              "start_timestamp": 679,
+              "end_timestamp": 680,
+              "content": "你盯着他妈是钱"
+            },
+            {
+              "start_timestamp": 680,
+              "end_timestamp": 682,
+              "content": "我盯的是你的认知"
+            },
+            {
+              "start_timestamp": 682,
+              "end_timestamp": 684,
+              "content": "为什么要补干货"
+            },
+            {
+              "start_timestamp": 684,
+              "end_timestamp": 686,
+              "content": "补基础性知识"
+            },
+            {
+              "start_timestamp": 686,
+              "end_timestamp": 687,
+              "content": "为什么要补认知这一块"
+            },
+            {
+              "start_timestamp": 687,
+              "end_timestamp": 689,
+              "content": "找准你自己应该怎么做"
+            },
+            {
+              "start_timestamp": 689,
+              "end_timestamp": 691,
+              "content": "找准你的定位"
+            },
+            {
+              "start_timestamp": 692,
+              "end_timestamp": 693,
+              "content": "你要记住"
+            },
+            {
+              "start_timestamp": 693,
+              "end_timestamp": 696,
+              "content": "你永远是处于信息的末端"
+            },
+            {
+              "start_timestamp": 696,
+              "end_timestamp": 701,
+              "content": "能不能让自己更早更早的去梳理内容"
+            },
+            {
+              "start_timestamp": 701,
+              "end_timestamp": 702,
+              "content": "我学的是什么"
+            },
+            {
+              "start_timestamp": 702,
+              "end_timestamp": 704,
+              "content": "我这个专业做什么的"
+            },
+            {
+              "start_timestamp": 704,
+              "end_timestamp": 705,
+              "content": "很多朋友不清楚对吧"
+            },
+            {
+              "start_timestamp": 705,
+              "end_timestamp": 706,
+              "content": "去搜索一下"
+            },
+            {
+              "start_timestamp": 706,
+              "end_timestamp": 707,
+              "content": "了解一下"
+            },
+            {
+              "start_timestamp": 708,
+              "end_timestamp": 711,
+              "content": "散户亏损的根源不在于行情涨跌"
+            },
+            {
+              "start_timestamp": 711,
+              "end_timestamp": 713,
+              "content": "或者说有没有什么装操控"
+            },
+            {
+              "start_timestamp": 713,
+              "end_timestamp": 714,
+              "content": "而在于你的三重认知"
+            },
+            {
+              "start_timestamp": 714,
+              "end_timestamp": 717,
+              "content": "第一信息链末端的被动地位"
+            },
+            {
+              "start_timestamp": 717,
+              "end_timestamp": 720,
+              "content": "第二情绪驱动的非理性决策"
+            },
+            {
+              "start_timestamp": 720,
+              "end_timestamp": 722,
+              "content": "以及规则和工具的全面落后"
+            },
+            {
+              "start_timestamp": 722,
+              "end_timestamp": 724,
+              "content": "我现在给你们补了"
+            },
+            {
+              "start_timestamp": 725,
+              "end_timestamp": 729,
+              "content": "都给你们给到各位"
+            },
+            {
+              "start_timestamp": 729,
+              "end_timestamp": 735,
+              "content": "这三重税叠加构成了散户持续亏损的根源"
+            },
+            {
+              "start_timestamp": 735,
+              "end_timestamp": 736,
+              "content": "所以你每天说自己被收割"
+            },
+            {
+              "start_timestamp": 736,
+              "end_timestamp": 738,
+              "content": "你收割到底是什么"
+            },
+            {
+              "start_timestamp": 738,
+              "end_timestamp": 739,
+              "content": "收割的不是你"
+            },
+            {
+              "start_timestamp": 739,
+              "end_timestamp": 741,
+              "content": "那不是你的仨瓜俩枣"
+            },
+            {
+              "start_timestamp": 741,
+              "end_timestamp": 742,
+              "content": "是你持续性的认知"
+            },
+            {
+              "start_timestamp": 742,
+              "end_timestamp": 747,
+              "content": "为什么有人说我炒股炒10年还他妈亏钱"
+            },
+            {
+              "start_timestamp": 747,
+              "end_timestamp": 749,
+              "content": "你到底是在炒股"
+            },
+            {
+              "start_timestamp": 749,
+              "end_timestamp": 751,
+              "content": "到底是在做还是做什么"
+            },
+            {
+              "start_timestamp": 751,
+              "end_timestamp": 752,
+              "content": "你没有"
+            },
+            {
+              "start_timestamp": 752,
+              "end_timestamp": 754,
+              "content": "你不知道"
+            },
+            {
+              "start_timestamp": 755,
+              "end_timestamp": 756,
+              "content": "记住了"
+            },
+            {
+              "start_timestamp": 756,
+              "end_timestamp": 761,
+              "content": "不要去把你的折损归咎于行情"
+            },
+            {
+              "start_timestamp": 761,
+              "end_timestamp": 763,
+              "content": "归咎于消息"
+            },
+            {
+              "start_timestamp": 763,
+              "end_timestamp": 767,
+              "content": "归咎于控盘的这个真正的收割"
+            },
+            {
+              "start_timestamp": 767,
+              "end_timestamp": 769,
+              "content": "在你的认知层面"
+            },
+            {
+              "start_timestamp": 769,
+              "end_timestamp": 773,
+              "content": "一会我会去讲你的认知从哪来"
+            },
+            {
+              "start_timestamp": 776,
+              "end_timestamp": 777,
+              "content": "认知税的本质"
+            },
+            {
+              "start_timestamp": 779,
+              "end_timestamp": 780,
+              "content": "你再去一查一查被收割"
+            },
+            {
+              "start_timestamp": 780,
+              "end_timestamp": 783,
+              "content": "一查一查再交信息税"
+            },
+            {
+              "start_timestamp": 783,
+              "end_timestamp": 785,
+              "content": "让你永远最后一个知道情绪税"
+            },
+            {
+              "start_timestamp": 785,
+              "end_timestamp": 787,
+              "content": "情绪税让你永远在最差的时间里操作"
+            },
+            {
+              "start_timestamp": 789,
+              "end_timestamp": 790,
+              "content": "追涨杀跌嘛"
+            },
+            {
+              "start_timestamp": 791,
+              "end_timestamp": 792,
+              "content": "情绪化呀"
+            },
+            {
+              "start_timestamp": 792,
+              "end_timestamp": 793,
+              "content": "涨了追"
+            },
+            {
+              "start_timestamp": 793,
+              "end_timestamp": 795,
+              "content": "为什么要去追"
+            },
+            {
+              "start_timestamp": 795,
+              "end_timestamp": 796,
+              "content": "符合模式吗"
+            },
+            {
+              "start_timestamp": 796,
+              "end_timestamp": 797,
+              "content": "符不符合你的预期"
+            },
+            {
+              "start_timestamp": 797,
+              "end_timestamp": 799,
+              "content": "不符合参与他干什么"
+            },
+            {
+              "start_timestamp": 799,
+              "end_timestamp": 804,
+              "content": "而规则是让你的交易成本持续的侵蚀本金"
+            },
+            {
+              "start_timestamp": 804,
+              "end_timestamp": 805,
+              "content": "你不清楚交易规则"
+            },
+            {
+              "start_timestamp": 805,
+              "end_timestamp": 806,
+              "content": "不知道"
+            },
+            {
+              "start_timestamp": 806,
+              "end_timestamp": 807,
+              "content": "那怎么办"
+            },
+            {
+              "start_timestamp": 808,
+              "end_timestamp": 810,
+              "content": "好再试"
+            },
+            {
+              "start_timestamp": 810,
+              "end_timestamp": 811,
+              "content": "从几个点上"
+            },
+            {
+              "start_timestamp": 811,
+              "end_timestamp": 814,
+              "content": "你是信息链的最后一环"
+            },
+            {
+              "start_timestamp": 814,
+              "end_timestamp": 817,
+              "content": "为什么我讲你们是最后一环"
+            },
+            {
+              "start_timestamp": 818,
+              "end_timestamp": 821,
+              "content": "第一散户的信息来源于65%"
+            },
+            {
+              "start_timestamp": 821,
+              "end_timestamp": 823,
+              "content": "来源于自媒体"
+            },
+            {
+              "start_timestamp": 823,
+              "end_timestamp": 824,
+              "content": "依赖自媒体"
+            },
+            {
+              "start_timestamp": 824,
+              "end_timestamp": 826,
+              "content": "52%依赖社交平台"
+            },
+            {
+              "start_timestamp": 826,
+              "end_timestamp": 828,
+              "content": "当利好金融机构"
+            },
+            {
+              "start_timestamp": 828,
+              "end_timestamp": 831,
+              "content": "媒体大V散户层层传递到你手上时"
+            },
+            {
+              "start_timestamp": 831,
+              "end_timestamp": 833,
+              "content": "价格已经充分反应"
+            },
+            {
+              "start_timestamp": 833,
+              "end_timestamp": 834,
+              "content": "而你冲进去的时候"
+            },
+            {
+              "start_timestamp": 834,
+              "end_timestamp": 837,
+              "content": "有可能就是最后一批的接盘者"
+            },
+            {
+              "start_timestamp": 838,
+              "end_timestamp": 839,
+              "content": "一条消息出来"
+            },
+            {
+              "start_timestamp": 839,
+              "end_timestamp": 842,
+              "content": "我见过现在小作文"
+            },
+            {
+              "start_timestamp": 842,
+              "end_timestamp": 847,
+              "content": "我记得那天是晚上的18:10几分"
+            },
+            {
+              "start_timestamp": 847,
+              "end_timestamp": 850,
+              "content": "在某个微信啊"
+            },
+            {
+              "start_timestamp": 850,
+              "end_timestamp": 853,
+              "content": "某个小微的这个群里出来的"
+            },
+            {
+              "start_timestamp": 853,
+              "end_timestamp": 854,
+              "content": "好了"
+            },
+            {
+              "start_timestamp": 854,
+              "end_timestamp": 855,
+              "content": "你这条消息啊"
+            },
+            {
+              "start_timestamp": 855,
+              "end_timestamp": 860,
+              "content": "说是达子哥要去要投到啊"
+            },
+            {
+              "start_timestamp": 860,
+              "end_timestamp": 861,
+              "content": "要入股中继对吧"
+            },
+            {
+              "start_timestamp": 861,
+              "end_timestamp": 863,
+              "content": "20亿美元"
+            },
+            {
+              "start_timestamp": 863,
+              "end_timestamp": 865,
+              "content": "18.10几发的"
+            },
+            {
+              "start_timestamp": 865,
+              "end_timestamp": 869,
+              "content": "然后开始在这个你所谓的群聊里面"
+            },
+            {
+              "start_timestamp": 869,
+              "end_timestamp": 870,
+              "content": "社交媒体上啊"
+            },
+            {
+              "start_timestamp": 870,
+              "end_timestamp": 873,
+              "content": "开始传播好"
+            },
+            {
+              "start_timestamp": 873,
+              "end_timestamp": 876,
+              "content": "17:32分还是31分的时候"
+            },
+            {
+              "start_timestamp": 876,
+              "end_timestamp": 877,
+              "content": "在外网出现了"
+            },
+            {
+              "start_timestamp": 878,
+              "end_timestamp": 881,
+              "content": "据消息人士转瞬即逝"
+            },
+            {
+              "start_timestamp": 881,
+              "end_timestamp": 884,
+              "content": "来给你们看到那一天"
+            },
+            {
+              "start_timestamp": 884,
+              "end_timestamp": 887,
+              "content": "这个地方直接直接给你们找到"
+            },
+            {
+              "start_timestamp": 887,
+              "end_timestamp": 890,
+              "content": "来那天我直接搜"
+            },
+            {
+              "start_timestamp": 892,
+              "end_timestamp": 892,
+              "content": "直接搜"
+            },
+            {
+              "start_timestamp": 892,
+              "end_timestamp": 895,
+              "content": "直接去搜到你们来"
+            },
+            {
+              "start_timestamp": 895,
+              "end_timestamp": 896,
+              "content": "在那个时间点"
+            },
+            {
+              "start_timestamp": 896,
+              "end_timestamp": 899,
+              "content": "我记得应该是在再晚一点啊"
+            },
+            {
+              "start_timestamp": 899,
+              "end_timestamp": 902,
+              "content": "那条消息很快"
+            },
+            {
+              "start_timestamp": 906,
+              "end_timestamp": 909,
+              "content": "你去搜去找不到"
+            },
+            {
+              "start_timestamp": 912,
+              "end_timestamp": 914,
+              "content": "说是谁要进场"
+            },
+            {
+              "start_timestamp": 914,
+              "end_timestamp": 919,
+              "content": "对8月13号就这条"
+            },
+            {
+              "start_timestamp": 920,
+              "end_timestamp": 923,
+              "content": "你们知道更早的消息什么时间点出来的吗"
+            },
+            {
+              "start_timestamp": 923,
+              "end_timestamp": 925,
+              "content": "8月12号出来的来"
+            },
+            {
+              "start_timestamp": 925,
+              "end_timestamp": 927,
+              "content": "8月12号出来的"
+            },
+            {
+              "start_timestamp": 927,
+              "end_timestamp": 929,
+              "content": "8月11号晚上先出"
+            },
+            {
+              "start_timestamp": 929,
+              "end_timestamp": 930,
+              "content": "8月12号"
+            },
+            {
+              "start_timestamp": 930,
+              "end_timestamp": 932,
+              "content": "你说传达子哥"
+            },
+            {
+              "start_timestamp": 932,
+              "end_timestamp": 935,
+              "content": "你20亿战略入股中期"
+            },
+            {
+              "start_timestamp": 935,
+              "end_timestamp": 942,
+              "content": "另有一任新总E总IPO基石投资者兄弟"
+            },
+            {
+              "start_timestamp": 942,
+              "end_timestamp": 943,
+              "content": "你知道吗"
+            },
+            {
+              "start_timestamp": 943,
+              "end_timestamp": 944,
+              "content": "等你知道的时候"
+            },
+            {
+              "start_timestamp": 944,
+              "end_timestamp": 946,
+              "content": "都他妈已经乱完了"
+            },
+            {
+              "start_timestamp": 947,
+              "end_timestamp": 948,
+              "content": "你以为你知道"
+            },
+            {
+              "start_timestamp": 948,
+              "end_timestamp": 949,
+              "content": "你以为你牛"
+            },
+            {
+              "start_timestamp": 949,
+              "end_timestamp": 952,
+              "content": "你以为你看到的信息真的厉害"
+            },
+            {
+              "start_timestamp": 952,
+              "end_timestamp": 954,
+              "content": "我当时就一句话给没给结果没给结果"
+            },
+            {
+              "start_timestamp": 954,
+              "end_timestamp": 956,
+              "content": "你跟我聊个屁"
+            },
+            {
+              "start_timestamp": 956,
+              "end_timestamp": 957,
+              "content": "所以啊你相信呀"
+            },
+            {
+              "start_timestamp": 958,
+              "end_timestamp": 962,
+              "content": "光呢这个作文怎么出来的"
+            },
+            {
+              "start_timestamp": 962,
+              "end_timestamp": 967,
+              "content": "因为你绝大多数你在依赖着依赖社交媒体"
+            },
+            {
+              "start_timestamp": 967,
+              "end_timestamp": 969,
+              "content": "依赖信息源"
+            },
+            {
+              "start_timestamp": 969,
+              "end_timestamp": 971,
+              "content": "信息链在传递在衰减"
+            },
+            {
+              "start_timestamp": 971,
+              "end_timestamp": 973,
+              "content": "小作文就这么发出来的"
+            },
+            {
+              "start_timestamp": 973,
+              "end_timestamp": 977,
+              "content": "所以你的天然是滞后于专业机构的"
+            },
+            {
+              "start_timestamp": 977,
+              "end_timestamp": 981,
+              "content": "我能不能做更确定性的东西"
+            },
+            {
+              "start_timestamp": 982,
+              "end_timestamp": 985,
+              "content": "信息学的代价就是基于二手甚至三手甚至五手"
+            },
+            {
+              "start_timestamp": 985,
+              "end_timestamp": 988,
+              "content": "六手七手无数手的消息信息之后"
+            },
+            {
+              "start_timestamp": 988,
+              "end_timestamp": 990,
+              "content": "你做出决策"
+            },
+            {
+              "start_timestamp": 990,
+              "end_timestamp": 992,
+              "content": "知情呢早就已经完成了布局"
+            },
+            {
+              "start_timestamp": 992,
+              "end_timestamp": 996,
+              "content": "你实际上是在为信息差支付它的溢价"
+            },
+            {
+              "start_timestamp": 996,
+              "end_timestamp": 997,
+              "content": "第二点"
+            },
+            {
+              "start_timestamp": 997,
+              "end_timestamp": 1000,
+              "content": "情绪水为什么跟你们讲"
+            },
+            {
+              "start_timestamp": 1000,
+              "end_timestamp": 1001,
+              "content": "不要手痒"
+            },
+            {
+              "start_timestamp": 1002,
+              "end_timestamp": 1006,
+              "content": "你每次手痒都是在交钱行为"
+            },
+            {
+              "start_timestamp": 1006,
+              "end_timestamp": 1006,
+              "content": "金融学"
+            },
+            {
+              "start_timestamp": 1006,
+              "end_timestamp": 1006,
+              "content": "行为"
+            },
+            {
+              "start_timestamp": 1006,
+              "end_timestamp": 1010,
+              "content": "经济学揭示了整个散户存在严重的损失"
+            },
+            {
+              "start_timestamp": 1010,
+              "end_timestamp": 1012,
+              "content": "厌恶和处置效应"
+            },
+            {
+              "start_timestamp": 1012,
+              "end_timestamp": 1015,
+              "content": "盈利单平均持有仅数天即卖出"
+            },
+            {
+              "start_timestamp": 1015,
+              "end_timestamp": 1018,
+              "content": "而亏损则能够死扛两个月及以上"
+            },
+            {
+              "start_timestamp": 1018,
+              "end_timestamp": 1019,
+              "content": "频繁交易的散户"
+            },
+            {
+              "start_timestamp": 1019,
+              "end_timestamp": 1023,
+              "content": "年化收益率比长期持有者低20%以上"
+            },
+            {
+              "start_timestamp": 1023,
+              "end_timestamp": 1024,
+              "content": "情绪的驱动"
+            },
+            {
+              "start_timestamp": 1024,
+              "end_timestamp": 1028,
+              "content": "非理性的操作是你亏损的核心推手"
+            },
+            {
+              "start_timestamp": 1028,
+              "end_timestamp": 1029,
+              "content": "损失厌恶"
+            },
+            {
+              "start_timestamp": 1029,
+              "end_timestamp": 1030,
+              "content": "亏100块的痛苦"
+            },
+            {
+              "start_timestamp": 1030,
+              "end_timestamp": 1033,
+              "content": "需要赚200块才能够弥补"
+            },
+            {
+              "start_timestamp": 1034,
+              "end_timestamp": 1037,
+              "content": "对于亏损过度恐惧"
+            },
+            {
+              "start_timestamp": 1037,
+              "end_timestamp": 1039,
+              "content": "对于盈利过度敏感"
+            },
+            {
+              "start_timestamp": 1039,
+              "end_timestamp": 1040,
+              "content": "决策被情绪主导"
+            },
+            {
+              "start_timestamp": 1040,
+              "end_timestamp": 1043,
+              "content": "而非逻辑主导"
+            },
+            {
+              "start_timestamp": 1044,
+              "end_timestamp": 1046,
+              "content": "为什么要靠情绪来赚钱呢"
+            },
+            {
+              "start_timestamp": 1046,
+              "end_timestamp": 1049,
+              "content": "而你在处置效应上更不用去聊"
+            },
+            {
+              "start_timestamp": 1049,
+              "end_timestamp": 1052,
+              "content": "你赚钱基本上七天就丢掉了"
+            },
+            {
+              "start_timestamp": 1052,
+              "end_timestamp": 1053,
+              "content": "锁定利润"
+            },
+            {
+              "start_timestamp": 1053,
+              "end_timestamp": 1056,
+              "content": "而亏损能扛两个月以上回本"
+            },
+            {
+              "start_timestamp": 1056,
+              "end_timestamp": 1059,
+              "content": "我等7月份跌了"
+            },
+            {
+              "start_timestamp": 1059,
+              "end_timestamp": 1063,
+              "content": "等了科技还没有机会对吗"
+            },
+            {
+              "start_timestamp": 1065,
+              "end_timestamp": 1066,
+              "content": "可是之前讲过的呀"
+            },
+            {
+              "start_timestamp": 1066,
+              "end_timestamp": 1068,
+              "content": "在7月初的时候"
+            },
+            {
+              "start_timestamp": 1068,
+              "end_timestamp": 1068,
+              "content": "如果掉"
+            },
+            {
+              "start_timestamp": 1068,
+              "end_timestamp": 1069,
+              "content": "你就先撤"
+            },
+            {
+              "start_timestamp": 1069,
+              "end_timestamp": 1070,
+              "content": "你已经赚够了"
+            },
+            {
+              "start_timestamp": 1070,
+              "end_timestamp": 1071,
+              "content": "兄弟要收手"
+            },
+            {
+              "start_timestamp": 1071,
+              "end_timestamp": 1073,
+              "content": "阿祖记得收手"
+            },
+            {
+              "start_timestamp": 1073,
+              "end_timestamp": 1076,
+              "content": "你真赚够3000万才收手吗"
+            },
+            {
+              "start_timestamp": 1076,
+              "end_timestamp": 1077,
+              "content": "你赚够3000万"
+            },
+            {
+              "start_timestamp": 1077,
+              "end_timestamp": 1078,
+              "content": "你还想赚一个亿"
+            },
+            {
+              "start_timestamp": 1078,
+              "end_timestamp": 1079,
+              "content": "你赚了一个亿"
+            },
+            {
+              "start_timestamp": 1079,
+              "end_timestamp": 1080,
+              "content": "还想赚十个亿"
+            },
+            {
+              "start_timestamp": 1080,
+              "end_timestamp": 1081,
+              "content": "人的贪婪"
+            },
+            {
+              "start_timestamp": 1081,
+              "end_timestamp": 1084,
+              "content": "人的心是会不断的变的"
+            },
+            {
+              "start_timestamp": 1085,
+              "end_timestamp": 1085,
+              "content": "频"
+            },
+            {
+              "start_timestamp": 1085,
+              "end_timestamp": 1090,
+              "content": "繁交易的代价就是你的年化收益会比长期持有"
+            },
+            {
+              "start_timestamp": 1090,
+              "end_timestamp": 1093,
+              "content": "长期策略的会低20%以上"
+            },
+            {
+              "start_timestamp": 1093,
+              "end_timestamp": 1096,
+              "content": "日均交易五次以上的亏损"
+            },
+            {
+              "start_timestamp": 1096,
+              "end_timestamp": 1099,
+              "content": "记住日均五次以上的亏损"
+            },
+            {
+              "start_timestamp": 1099,
+              "end_timestamp": 1101,
+              "content": "概率是普通投资者两倍"
+            },
+            {
+              "start_timestamp": 1101,
+              "end_timestamp": 1104,
+              "content": "就是你前面频繁交易已经亏钱了"
+            },
+            {
+              "start_timestamp": 1104,
+              "end_timestamp": 1105,
+              "content": "已经亏了"
+            },
+            {
+              "start_timestamp": 1105,
+              "end_timestamp": 1108,
+              "content": "你这边一天五次以上的"
+            },
+            {
+              "start_timestamp": 1108,
+              "end_timestamp": 1109,
+              "content": "那你亏的更多"
+            },
+            {
+              "start_timestamp": 1109,
+              "end_timestamp": 1111,
+              "content": "越努力越亏钱"
+            },
+            {
+              "start_timestamp": 1111,
+              "end_timestamp": 1112,
+              "content": "何必努力呢"
+            },
+            {
+              "start_timestamp": 1112,
+              "end_timestamp": 1115,
+              "content": "情绪是三重陷阱"
+            },
+            {
+              "start_timestamp": 1115,
+              "end_timestamp": 1116,
+              "content": "追涨时的贪婪"
+            },
+            {
+              "start_timestamp": 1116,
+              "end_timestamp": 1118,
+              "content": "杀跌时的恐惧"
+            },
+            {
+              "start_timestamp": 1118,
+              "end_timestamp": 1120,
+              "content": "回本时的侥幸"
+            },
+            {
+              "start_timestamp": 1120,
+              "end_timestamp": 1122,
+              "content": "你的情绪反复驱动"
+            },
+            {
+              "start_timestamp": 1122,
+              "end_timestamp": 1124,
+              "content": "在你最不利的时间点做出决策"
+            },
+            {
+              "start_timestamp": 1124,
+              "end_timestamp": 1126,
+              "content": "不要有侥幸心理"
+            },
+            {
+              "start_timestamp": 1126,
+              "end_timestamp": 1127,
+              "content": "更不要恐惧"
+            },
+            {
+              "start_timestamp": 1127,
+              "end_timestamp": 1128,
+              "content": "也不要贪婪"
+            },
+            {
+              "start_timestamp": 1128,
+              "end_timestamp": 1129,
+              "content": "平常心对待你"
+            },
+            {
+              "start_timestamp": 1129,
+              "end_timestamp": 1130,
+              "content": "对待工作"
+            },
+            {
+              "start_timestamp": 1130,
+              "end_timestamp": 1133,
+              "content": "怎么对待你就怎么对待他好吗"
+            },
+            {
+              "start_timestamp": 1133,
+              "end_timestamp": 1139,
+              "content": "另外规则税你是在一场不对称的游戏当中"
+            },
+            {
+              "start_timestamp": 1139,
+              "end_timestamp": 1142,
+              "content": "以前我讲过公平是相对公平"
+            },
+            {
+              "start_timestamp": 1142,
+              "end_timestamp": 1143,
+              "content": "有绝对吗"
+            },
+            {
+              "start_timestamp": 1143,
+              "end_timestamp": 1149,
+              "content": "没有散户投资者占整个A股99.7%"
+            },
+            {
+              "start_timestamp": 1149,
+              "end_timestamp": 1153,
+              "content": "但是去整体八亏一平一赚"
+            },
+            {
+              "start_timestamp": 1153,
+              "end_timestamp": 1156,
+              "content": "根本原因在规则层面的全面不对称"
+            },
+            {
+              "start_timestamp": 1156,
+              "end_timestamp": 1157,
+              "content": "不是骂"
+            },
+            {
+              "start_timestamp": 1157,
+              "end_timestamp": 1158,
+              "content": "是跟大家讲清楚"
+            },
+            {
+              "start_timestamp": 1158,
+              "end_timestamp": 1160,
+              "content": "第一交易摩擦"
+            },
+            {
+              "start_timestamp": 1160,
+              "end_timestamp": 1165,
+              "content": "每次你的进出都需要覆盖成本"
+            },
+            {
+              "start_timestamp": 1165,
+              "end_timestamp": 1166,
+              "content": "而这种情况下"
+            },
+            {
+              "start_timestamp": 1166,
+              "end_timestamp": 1168,
+              "content": "你能够达到你本金3%"
+            },
+            {
+              "start_timestamp": 1168,
+              "end_timestamp": 1171,
+              "content": "5%甚至10%"
+            },
+            {
+              "start_timestamp": 1171,
+              "end_timestamp": 1172,
+              "content": "理解吗"
+            },
+            {
+              "start_timestamp": 1172,
+              "end_timestamp": 1173,
+              "content": "甚至能够达到10%"
+            },
+            {
+              "start_timestamp": 1173,
+              "end_timestamp": 1176,
+              "content": "如果你真的高频的太高频了"
+            },
+            {
+              "start_timestamp": 1176,
+              "end_timestamp": 1178,
+              "content": "甚至能够达到你10%"
+            },
+            {
+              "start_timestamp": 1178,
+              "end_timestamp": 1179,
+              "content": "我之前在券商的时候"
+            },
+            {
+              "start_timestamp": 1179,
+              "end_timestamp": 1181,
+              "content": "有一有一个客户"
+            },
+            {
+              "start_timestamp": 1181,
+              "end_timestamp": 1183,
+              "content": "他是50万的体量"
+            },
+            {
+              "start_timestamp": 1183,
+              "end_timestamp": 1184,
+              "content": "一个月下来"
+            },
+            {
+              "start_timestamp": 1184,
+              "end_timestamp": 1190,
+              "content": "光是他的佣金不算不算印花税的情况下啊"
+            },
+            {
+              "start_timestamp": 1190,
+              "end_timestamp": 1194,
+              "content": "就算他的佣金他交出来在到我这儿"
+            },
+            {
+              "start_timestamp": 1194,
+              "end_timestamp": 1197,
+              "content": "我是当时我券商客户经理嘛对吧"
+            },
+            {
+              "start_timestamp": 1197,
+              "end_timestamp": 1200,
+              "content": "名下客户他做完之后一个月到我手上"
+            },
+            {
+              "start_timestamp": 1200,
+              "end_timestamp": 1201,
+              "content": "你们猜猜多少钱"
+            },
+            {
+              "start_timestamp": 1201,
+              "end_timestamp": 1202,
+              "content": "废话不多说"
+            },
+            {
+              "start_timestamp": 1202,
+              "end_timestamp": 1204,
+              "content": "9000到我手上"
+            },
+            {
+              "start_timestamp": 1204,
+              "end_timestamp": 1206,
+              "content": "9k500000"
+            },
+            {
+              "start_timestamp": 1206,
+              "end_timestamp": 1207,
+              "content": "每个月给我交五"
+            },
+            {
+              "start_timestamp": 1207,
+              "end_timestamp": 1208,
+              "content": "给我交9000"
+            },
+            {
+              "start_timestamp": 1208,
+              "end_timestamp": 1210,
+              "content": "每个月给我交9000"
+            },
+            {
+              "start_timestamp": 1210,
+              "end_timestamp": 1212,
+              "content": "兄弟他不知道"
+            },
+            {
+              "start_timestamp": 1212,
+              "end_timestamp": 1213,
+              "content": "我跟他讲了"
+            },
+            {
+              "start_timestamp": 1213,
+              "end_timestamp": 1214,
+              "content": "我说兄弟给你调了"
+            },
+            {
+              "start_timestamp": 1214,
+              "end_timestamp": 1216,
+              "content": "给他调到一"
+            },
+            {
+              "start_timestamp": 1216,
+              "end_timestamp": 1218,
+              "content": "当时他做的时候是2.5"
+            },
+            {
+              "start_timestamp": 1218,
+              "end_timestamp": 1219,
+              "content": "给他调到零一"
+            },
+            {
+              "start_timestamp": 1219,
+              "end_timestamp": 1220,
+              "content": "没办法"
+            },
+            {
+              "start_timestamp": 1220,
+              "end_timestamp": 1222,
+              "content": "当时的规则只能叫一只能到一"
+            },
+            {
+              "start_timestamp": 1222,
+              "end_timestamp": 1224,
+              "content": "这在我权限范围之内"
+            },
+            {
+              "start_timestamp": 1224,
+              "end_timestamp": 1225,
+              "content": "已经尽可能申请了"
+            },
+            {
+              "start_timestamp": 1225,
+              "end_timestamp": 1227,
+              "content": "这是你记住交易摩擦"
+            },
+            {
+              "start_timestamp": 1227,
+              "end_timestamp": 1228,
+              "content": "你的摩擦成本"
+            },
+            {
+              "start_timestamp": 1228,
+              "end_timestamp": 1231,
+              "content": "第二胜利与速度的碾压"
+            },
+            {
+              "start_timestamp": 1233,
+              "end_timestamp": 1236,
+              "content": "这次不是去了这个上交所"
+            },
+            {
+              "start_timestamp": 1236,
+              "end_timestamp": 1238,
+              "content": "上次去了深交所"
+            },
+            {
+              "start_timestamp": 1238,
+              "end_timestamp": 1240,
+              "content": "你知不知道旁边的几栋楼"
+            },
+            {
+              "start_timestamp": 1240,
+              "end_timestamp": 1243,
+              "content": "他们的机房和你的通道"
+            },
+            {
+              "start_timestamp": 1243,
+              "end_timestamp": 1248,
+              "content": "你会晚会晚就这么跟你说"
+            },
+            {
+              "start_timestamp": 1248,
+              "end_timestamp": 1252,
+              "content": "他们的数据采集到下单纸巾仅需毫秒级"
+            },
+            {
+              "start_timestamp": 1252,
+              "end_timestamp": 1256,
+              "content": "而你在速度和计算能力上毫无可比性"
+            },
+            {
+              "start_timestamp": 1257,
+              "end_timestamp": 1260,
+              "content": "架个笼子就是在帮助你新的交易规则"
+            },
+            {
+              "start_timestamp": 1260,
+              "end_timestamp": 1263,
+              "content": "就是在帮助你怎么更快的进出"
+            },
+            {
+              "start_timestamp": 1263,
+              "end_timestamp": 1266,
+              "content": "第二限制高频也是在帮助你"
+            },
+            {
+              "start_timestamp": 1266,
+              "end_timestamp": 1267,
+              "content": "也是在辅助你"
+            },
+            {
+              "start_timestamp": 1267,
+              "end_timestamp": 1269,
+              "content": "第三个是什么呢"
+            },
+            {
+              "start_timestamp": 1269,
+              "end_timestamp": 1272,
+              "content": "研究能力作为专业的团队"
+            },
+            {
+              "start_timestamp": 1272,
+              "end_timestamp": 1274,
+              "content": "能够深入到上市公司调研"
+            },
+            {
+              "start_timestamp": 1274,
+              "end_timestamp": 1275,
+              "content": "第一时间去解读财报"
+            },
+            {
+              "start_timestamp": 1275,
+              "end_timestamp": 1278,
+              "content": "第一时间接触到他的人群"
+            },
+            {
+              "start_timestamp": 1278,
+              "end_timestamp": 1281,
+              "content": "我能直接一对一的面对面的去聊"
+            },
+            {
+              "start_timestamp": 1281,
+              "end_timestamp": 1285,
+              "content": "而且能够构展构建出复杂的估值模型"
+            },
+            {
+              "start_timestamp": 1285,
+              "end_timestamp": 1288,
+              "content": "而散户呢仅凭公开新闻和K线图"
+            },
+            {
+              "start_timestamp": 1288,
+              "end_timestamp": 1291,
+              "content": "难以形成有效的投资判断"
+            },
+            {
+              "start_timestamp": 1291,
+              "end_timestamp": 1294,
+              "content": "这我能够尽可能地帮到大家"
+            },
+            {
+              "start_timestamp": 1294,
+              "end_timestamp": 1294,
+              "content": "诶"
+            },
+            {
+              "start_timestamp": 1294,
+              "end_timestamp": 1296,
+              "content": "我在这一块的角度上"
+            },
+            {
+              "start_timestamp": 1296,
+              "end_timestamp": 1298,
+              "content": "能够给大家补充的东西是什么"
+            },
+            {
+              "start_timestamp": 1298,
+              "end_timestamp": 1300,
+              "content": "你只有公开新闻"
+            },
+            {
+              "start_timestamp": 1300,
+              "end_timestamp": 1301,
+              "content": "你只有K线图"
+            },
+            {
+              "start_timestamp": 1301,
+              "end_timestamp": 1303,
+              "content": "会整合吗"
+            },
+            {
+              "start_timestamp": 1303,
+              "end_timestamp": 1304,
+              "content": "会整理内容吗"
+            },
+            {
+              "start_timestamp": 1304,
+              "end_timestamp": 1308,
+              "content": "而结构性的劣势是你最终的终极体现"
+            },
+            {
+              "start_timestamp": 1310,
+              "end_timestamp": 1311,
+              "content": "人多"
+            },
+            {
+              "start_timestamp": 1311,
+              "end_timestamp": 1315,
+              "content": "但是你实际上整体的八亏一平一赚的格局"
+            },
+            {
+              "start_timestamp": 1315,
+              "end_timestamp": 1316,
+              "content": "这不是你的能力"
+            },
+            {
+              "start_timestamp": 1316,
+              "end_timestamp": 1320,
+              "content": "而是结构性的规则不对称"
+            },
+            {
+              "start_timestamp": 1321,
+              "end_timestamp": 1322,
+              "content": "内容很多"
+            },
+            {
+              "start_timestamp": 1322,
+              "end_timestamp": 1324,
+              "content": "今天视频会非常的长"
+            },
+            {
+              "start_timestamp": 1324,
+              "end_timestamp": 1326,
+              "content": "新股民死于追涨"
+            },
+            {
+              "start_timestamp": 1326,
+              "end_timestamp": 1330,
+              "content": "而老股民亡于抄底"
+            },
+            {
+              "start_timestamp": 1330,
+              "end_timestamp": 1332,
+              "content": "三重认知税叠加之后"
+            },
+            {
+              "start_timestamp": 1332,
+              "end_timestamp": 1335,
+              "content": "构成了散户亏损的完整闭环"
+            },
+            {
+              "start_timestamp": 1335,
+              "end_timestamp": 1338,
+              "content": "新世界让你在错误的时间得到错误的信息"
+            },
+            {
+              "start_timestamp": 1338,
+              "end_timestamp": 1342,
+              "content": "就是在不恰当的年龄遇到不恰当的人"
+            },
+            {
+              "start_timestamp": 1342,
+              "end_timestamp": 1343,
+              "content": "就像选总一样"
+            },
+            {
+              "start_timestamp": 1343,
+              "end_timestamp": 1344,
+              "content": "对不对"
+            },
+            {
+              "start_timestamp": 1344,
+              "end_timestamp": 1345,
+              "content": "洗个脚"
+            },
+            {
+              "start_timestamp": 1345,
+              "end_timestamp": 1349,
+              "content": "你给人家推什么东西"
+            },
+            {
+              "start_timestamp": 1350,
+              "end_timestamp": 1351,
+              "content": "遇人不淑啊"
+            },
+            {
+              "start_timestamp": 1353,
+              "end_timestamp": 1354,
+              "content": "识人不明啊"
+            },
+            {
+              "start_timestamp": 1354,
+              "end_timestamp": 1362,
+              "content": "这信息差的错误情绪是让你在膨胀的时刻"
+            },
+            {
+              "start_timestamp": 1362,
+              "end_timestamp": 1366,
+              "content": "你觉得自己哥哥我真的太顺了"
+            },
+            {
+              "start_timestamp": 1366,
+              "end_timestamp": 1370,
+              "content": "我是不是跟你们讲过一语成称"
+            },
+            {
+              "start_timestamp": 1370,
+              "end_timestamp": 1372,
+              "content": "不要有这种想法啊"
+            },
+            {
+              "start_timestamp": 1372,
+              "end_timestamp": 1373,
+              "content": "不要有"
+            },
+            {
+              "start_timestamp": 1373,
+              "end_timestamp": 1375,
+              "content": "同时是什么呢"
+            },
+            {
+              "start_timestamp": 1375,
+              "end_timestamp": 1376,
+              "content": "说我不行了"
+            },
+            {
+              "start_timestamp": 1376,
+              "end_timestamp": 1377,
+              "content": "我扛不住了"
+            },
+            {
+              "start_timestamp": 1377,
+              "end_timestamp": 1378,
+              "content": "我受不了了"
+            },
+            {
+              "start_timestamp": 1378,
+              "end_timestamp": 1382,
+              "content": "丢掉了情绪的波动"
+            },
+            {
+              "start_timestamp": 1382,
+              "end_timestamp": 1384,
+              "content": "第三个是规则"
+            },
+            {
+              "start_timestamp": 1384,
+              "end_timestamp": 1386,
+              "content": "即使方向的变动"
+            },
+            {
+              "start_timestamp": 1386,
+              "end_timestamp": 1387,
+              "content": "方向的变革"
+            },
+            {
+              "start_timestamp": 1387,
+              "end_timestamp": 1389,
+              "content": "也要去想清楚"
+            },
+            {
+              "start_timestamp": 1389,
+              "end_timestamp": 1392,
+              "content": "在这个世界上到底什么情况下能去做事"
+            },
+            {
+              "start_timestamp": 1392,
+              "end_timestamp": 1394,
+              "content": "什么样的情况下不能做事"
+            },
+            {
+              "start_timestamp": 1394,
+              "end_timestamp": 1395,
+              "content": "我可以不用那么努力"
+            },
+            {
+              "start_timestamp": 1395,
+              "end_timestamp": 1398,
+              "content": "可以不要这么努力"
+            },
+            {
+              "start_timestamp": 1398,
+              "end_timestamp": 1405,
+              "content": "你的成本和工具劣势会被持续的消耗好吗"
+            },
+            {
+              "start_timestamp": 1405,
+              "end_timestamp": 1407,
+              "content": "不要去努力啊"
+            },
+            {
+              "start_timestamp": 1407,
+              "end_timestamp": 1411,
+              "content": "记住终极悖论就是越努力越频繁"
+            },
+            {
+              "start_timestamp": 1411,
+              "end_timestamp": 1414,
+              "content": "越追逐交的税就越多"
+            },
+            {
+              "start_timestamp": 1414,
+              "end_timestamp": 1416,
+              "content": "真正赚钱的人反而做的很少"
+            },
+            {
+              "start_timestamp": 1416,
+              "end_timestamp": 1418,
+              "content": "想得很深"
+            },
+            {
+              "start_timestamp": 1418,
+              "end_timestamp": 1419,
+              "content": "想的要多"
+            },
+            {
+              "start_timestamp": 1419,
+              "end_timestamp": 1421,
+              "content": "就你要做什么"
+            },
+            {
+              "start_timestamp": 1421,
+              "end_timestamp": 1422,
+              "content": "思想的巨人"
+            },
+            {
+              "start_timestamp": 1422,
+              "end_timestamp": 1424,
+              "content": "行动的矮子"
+            },
+            {
+              "start_timestamp": 1424,
+              "end_timestamp": 1425,
+              "content": "记住了"
+            },
+            {
+              "start_timestamp": 1425,
+              "end_timestamp": 1427,
+              "content": "做思想的巨人"
+            },
+            {
+              "start_timestamp": 1427,
+              "end_timestamp": 1428,
+              "content": "行动的矮子"
+            },
+            {
+              "start_timestamp": 1428,
+              "end_timestamp": 1431,
+              "content": "你少动点手行不行"
+            },
+            {
+              "start_timestamp": 1431,
+              "end_timestamp": 1433,
+              "content": "时不时的把嘴闭上"
+            },
+            {
+              "start_timestamp": 1433,
+              "end_timestamp": 1435,
+              "content": "你要去做事情"
+            },
+            {
+              "start_timestamp": 1435,
+              "end_timestamp": 1436,
+              "content": "沉下心来"
+            },
+            {
+              "start_timestamp": 1436,
+              "end_timestamp": 1438,
+              "content": "功夫永远在盘前跟盘"
+            },
+            {
+              "start_timestamp": 1438,
+              "end_timestamp": 1440,
+              "content": "我盘中就那么2分钟完事了"
+            },
+            {
+              "start_timestamp": 1440,
+              "end_timestamp": 1443,
+              "content": "兄弟你憋了那么久"
+            },
+            {
+              "start_timestamp": 1443,
+              "end_timestamp": 1445,
+              "content": "就那么2分钟一嘚瑟"
+            },
+            {
+              "start_timestamp": 1445,
+              "end_timestamp": 1448,
+              "content": "完事不要去给我想东想东想西"
+            },
+            {
+              "start_timestamp": 1448,
+              "end_timestamp": 1452,
+              "content": "平凡你的身体情绪都受不了"
+            },
+            {
+              "start_timestamp": 1452,
+              "end_timestamp": 1455,
+              "content": "记住不要瞎追涨"
+            },
+            {
+              "start_timestamp": 1455,
+              "end_timestamp": 1457,
+              "content": "更不要随便抄底"
+            },
+            {
+              "start_timestamp": 1457,
+              "end_timestamp": 1458,
+              "content": "底是怎么做"
+            },
+            {
+              "start_timestamp": 1458,
+              "end_timestamp": 1463,
+              "content": "情绪在不在行情依旧菜的情况下波动型"
+            },
+            {
+              "start_timestamp": 1463,
+              "end_timestamp": 1464,
+              "content": "你去做"
+            },
+            {
+              "start_timestamp": 1464,
+              "end_timestamp": 1466,
+              "content": "另外再是什么呢"
+            },
+            {
+              "start_timestamp": 1466,
+              "end_timestamp": 1467,
+              "content": "这不是讲投资建议啊"
+            },
+            {
+              "start_timestamp": 1467,
+              "end_timestamp": 1468,
+              "content": "没有任何的建议"
+            },
+            {
+              "start_timestamp": 1468,
+              "end_timestamp": 1469,
+              "content": "做什么"
+            },
+            {
+              "start_timestamp": 1469,
+              "end_timestamp": 1471,
+              "content": "做你最舒服的时候"
+            },
+            {
+              "start_timestamp": 1471,
+              "end_timestamp": 1471,
+              "content": "你不舒服"
+            },
+            {
+              "start_timestamp": 1471,
+              "end_timestamp": 1473,
+              "content": "不要去"
+            },
+            {
+              "start_timestamp": 1474,
+              "end_timestamp": 1476,
+              "content": "然后再从代计划"
+            },
+            {
+              "start_timestamp": 1476,
+              "end_timestamp": 1478,
+              "content": "像从七零后到零零后"
+            },
+            {
+              "start_timestamp": 1478,
+              "end_timestamp": 1479,
+              "content": "成长环境如何"
+            },
+            {
+              "start_timestamp": 1479,
+              "end_timestamp": 1482,
+              "content": "决定了你的投资命运"
+            },
+            {
+              "start_timestamp": 1483,
+              "end_timestamp": 1487,
+              "content": "你的成长环境决定了你的投资命运"
+            },
+            {
+              "start_timestamp": 1488,
+              "end_timestamp": 1489,
+              "content": "除非你能跳"
+            },
+            {
+              "start_timestamp": 1489,
+              "end_timestamp": 1492,
+              "content": "跳开你的原生家庭的带动"
+            },
+            {
+              "start_timestamp": 1492,
+              "end_timestamp": 1495,
+              "content": "那么四代投资者认知税盲区"
+            },
+            {
+              "start_timestamp": 1495,
+              "end_timestamp": 1499,
+              "content": "每代人的成长环境塑造了独特的认知盲区"
+            },
+            {
+              "start_timestamp": 1499,
+              "end_timestamp": 1501,
+              "content": "识别出你的自身盲区"
+            },
+            {
+              "start_timestamp": 1501,
+              "end_timestamp": 1503,
+              "content": "是停止交税的起点"
+            },
+            {
+              "start_timestamp": 1503,
+              "end_timestamp": 1505,
+              "content": "也就是个人定位"
+            },
+            {
+              "start_timestamp": 1505,
+              "end_timestamp": 1507,
+              "content": "你的定位在哪"
+            },
+            {
+              "start_timestamp": 1507,
+              "end_timestamp": 1508,
+              "content": "明白清楚"
+            },
+            {
+              "start_timestamp": 1508,
+              "end_timestamp": 1510,
+              "content": "第一个经验陷阱"
+            },
+            {
+              "start_timestamp": 1510,
+              "end_timestamp": 1511,
+              "content": "完整地经历"
+            },
+            {
+              "start_timestamp": 1511,
+              "end_timestamp": 1514,
+              "content": "经历了整个工业化的初周期偏好"
+            },
+            {
+              "start_timestamp": 1514,
+              "end_timestamp": 1516,
+              "content": "长期持有核心资产"
+            },
+            {
+              "start_timestamp": 1516,
+              "end_timestamp": 1516,
+              "content": "创业牛熊"
+            },
+            {
+              "start_timestamp": 1516,
+              "end_timestamp": 1519,
+              "content": "但容易将历史经验外推至"
+            },
+            {
+              "start_timestamp": 1519,
+              "end_timestamp": 1521,
+              "content": "已发生结构性变化的行业"
+            },
+            {
+              "start_timestamp": 1521,
+              "end_timestamp": 1524,
+              "content": "陷入价值陷阱"
+            },
+            {
+              "start_timestamp": 1524,
+              "end_timestamp": 1526,
+              "content": "这是价值陷阱"
+            },
+            {
+              "start_timestamp": 1526,
+              "end_timestamp": 1527,
+              "content": "经验陷阱"
+            },
+            {
+              "start_timestamp": 1527,
+              "end_timestamp": 1530,
+              "content": "过去曾经如何如何"
+            },
+            {
+              "start_timestamp": 1530,
+              "end_timestamp": 1532,
+              "content": "我也会犯经验主义"
+            },
+            {
+              "start_timestamp": 1532,
+              "end_timestamp": 1534,
+              "content": "也会遇到自己的经验陷阱"
+            },
+            {
+              "start_timestamp": 1534,
+              "end_timestamp": 1536,
+              "content": "但是能不能及时的修正"
+            },
+            {
+              "start_timestamp": 1536,
+              "end_timestamp": 1539,
+              "content": "第二个是焦虑房贷育儿压力"
+            },
+            {
+              "start_timestamp": 1539,
+              "end_timestamp": 1541,
+              "content": "形成刚性的现金流约束"
+            },
+            {
+              "start_timestamp": 1541,
+              "end_timestamp": 1544,
+              "content": "投资呢相对以稳健增值为目标"
+            },
+            {
+              "start_timestamp": 1544,
+              "end_timestamp": 1548,
+              "content": "但家庭压力容易转化为投资焦虑"
+            },
+            {
+              "start_timestamp": 1548,
+              "end_timestamp": 1551,
+              "content": "在恐慌中做出非理性的决策"
+            },
+            {
+              "start_timestamp": 1551,
+              "end_timestamp": 1556,
+              "content": "我身边有一个朋友在6月底7月份的时候"
+            },
+            {
+              "start_timestamp": 1556,
+              "end_timestamp": 1557,
+              "content": "我们聊过"
+            },
+            {
+              "start_timestamp": 1557,
+              "end_timestamp": 1559,
+              "content": "当时是6万左右啊"
+            },
+            {
+              "start_timestamp": 1559,
+              "end_timestamp": 1561,
+              "content": "6万左右"
+            },
+            {
+              "start_timestamp": 1561,
+              "end_timestamp": 1562,
+              "content": "当时是6万左右"
+            },
+            {
+              "start_timestamp": 1562,
+              "end_timestamp": 1563,
+              "content": "给你们看一眼啊"
+            },
+            {
+              "start_timestamp": 1563,
+              "end_timestamp": 1565,
+              "content": "当时位置应该是6万左右"
+            },
+            {
+              "start_timestamp": 1565,
+              "end_timestamp": 1567,
+              "content": "当时我们聊的时间点"
+            },
+            {
+              "start_timestamp": 1567,
+              "end_timestamp": 1570,
+              "content": "我说站在我的角度上去理解"
+            },
+            {
+              "start_timestamp": 1570,
+              "end_timestamp": 1572,
+              "content": "其实差不了太多啊"
+            },
+            {
+              "start_timestamp": 1572,
+              "end_timestamp": 1574,
+              "content": "你就是如果你真的向好我"
+            },
+            {
+              "start_timestamp": 1574,
+              "end_timestamp": 1578,
+              "content": "我我的未来感觉他可能未来向好会会还会有啊"
+            },
+            {
+              "start_timestamp": 1578,
+              "end_timestamp": 1582,
+              "content": "就是我们私底下聊天嘛对吧"
+            },
+            {
+              "start_timestamp": 1582,
+              "end_timestamp": 1585,
+              "content": "这哥们儿呢因为一件什么事情"
+            },
+            {
+              "start_timestamp": 1586,
+              "end_timestamp": 1587,
+              "content": "在8月初的时候"
+            },
+            {
+              "start_timestamp": 1587,
+              "end_timestamp": 1588,
+              "content": "因为要交房租"
+            },
+            {
+              "start_timestamp": 1588,
+              "end_timestamp": 1590,
+              "content": "他那边开了个店"
+            },
+            {
+              "start_timestamp": 1590,
+              "end_timestamp": 1591,
+              "content": "房租也比较贵啊"
+            },
+            {
+              "start_timestamp": 1591,
+              "end_timestamp": 1593,
+              "content": "一年下来大概20多"
+            },
+            {
+              "start_timestamp": 1593,
+              "end_timestamp": 1598,
+              "content": "然后呢他就把钱取了出来"
+            },
+            {
+              "start_timestamp": 1598,
+              "end_timestamp": 1599,
+              "content": "交了房租"
+            },
+            {
+              "start_timestamp": 1599,
+              "end_timestamp": 1604,
+              "content": "三天就他妈三天就三天"
+            },
+            {
+              "start_timestamp": 1604,
+              "end_timestamp": 1605,
+              "content": "从6万多一点点"
+            },
+            {
+              "start_timestamp": 1605,
+              "end_timestamp": 1609,
+              "content": "6万12到了7万8"
+            },
+            {
+              "start_timestamp": 1609,
+              "end_timestamp": 1611,
+              "content": "三四天时间"
+            },
+            {
+              "start_timestamp": 1611,
+              "end_timestamp": 1614,
+              "content": "她那天跟我说的时候"
+            },
+            {
+              "start_timestamp": 1614,
+              "end_timestamp": 1617,
+              "content": "问我说有没有空去杭州见一面"
+            },
+            {
+              "start_timestamp": 1617,
+              "end_timestamp": 1619,
+              "content": "我说我在上海"
+            },
+            {
+              "start_timestamp": 1620,
+              "end_timestamp": 1621,
+              "content": "他说兄弟"
+            },
+            {
+              "start_timestamp": 1621,
+              "end_timestamp": 1622,
+              "content": "我扛不住了"
+            },
+            {
+              "start_timestamp": 1623,
+              "end_timestamp": 1626,
+              "content": "每一次都是如此次次这样"
+            },
+            {
+              "start_timestamp": 1627,
+              "end_timestamp": 1629,
+              "content": "24年4万"
+            },
+            {
+              "start_timestamp": 1630,
+              "end_timestamp": 1632,
+              "content": "这一次6万"
+            },
+            {
+              "start_timestamp": 1632,
+              "end_timestamp": 1633,
+              "content": "再往前2万"
+            },
+            {
+              "start_timestamp": 1634,
+              "end_timestamp": 1636,
+              "content": "你告诉我该怎么去聊焦虑驱动"
+            },
+            {
+              "start_timestamp": 1636,
+              "end_timestamp": 1638,
+              "content": "因为它确实非闲钱"
+            },
+            {
+              "start_timestamp": 1638,
+              "end_timestamp": 1639,
+              "content": "所以为什么跟大家讲"
+            },
+            {
+              "start_timestamp": 1639,
+              "end_timestamp": 1642,
+              "content": "一定要记住你拿你可控制的"
+            },
+            {
+              "start_timestamp": 1642,
+              "end_timestamp": 1646,
+              "content": "不是你接下来生活成本的这部分去做事情"
+            },
+            {
+              "start_timestamp": 1646,
+              "end_timestamp": 1647,
+              "content": "会好很多"
+            },
+            {
+              "start_timestamp": 1647,
+              "end_timestamp": 1651,
+              "content": "第三个叫做社群裹挟你的信息"
+            },
+            {
+              "start_timestamp": 1651,
+              "end_timestamp": 1655,
+              "content": "你的信息获取高度依赖社交圈子和kl"
+            },
+            {
+              "start_timestamp": 1655,
+              "end_timestamp": 1657,
+              "content": "也就是我们说意见领袖"
+            },
+            {
+              "start_timestamp": 1657,
+              "end_timestamp": 1659,
+              "content": "有兄弟说我是逻辑哥的死忠粉"
+            },
+            {
+              "start_timestamp": 1659,
+              "end_timestamp": 1661,
+              "content": "我说你是给死忠粉"
+            },
+            {
+              "start_timestamp": 1661,
+              "end_timestamp": 1662,
+              "content": "但是你不要只听我的"
+            },
+            {
+              "start_timestamp": 1662,
+              "end_timestamp": 1664,
+              "content": "要带点脑子"
+            },
+            {
+              "start_timestamp": 1664,
+              "end_timestamp": 1666,
+              "content": "要做事情"
+            },
+            {
+              "start_timestamp": 1666,
+              "end_timestamp": 1669,
+              "content": "记住你的决策"
+            },
+            {
+              "start_timestamp": 1669,
+              "end_timestamp": 1671,
+              "content": "不要去受到社群情绪驱动"
+            },
+            {
+              "start_timestamp": 1671,
+              "end_timestamp": 1674,
+              "content": "形成种草式的投资热潮"
+            },
+            {
+              "start_timestamp": 1674,
+              "end_timestamp": 1675,
+              "content": "你存在的是什么"
+            },
+            {
+              "start_timestamp": 1675,
+              "end_timestamp": 1676,
+              "content": "热手谬误"
+            },
+            {
+              "start_timestamp": 1676,
+              "end_timestamp": 1678,
+              "content": "信息偏差"
+            },
+            {
+              "start_timestamp": 1678,
+              "end_timestamp": 1680,
+              "content": "还有就是微氪现金"
+            },
+            {
+              "start_timestamp": 1680,
+              "end_timestamp": 1682,
+              "content": "你渴望高收益"
+            },
+            {
+              "start_timestamp": 1682,
+              "end_timestamp": 1685,
+              "content": "但是却是极低的止损线"
+            },
+            {
+              "start_timestamp": 1686,
+              "end_timestamp": 1688,
+              "content": "想要赚又怕又害怕亏"
+            },
+            {
+              "start_timestamp": 1688,
+              "end_timestamp": 1691,
+              "content": "矛盾心理在反复的加速"
+            },
+            {
+              "start_timestamp": 1692,
+              "end_timestamp": 1694,
+              "content": "你躺着不好吗"
+            },
+            {
+              "start_timestamp": 1694,
+              "end_timestamp": 1696,
+              "content": "合适的时间遇到合适的人"
+            },
+            {
+              "start_timestamp": 1696,
+              "end_timestamp": 1697,
+              "content": "努努力就好了"
+            },
+            {
+              "start_timestamp": 1697,
+              "end_timestamp": 1702,
+              "content": "不合适的时间你给我躺着别动别碰"
+            },
+            {
+              "start_timestamp": 1703,
+              "end_timestamp": 1708,
+              "content": "另外记住记住一句话"
+            },
+            {
+              "start_timestamp": 1708,
+              "end_timestamp": 1710,
+              "content": "在别人恐惧时"
+            },
+            {
+              "start_timestamp": 1710,
+              "end_timestamp": 1712,
+              "content": "在别人恐惧时"
+            },
+            {
+              "start_timestamp": 1712,
+              "end_timestamp": 1715,
+              "content": "你要想一想这个地方是否该去恐惧"
+            },
+            {
+              "start_timestamp": 1715,
+              "end_timestamp": 1719,
+              "content": "另外四代核心投资者特征的对照"
+            },
+            {
+              "start_timestamp": 1719,
+              "end_timestamp": 1722,
+              "content": "从七零后的经验驱动长期稳健"
+            },
+            {
+              "start_timestamp": 1722,
+              "end_timestamp": 1726,
+              "content": "到零零后的信息驱动社交短线对吧"
+            },
+            {
+              "start_timestamp": 1726,
+              "end_timestamp": 1727,
+              "content": "那么我们可以发现"
+            },
+            {
+              "start_timestamp": 1727,
+              "end_timestamp": 1730,
+              "content": "整个四代投资投资者的行为模式"
+            },
+            {
+              "start_timestamp": 1730,
+              "end_timestamp": 1734,
+              "content": "呈现出清晰的代际演变脉络"
+            },
+            {
+              "start_timestamp": 1734,
+              "end_timestamp": 1737,
+              "content": "理解你自身所处的代际和认知特征"
+            },
+            {
+              "start_timestamp": 1737,
+              "end_timestamp": 1741,
+              "content": "是选择适配性策略"
+            },
+            {
+              "start_timestamp": 1741,
+              "end_timestamp": 1742,
+              "content": "避免盲目模仿"
+            },
+            {
+              "start_timestamp": 1742,
+              "end_timestamp": 1745,
+              "content": "盲从的前提"
+            },
+            {
+              "start_timestamp": 1745,
+              "end_timestamp": 1746,
+              "content": "成长背景"
+            },
+            {
+              "start_timestamp": 1746,
+              "end_timestamp": 1748,
+              "content": "这些地方就不用过多的去强调了"
+            },
+            {
+              "start_timestamp": 1748,
+              "end_timestamp": 1751,
+              "content": "记住每一个人"
+            },
+            {
+              "start_timestamp": 1751,
+              "end_timestamp": 1752,
+              "content": "你你们可以对照一下"
+            },
+            {
+              "start_timestamp": 1752,
+              "end_timestamp": 1754,
+              "content": "对照自己"
+            },
+            {
+              "start_timestamp": 1754,
+              "end_timestamp": 1756,
+              "content": "你到底处于什么样的阶段"
+            },
+            {
+              "start_timestamp": 1756,
+              "end_timestamp": 1758,
+              "content": "到底依赖的是什么"
+            },
+            {
+              "start_timestamp": 1758,
+              "end_timestamp": 1760,
+              "content": "主要讲清楚的是什么呢"
+            },
+            {
+              "start_timestamp": 1760,
+              "end_timestamp": 1764,
+              "content": "你的信息获取能力和你的理念以及你的偏好"
+            },
+            {
+              "start_timestamp": 1764,
+              "end_timestamp": 1767,
+              "content": "你的成长背景决定了你适合什么"
+            },
+            {
+              "start_timestamp": 1768,
+              "end_timestamp": 1771,
+              "content": "不要去想着我一定要脱离原生家庭"
+            },
+            {
+              "start_timestamp": 1771,
+              "end_timestamp": 1773,
+              "content": "脱离原始结构"
+            },
+            {
+              "start_timestamp": 1773,
+              "end_timestamp": 1775,
+              "content": "你脱离不了"
+            },
+            {
+              "start_timestamp": 1775,
+              "end_timestamp": 1777,
+              "content": "除非你确实真的牛逼"
+            },
+            {
+              "start_timestamp": 1779,
+              "end_timestamp": 1781,
+              "content": "除非你真的确实牛"
+            },
+            {
+              "start_timestamp": 1784,
+              "end_timestamp": 1789,
+              "content": "那么觉醒指南少交学费的四条行动建议"
+            },
+            {
+              "start_timestamp": 1790,
+              "end_timestamp": 1791,
+              "content": "不预测"
+            },
+            {
+              "start_timestamp": 1791,
+              "end_timestamp": 1794,
+              "content": "只给你分享可执行的认知升级路径"
+            },
+            {
+              "start_timestamp": 1794,
+              "end_timestamp": 1797,
+              "content": "第一这条不要钱的四条建议"
+            },
+            {
+              "start_timestamp": 1797,
+              "end_timestamp": 1799,
+              "content": "从交税到觉醒"
+            },
+            {
+              "start_timestamp": 1800,
+              "end_timestamp": 1804,
+              "content": "停止交认知税的关键不在于去预测涨跌"
+            },
+            {
+              "start_timestamp": 1804,
+              "end_timestamp": 1806,
+              "content": "而在于重塑自身的行为模式"
+            },
+            {
+              "start_timestamp": 1806,
+              "end_timestamp": 1808,
+              "content": "降低你的降"
+            },
+            {
+              "start_timestamp": 1808,
+              "end_timestamp": 1809,
+              "content": "降低你的频率"
+            },
+            {
+              "start_timestamp": 1809,
+              "end_timestamp": 1810,
+              "content": "减少情绪税"
+            },
+            {
+              "start_timestamp": 1810,
+              "end_timestamp": 1811,
+              "content": "远离杠杆"
+            },
+            {
+              "start_timestamp": 1811,
+              "end_timestamp": 1813,
+              "content": "保护你的本金安全"
+            },
+            {
+              "start_timestamp": 1813,
+              "end_timestamp": 1815,
+              "content": "深耕基本面研究"
+            },
+            {
+              "start_timestamp": 1815,
+              "end_timestamp": 1816,
+              "content": "弥补信息差"
+            },
+            {
+              "start_timestamp": 1816,
+              "end_timestamp": 1818,
+              "content": "弥补你的信息碎"
+            },
+            {
+              "start_timestamp": 1818,
+              "end_timestamp": 1821,
+              "content": "最终建立是赚的是认知变现"
+            },
+            {
+              "start_timestamp": 1821,
+              "end_timestamp": 1825,
+              "content": "亏是认知缺口的正确归因框架"
+            },
+            {
+              "start_timestamp": 1825,
+              "end_timestamp": 1827,
+              "content": "少动手多研究"
+            },
+            {
+              "start_timestamp": 1828,
+              "end_timestamp": 1829,
+              "content": "少动手"
+            },
+            {
+              "start_timestamp": 1829,
+              "end_timestamp": 1829,
+              "content": "多研究"
+            },
+            {
+              "start_timestamp": 1829,
+              "end_timestamp": 1831,
+              "content": "多总结"
+            },
+            {
+              "start_timestamp": 1831,
+              "end_timestamp": 1832,
+              "content": "多梳理"
+            },
+            {
+              "start_timestamp": 1833,
+              "end_timestamp": 1836,
+              "content": "第二只碰你睡得着觉的资产"
+            },
+            {
+              "start_timestamp": 1837,
+              "end_timestamp": 1843,
+              "content": "你杠杆all in单调介你就已经输了"
+            },
+            {
+              "start_timestamp": 1843,
+              "end_timestamp": 1845,
+              "content": "已经输了一半了"
+            },
+            {
+              "start_timestamp": 1845,
+              "end_timestamp": 1851,
+              "content": "你的生活和你的投资和你其他的都要给我分开"
+            },
+            {
+              "start_timestamp": 1851,
+              "end_timestamp": 1854,
+              "content": "你最起码留够半年"
+            },
+            {
+              "start_timestamp": 1854,
+              "end_timestamp": 1857,
+              "content": "你不需要因为这个事去影响自己"
+            },
+            {
+              "start_timestamp": 1857,
+              "end_timestamp": 1859,
+              "content": "半年是什么"
+            },
+            {
+              "start_timestamp": 1859,
+              "end_timestamp": 1863,
+              "content": "你不管房贷车贷房租"
+            },
+            {
+              "start_timestamp": 1863,
+              "end_timestamp": 1865,
+              "content": "你的生活成本"
+            },
+            {
+              "start_timestamp": 1865,
+              "end_timestamp": 1868,
+              "content": "你包括说接下来半年的迎来送往"
+            },
+            {
+              "start_timestamp": 1868,
+              "end_timestamp": 1871,
+              "content": "你要让老婆开开心心乐乐呵呵的这部分"
+            },
+            {
+              "start_timestamp": 1871,
+              "end_timestamp": 1872,
+              "content": "记住这句话"
+            },
+            {
+              "start_timestamp": 1873,
+              "end_timestamp": 1876,
+              "content": "一定要完全隔离开"
+            },
+            {
+              "start_timestamp": 1876,
+              "end_timestamp": 1880,
+              "content": "第三个是去看看懂的是行业"
+            },
+            {
+              "start_timestamp": 1880,
+              "end_timestamp": 1881,
+              "content": "看懂的是公司"
+            },
+            {
+              "start_timestamp": 1881,
+              "end_timestamp": 1883,
+              "content": "理解它商业模式"
+            },
+            {
+              "start_timestamp": 1883,
+              "end_timestamp": 1884,
+              "content": "理解产业逻辑"
+            },
+            {
+              "start_timestamp": 1884,
+              "end_timestamp": 1887,
+              "content": "才是你获取信息优势的根本路径"
+            },
+            {
+              "start_timestamp": 1887,
+              "end_timestamp": 1889,
+              "content": "不要等到人声鼎沸时"
+            },
+            {
+              "start_timestamp": 1889,
+              "end_timestamp": 1892,
+              "content": "不要到人家告诉你开始牛逼了"
+            },
+            {
+              "start_timestamp": 1892,
+              "end_timestamp": 1894,
+              "content": "你才知道"
+            },
+            {
+              "start_timestamp": 1894,
+              "end_timestamp": 1897,
+              "content": "第四个点就是建立正确的婚姻架构"
+            },
+            {
+              "start_timestamp": 1897,
+              "end_timestamp": 1901,
+              "content": "你赚的每一分每一厘都是认知的变现"
+            },
+            {
+              "start_timestamp": 1901,
+              "end_timestamp": 1904,
+              "content": "而你亏的每一分都是认知的缺口"
+            },
+            {
+              "start_timestamp": 1904,
+              "end_timestamp": 1905,
+              "content": "我哪儿缺了"
+            },
+            {
+              "start_timestamp": 1905,
+              "end_timestamp": 1908,
+              "content": "我去补市场只会忠实地反映你的认知水平"
+            },
+            {
+              "start_timestamp": 1910,
+              "end_timestamp": 1912,
+              "content": "能明白这个意思吗"
+            },
+            {
+              "start_timestamp": 1912,
+              "end_timestamp": 1914,
+              "content": "你的认知决定了你的上限"
+            },
+            {
+              "start_timestamp": 1914,
+              "end_timestamp": 1916,
+              "content": "你的努力决定的是下限"
+            },
+            {
+              "start_timestamp": 1916,
+              "end_timestamp": 1920,
+              "content": "而你的认知决定的是上限"
+            },
+            {
+              "start_timestamp": 1920,
+              "end_timestamp": 1921,
+              "content": "能不能理解"
+            },
+            {
+              "start_timestamp": 1922,
+              "end_timestamp": 1924,
+              "content": "找到适合你的策略"
+            },
+            {
+              "start_timestamp": 1924,
+              "end_timestamp": 1926,
+              "content": "没有完美的策略"
+            },
+            {
+              "start_timestamp": 1926,
+              "end_timestamp": 1927,
+              "content": "只有适配的"
+            },
+            {
+              "start_timestamp": 1927,
+              "end_timestamp": 1928,
+              "content": "只有你最舒服的"
+            },
+            {
+              "start_timestamp": 1928,
+              "end_timestamp": 1932,
+              "content": "而超短线是极少数专业玩家的游戏"
+            },
+            {
+              "start_timestamp": 1932,
+              "end_timestamp": 1934,
+              "content": "记住专业玩家的游戏"
+            },
+            {
+              "start_timestamp": 1934,
+              "end_timestamp": 1938,
+              "content": "而波段你需要的是纪律和研究的平衡"
+            },
+            {
+              "start_timestamp": 1938,
+              "end_timestamp": 1940,
+              "content": "长期价值需要的是耐心"
+            },
+            {
+              "start_timestamp": 1940,
+              "end_timestamp": 1941,
+              "content": "资本和产业洞察力"
+            },
+            {
+              "start_timestamp": 1941,
+              "end_timestamp": 1944,
+              "content": "而对于绝大多数的人而言"
+            },
+            {
+              "start_timestamp": 1944,
+              "end_timestamp": 1949,
+              "content": "指数定投这种策略是降低认知税的最优解"
+            },
+            {
+              "start_timestamp": 1950,
+              "end_timestamp": 1952,
+              "content": "说句不好听的"
+            },
+            {
+              "start_timestamp": 1952,
+              "end_timestamp": 1955,
+              "content": "他他妈赚钱是你的能力"
+            },
+            {
+              "start_timestamp": 1955,
+              "end_timestamp": 1956,
+              "content": "是你选的好"
+            },
+            {
+              "start_timestamp": 1956,
+              "end_timestamp": 1958,
+              "content": "他要是亏了呢"
+            },
+            {
+              "start_timestamp": 1958,
+              "end_timestamp": 1959,
+              "content": "会骂吗"
+            },
+            {
+              "start_timestamp": 1959,
+              "end_timestamp": 1961,
+              "content": "会把你的情绪宣泄给他吗"
+            },
+            {
+              "start_timestamp": 1961,
+              "end_timestamp": 1967,
+              "content": "会不会最后记住认清规则再谈赚钱"
+            },
+            {
+              "start_timestamp": 1967,
+              "end_timestamp": 1970,
+              "content": "你认识到自己是在交认知税的那一刻"
+            },
+            {
+              "start_timestamp": 1970,
+              "end_timestamp": 1972,
+              "content": "你就已经不再是韭菜了"
+            },
+            {
+              "start_timestamp": 1972,
+              "end_timestamp": 1975,
+              "content": "韭菜到底怎么来的"
+            },
+            {
+              "start_timestamp": 1976,
+              "end_timestamp": 1980,
+              "content": "回想过去韭菜的本质是什么"
+            },
+            {
+              "start_timestamp": 1980,
+              "end_timestamp": 1982,
+              "content": "你教的原因在哪"
+            },
+            {
+              "start_timestamp": 1982,
+              "end_timestamp": 1986,
+              "content": "木要频繁做个人"
+            },
+            {
+              "start_timestamp": 1986,
+              "end_timestamp": 1989,
+              "content": "做人要守得住你的心"
+            },
+            {
+              "start_timestamp": 1989,
+              "end_timestamp": 1991,
+              "content": "站得住你的根基"
+            },
+            {
+              "start_timestamp": 1991,
+              "end_timestamp": 1998,
+              "content": "千万千万千万不要让人当成傻子狗好吗"
+            },
+            {
+              "start_timestamp": 1998,
+              "end_timestamp": 2003,
+              "content": "还有就是给大家的东西已经给了所有东西"
+            },
+            {
+              "start_timestamp": 2003,
+              "end_timestamp": 2004,
+              "content": "都已经分享给你们"
+            },
+            {
+              "start_timestamp": 2004,
+              "end_timestamp": 2006,
+              "content": "工具也好"
+            },
+            {
+              "start_timestamp": 2006,
+              "end_timestamp": 2008,
+              "content": "怎么梳理内容也好"
+            },
+            {
+              "start_timestamp": 2008,
+              "end_timestamp": 2010,
+              "content": "教学的东西给到各位了"
+            },
+            {
+              "start_timestamp": 2010,
+              "end_timestamp": 2013,
+              "content": "自己学多学习"
+            },
+            {
+              "start_timestamp": 2013,
+              "end_timestamp": 2016,
+              "content": "接下来的时间我的内容会比较的泛啊"
+            },
+            {
+              "start_timestamp": 2016,
+              "end_timestamp": 2017,
+              "content": "泛类为主"
+            },
+            {
+              "start_timestamp": 2018,
+              "end_timestamp": 2022,
+              "content": "韭菜到底怎么来"
+            },
+            {
+              "start_timestamp": 2022,
+              "end_timestamp": 2024,
+              "content": "不要让自己变成韭菜"
+            },
+            {
+              "start_timestamp": 2024,
+              "end_timestamp": 2028,
+              "content": "不要再回到你最初的那一刻了"
+            },
+            {
+              "start_timestamp": 2028,
+              "end_timestamp": 2031,
+              "content": "记住意见领袖的内容可以看没关系"
+            },
+            {
+              "start_timestamp": 2031,
+              "end_timestamp": 2035,
+              "content": "但是你要有辨别真假的能力好吗"
+            },
+            {
+              "start_timestamp": 2035,
+              "end_timestamp": 2038,
+              "content": "辨别真假的能力"
+            },
+            {
+              "start_timestamp": 2038,
+              "end_timestamp": 2042,
+              "content": "记住记住了"
+            },
+            {
+              "start_timestamp": 2043,
+              "end_timestamp": 2045,
+              "content": "先懂规则再下场"
+            },
+            {
+              "start_timestamp": 2045,
+              "end_timestamp": 2047,
+              "content": "你要赚的是什么"
+            },
+            {
+              "start_timestamp": 2048,
+              "end_timestamp": 2051,
+              "content": "第二个只有你输得起的钱"
+            },
+            {
+              "start_timestamp": 2052,
+              "end_timestamp": 2053,
+              "content": "不要勇"
+            },
+            {
+              "start_timestamp": 2053,
+              "end_timestamp": 2053,
+              "content": "不要单调"
+            },
+            {
+              "start_timestamp": 2053,
+              "end_timestamp": 2055,
+              "content": "不要重好吗"
+            },
+            {
+              "start_timestamp": 2055,
+              "end_timestamp": 2057,
+              "content": "不要重"
+            },
+            {
+              "start_timestamp": 2057,
+              "end_timestamp": 2059,
+              "content": "仓位是情绪的刹车片"
+            },
+            {
+              "start_timestamp": 2059,
+              "end_timestamp": 2063,
+              "content": "也是任职税最简最直接的减免额"
+            },
+            {
+              "start_timestamp": 2063,
+              "end_timestamp": 2066,
+              "content": "少交税的核心不是让你更聪明"
+            },
+            {
+              "start_timestamp": 2066,
+              "end_timestamp": 2068,
+              "content": "而是让你更克制"
+            },
+            {
+              "start_timestamp": 2068,
+              "end_timestamp": 2070,
+              "content": "克制你的恐惧"
+            },
+            {
+              "start_timestamp": 2070,
+              "end_timestamp": 2071,
+              "content": "克制你的贪婪"
+            },
+            {
+              "start_timestamp": 2071,
+              "end_timestamp": 2074,
+              "content": "克制你跟拼了命一样干什"
+            },
+            {
+              "start_timestamp": 2074,
+              "end_timestamp": 2076,
+              "content": "然后逆向训练"
+            },
+            {
+              "start_timestamp": 2076,
+              "end_timestamp": 2078,
+              "content": "每一次做之前先写一条"
+            },
+            {
+              "start_timestamp": 2078,
+              "end_timestamp": 2079,
+              "content": "为什么这么做"
+            },
+            {
+              "start_timestamp": 2079,
+              "end_timestamp": 2082,
+              "content": "如果理由只剩下情绪的时候"
+            },
+            {
+              "start_timestamp": 2082,
+              "end_timestamp": 2084,
+              "content": "停掉不碰"
+            },
+            {
+              "start_timestamp": 2084,
+              "end_timestamp": 2087,
+              "content": "把角色从你的本能转化为系统"
+            },
+            {
+              "start_timestamp": 2087,
+              "end_timestamp": 2089,
+              "content": "拉回系统"
+            },
+            {
+              "start_timestamp": 2089,
+              "end_timestamp": 2091,
+              "content": "另外长期视角来看"
+            },
+            {
+              "start_timestamp": 2091,
+              "end_timestamp": 2092,
+              "content": "少动多看"
+            },
+            {
+              "start_timestamp": 2092,
+              "end_timestamp": 2094,
+              "content": "拉长你的决策周期"
+            },
+            {
+              "start_timestamp": 2094,
+              "end_timestamp": 2097,
+              "content": "频繁是你认知最大的征收"
+            },
+            {
+              "start_timestamp": 2097,
+              "end_timestamp": 2101,
+              "content": "起耐心是最好的避税工具"
+            },
+            {
+              "start_timestamp": 2102,
+              "end_timestamp": 2105,
+              "content": "看清规则比抓代码更重要"
+            },
+            {
+              "start_timestamp": 2105,
+              "end_timestamp": 2109,
+              "content": "要记住什么东西是好的"
+            },
+            {
+              "start_timestamp": 2109,
+              "end_timestamp": 2111,
+              "content": "什么东西是不好的"
+            },
+            {
+              "start_timestamp": 2111,
+              "end_timestamp": 2111,
+              "content": "好吧"
+            },
+            {
+              "start_timestamp": 2111,
+              "end_timestamp": 2113,
+              "content": "各位辛苦看到这里"
+            },
+            {
+              "start_timestamp": 2113,
+              "end_timestamp": 2115,
+              "content": "另外这条视频呢"
+            },
+            {
+              "start_timestamp": 2115,
+              "end_timestamp": 2117,
+              "content": "我也希望流量能够跑得起来"
+            },
+            {
+              "start_timestamp": 2117,
+              "end_timestamp": 2126,
+              "content": "记住你每一次的决策都是在给自己认知变现"
+            },
+            {
+              "start_timestamp": 2126,
+              "end_timestamp": 2127,
+              "content": "不要频繁性"
+            },
+            {
+              "start_timestamp": 2127,
+              "end_timestamp": 2129,
+              "content": "你的认知没那么快"
+            },
+            {
+              "start_timestamp": 2131,
+              "end_timestamp": 2132,
+              "content": "辛苦了"
+            },
+            {
+              "start_timestamp": 2132,
+              "end_timestamp": 2133,
+              "content": "看到这里"
+            },
+            {
+              "start_timestamp": 2133,
+              "end_timestamp": 2134,
+              "content": "我希望流量能跑的出来"
+            }
+          ],
+          "timestamp": 1
+        }
+      ]
+    },
+    "stid": "5801983541931176613",
+    "status": 0,
+    "like_num": 0,
+    "dislike_num": 0
+  }
+}

@@ -1,0 +1,1442 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "code": 0,
+    "model_result": {
+      "result_type": 2,
+      "summary": "KDJ指标原理，涵盖RSV计算、K/D/J平滑处理及钝化判断，强调连续三天80%以上钝化标志强势股，结合金叉/死叉、50线回踩策略辅助趋势波段与短线操作，并通过钝化次数分析波浪，指导买卖时机与仓位管理，同时提示底部回升时结合量价关系择机介入，综合提升交易决策精准性。",
+      "outline": [
+        {
+          "title": "KDJ指标计算与钝化分析方法",
+          "part_outline": [
+            {
+              "timestamp": 1,
+              "content": "KDJ指标源于期货市场，用于中短期趋势分析"
+            },
+            {
+              "timestamp": 38,
+              "content": "RSV计算基于收盘价与周期高低点，反映当日位置占比"
+            },
+            {
+              "timestamp": 147,
+              "content": "连续三日RSV超80%视为钝化，标志股价强势特征"
+            }
+          ],
+          "timestamp": 1
+        },
+        {
+          "title": "KDJ金叉死叉判定买卖时机",
+          "part_outline": [
+            {
+              "timestamp": 418,
+              "content": "KDJ参数设置为822，钝化分强势/弱势判断股价趋势"
+            },
+            {
+              "timestamp": 503,
+              "content": "底部金叉+量价配合为趋势票建仓明确买点"
+            },
+            {
+              "timestamp": 660,
+              "content": "三次钝化对应五波动，辅助波段终结与趋势判断"
+            }
+          ],
+          "timestamp": 377
+        },
+        {
+          "title": "掌握8KDJ指标应用技巧",
+          "part_outline": [
+            {
+              "timestamp": 754,
+              "content": "总结8KDJ指标核心原理与市场趋势判断方法"
+            }
+          ],
+          "timestamp": 754
+        }
+      ],
+      "subtitle": [
+        {
+          "title": "",
+          "part_subtitle": [
+            {
+              "start_timestamp": 1,
+              "end_timestamp": 2,
+              "content": "大家好"
+            },
+            {
+              "start_timestamp": 2,
+              "end_timestamp": 6,
+              "content": "今天我们讲一下KDJ指标的基本知识及其应用"
+            },
+            {
+              "start_timestamp": 6,
+              "end_timestamp": 10,
+              "content": "首先呢我们讲一下KDJ的基本知识"
+            },
+            {
+              "start_timestamp": 10,
+              "end_timestamp": 13,
+              "content": "那KDJ指标呢中文名叫随机指标"
+            },
+            {
+              "start_timestamp": 13,
+              "end_timestamp": 16,
+              "content": "最早呢是起源于期货市场"
+            },
+            {
+              "start_timestamp": 16,
+              "end_timestamp": 19,
+              "content": "由乔治莱恩首创后"
+            },
+            {
+              "start_timestamp": 19,
+              "end_timestamp": 22,
+              "content": "被广泛用于股市的中短期趋势分析"
+            },
+            {
+              "start_timestamp": 22,
+              "end_timestamp": 26,
+              "content": "是期货和股票市场上最常用的技术分析工具"
+            },
+            {
+              "start_timestamp": 27,
+              "end_timestamp": 30,
+              "content": "那么KDJ指标啊是怎么算来的呢"
+            },
+            {
+              "start_timestamp": 30,
+              "end_timestamp": 34,
+              "content": "我们首先要算一个叫RSV的东西"
+            },
+            {
+              "start_timestamp": 34,
+              "end_timestamp": 36,
+              "content": "我们先不用管它是什么意思啊"
+            },
+            {
+              "start_timestamp": 36,
+              "end_timestamp": 38,
+              "content": "它就是等于当天的收盘价"
+            },
+            {
+              "start_timestamp": 38,
+              "end_timestamp": 44,
+              "content": "减去这一段时间的最低价除以啊"
+            },
+            {
+              "start_timestamp": 44,
+              "end_timestamp": 46,
+              "content": "这段时间的最高价"
+            },
+            {
+              "start_timestamp": 46,
+              "end_timestamp": 49,
+              "content": "再减去这一段时间的最低价"
+            },
+            {
+              "start_timestamp": 49,
+              "end_timestamp": 50,
+              "content": "什么意思呢"
+            },
+            {
+              "start_timestamp": 50,
+              "end_timestamp": 51,
+              "content": "啊我们举个例子啊"
+            },
+            {
+              "start_timestamp": 51,
+              "end_timestamp": 55,
+              "content": "就是假如说我们取这十天来看啊"
+            },
+            {
+              "start_timestamp": 55,
+              "end_timestamp": 57,
+              "content": "啊就我们取这一段哎"
+            },
+            {
+              "start_timestamp": 57,
+              "end_timestamp": 59,
+              "content": "就这十天的十根K线呢"
+            },
+            {
+              "start_timestamp": 59,
+              "end_timestamp": 60,
+              "content": "从这儿开始"
+            },
+            {
+              "start_timestamp": 60,
+              "end_timestamp": 64,
+              "content": "123456789十好"
+            },
+            {
+              "start_timestamp": 64,
+              "end_timestamp": 68,
+              "content": "这十根K线如果要算ISV值的话"
+            },
+            {
+              "start_timestamp": 68,
+              "end_timestamp": 69,
+              "content": "就是第十天啊"
+            },
+            {
+              "start_timestamp": 69,
+              "end_timestamp": 75,
+              "content": "这一天的收盘价减去这十天里面的最低价"
+            },
+            {
+              "start_timestamp": 75,
+              "end_timestamp": 75,
+              "content": "在这"
+            },
+            {
+              "start_timestamp": 75,
+              "end_timestamp": 78,
+              "content": "那这个地方呢就是代表啊"
+            },
+            {
+              "start_timestamp": 78,
+              "end_timestamp": 81,
+              "content": "这十天以来的最高价啊"
+            },
+            {
+              "start_timestamp": 81,
+              "end_timestamp": 84,
+              "content": "H10呢就是表示十天里面的最高价"
+            },
+            {
+              "start_timestamp": 84,
+              "end_timestamp": 87,
+              "content": "然后十呢也就表示十天里面最低价"
+            },
+            {
+              "start_timestamp": 87,
+              "end_timestamp": 89,
+              "content": "那么i is v值是什么意思呢"
+            },
+            {
+              "start_timestamp": 89,
+              "end_timestamp": 91,
+              "content": "用大白话来解释"
+            },
+            {
+              "start_timestamp": 91,
+              "end_timestamp": 94,
+              "content": "就是说我第十天的收盘价"
+            },
+            {
+              "start_timestamp": 94,
+              "end_timestamp": 99,
+              "content": "在整个这十天的震荡幅度的什么位置好"
+            },
+            {
+              "start_timestamp": 99,
+              "end_timestamp": 102,
+              "content": "那现在呢我们有个规则"
+            },
+            {
+              "start_timestamp": 102,
+              "end_timestamp": 104,
+              "content": "假如这个地方啊就是50%啊"
+            },
+            {
+              "start_timestamp": 104,
+              "end_timestamp": 105,
+              "content": "那这个地方是80%"
+            },
+            {
+              "start_timestamp": 105,
+              "end_timestamp": 107,
+              "content": "底下呢是20%"
+            },
+            {
+              "start_timestamp": 107,
+              "end_timestamp": 108,
+              "content": "最下面是零啊"
+            },
+            {
+              "start_timestamp": 108,
+              "end_timestamp": 110,
+              "content": "那最上面是百分之百"
+            },
+            {
+              "start_timestamp": 110,
+              "end_timestamp": 113,
+              "content": "就是说如果收盘价啊"
+            },
+            {
+              "start_timestamp": 113,
+              "end_timestamp": 116,
+              "content": "在50%的线以上的话啊"
+            },
+            {
+              "start_timestamp": 116,
+              "end_timestamp": 120,
+              "content": "那就代表我今天收盘价还是收在比较强的位置"
+            },
+            {
+              "start_timestamp": 120,
+              "end_timestamp": 122,
+              "content": "那要是收在80%以上的"
+            },
+            {
+              "start_timestamp": 122,
+              "end_timestamp": 125,
+              "content": "这就表示收在一个非常强的位置"
+            },
+            {
+              "start_timestamp": 125,
+              "end_timestamp": 127,
+              "content": "那如果说在50%的位置呢"
+            },
+            {
+              "start_timestamp": 127,
+              "end_timestamp": 128,
+              "content": "就认为是中等"
+            },
+            {
+              "start_timestamp": 128,
+              "end_timestamp": 131,
+              "content": "那如果是收在20%的位置的话"
+            },
+            {
+              "start_timestamp": 131,
+              "end_timestamp": 133,
+              "content": "就认为很弱了"
+            },
+            {
+              "start_timestamp": 133,
+              "end_timestamp": 136,
+              "content": "那么我们任取一段时间呢"
+            },
+            {
+              "start_timestamp": 136,
+              "end_timestamp": 138,
+              "content": "都可以算出一个ISV值"
+            },
+            {
+              "start_timestamp": 138,
+              "end_timestamp": 141,
+              "content": "就表示当天的收盘价"
+            },
+            {
+              "start_timestamp": 141,
+              "end_timestamp": 145,
+              "content": "相对于这段时间股价的震动幅度啊"
+            },
+            {
+              "start_timestamp": 145,
+              "end_timestamp": 147,
+              "content": "那么钝化的定义就来了"
+            },
+            {
+              "start_timestamp": 147,
+              "end_timestamp": 152,
+              "content": "如果说我连续几天啊都收在80%以上啊"
+            },
+            {
+              "start_timestamp": 152,
+              "end_timestamp": 155,
+              "content": "我们一般以三天为准"
+            },
+            {
+              "start_timestamp": 155,
+              "end_timestamp": 159,
+              "content": "比如说啊我们第十天收灾80%以上"
+            },
+            {
+              "start_timestamp": 159,
+              "end_timestamp": 162,
+              "content": "第11天又收在80%以上"
+            },
+            {
+              "start_timestamp": 162,
+              "end_timestamp": 165,
+              "content": "那第12天还收在80%以上"
+            },
+            {
+              "start_timestamp": 165,
+              "end_timestamp": 169,
+              "content": "那连续三天的指标都在80以上的时候"
+            },
+            {
+              "start_timestamp": 169,
+              "end_timestamp": 172,
+              "content": "我们就认为这个地方是钝化了"
+            },
+            {
+              "start_timestamp": 172,
+              "end_timestamp": 176,
+              "content": "那这个地方的指标呢就会出现一个小圆点"
+            },
+            {
+              "start_timestamp": 176,
+              "end_timestamp": 180,
+              "content": "那这个小圆点就代表着钝化啊"
+            },
+            {
+              "start_timestamp": 180,
+              "end_timestamp": 185,
+              "content": "我们看一下是不是连续三次在80位置以上呢"
+            },
+            {
+              "start_timestamp": 185,
+              "end_timestamp": 187,
+              "content": "股价是不断的往上的"
+            },
+            {
+              "start_timestamp": 187,
+              "end_timestamp": 189,
+              "content": "那网上去收的时候"
+            },
+            {
+              "start_timestamp": 189,
+              "end_timestamp": 194,
+              "content": "股价每天都收在震荡幅度80%分位以上"
+            },
+            {
+              "start_timestamp": 194,
+              "end_timestamp": 197,
+              "content": "就表示股价持续很强"
+            },
+            {
+              "start_timestamp": 197,
+              "end_timestamp": 198,
+              "content": "这有什么意义呢"
+            },
+            {
+              "start_timestamp": 198,
+              "end_timestamp": 201,
+              "content": "股价强要么就是主力在不断的买"
+            },
+            {
+              "start_timestamp": 201,
+              "end_timestamp": 203,
+              "content": "把它买上去的"
+            },
+            {
+              "start_timestamp": 203,
+              "end_timestamp": 205,
+              "content": "要么就是整个市场接力很好"
+            },
+            {
+              "start_timestamp": 205,
+              "end_timestamp": 208,
+              "content": "一棒一棒的把它接上去的"
+            },
+            {
+              "start_timestamp": 208,
+              "end_timestamp": 211,
+              "content": "总之只要是在不断的钝化的话"
+            },
+            {
+              "start_timestamp": 211,
+              "end_timestamp": 214,
+              "content": "就说明这个股票是极其强势"
+            },
+            {
+              "start_timestamp": 214,
+              "end_timestamp": 216,
+              "content": "所以我们这个钝化的概念"
+            },
+            {
+              "start_timestamp": 216,
+              "end_timestamp": 218,
+              "content": "也就是对应着强势股的"
+            },
+            {
+              "start_timestamp": 218,
+              "end_timestamp": 221,
+              "content": "这也就是为什么我们要去研究"
+            },
+            {
+              "start_timestamp": 221,
+              "end_timestamp": 224,
+              "content": "KDJ钝化的一个核心的依据"
+            },
+            {
+              "start_timestamp": 224,
+              "end_timestamp": 227,
+              "content": "那钝化的定义有了"
+            },
+            {
+              "start_timestamp": 227,
+              "end_timestamp": 229,
+              "content": "但是我们还不能直接用它"
+            },
+            {
+              "start_timestamp": 229,
+              "end_timestamp": 231,
+              "content": "还需要对它来进行处理"
+            },
+            {
+              "start_timestamp": 231,
+              "end_timestamp": 235,
+              "content": "怎么处理呢啊就比如说我们现在这个值啊"
+            },
+            {
+              "start_timestamp": 235,
+              "end_timestamp": 237,
+              "content": "N值取个九"
+            },
+            {
+              "start_timestamp": 237,
+              "end_timestamp": 239,
+              "content": "N等于九啊"
+            },
+            {
+              "start_timestamp": 239,
+              "end_timestamp": 241,
+              "content": "N等于九"
+            },
+            {
+              "start_timestamp": 241,
+              "end_timestamp": 242,
+              "content": "那N等于九啊"
+            },
+            {
+              "start_timestamp": 242,
+              "end_timestamp": 244,
+              "content": "算出一个ISV值"
+            },
+            {
+              "start_timestamp": 244,
+              "end_timestamp": 246,
+              "content": "那算出来之后呢"
+            },
+            {
+              "start_timestamp": 246,
+              "end_timestamp": 250,
+              "content": "我们还要去算一个K值啊"
+            },
+            {
+              "start_timestamp": 250,
+              "end_timestamp": 251,
+              "content": "那这个K值呢比较简单"
+            },
+            {
+              "start_timestamp": 251,
+              "end_timestamp": 254,
+              "content": "它其实就是一个平滑的概念"
+            },
+            {
+              "start_timestamp": 254,
+              "end_timestamp": 259,
+              "content": "就相当于13的RSV啊"
+            },
+            {
+              "start_timestamp": 259,
+              "end_timestamp": 264,
+              "content": "再加上23的K的N减一啊"
+            },
+            {
+              "start_timestamp": 264,
+              "end_timestamp": 264,
+              "content": "这个什么意思呢"
+            },
+            {
+              "start_timestamp": 264,
+              "end_timestamp": 268,
+              "content": "就是我把这个rs v啊指标算出来以后"
+            },
+            {
+              "start_timestamp": 268,
+              "end_timestamp": 270,
+              "content": "假如说我刚刚取了九天对吧"
+            },
+            {
+              "start_timestamp": 270,
+              "end_timestamp": 271,
+              "content": "那我们在算K值的时候"
+            },
+            {
+              "start_timestamp": 271,
+              "end_timestamp": 276,
+              "content": "就相当于做了一个三天的平滑"
+            },
+            {
+              "start_timestamp": 276,
+              "end_timestamp": 280,
+              "content": "哎也就是说我去把这个K值给RSV"
+            },
+            {
+              "start_timestamp": 280,
+              "end_timestamp": 282,
+              "content": "赋予了1/3的权重"
+            },
+            {
+              "start_timestamp": 282,
+              "end_timestamp": 285,
+              "content": "那前一天的这个K值呢"
+            },
+            {
+              "start_timestamp": 285,
+              "end_timestamp": 287,
+              "content": "我赋予了2/3的权重"
+            },
+            {
+              "start_timestamp": 287,
+              "end_timestamp": 291,
+              "content": "那么这个K值呢它跟rs v值一样"
+            },
+            {
+              "start_timestamp": 291,
+              "end_timestamp": 293,
+              "content": "它每天是不是都会产生一个新值"
+            },
+            {
+              "start_timestamp": 293,
+              "end_timestamp": 296,
+              "content": "这就可以避免在下一天的时候啊"
+            },
+            {
+              "start_timestamp": 296,
+              "end_timestamp": 298,
+              "content": "就是股价出现暴涨暴跌的情况"
+            },
+            {
+              "start_timestamp": 298,
+              "end_timestamp": 302,
+              "content": "对这个K值呢产生一个比较大的影响"
+            },
+            {
+              "start_timestamp": 302,
+              "end_timestamp": 306,
+              "content": "这就可以让这个值变得更加的平稳啊"
+            },
+            {
+              "start_timestamp": 306,
+              "end_timestamp": 307,
+              "content": "这在统计学里面的术语"
+            },
+            {
+              "start_timestamp": 307,
+              "end_timestamp": 311,
+              "content": "就相当于进行了一次平滑啊"
+            },
+            {
+              "start_timestamp": 311,
+              "end_timestamp": 315,
+              "content": "也就是说本来这个原始值它可能这么走啊"
+            },
+            {
+              "start_timestamp": 315,
+              "end_timestamp": 315,
+              "content": "比较陡"
+            },
+            {
+              "start_timestamp": 315,
+              "end_timestamp": 317,
+              "content": "那我把它平滑一次呢"
+            },
+            {
+              "start_timestamp": 317,
+              "end_timestamp": 320,
+              "content": "啊他就会走的比较缓一点啊"
+            },
+            {
+              "start_timestamp": 320,
+              "end_timestamp": 321,
+              "content": "就是这个意思"
+            },
+            {
+              "start_timestamp": 321,
+              "end_timestamp": 325,
+              "content": "然后呢这个地支呢一样的算法"
+            },
+            {
+              "start_timestamp": 325,
+              "end_timestamp": 328,
+              "content": "我们算D的时候就用13的这个K值"
+            },
+            {
+              "start_timestamp": 328,
+              "end_timestamp": 332,
+              "content": "再加上23的KN减一啊"
+            },
+            {
+              "start_timestamp": 332,
+              "end_timestamp": 334,
+              "content": "这个K值就可以了"
+            },
+            {
+              "start_timestamp": 334,
+              "end_timestamp": 335,
+              "content": "那D这个值呢"
+            },
+            {
+              "start_timestamp": 335,
+              "end_timestamp": 340,
+              "content": "就相当于又把K值再进行了一次平滑"
+            },
+            {
+              "start_timestamp": 340,
+              "end_timestamp": 342,
+              "content": "就本来一个原始的值啊"
+            },
+            {
+              "start_timestamp": 342,
+              "end_timestamp": 343,
+              "content": "它是比较陡峭的"
+            },
+            {
+              "start_timestamp": 343,
+              "end_timestamp": 344,
+              "content": "它会急涨急跌啊"
+            },
+            {
+              "start_timestamp": 344,
+              "end_timestamp": 346,
+              "content": "那第一次平滑变成了K"
+            },
+            {
+              "start_timestamp": 346,
+              "end_timestamp": 349,
+              "content": "那第二次平滑就变成了一个D了"
+            },
+            {
+              "start_timestamp": 349,
+              "end_timestamp": 351,
+              "content": "那么这个G值呢"
+            },
+            {
+              "start_timestamp": 351,
+              "end_timestamp": 357,
+              "content": "就是相当于他用3K减2D这个指标"
+            },
+            {
+              "start_timestamp": 357,
+              "end_timestamp": 358,
+              "content": "把它算出来就可以了"
+            },
+            {
+              "start_timestamp": 358,
+              "end_timestamp": 361,
+              "content": "那么这个G值呢是没有具体的含义"
+            },
+            {
+              "start_timestamp": 361,
+              "end_timestamp": 363,
+              "content": "它只是做方向用的"
+            },
+            {
+              "start_timestamp": 363,
+              "end_timestamp": 367,
+              "content": "因为本来K值就比D要大"
+            },
+            {
+              "start_timestamp": 367,
+              "end_timestamp": 370,
+              "content": "那三倍的K值减去二倍的D之后啊"
+            },
+            {
+              "start_timestamp": 370,
+              "end_timestamp": 373,
+              "content": "就会让这个值是不是变得更加的陡峭"
+            },
+            {
+              "start_timestamp": 373,
+              "end_timestamp": 374,
+              "content": "那更加陡峭呢"
+            },
+            {
+              "start_timestamp": 374,
+              "end_timestamp": 376,
+              "content": "这个值呢就会更加敏感啊"
+            },
+            {
+              "start_timestamp": 376,
+              "end_timestamp": 377,
+              "content": "这个值更加敏感的时候"
+            },
+            {
+              "start_timestamp": 377,
+              "end_timestamp": 381,
+              "content": "他就能够敏锐的去判断出方向啊"
+            },
+            {
+              "start_timestamp": 381,
+              "end_timestamp": 384,
+              "content": "这就是这KDG啊"
+            },
+            {
+              "start_timestamp": 384,
+              "end_timestamp": 387,
+              "content": "三个不同的值的它们的一个算法"
+            },
+            {
+              "start_timestamp": 387,
+              "end_timestamp": 392,
+              "content": "那我们看这个图G值呢是明显得要陡峭很多"
+            },
+            {
+              "start_timestamp": 392,
+              "end_timestamp": 394,
+              "content": "它是用来判断方向的"
+            },
+            {
+              "start_timestamp": 394,
+              "end_timestamp": 397,
+              "content": "而那K值和D值呢则是平滑过后的值"
+            },
+            {
+              "start_timestamp": 397,
+              "end_timestamp": 400,
+              "content": "上面的圆点呢则代表着钝化啊"
+            },
+            {
+              "start_timestamp": 400,
+              "end_timestamp": 403,
+              "content": "并且我们只要其实看K值就可以了"
+            },
+            {
+              "start_timestamp": 403,
+              "end_timestamp": 408,
+              "content": "连续三天在80以上就代表着一次钝化"
+            },
+            {
+              "start_timestamp": 408,
+              "end_timestamp": 410,
+              "content": "那接着呢我们就讲一下"
+            },
+            {
+              "start_timestamp": 410,
+              "end_timestamp": 413,
+              "content": "KDJ以及钝化的一个使用"
+            },
+            {
+              "start_timestamp": 413,
+              "end_timestamp": 418,
+              "content": "首先啊我们先说一下这个KDJ这些图标的意义"
+            },
+            {
+              "start_timestamp": 418,
+              "end_timestamp": 419,
+              "content": "及其参数的设置"
+            },
+            {
+              "start_timestamp": 419,
+              "end_timestamp": 422,
+              "content": "那第一个呢像三角形啊"
+            },
+            {
+              "start_timestamp": 422,
+              "end_timestamp": 424,
+              "content": "它代表着经差"
+            },
+            {
+              "start_timestamp": 424,
+              "end_timestamp": 425,
+              "content": "那向下的这种箭头呢"
+            },
+            {
+              "start_timestamp": 425,
+              "end_timestamp": 430,
+              "content": "这代表着死叉向下上方的这个原色的圈圈啊"
+            },
+            {
+              "start_timestamp": 430,
+              "end_timestamp": 431,
+              "content": "刚刚也讲了"
+            },
+            {
+              "start_timestamp": 431,
+              "end_timestamp": 433,
+              "content": "代表钝化表示强势啊"
+            },
+            {
+              "start_timestamp": 433,
+              "end_timestamp": 436,
+              "content": "也表明股价在持续新高"
+            },
+            {
+              "start_timestamp": 436,
+              "end_timestamp": 440,
+              "content": "那下方的这些绿色的圈圈呢同样是钝化"
+            },
+            {
+              "start_timestamp": 440,
+              "end_timestamp": 442,
+              "content": "那但是代表的是弱势"
+            },
+            {
+              "start_timestamp": 442,
+              "end_timestamp": 445,
+              "content": "表示股价呢是持续的一个新低"
+            },
+            {
+              "start_timestamp": 445,
+              "end_timestamp": 448,
+              "content": "KDJ这一个参数的设置啊"
+            },
+            {
+              "start_timestamp": 448,
+              "end_timestamp": 452,
+              "content": "其实我们在软件里边啊可以双击唉"
+            },
+            {
+              "start_timestamp": 452,
+              "end_timestamp": 456,
+              "content": "即可修改我们的参数设置了"
+            },
+            {
+              "start_timestamp": 456,
+              "end_timestamp": 459,
+              "content": "我们一般把它设置为822即可"
+            },
+            {
+              "start_timestamp": 459,
+              "end_timestamp": 464,
+              "content": "那具体参数的修改方法和图标的这个修改啊"
+            },
+            {
+              "start_timestamp": 464,
+              "end_timestamp": 468,
+              "content": "可以参考录播课程中盘面设置里边的内容"
+            },
+            {
+              "start_timestamp": 468,
+              "end_timestamp": 472,
+              "content": "这一节呢我们主要是讲一下具体的使用方法"
+            },
+            {
+              "start_timestamp": 472,
+              "end_timestamp": 474,
+              "content": "第一个呢结合趋势票的底部信号"
+            },
+            {
+              "start_timestamp": 474,
+              "end_timestamp": 476,
+              "content": "比如说底部有效长虹使啊"
+            },
+            {
+              "start_timestamp": 476,
+              "end_timestamp": 479,
+              "content": "一壶定江山啊"
+            },
+            {
+              "start_timestamp": 479,
+              "end_timestamp": 480,
+              "content": "那量价背离啊"
+            },
+            {
+              "start_timestamp": 480,
+              "end_timestamp": 485,
+              "content": "缩量收红K是第二天高开收红等等啊"
+            },
+            {
+              "start_timestamp": 485,
+              "end_timestamp": 487,
+              "content": "同时KDJ出现金叉"
+            },
+            {
+              "start_timestamp": 487,
+              "end_timestamp": 491,
+              "content": "则是趋势票的建仓的时机点啊"
+            },
+            {
+              "start_timestamp": 491,
+              "end_timestamp": 494,
+              "content": "那我们比如说这个票前面出现一个涨停板对吧"
+            },
+            {
+              "start_timestamp": 494,
+              "end_timestamp": 495,
+              "content": "随后开始调整"
+            },
+            {
+              "start_timestamp": 495,
+              "end_timestamp": 498,
+              "content": "但是这个调整的过程并没有创新低"
+            },
+            {
+              "start_timestamp": 498,
+              "end_timestamp": 501,
+              "content": "那说明其实这里边已经有主力进场了"
+            },
+            {
+              "start_timestamp": 501,
+              "end_timestamp": 503,
+              "content": "那这一天呢量至稀了"
+            },
+            {
+              "start_timestamp": 503,
+              "end_timestamp": 505,
+              "content": "第二天高开表态"
+            },
+            {
+              "start_timestamp": 505,
+              "end_timestamp": 507,
+              "content": "再度出现涨停板"
+            },
+            {
+              "start_timestamp": 507,
+              "end_timestamp": 510,
+              "content": "量能呢也是有效放大"
+            },
+            {
+              "start_timestamp": 510,
+              "end_timestamp": 512,
+              "content": "这就是底部有效长虹史"
+            },
+            {
+              "start_timestamp": 512,
+              "end_timestamp": 515,
+              "content": "那并且KDJ形成金叉"
+            },
+            {
+              "start_timestamp": 515,
+              "end_timestamp": 518,
+              "content": "那这就是一个很好的买点"
+            },
+            {
+              "start_timestamp": 518,
+              "end_timestamp": 521,
+              "content": "直到这一天出现死叉以后呢"
+            },
+            {
+              "start_timestamp": 521,
+              "end_timestamp": 523,
+              "content": "我们就可以选择出局了"
+            },
+            {
+              "start_timestamp": 523,
+              "end_timestamp": 525,
+              "content": "一个波段也就结束了"
+            },
+            {
+              "start_timestamp": 525,
+              "end_timestamp": 528,
+              "content": "那第二个呢KDJ死叉向下"
+            },
+            {
+              "start_timestamp": 528,
+              "end_timestamp": 530,
+              "content": "钝话结束之后"
+            },
+            {
+              "start_timestamp": 530,
+              "end_timestamp": 533,
+              "content": "回调的过程当中不破50"
+            },
+            {
+              "start_timestamp": 533,
+              "end_timestamp": 536,
+              "content": "这个中间位重新金叉"
+            },
+            {
+              "start_timestamp": 536,
+              "end_timestamp": 538,
+              "content": "那再结合日K啊"
+            },
+            {
+              "start_timestamp": 538,
+              "end_timestamp": 541,
+              "content": "量价又是一个新的买点"
+            },
+            {
+              "start_timestamp": 541,
+              "end_timestamp": 543,
+              "content": "我们看这个案例啊"
+            },
+            {
+              "start_timestamp": 543,
+              "end_timestamp": 546,
+              "content": "这里边形成钝化啊"
+            },
+            {
+              "start_timestamp": 546,
+              "end_timestamp": 550,
+              "content": "持续了两天之后开始进入调整"
+            },
+            {
+              "start_timestamp": 550,
+              "end_timestamp": 551,
+              "content": "那出现死叉"
+            },
+            {
+              "start_timestamp": 551,
+              "end_timestamp": 552,
+              "content": "一个波段结束了"
+            },
+            {
+              "start_timestamp": 552,
+              "end_timestamp": 557,
+              "content": "短期呢我们就要回避KDJ回调到50附近后"
+            },
+            {
+              "start_timestamp": 557,
+              "end_timestamp": 559,
+              "content": "股价呢开始止跌企稳"
+            },
+            {
+              "start_timestamp": 559,
+              "end_timestamp": 561,
+              "content": "首先我们看一下日K的一个形态"
+            },
+            {
+              "start_timestamp": 561,
+              "end_timestamp": 563,
+              "content": "这里是最大量"
+            },
+            {
+              "start_timestamp": 563,
+              "end_timestamp": 568,
+              "content": "上一次钝化之后死叉进入调整对吧"
+            },
+            {
+              "start_timestamp": 568,
+              "end_timestamp": 570,
+              "content": "紧接着在这个波段里面"
+            },
+            {
+              "start_timestamp": 570,
+              "end_timestamp": 572,
+              "content": "这一天出现了T字板"
+            },
+            {
+              "start_timestamp": 572,
+              "end_timestamp": 575,
+              "content": "小量过了前面的大量"
+            },
+            {
+              "start_timestamp": 575,
+              "end_timestamp": 579,
+              "content": "同时第二天我们看到不及预期出了一个上影线"
+            },
+            {
+              "start_timestamp": 579,
+              "end_timestamp": 581,
+              "content": "其目的是在干嘛"
+            },
+            {
+              "start_timestamp": 581,
+              "end_timestamp": 583,
+              "content": "就是在捅前面的套牢盘"
+            },
+            {
+              "start_timestamp": 583,
+              "end_timestamp": 587,
+              "content": "随后再度死叉进行调整"
+            },
+            {
+              "start_timestamp": 587,
+              "end_timestamp": 591,
+              "content": "但是这一块证明了前面的这个大量"
+            },
+            {
+              "start_timestamp": 591,
+              "end_timestamp": 594,
+              "content": "就是主力的吃货量"
+            },
+            {
+              "start_timestamp": 594,
+              "end_timestamp": 598,
+              "content": "当KDJ调整到50附近后止跌企稳啊"
+            },
+            {
+              "start_timestamp": 598,
+              "end_timestamp": 600,
+              "content": "那再度啊金叉"
+            },
+            {
+              "start_timestamp": 600,
+              "end_timestamp": 602,
+              "content": "那并且这一天放量拉升啊"
+            },
+            {
+              "start_timestamp": 602,
+              "end_timestamp": 603,
+              "content": "虽然当天炸板"
+            },
+            {
+              "start_timestamp": 603,
+              "end_timestamp": 605,
+              "content": "但是第二天弱转强"
+            },
+            {
+              "start_timestamp": 605,
+              "end_timestamp": 608,
+              "content": "盘中突破关键的点位就是买点"
+            },
+            {
+              "start_timestamp": 608,
+              "end_timestamp": 610,
+              "content": "随后呢进入主升浪"
+            },
+            {
+              "start_timestamp": 610,
+              "end_timestamp": 612,
+              "content": "那股价不断创新高"
+            },
+            {
+              "start_timestamp": 612,
+              "end_timestamp": 614,
+              "content": "KDJ呢也是持续的钝化"
+            },
+            {
+              "start_timestamp": 614,
+              "end_timestamp": 615,
+              "content": "当然利润垫厚了"
+            },
+            {
+              "start_timestamp": 615,
+              "end_timestamp": 617,
+              "content": "你就可以继续持有"
+            },
+            {
+              "start_timestamp": 617,
+              "end_timestamp": 619,
+              "content": "直到这里边出现死叉后"
+            },
+            {
+              "start_timestamp": 619,
+              "end_timestamp": 621,
+              "content": "我们可以选择卖出啊"
+            },
+            {
+              "start_timestamp": 621,
+              "end_timestamp": 623,
+              "content": "这一个波段也就结束了"
+            },
+            {
+              "start_timestamp": 623,
+              "end_timestamp": 625,
+              "content": "那第三个呢"
+            },
+            {
+              "start_timestamp": 625,
+              "end_timestamp": 629,
+              "content": "如果说一个趋势票或者一个二波的票"
+            },
+            {
+              "start_timestamp": 629,
+              "end_timestamp": 633,
+              "content": "一般来讲会出现三波钝化"
+            },
+            {
+              "start_timestamp": 633,
+              "end_timestamp": 635,
+              "content": "也就是会出现五波动"
+            },
+            {
+              "start_timestamp": 635,
+              "end_timestamp": 637,
+              "content": "那我们在用波浪理论的时候呢"
+            },
+            {
+              "start_timestamp": 637,
+              "end_timestamp": 640,
+              "content": "是不是经常分不清楚几波几浪"
+            },
+            {
+              "start_timestamp": 640,
+              "end_timestamp": 644,
+              "content": "那我们就可以用KDJ的钝化来辅助判断"
+            },
+            {
+              "start_timestamp": 644,
+              "end_timestamp": 648,
+              "content": "就可以非常容易地看清楚到底有几个波浪了"
+            },
+            {
+              "start_timestamp": 648,
+              "end_timestamp": 653,
+              "content": "嗯比如说啊第一波钝化的时候呢啊"
+            },
+            {
+              "start_timestamp": 653,
+              "end_timestamp": 656,
+              "content": "他钝化结束后进行回调"
+            },
+            {
+              "start_timestamp": 656,
+              "end_timestamp": 659,
+              "content": "二伯再一次钝化的时候呢"
+            },
+            {
+              "start_timestamp": 659,
+              "end_timestamp": 660,
+              "content": "就是第三波"
+            },
+            {
+              "start_timestamp": 660,
+              "end_timestamp": 664,
+              "content": "那回调第四波再一次钝化就是第五波"
+            },
+            {
+              "start_timestamp": 664,
+              "end_timestamp": 668,
+              "content": "所以啊走出这三次钝化以后"
+            },
+            {
+              "start_timestamp": 668,
+              "end_timestamp": 672,
+              "content": "一般来讲呢这个趋势啊就可以随时的结束了啊"
+            },
+            {
+              "start_timestamp": 672,
+              "end_timestamp": 675,
+              "content": "因为已经走出一个完整的五波动了"
+            },
+            {
+              "start_timestamp": 675,
+              "end_timestamp": 680,
+              "content": "那后面继续钝化呢就是超预期了啊"
+            },
+            {
+              "start_timestamp": 680,
+              "end_timestamp": 683,
+              "content": "那这是在趋势票里边的应用啊"
+            },
+            {
+              "start_timestamp": 683,
+              "end_timestamp": 685,
+              "content": "所以这个指标对于趋势票的持仓呢"
+            },
+            {
+              "start_timestamp": 685,
+              "end_timestamp": 686,
+              "content": "也是非常有帮助的"
+            },
+            {
+              "start_timestamp": 686,
+              "end_timestamp": 690,
+              "content": "我们可以通过KDJ的金叉或者死叉"
+            },
+            {
+              "start_timestamp": 690,
+              "end_timestamp": 694,
+              "content": "去判断一个波段有没有走结束"
+            },
+            {
+              "start_timestamp": 694,
+              "end_timestamp": 697,
+              "content": "另外一个就是首次钝化之后"
+            },
+            {
+              "start_timestamp": 697,
+              "end_timestamp": 699,
+              "content": "或是拉回什么时候是买点呢"
+            },
+            {
+              "start_timestamp": 699,
+              "end_timestamp": 703,
+              "content": "再一次金叉往上的时候就是买点"
+            },
+            {
+              "start_timestamp": 703,
+              "end_timestamp": 705,
+              "content": "那做短线票"
+            },
+            {
+              "start_timestamp": 705,
+              "end_timestamp": 707,
+              "content": "尤其是做很多手板的时候"
+            },
+            {
+              "start_timestamp": 707,
+              "end_timestamp": 710,
+              "content": "出现过一次钝化呢"
+            },
+            {
+              "start_timestamp": 710,
+              "end_timestamp": 712,
+              "content": "之后再度回踩的时候"
+            },
+            {
+              "start_timestamp": 712,
+              "end_timestamp": 716,
+              "content": "当你发现这个地方往上跳空高开"
+            },
+            {
+              "start_timestamp": 716,
+              "end_timestamp": 719,
+              "content": "同时KDJ形成金叉啊"
+            },
+            {
+              "start_timestamp": 719,
+              "end_timestamp": 722,
+              "content": "往上这个地方呢就是一个加分项"
+            },
+            {
+              "start_timestamp": 722,
+              "end_timestamp": 726,
+              "content": "再配合着他的竞价量能或者竞价涨幅"
+            },
+            {
+              "start_timestamp": 726,
+              "end_timestamp": 730,
+              "content": "就可以更好地确定这个手板儿能不能干"
+            },
+            {
+              "start_timestamp": 730,
+              "end_timestamp": 731,
+              "content": "那如果说这个时候呢"
+            },
+            {
+              "start_timestamp": 731,
+              "end_timestamp": 735,
+              "content": "KDJ指标是在向下发散的话啊"
+            },
+            {
+              "start_timestamp": 735,
+              "end_timestamp": 737,
+              "content": "那就不要干它了啊"
+            },
+            {
+              "start_timestamp": 737,
+              "end_timestamp": 738,
+              "content": "这就我们已经很清楚了"
+            },
+            {
+              "start_timestamp": 738,
+              "end_timestamp": 741,
+              "content": "或者说他已经在底部了啊"
+            },
+            {
+              "start_timestamp": 741,
+              "end_timestamp": 742,
+              "content": "要往上的时候"
+            },
+            {
+              "start_timestamp": 742,
+              "end_timestamp": 743,
+              "content": "那也可以去干"
+            },
+            {
+              "start_timestamp": 743,
+              "end_timestamp": 745,
+              "content": "那具体的使用呢"
+            },
+            {
+              "start_timestamp": 745,
+              "end_timestamp": 748,
+              "content": "我们会在以后啊的课程里边"
+            },
+            {
+              "start_timestamp": 748,
+              "end_timestamp": 753,
+              "content": "结合其他的量价关系综合来判断好"
+            },
+            {
+              "start_timestamp": 753,
+              "end_timestamp": 754,
+              "content": "今天的课程就讲到这里"
+            },
+            {
+              "start_timestamp": 754,
+              "end_timestamp": 755,
+              "content": "谢谢大家"
+            }
+          ],
+          "timestamp": 1
+        }
+      ]
+    },
+    "stid": "5268575878703139542",
+    "status": 0,
+    "like_num": 0,
+    "dislike_num": 0
+  }
+}
